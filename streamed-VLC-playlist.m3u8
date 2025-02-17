@@ -5,7 +5,11 @@
 #EXTVLCOPT:http-origin=https://embedme.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:135.0) Gecko/20100101 Firefox/135.0
 https://rr.vipstreams.in/s/u7cadGqjR80zuotUJyvk0xJSzw0b4hEXWMmPtJk7Sxu_HMDmCSCTvwhLllxSkmmp/WkagbbVT2sOvIelYZHdfSQ0-p_8c1SMI3qPM6NkBrTu0lXVZLmJtPR5W5bg2dvOq/hSmd6CFnk2Cbj3CnAmUmw3HMPINAQK7y_S4p31YfztdsZaqPZAZjDyeKiniw-e6z/strm.m3u8?md5=tSCxqigIZx9IVgMu4cTgBA&expiry=1739521167
+
 #EXTINF:-1, tvg-id="" tvg-name="MLB Network Stream [ALPHA] 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/mlb-network-us.png",MLB Network Stream [ALPHA] 1
+#EXTVLCOPT:http-referrer=https://embedme.top/
+#EXTVLCOPT:http-origin=https://embedme.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:135.0) Gecko/20100101 Firefox/135.0
 https://rr.vipstreams.in/s/4N02uwZ3MpWrpT97t0DCAnYPuKuhnRpCKOxcAePh0GISFil-y5gppUgtoS2TmWYh/AHUBbfsyRXRTB1fYok-MIa9N1ABIaM7ZgE54lxfPckXbGvPtKiuk0e79ALOSGMIZ/RGBGxgxfjoe6MbqEP3O8_R9dEGRHvkKUpsYSROJdeW-snNB-tDJ0raDp2F_oaFgm/strm.m3u8?md5=YExkrbsmIsHZ2KPQc-1i2A&expiry=1739781137|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A135.0)%20Gecko%2F20100101%20Firefox%2F135.0&Referer=https%3A%2F%2Fembedme.top%2F
 
 #EXTINF:-1, tvg-id="" tvg-name="NBA TV Stream [ALPHA] 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/nba-tv-us.png",NBA TV Stream [ALPHA] 1
