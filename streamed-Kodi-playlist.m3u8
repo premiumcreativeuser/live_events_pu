@@ -1,12 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1, ESPN (HD - ALPHA 1 - English)
+#EXTINF:-1, ESPN TEST
 #EXTVLCOPT:http-origin=https://embedstreams.top
 #EXTVLCOPT:http-referrer=https://embedstreams.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://rr.buytommy.top/s/JbG1atAzcm7U7cah3a3ZNiN8pUMrKKA0Tf3IKPaYz5ffid-sf9COJqhkT6d4Nu32/zs3Ki9GbwDWh7kcdJdf1SLfyKePh0WEYC5hHi40knbv3_AwRfaM0409JMKpArpi2/keE7Xe5g3Yl1K06UmYZxuD-pkkbiKHW1CBZ6JNmwZMnQKvmFixrEGHp0WWwQ1XsN/strm.m3u8?md5=1RlcD8ZatfECSLxdoLr7Cw&expiry=1744626973
 
-#EXTINF:-1, Sky Sports F1 (HD - ALPHA 1 - English)
+#EXTINF:-1, Sky Sports F1 TEST
 #EXTVLCOPT:http-origin=https://embedstreams.top
 #EXTVLCOPT:http-referrer=https://embedstreams.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36
