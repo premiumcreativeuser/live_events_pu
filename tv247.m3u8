@@ -33,6 +33,9 @@ https://ft.fbcdntv247.cfd/memfs/00fff1fa-6c4f-4459-af8e-cf05448c217c_output_0.m3
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC FHD",CNBC FHD
 https://ft.fbcdntv247.cfd/memfs/4268c138-3258-42b8-8192-f9a3873e7794_output_0.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL
+https://fbcdntv247.cfd/memfs/56af1099-35de-4c64-ace2-99eb216793b4_output_0.m3u8
+
 #EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel
 https://ft.fbcdntv247.cfd/memfs/17dec456-cbcb-4836-b268-dd2a40cb4b87_output_0.m3u8
 
