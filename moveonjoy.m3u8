@@ -1,4 +1,7 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/moveonjoy-epg.xml"
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Nsiz9R1HS5Xwra1wiZND4Q", "kid":"3KhZfxL41pKLVcEpHHuzAA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="TNT" tvg-logo="",TNT
+https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/moveonjoy-epg.xml"
 
 #EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
 
@@ -642,8 +645,10 @@ http://fl5.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="TLC.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-name="TLC",TLC
 http://fl1.moveonjoy.com/TLC/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
-http://190.95.220.212:8000/play/a02n/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Nsiz9R1HS5Xwra1wiZND4Q", "kid":"3KhZfxL41pKLVcEpHHuzAA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="TNT" tvg-logo="",TNT
+https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
 
 #EXTINF:-1 group-title="Documentary" tvg-id="Travel.US.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel",Travel Channel
 http://fl1.moveonjoy.com/Travel_Channel/index.m3u8
