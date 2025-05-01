@@ -6,7 +6,7 @@ https://ft.fbcdntv247.cfd/memfs/196a3d53-fe48-484c-b267-f3f326f8c9e7_output_0.m3
 #EXTINF:-1 tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC NETWORK
 https://fbcdntv247.cfd/memfs/acc_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="",Ae
+#EXTINF:-1 tvg-id="A.and.E.US.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true" tvg-name="A&E",A&E
 https://ft.fbcdntv247.cfd/memfs/ae_output_0.m3u8
 
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC",AMC
