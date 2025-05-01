@@ -15,6 +15,9 @@ https://ft.fbcdntv247.cfd/memfs/c21d4225-12e5-4178-af0e-33711499d86e_output_0.m3
 #EXTINF:-1 tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",Animal Planet
 https://ft.fbcdntv247.cfd/memfs/c1b75c6c-48df-46c5-a6e0-8a2787fb0f65_output_0.m3u8
 
+#EXTINF:-1 tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA",BBC AMERICA
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+
 #EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png" tvg-name="BET",BET
 https://ft.fbcdntv247.cfd/memfs/bet.m3u8
 
@@ -23,6 +26,9 @@ https://ft.fbcdntv247.cfd/memfs/a9fac2ae-4feb-4765-aded-46b61277a09b_output_0.m3
 
 #EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-name="BRAVO",BRAVO
 https://ft.fbcdntv247.cfd/memfs/3427392c-1304-44d6-a80a-680111fff048_output_0.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-name="CARTOON NETWORK",CARTOON NETWORK
+https://fbcdntv247.cfd/memfs/30919575-c426-404b-a063-395b706fa39c_output_0.m3u8
 
 #EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-us.png" tvg-name="CBS News",CBS News
 https://ft.fbcdntv247.cfd/memfs/f52160c3-ffe2-4eea-9315-b47c57c06dad_output_0.m3u8
@@ -36,11 +42,26 @@ https://ft.fbcdntv247.cfd/memfs/00fff1fa-6c4f-4459-af8e-cf05448c217c_output_0.m3
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC FHD",CNBC FHD
 https://ft.fbcdntv247.cfd/memfs/4268c138-3258-42b8-8192-f9a3873e7794_output_0.m3u8
 
+#EXTINF:-1 tvg-id="CNN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" tvg-name="CNN",CNN
+https://ft.fbcdntv247.cfd/memfs/24e6e9dd-7a3b-46e5-bddd-e21ae6152898_output_0.m3u8
+
 #EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL
 https://fbcdntv247.cfd/memfs/56af1099-35de-4c64-ace2-99eb216793b4_output_0.m3u8
 
+#EXTINF:-1 CW
+https://ft.fbcdntv247.cfd/memfs/cw.m3u8
+
 #EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel
 https://ft.fbcdntv247.cfd/memfs/17dec456-cbcb-4836-b268-dd2a40cb4b87_output_0.m3u8
+
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL
+https://cdn.espnfreenew.xyz/channel/disney.m3u8
+
+#EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" tvg-name="DISNEY JR",DISNEY JR
+https://cdn.espnfreenew.xyz/channel/disneyjunior.m3u8
+
+#EXTINF:-1 tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" tvg-name="DISNEY XD",DISNEY XD
+https://cdn.espnfreenew.xyz/channel/disneyxd.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",ESPN
 https://ft.fbcdntv247.cfd/memfs/4e731d12-852c-4daa-b950-aa97b5357aba_output_0.m3u8
@@ -114,14 +135,23 @@ https://ft.fbcdntv247.cfd/memfs/f3842e8c-b2e7-443a-82b8-31ba28ea73d4_output_0.m3
 #EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-name="Nickelodeon",Nickelodeon
 https://ft.fbcdntv247.cfd/memfs/64e9b01f-1dfc-4708-b9b6-ab6249c25536_output_0.m3u8
 
+#EXTINF:-1 tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/oxygen-us.png?raw=true" tvg-name="Oxygen",Oxygen
+https://ft.fbcdntv247.cfd/memfs/bb04ce33-6834-4d78-b55c-e8a6d010edd3.m3u8
+
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true" tvg-name="Showtime",Showtime East
 https://ft.fbcdntv247.cfd/memfs/ee470167-b523-4775-93fe-735ab59e7285_output_0.m3u8
+
+#EXTINF:-1 tvg-id="SEC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-name="SEC Network",SEC Network
+https://cdn.espnfreenew.xyz/channel/sec.m3u8
 
 #EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" tvg-name="SYFY",SYFY
 https://ft.fbcdntv247.cfd/memfs/7558427d-1db8-480d-a80e-bc08eefa2b6c_output_0.m3u8
 
 #EXTINF:-1 tvg-id="TBS.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-name="TBS",TBS
 https://ft.fbcdntv247.cfd/memfs/df2ca648-51bd-41ad-a153-a33f0faf0c3f_output_0.m3u8
+
+#EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" tvg-name="Tennis Channel",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 tvg-id="TLC.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png" tvg-name="TLC",TLC
 https://ft.fbcdntv247.cfd/memfs/5281d7f6-3ffb-4b38-b273-f1bad18ddcbb_output_0.m3u8
