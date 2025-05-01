@@ -1,0 +1,21 @@
+{
+                "name": "TNT",
+                "uri": "https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd",
+                "kid": "3KhZfxL41pKLVcEpHHuzAA",
+                "key": "Nsiz9R1HS5Xwra1wiZND4Q",
+                "drm_scheme": "clearkey"
+            },
+{
+                "name": "TNT",
+                "uri": "https://cdn.trimi.com.ar/live/sm-live/TNT/sa_live_dash/TNT.mpd",
+                "kid": "ffXVFsFkSXiq/ZpvAIRq3A",
+                "key": "/lWRw3NB75hw1b8nKIC4lg",
+                "drm_scheme": "clearkey"
+            },
+{
+                "name": "TNT",
+                "uri": "https://anonstream.zip/tnt/manifest.mpd",
+                "kid": "kC8fhXwwCBskmuNY4S+bgg",
+                "key": "//jLDZO1eEXBzLpFj1GXDQ",
+                "drm_scheme": "clearkey"
+            },
