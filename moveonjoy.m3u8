@@ -95,6 +95,12 @@ http://fl1.moveonjoy.com/CINEMAX/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
 
+#EXTINF:-1 group-title="Movies" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
+#EXTVLCOPT:http-origin=https://thetvapp.to
+#EXTVLCOPT:http-referrer=https://thetvapp.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://v1.thetvapp.to/hls/MoreMaxEast/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Movies" tvg-id="Cinemax.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" tvg-name="CINEMAX WEST",CINEMAX WEST
 http://fl1.moveonjoy.com/CINEMAX_WEST/index.m3u8
 
