@@ -72,7 +72,7 @@ https://ft.fbcdntv247.cfd/memfs/3ac0c981-95f6-4fce-a66d-9b55773370f2_output_0.m3
 #EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",History
 https://ft.fbcdntv247.cfd/memfs/7ba806d9-3ae3-4425-a46d-90db0b27988a_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="",M
+#EXTINF:-1 ttvg-id="MTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" tvg-name="MTV",MTV
 https://ft.fbcdntv247.cfd/memfs/35f9fae8-6edc-4a88-ab78-65ac05b2b4e1_output_0.m3u8
 
 #EXTINF:-1 tvg-id="MLB.Network.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" tvg-name="MLB Network",MLB Network
@@ -117,7 +117,7 @@ https://ft.fbcdntv247.cfd/memfs/b8e3ff52-2d13-45a6-a3a0-9e64c1a0080c_output_0.m3
 #EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true" tvg-name="Travel Channel",Travel Channel
 https://ft.fbcdntv247.cfd/memfs/c20312cb-10ba-47eb-9441-91d03ef3ef19_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="",Tudn
+#EXTINF:-1 tvg-logo="",TUDN
 https://ft.fbcdntv247.cfd/memfs/f18e6b4a-a385-4704-bd35-bc09358d1f44_output_0.m3u8
 
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
