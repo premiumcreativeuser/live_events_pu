@@ -1,7 +1,4 @@
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Nsiz9R1HS5Xwra1wiZND4Q", "kid":"3KhZfxL41pKLVcEpHHuzAA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="TNT" tvg-logo="",TNT
-https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/moveonjoy-epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/moveonjoy-epg.xml"
 
 #EXTINF:-1 group-title="Movies" tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png" tvg-name="5 StarMax",5 StarMax
 
