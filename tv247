@@ -69,7 +69,7 @@ https://ft.fbcdntv247.cfd/memfs/2560c665-052e-4646-aaab-3ad367a7bc8e_output_0.m3
 #EXTINF:-1 group-title="Entertainment" tvg-id="HGTV.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png" tvg-name="HGTV",HGTV
 https://ft.fbcdntv247.cfd/memfs/3ac0c981-95f6-4fce-a66d-9b55773370f2_output_0.m3u8
 
-#EXTINF:-1 tvg-logo="",History American Tv Network
+#EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",History
 https://ft.fbcdntv247.cfd/memfs/7ba806d9-3ae3-4425-a46d-90db0b27988a_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="",M
