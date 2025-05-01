@@ -1,4 +1,3 @@
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Nsiz9R1HS5Xwra1wiZND4Q", "kid":"3KhZfxL41pKLVcEpHHuzAA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="TNT" tvg-logo="",TNT
