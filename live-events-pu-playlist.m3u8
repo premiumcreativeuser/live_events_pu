@@ -5,6 +5,15 @@
 #EXTINF:-1 tvg-id="TNT Mexico" tvg-logo="",TNT Mexico
 https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3k0xx/xgBe3iirqyoHIKnw", "kid":"eKtk+pDxN6aXdDtdwnsvlg" } ], "type":"temporary" }
+#EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network East
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XT/L7VN0nuYi7Q5k8xwcvw", "kid":"Mzli4+E4NSmGepoOKKXl0Q" } ], "type":"temporary" }
+#EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network West
+https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 
 
