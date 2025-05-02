@@ -2,8 +2,8 @@ name: moveonjoy-epg-grabber
 
 on:
   schedule:
-    - cron: '0 */12 * * *'
-  workflow_dispatch:
+    - cron: '0 */12 * * *' # Runs daily at 6:00 AM UTC
+  workflow_dispatch:       # Allows you to run it manually from the GitHub UI
 
 jobs:
   epg-grabber:
