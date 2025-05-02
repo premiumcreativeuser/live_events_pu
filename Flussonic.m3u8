@@ -32,7 +32,7 @@ http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-name="CBS SPORTS NETWORK",CBS SPORTS NETWORK
 http://23.237.104.106:8080/USA_CBS_SPORTS/index.m3u8
 
-#EXTINF:-1,CINEMAX THRILLERMAX
+#EXTINF:-1 group-title="Sports" tvg-id="ThrillerMax.-.East.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-thrillermax-us.png" tvg-name="CINEMAX THRILLERMAX",CINEMAX THRILLERMAX
 http://23.237.104.106:8080/USA_CINEMAX_THRILLERMAX/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",CINEMAX EAST
