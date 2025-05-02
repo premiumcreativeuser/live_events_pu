@@ -2,7 +2,7 @@ name: moveonjoy-epg-grabber
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Runs every 12 hours at the top of the hour.
+    - cron: '0 */12 * * *' # Runs every 12 hours at the top of the hour. Runs twice daily
   workflow_dispatch:       # Allows you to run it manually from the GitHub UI
 
 jobs:
