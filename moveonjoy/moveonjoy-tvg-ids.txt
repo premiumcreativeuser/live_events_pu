@@ -194,3 +194,24 @@ Cartoon.Network.USA.-.Eastern.Feed.us
 Fox.Business.us
 
 ThrillerMax.-.East.us
+AMC+.us
+Gol.TV.USA.us
+HBO.Signature.(HBO.3).-.Eastern.us
+IFC.HDTV.(East).us
+Lifetime.Movies.-.East.us
+New.England.Sports.Network.HDTV.(NESNHD).us
+Starz.Cinema.HD.-.Eastern.us
+Starz.In.Black.-.Eastern.us
+Universal.Kids.us
+
+
+
+
+
+
+
+
+
+
+
+
