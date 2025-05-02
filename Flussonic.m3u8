@@ -26,6 +26,7 @@ http://23.237.104.106:8080/USA_BTN/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Buzzr.TV.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-name="Buzzr",Buzzr
 http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-name="CARTOON NETWORK",CARTOON NETWORK
 http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
@@ -97,7 +98,7 @@ http://23.237.104.106:8080/USA_FXX/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="Game.Show.Network.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/game-show-network-hz-us.png?raw=true" tvg-name="GAME SHOW NETWORK",GAME SHOW NETWORK
 http://23.237.104.106:8080/USA_GSN/index.m3u8
 
-#EXTINF:-1,GOLTV
+#EXTINF:-1 group-title="Sports" tvg-id="Gol.TV.USA.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/gol-tv-us.png" tvg-name="GOLTV",GOLTV
 http://23.237.104.106:8080/USA_GOLTV/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Grit.TV.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/grit-us.png?raw=true" tvg-name="GRIT TV",GRIT TV
@@ -118,7 +119,7 @@ http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family",HBO Family
 http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
 
-#EXTINF:-1,HBO SIGNATURE
+#EXTINF:-1 group-title="Movies" tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png" tvg-name="HBO SIGNATURE",HBO SIGNATURE
 http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png" tvg-name="HBO Zone",HBO Zone
@@ -133,10 +134,10 @@ http://23.237.104.106:8080/USA_HISTORY/index.m3u8
 #EXTINF:-1 group-title="News" tvg-id="HLN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10145_dark_360w_270h.png" tvg-name="HLN",HLN
 http://23.237.104.106:8080/USA_HLN/index.m3u8
 
-#EXTINF:-1,IFC
+#EXTINF:-1 group-title="Entertainment" tvg-id="IFC.HDTV.(East).us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/ifc-us.png" tvg-name="IFC",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 
-#EXTINF:-1,LMN
+#EXTINF:-1 group-title="Movies" tvg-id="Lifetime.Movies.-.East.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png" tvg-name="LMN",LMN
 http://23.237.104.106:8080/USA_LMN/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="MavTV.USA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mav-tv-us.png?raw=true" tvg-name="MAVTV",MAVTV
@@ -166,7 +167,7 @@ http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic",National Geographic
 http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 
-#EXTINF:-1,NESN
+#EXTINF:-1 group-title="Sports" tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nesn-us.png" tvg-name="NESN",NESN
 http://23.237.104.106:8080/USA_NESN/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network East
@@ -208,10 +209,10 @@ http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true" tvg-name="Starz",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
-#EXTINF:-1,STARZ BLACK
+#EXTINF:-1 group-title="Movies" tvg-id="Starz.In.Black.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/starz-in-black-us.png" tvg-name="STARZ IN BLACK",STARZ IN BLACK
 http://23.237.104.106:8080/USA_STARZ_BLACK/index.m3u8
 
-#EXTINF:-1,STARZ CINEMA
+#EXTINF:-1 group-title="Movies" tvg-id="Starz.Cinema.HD.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/starz-cinema-us.png" tvg-name="STARZ CINEMA",STARZ CINEMA
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-comedy-us.png?raw=true" tvg-name="Starz Comedy",Starz Comedy
@@ -238,7 +239,7 @@ http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-id="TV.Land.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tv-land-us.png?raw=true" tvg-name="TVLand",TVLand
 http://23.237.104.106:8080/USA_TVLAND/index.m3u8
 
-#EXTINF:-1,UNIVERSAL KIDS
+#EXTINF:-1 group-title="Kids" tvg-id="Universal.Kids.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/universal-kids-us.png" tvg-name="UNIVERSAL KIDS",UNIVERSAL KIDS
 http://23.237.104.106:8080/USA_UNIVERSAL_KIDS/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" tvg-name="VH1",VH1
