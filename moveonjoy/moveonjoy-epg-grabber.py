@@ -3,7 +3,7 @@ import gzip
 import xml.etree.ElementTree as ET
 import requests
 
-name = "my-iptv"
+name = "moveonjoy"
 save_as_gz = True  
 
 output_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "epgs")
