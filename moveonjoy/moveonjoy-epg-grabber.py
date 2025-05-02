@@ -58,6 +58,11 @@ def filter_and_build_epg(urls):
                 if title is not None:
                     title_text = title.text if title is not None else 'No title'
 
+                    if title_text == 'NHL Hockey' or title_text == 'Live: NFL Football':
+                        subtitle = programme.find('sub-title')
+                        subtitle_text = subtitle.text if subtitle else 'No subtitle'
+                        programme.find('title').text = title_text + " " + subtitle_text
+
                     root.append(programme)
 
     tree = ET.ElementTree(root)
@@ -71,23 +76,18 @@ def filter_and_build_epg(urls):
 
 
 urls = [
-    "https://raw.githubusercontent.com/pigzillaaaaa/amazon-epg/refs/heads/main/amazon-epg.xml",
-    "https://raw.githubusercontent.com/pigzillaaaaa/blast-epg/refs/heads/main/blast-epg.xml",
-    "http://m3u4u.com/xml/x79znkdzz3h49xrwygk2",
-    "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_LT1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_PH1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_PH2.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_IN4.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_EUROSPORT1.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz",
-    "https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz"
+    'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_CA1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_IE1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_DE1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_US_SPORTS1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_FANDUEL1.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_PLEX1.xml.gz'
 ]
 
 if __name__ == "__main__":
