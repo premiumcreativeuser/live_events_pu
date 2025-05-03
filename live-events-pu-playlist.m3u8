@@ -1,9 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Soccer" tvg-logo="https://i.imgur.com/NcuSGe6.png" tvg-name="LaLiga: Valladolid vs Barcelona",LaLiga: Valladolid vs Barcelona
-group-title="Soccer",
+#EXTINF:-1 group-title="Soccer" tvg-logo="" tvg-name="LaLiga: Valladolid vs Barcelona",LaLiga: Valladolid vs Barcelona
 
-#EXTINF:-1 group-title="Soccer" tvg-logo="https://i.imgur.com/NcuSGe6.png" tvg-name="LaLiga: Valladolid vs Barcelona",LaLiga: Valladolid vs Barcelona
+#EXTINF:-1 group-title="Soccer" tvg-logo="" tvg-name="LaLiga: Valladolid vs Barcelona",LaLiga: Valladolid vs Barcelona
 https://c58bx6vat7sxiexj.freshsoup.shop/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CZjZGM2ITM1QmZjZWL2YjN40yM0UDNtQGNlJTLlljZ3QjZilzL.m3u8?md5=qaKbrLm0xqjWTAZRPbU1IA&expires=1746349493
 
 #EXTINF:-1 group-title="Basketball",Clippers at Nuggets
