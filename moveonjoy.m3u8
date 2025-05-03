@@ -292,6 +292,7 @@ http://fl1.moveonjoy.com/HBO_ZONE/index.m3u8
 http://fl1.moveonjoy.com/HGTV/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",History
+http://fl1.moveonjoy.com/history_channel/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png" tvg-name="History",History
 #EXTVLCOPT:http-origin=https://thetvapp.to
