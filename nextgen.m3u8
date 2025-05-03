@@ -1,0 +1,244 @@
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+#EXTINF:-1 tvg-id="3ABN.Dare.to.Dream.Network.us",3ABN
+https://streamer1.nexgen.bz//3ABN/index
+#EXTINF:-1 tvg-id="3ABN.Dare.to.Dream.Network.us",3ABN(tx2)
+https://tx2.nexgen.bz:4000//3ABN/index
+#EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,ABC(tx1)
+https://tx1.nexgen.bz:4000//ABC/index
+#EXTINF:-1 tvg-id="ABC.(K09DF-D).Juliaetta,AE(tx1)
+https://tx1.nexgen.bz:4000//AE/index
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us",AMC
+https://streamer1.nexgen.bz//AMC/index
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us",AMC(tx1)
+https://tx1.nexgen.bz:4000//AMC/index
+#EXTINF:-1 tvg-id="ATN.-.Cricket.Plus.us",ATN
+https://streamer1.nexgen.bz//ATN/index
+#EXTINF:-1 tvg-id="ATN.-.Cricket.Plus.us",ATN(tx2)
+https://tx2.nexgen.bz:4000//ATN/index
+#EXTINF:-1 tvg-id="WAXN.Charlotte,AXN
+https://streamer1.nexgen.bz//AXN/index
+#EXTINF:-1 tvg-id="WAXN.Charlotte,AXN(tx2)
+https://tx2.nexgen.bz:4000//AXN/index
+#EXTINF:-1 tvg-id="Baby.First.TV.us",BABYFIRST(tx2)
+https://tx2.nexgen.bz:4000//BABYFIRST/index
+#EXTINF:-1 tvg-id="Bandamax.us",BANDAMAX(tx2)
+https://tx2.nexgen.bz:4000//BANDAMAX/index
+#EXTINF:-1 group-title="Unknown",BBN(tx1)
+https://tx1.nexgen.bz:4000//BBN/index
+#EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us",BET
+https://streamer1.nexgen.bz//BET/index
+#EXTINF:-1 tvg-id="BET.-.Eastern.Feed.us",BET(tx2)
+https://tx2.nexgen.bz:4000//BET/index
+#EXTINF:-1 tvg-id="Bounce.TV.us",BOUNCE
+https://streamer1.nexgen.bz//BOUNCE/index
+#EXTINF:-1 tvg-id="Bounce.TV.us",BOUNCE(tx2)
+https://tx2.nexgen.bz:4000//BOUNCE/index
+#EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us",BRAVO
+https://streamer1.nexgen.bz//BRAVO/index
+#EXTINF:-1 tvg-id="Bravo.USA.-.Eastern.Feed.us",BRAVO(tx1)
+https://tx1.nexgen.bz:4000//BRAVO/index
+#EXTINF:-1 tvg-id="BYU.(Brigham.Young.University).us",BYU(tx2)
+https://tx2.nexgen.bz:4000//BYU/index
+#EXTINF:-1 tvg-id="AdultSwim.com.Cartoon.Network.us",CARTOON(tx2)
+https://tx2.nexgen.bz:4000//CARTOON/index
+#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,CBS(tx1)
+https://tx1.nexgen.bz:4000//CBS/index
+#EXTINF:-1 group-title="Unknown",CBTV(tx1)
+https://tx1.nexgen.bz:4000//CBTV/index
+#EXTINF:-1 group-title="Unknown",CHANNEL5(tx1)
+https://tx1.nexgen.bz:4000//CHANNEL5/index
+#EXTINF:-1 group-title="Unknown",CHANNEL7(tx1)
+https://tx1.nexgen.bz:4000//CHANNEL7/index
+#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX
+https://streamer1.nexgen.bz//CINEMAX/index
+#EXTINF:-1 tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX(tx1)
+https://tx1.nexgen.bz:4000//CINEMAX/index
+#EXTINF:-1 tvg-id="CNBC.USA.us",CNBC(tx1)
+https://tx1.nexgen.bz:4000//CNBC/index
+#EXTINF:-1 tvg-id="CNN.Español.us",CNN(tx1)
+https://tx1.nexgen.bz:4000//CNN/index
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us",COMEDY CENTRAL
+https://streamer1.nexgen.bz//COMEDY_CENTRAL/index
+#EXTINF:-1 tvg-id="Comedy.Central.(US).-.Eastern.Feed.us",COMEDY CENTRAL(tx2)
+https://tx3.nexgen.bz:4000//COMEDY_CENTRAL/index
+#EXTINF:-1 tvg-id="Comet.TV.us",COMET(tx2)
+https://tx2.nexgen.bz:4000//COMET/index
+#EXTINF:-1 tvg-id="The.Cooking.Channel.us",COOKING
+https://streamer1.nexgen.bz//COOKING/index
+#EXTINF:-1 tvg-id="The.Cooking.Channel.us",COOKING(tx2)
+https://tx2.nexgen.bz:4000//COOKING/index
+#EXTINF:-1 tvg-id="CSPAN3.us",CSPAN(tx1)
+https://tx1.nexgen.bz:4000//CSPAN/index
+#EXTINF:-1 tvg-id="CCTV-4.America.us",CTV(tx1)
+https://tx1.nexgen.bz:4000//CTV/index
+#EXTINF:-1 group-title="Unknown",CTV3(tx1)
+https://tx1.nexgen.bz:4000//CTV3/index
+#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us",DISCOVERY
+https://streamer1.nexgen.bz//DISCOVERY/index
+#EXTINF:-1 tvg-id="Science.us",DISCOVERY SCIENCE
+https://streamer1.nexgen.bz//DISCOVERY_SCIENCE/index
+#EXTINF:-1 group-title="Unknown",DISCOVERY TURBO
+https://streamer1.nexgen.bz//DISCOVERY_TURBO/index
+#EXTINF:-1 group-title="Unknown",DISCOVERY TURBO(tx2)
+https://tx3.nexgen.bz:4000//DISCOVERY_TURBO/index
+#EXTINF:-1 tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us",DISCOVERY(tx2)
+https://tx3.nexgen.bz:4000//DISCOVERY/index
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us",DISNEY(tx1)
+https://tx1.nexgen.bz:4000//DISNEY/index
+#EXTINF:-1 tvg-id="ESPN2.(Alternate).us",ESPN(tx2)
+https://tx2.nexgen.bz:4000//ESPN/index
+#EXTINF:-1 tvg-id="ESPN2.(Alternate).us",ESPN2(tx2)
+https://tx2.nexgen.bz:4000//ESPN2/index
+#EXTINF:-1 tvg-id="ESPN.us",ESPNU(tx1)
+https://tx1.nexgen.bz:4000//ESPNU/index
+#EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us",FOOD
+https://streamer1.nexgen.bz//FOOD/index
+#EXTINF:-1 tvg-id="Food.Network.USA.-.Eastern.Feed.us",FOOD(tx1)
+https://tx1.nexgen.bz:4000//FOOD/index
+#EXTINF:-1 tvg-id="Fox.News.us",FOX NEWS(tx1)
+https://tx1.nexgen.bz:4000//FOX_NEWS/index
+#EXTINF:-1 tvg-id="Fox.Business.us",FOX(tx2)
+https://tx2.nexgen.bz:4000//FOX/index
+#EXTINF:-1 tvg-id="FUSE.TV.-.Eastern.feed.us",FUSE
+https://streamer1.nexgen.bz//FUSE/index
+#EXTINF:-1 tvg-id="FUSE.TV.-.Eastern.feed.us",FUSE(tx1)
+https://tx1.nexgen.bz:4000//FUSE/index
+#EXTINF:-1 tvg-id="FX.Movie.Channel.us",FX
+https://streamer1.nexgen.bz//FX/index
+#EXTINF:-1 tvg-id="FX.Movie.Channel.us",FX(tx2)
+https://tx3.nexgen.bz:4000//FX/index
+#EXTINF:-1 tvg-id="CW.(KHPX-CD).Georgetown,GET
+https://streamer1.nexgen.bz//GET/index
+#EXTINF:-1 tvg-id="CW.(KHPX-CD).Georgetown,GET(tx2)
+https://tx2.nexgen.bz:4000//GET/index
+#EXTINF:-1 tvg-id="Golf.Channel.USA.us",GOLF(tx1)
+https://tx1.nexgen.bz:4000//GOLF/index
+#EXTINF:-1 tvg-id="Game.Show.Network.-.East.us",GSN
+https://streamer1.nexgen.bz//GSN/index
+#EXTINF:-1 tvg-id="Game.Show.Network.-.East.us",GSN(tx1)
+https://tx1.nexgen.bz:4000//GSN/index
+#EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us",HALLMARK
+https://streamer1.nexgen.bz//HALLMARK/index
+#EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us",HALLMARK(tx2)
+https://tx3.nexgen.bz:4000//HALLMARK/index
+#EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us",HBO FAMILY
+https://streamer1.nexgen.bz//HBO_FAMILY/index
+#EXTINF:-1 group-title="Unknown",HBO PLUS
+https://streamer1.nexgen.bz//HBO_PLUS/index
+#EXTINF:-1 group-title="Unknown",HBO PLUS(tx1)
+https://tx1.nexgen.bz:4000//HBO_PLUS/index
+#EXTINF:-1 tvg-id="HBO.Signature.(HBO.3).-.Eastern.us",HBO SIG
+https://streamer1.nexgen.bz//HBO_SIG/index
+#EXTINF:-1 tvg-id="HBO.Signature.(HBO.3).-.Eastern.us",HBO SIG(tx2)
+https://tx2.nexgen.bz:4000//HBO_SIG/index
+#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us",HBO2
+https://streamer1.nexgen.bz//HBO2/index
+#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us",HBO2(tx1)
+https://tx1.nexgen.bz:4000//HBO2/index
+#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us",HGTV
+https://streamer1.nexgen.bz//HGTV/index
+#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us",HGTV(tx2)
+https://tx2.nexgen.bz:4000//HGTV/index
+#EXTINF:-1 tvg-id="History.Channel.Espanol.-.Eastern.us",HISTORY
+https://streamer1.nexgen.bz//HISTORY/index
+#EXTINF:-1 tvg-id="History.Channel.Espanol.-.Eastern.us",HISTORY(tx2)
+https://tx2.nexgen.bz:4000//HISTORY/index
+#EXTINF:-1 tvg-id="HLN.us",HLN(tx1)
+https://tx1.nexgen.bz:4000//HLN/index
+#EXTINF:-1 tvg-id="3ABN.International.Network.us",ION(tx1)
+https://tx1.nexgen.bz:4000//ION/index
+#EXTINF:-1 tvg-id="Ion.Mystery.us",IONMYSTERY
+https://streamer1.nexgen.bz//IONMYSTERY/index
+#EXTINF:-1 tvg-id="Ion.Mystery.us",IONMYSTERY(tx2)
+https://tx2.nexgen.bz:4000//IONMYSTERY/index
+#EXTINF:-1 tvg-id="Laff.TV.us",LAFF(tx1)
+https://tx1.nexgen.bz:4000//LAFF/index
+#EXTINF:-1 tvg-id="Lifetime.Movies.-.East.us",LIFETIME
+https://streamer1.nexgen.bz//LIFETIME/index
+#EXTINF:-1 tvg-id="Lifetime.Movies.-.East.us",LIFETIME(tx2)
+https://tx2.nexgen.bz:4000//LIFETIME/index
+#EXTINF:-1 tvg-id="Lifetime.Movies.-.East.us",LMN
+https://streamer1.nexgen.bz//LMN/index
+#EXTINF:-1 tvg-id="Lifetime.Movies.-.East.us",LMN(tx2)
+https://tx2.nexgen.bz:4000//LMN/index
+#EXTINF:-1 tvg-id="LOVE.us",LOVE TV(tx1)
+https://tx1.nexgen.bz:4000//LOVE_TV/index
+#EXTINF:-1 tvg-id="Me.TV.us",ME TV
+https://streamer1.nexgen.bz//ME_TV/index
+#EXTINF:-1 tvg-id="Me.TV.us",ME TV(tx2)
+https://tx2.nexgen.bz:4000//ME_TV/index
+#EXTINF:-1 tvg-id="DirecTV.MLB.Extra.Innings.(721).us",MLB(tx2)
+https://tx2.nexgen.bz:4000//MLB/index
+#EXTINF:-1 tvg-id="MSNBC.USA.us",MSNBC(tx1)
+https://tx1.nexgen.bz:4000//MSNBC/index
+#EXTINF:-1 tvg-id="MTV.2.-.East.us",MTV
+https://streamer1.nexgen.bz//MTV/index
+#EXTINF:-1 tvg-id="MTV.2.-.East.us",MTV(tx2)
+https://tx2.nexgen.bz:4000//MTV/index
+#EXTINF:-1 tvg-id="NBA.League.Pass.10.us",NBA(tx2)
+https://tx2.nexgen.bz:4000//NBA/index
+#EXTINF:-1 tvg-id="NFL.Network.us",NFL(tx2)
+https://tx2.nexgen.bz:4000//NFL/index
+#EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us",NICKELODEON(tx2)
+https://tx2.nexgen.bz:4000//NICKELODEON/index
+#EXTINF:-1 tvg-id="Outdoor.Channel.US.us",OUTDOOR
+https://streamer1.nexgen.bz//OUTDOOR/index
+#EXTINF:-1 tvg-id="Outdoor.Channel.US.us",OUTDOOR(tx2)
+https://tx2.nexgen.bz:4000//OUTDOOR/index
+#EXTINF:-1 tvg-id="ION.Plus.TV.us",PLUS TV(tx1)
+https://tx1.nexgen.bz:4000//PLUS_TV/index
+#EXTINF:-1 tvg-id="5.Star.Max.-.Eastern.us",STAR
+https://streamer1.nexgen.bz//STAR/index
+#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us",SYFY
+https://streamer1.nexgen.bz//SYFY/index
+#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us",SYFY(tx2)
+https://tx2.nexgen.bz:4000//SYFY/index
+#EXTINF:-1 tvg-id="TBN.Inspire.(K64FT).Alexandria,TBN
+https://streamer1.nexgen.bz//TBN/index
+#EXTINF:-1 tvg-id="TBN.Inspire.(K64FT).Alexandria,TBN(tx2)
+https://tx2.nexgen.bz:4000//TBN/index
+#EXTINF:-1 tvg-id="TBS.-.East.us",TBS
+https://streamer1.nexgen.bz//TBS/index
+#EXTINF:-1 tvg-id="TBS.-.East.us",TBS(tx2)
+https://tx2.nexgen.bz:4000//TBS/index
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.USA.us",TCM
+https://streamer1.nexgen.bz//TCM/index
+#EXTINF:-1 tvg-id="Turner.Classic.Movies.USA.us",TCM(tx2)
+https://tx2.nexgen.bz:4000//TCM/index
+#EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us",TELEMUNDO(tx1)
+https://tx1.nexgen.bz:4000//TELEMUNDO/index
+#EXTINF:-1 tvg-id="Telexitos.TV.us",TELEXITOS
+https://streamer1.nexgen.bz//TELEXITOS/index
+#EXTINF:-1 tvg-id="TLC.USA.-.Eastern.us",TLC
+https://streamer1.nexgen.bz//TLC/index
+#EXTINF:-1 tvg-id="TLC.USA.-.Eastern.us",TLC(tx2)
+https://tx3.nexgen.bz:4000//TLC/index
+#EXTINF:-1 group-title="Unknown",TNC SPORTS
+https://streamer1.nexgen.bz//TNC_SPORTS/index
+#EXTINF:-1 group-title="Unknown",TNC10(tx2)
+https://tx2.nexgen.bz:4000//TNC10/index
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us",TNT
+https://streamer1.nexgen.bz//TNT/index
+#EXTINF:-1 tvg-id="TNT.-.Eastern.Feed.us",TNT(tx2)
+https://tx2.nexgen.bz:4000//TNT/index
+#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us",TRUTV
+https://streamer1.nexgen.bz//TRUTV/index
+#EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us",TRUTV(tx2)
+https://tx3.nexgen.bz:4000//TRUTV/index
+#EXTINF:-1 tvg-id="TUDN.us",TUDN(tx1)
+https://tx1.nexgen.bz:4000//TUDN/index
+#EXTINF:-1 tvg-id="UniMas.(K15HJ-D).Ridgecrest,UNIMAS(tx1)
+https://tx1.nexgen.bz:4000//UNIMAS/index
+#EXTINF:-1 tvg-id="Univision.-.Eastern.Feed.us",UNIVISION(tx1)
+https://tx1.nexgen.bz:4000//UNIVISION/index
+#EXTINF:-1 tvg-id="and.TV.HD.USA.us",USA
+https://streamer1.nexgen.bz//USA/index
+#EXTINF:-1 tvg-id="and.TV.HD.USA.us",USA(tx1)
+https://tx1.nexgen.bz:4000//USA/index
+#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us",VH1
+https://streamer1.nexgen.bz//VH1/index
+#EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us",VH1(tx2)
+https://tx2.nexgen.bz:4000//VH1/index
+#EXTINF:-1 tvg-id="WGN.Chicago.(LOCAL).us",WGN(tx2)
+https://tx2.nexgen.bz:4000//WGN/index
+
