@@ -1,72 +1,50 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Soccer" tvg-logo="" tvg-name="LaLiga: Valladolid vs Barcelona",LaLiga: Valladolid vs Barcelona
-
-#EXTINF:-1 group-title="Soccer" tvg-logo="" tvg-name="LaLiga: Valladolid vs Barcelona",LaLiga: Valladolid vs Barcelona
-https://c58bx6vat7sxiexj.freshsoup.shop/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CZjZGM2ITM1QmZjZWL2YjN40yM0UDNtQGNlJTLlljZ3QjZilzL.m3u8?md5=qaKbrLm0xqjWTAZRPbU1IA&expires=1746349493
-
-#EXTINF:-1 group-title="Basketball",Clippers at Nuggets
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjVkNWYzNDFkZGVkLTg2Y2ItMWRiNC0zNjQxLTJhMGJiYmQy/master.m3u8?md5=UobO5Z8T_L57n59Gc9bELA&expires=1746350454
-
+#EXTINF:-1 group-title="Motosports",AMA Supercross Denver
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjQ4MTZhY2Q4NDZlLTg2N2ItZTZhNC1kZGY3LTk5NzU0NTJh/master.m3u8?md5=Vo1gA0KStwZm3serne68QQ&expires=1746327600&net=ODMuMTcxLjI1MS4yMDc%3D
+#EXTINF:-1 group-title="Baseball",Arizona Diamondbacks vs. Philadelphia Phillies
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzAyZDA2OTVjOTc2LTgwNTktN2U1NC04Njg3LTY2YjkzYWIw/master.m3u8?md5=TEXvtwwZwKQSCeY6M3qwuw&expires=1746320700&net=ODMuMTcxLjI1MS4yMDc%3D
+#EXTINF:-1 group-title="Baseball",Athletics vs. Miami Marlins
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjVmMDI3YjEwMzljLWQzNjgtZGI5NC1hZjZmLTBiOGNmODQ0/master.m3u8?md5=YdVnud1vr1VNUKvSPYGhw&expires=1746313800&net=ODMuMTcxLjI1MS4yMDc%3D
 #EXTINF:-1 group-title="Boxing",Canelo vs. Scull
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MDk5OTEzNWE5NmNlLTBlY2ItNmJlNC1hZWU3LTIyMjA5NTYx/master.m3u8?md5=23pfAgLWPmvvFba0ifM6og&expires=1746350486
-
+#EXTINF:-1 group-title="Baseball",Chicago Cubs vs. Milwaukee Brewers
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MjU5MGQ0MTJkM2FkLTJhYTgtNDVkNC1iNGEwLTgyOTZhMDJj/master.m3u8?md5=4wGp1wLDw08uiB6PEuWRLg&expires=1746324600&net=ODMuMTcxLjI1MS4yMDc%3D
+#EXTINF:-1 group-title="Baseball",Cleveland Guardians vs. Toronto Blue Jays
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjQyNWFjNjFhNmYzLTE3NTktNDg1NC00YTQ3LTQxYmM1MTVi/master.m3u8?md5=9IiPky1qbnwsG169cZ6kKg&expires=1746310020&net=ODMuMTcxLjI1MS4yMDc%3D
+#EXTINF:-1 group-title="Basketball",Clippers at Nuggets
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjVkNWYzNDFkZGVkLTg2Y2ItMWRiNC0zNjQxLTJhMGJiYmQy/master.m3u8?md5=UobO5Z8TL57n59Gc9bELA&expires=1746350454
 #EXTINF:-1 group-title="Baseball",Colorado Avalanche vs. Dallas Stars
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTU4ZjdlYzM5ODJhLTQxZjktNDI3NC0xYmJjLThmZTVhYzI3/master.m3u8?md5=Vo1gA0KStwZm3serne68QQ&expires=1746327600&net=ODMuMTcxLjI1MS4yMDc%3D
-
+#EXTINF:-1 group-title="Baseball",Colorado Rockies vs. San Francisco Giants
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1M2IyYTE4OGFmNjY5LWRlMDktYTc0NC0yMjg1LWU0MjAyNDU1/master.m3u8?md5=l2xqeuMFqOga1qbSBtTsZw&expires=1746313500&net=ODMuMTcxLjI1MS4yMDc%3D
+#EXTINF:-1 group-title="Baseball",Detroit Tigers vs. Los Angeles Angels
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OWU2MzFkOTA2ZDFiLTQ4ZTktYTQyNC1lMWNiLWU5YzZhODVm/master.m3u8?md5=nns5c3qQPgXIxxDQ1TguQ&expires=1746333480&net=ODMuMTcxLjI1MS4yMDc%3D
+#EXTINF:-1 group-title="Motosports",F1 Miami GP (Quali F1TV)
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzA0MzI5MjU5N2E5LWVlNGEtMzI2NC0xZTVmLWE2N2QxNGRm/master.m3u8?md5=zcdv6IfGfgWgV9WdCjPlcg&expires=1746351412
+#EXTINF:-1 group-title="Motosports",F1 Miami GP (Race)
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=jxYsWvpil2Fl9otzkV2Iwg&expires=1746350701
+#EXTINF:-1 group-title="Motosports",F1 Miami GP Race F1TV
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzA0MzI5MjU5N2E5LWVlNGEtMzI2NC0xZTVmLWE2N2QxNGRm/master.m3u8?md5=jxYsWvpil2Fl9otzkV2Iwg&expires=1746350701
+#EXTINF:-1 group-title="Motosports",F1 Miami GP (Quali)
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=JIMRV--6W75DYhhZjNG6Q&expires=1746351411
+#EXTINF:-1 group-title="Baseball",Kansas City Royals vs. Baltimore Orioles
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=QrSotASYAjDx8dHPesoWw&expires=1746324900&net=ODMuMTcxLjI1MS4yMDc%3D
+#EXTINF:-1 group-title="Soccer" tvg-logo="" tvg-name="LaLiga: Valladolid vs Barcelona",LaLiga: Valladolid vs Barcelona
+https://c58bx6vat7sxiexj.freshsoup.shop/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CZjZGM2ITM1QmZjZWL2YjN40yM0UDNtQGNlJTLlljZ3QjZilzL.m3u8?md5=qaKbrLm0xqjWTAZRPbU1IA&expires=1746349493
+#EXTINF:-1 group-title="Baseball",Los Angeles Dodgers vs. Atlanta Braves
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWMxN2M4YWMzNTVjLWY0NjgtMTIwNC00MmY5LWZjMzJhNGU4/master.m3u8?md5=QrSotASYAjDx8dHPesoWw&expires=1746324900&net=ODMuMTcxLjI1MS4yMDc%3D
+#EXTINF:-1 group-title="Baseball",Minnesota Twins vs. Boston Red Sox
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MTM3YjUwMzQxMDZmLTZiZDktY2E4NC1lNzZkLWNiNmNlOGUw/master.m3u8?md5=YdVnud1vr1VNUKvSPYGhw&expires=1746313800&net=ODMuMTcxLjI1MS4yMDc%3D
+#EXTINF:-1 group-title="Darts",PDC 2025 European Darts Grand Prix Day
+https://c58bx6vat7sxiexj.freshsoup.shop/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CO3YWZkVGMkVzY2QTLkRGM40iNxgDNtQTZ5ETL2UGOwEjNmVzL.m3u8?md5=Lsl1kUED34YugP1ty1dKlw&expires=1746316740&net=ODMuMTcxLjI1MS4yMDc%3D
+#EXTINF:-1 group-title="Baseball",San Diego Padres vs. Pittsburgh Pirates
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGE0ODRhOWFhNTdhLTllYjktNTA4NC0zZTNiLTgyZGI3MGQ3/master.m3u8?md5=l2xqeuMFqOga1qbSBtTsZw&expires=1746313500&net=ODMuMTcxLjI1MS4yMDc%3D
+#EXTINF:-1 group-title="Baseball",Seattle Mariners vs. Texas Rangers
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTUxZDg4MGIwYjVhLWNjZDktY2EwNC01ODA5LTZkOTViMDE5/master.m3u8?md5=B73jvcoJ4ZhudMLlXTzgMQ&expires=1746324300&net=ODMuMTcxLjI1MS4yMDc%3D
 #EXTINF:-1 group-title="Baseball",Washington Nationals vs. Cincinnati Reds
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmZlYmFjYzI2MDc1LWYzZjktNjk3NC1lZDRhLTg5MDQ1NDU4/master.m3u8?md5=QADSf-rlm4Qe3HL86gRXtw&expires=1746322800&net=ODMuMTcxLjI1MS4yMDc%3D
 
-#EXTINF:-1 group-title="Baseball",Arizona Diamondbacks vs. Philadelphia Phillies
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzAyZDA2OTVjOTc2LTgwNTktN2U1NC04Njg3LTY2YjkzYWIw/master.m3u8?md5=TEXvtwwZwKQSCeY6M3qwuw&expires=1746320700&net=ODMuMTcxLjI1MS4yMDc%3D
-
-#EXTINF:-1 group-title="Baseball",Seattle Mariners vs. Texas Rangers
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTUxZDg4MGIwYjVhLWNjZDktY2EwNC01ODA5LTZkOTViMDE5/master.m3u8?md5=B73jvcoJ4ZhudMLlXTzgMQ&expires=1746324300&net=ODMuMTcxLjI1MS4yMDc%3D
-
-#EXTINF:-1 group-title="Baseball",Chicago Cubs vs. Milwaukee Brewers
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MjU5MGQ0MTJkM2FkLTJhYTgtNDVkNC1iNGEwLTgyOTZhMDJj/master.m3u8?md5=4wGp1wLDw08uiB6PEuWRLg&expires=1746324600&net=ODMuMTcxLjI1MS4yMDc%3D
-
-#EXTINF:-1 group-title="Baseball",Kansas City Royals vs. Baltimore Orioles
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=QrSotASYAjDx8_dHPesoWw&expires=1746324900&net=ODMuMTcxLjI1MS4yMDc%3D
-
-#EXTINF:-1 group-title="Baseball",Los Angeles Dodgers vs. Atlanta Braves
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWMxN2M4YWMzNTVjLWY0NjgtMTIwNC00MmY5LWZjMzJhNGU4/master.m3u8?md5=QrSotASYAjDx8_dHPesoWw&expires=1746324900&net=ODMuMTcxLjI1MS4yMDc%3D
-
-#EXTINF:-1 group-title="Baseball",Detroit Tigers vs. Los Angeles Angels
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OWU2MzFkOTA2ZDFiLTQ4ZTktYTQyNC1lMWNiLWU5YzZhODVm/master.m3u8?md5=nns5c3qQPgXI_xxDQ1TguQ&expires=1746333480&net=ODMuMTcxLjI1MS4yMDc%3D
-
-#EXTINF:-1 group-title="Motosports",AMA Supercross_ Denver
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjQ4MTZhY2Q4NDZlLTg2N2ItZTZhNC1kZGY3LTk5NzU0NTJh/master.m3u8?md5=Vo1gA0KStwZm3serne68QQ&expires=1746327600&net=ODMuMTcxLjI1MS4yMDc%3D
-
-#EXTINF:-1 group-title="Motosports",F1 Miami GP (Race)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=jxYsWvpil2Fl9otzkV2Iwg&expires=1746350701
-
-#EXTINF:-1 group-title="Motosports",F1 Miami GP Race F1TV
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzA0MzI5MjU5N2E5LWVlNGEtMzI2NC0xZTVmLWE2N2QxNGRm/master.m3u8?md5=jxYsWvpil2Fl9otzkV2Iwg&expires=1746350701
-
-#EXTINF:-1 group-title="Darts",PDC 2025 European Darts Grand Prix Day
-https://c58bx6vat7sxiexj.freshsoup.shop/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CO3YWZkVGMkVzY2QTLkRGM40iNxgDNtQTZ5ETL2UGOwEjNmVzL.m3u8?md5=Lsl1kUED34YugP1ty1dKlw&expires=1746316740&net=ODMuMTcxLjI1MS4yMDc%3D
-
-#EXTINF:-1 group-title="Baseball",Cleveland Guardians vs. Toronto Blue Jays
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjQyNWFjNjFhNmYzLTE3NTktNDg1NC00YTQ3LTQxYmM1MTVi/master.m3u8?md5=9IiPky1qbnwsG169cZ6kKg&expires=1746310020&net=ODMuMTcxLjI1MS4yMDc%3D
-
-#EXTINF:-1 group-title="Baseball",San Diego Padres vs. Pittsburgh Pirates
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OGE0ODRhOWFhNTdhLTllYjktNTA4NC0zZTNiLTgyZGI3MGQ3/master.m3u8?md5=l2xqeuMFqOga1qbSBtTsZw&expires=1746313500&net=ODMuMTcxLjI1MS4yMDc%3D
-
-#EXTINF:-1 group-title="Baseball",Colorado Rockies vs. San Francisco Giants
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1M2IyYTE4OGFmNjY5LWRlMDktYTc0NC0yMjg1LWU0MjAyNDU1/master.m3u8?md5=l2xqeuMFqOga1qbSBtTsZw&expires=1746313500&net=ODMuMTcxLjI1MS4yMDc%3D
-
-#EXTINF:-1 group-title="Baseball",Minnesota Twins vs. Boston Red Sox
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MTM3YjUwMzQxMDZmLTZiZDktY2E4NC1lNzZkLWNiNmNlOGUw/master.m3u8?md5=YdVnud1vr1VNUKvSPY_Ghw&expires=1746313800&net=ODMuMTcxLjI1MS4yMDc%3D
-
-#EXTINF:-1 group-title="Baseball",Athletics vs. Miami Marlins
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YjVmMDI3YjEwMzljLWQzNjgtZGI5NC1hZjZmLTBiOGNmODQ0/master.m3u8?md5=YdVnud1vr1VNUKvSPY_Ghw&expires=1746313800&net=ODMuMTcxLjI1MS4yMDc%3D
-
-#EXTINF:-1 group-title="Motosports",F1_ Miami GP (Quali)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=JIMRV--6W_75DYhhZjNG6Q&expires=1746351411
-
-#EXTINF:-1 group-title="Motosports",F1 Miami GP (Quali F1TV)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzA0MzI5MjU5N2E5LWVlNGEtMzI2NC0xZTVmLWE2N2QxNGRm/master.m3u8?md5=zcdv6IfGfgWgV9WdCjPlcg&expires=1746351412
 
 
 
@@ -75,20 +53,21 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzA0MzI5MjU5N2E5LWVlNGEtM
 
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Nsiz9R1HS5Xwra1wiZND4Q", "kid":"3KhZfxL41pKLVcEpHHuzAA" } ], "type":"temporary" }
+
+#KODIPROP:inputstream.adaptive.licensetype=clearkey
+#KODIPROP:inputstream.adaptive.licensekey={ "keys":[ { "kty":"oct", "k":"Nsiz9R1HS5Xwra1wiZND4Q", "kid":"3KhZfxL41pKLVcEpHHuzAA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="TNT Mexico" tvg-logo="",TNT Mexico
 https://aka-live1-ott.izzigo.tv/2/out/u/dash/TNT-HD/default.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"3k0xx/xgBe3iirqyoHIKnw", "kid":"eKtk+pDxN6aXdDtdwnsvlg" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.licensetype=clearkey
+#KODIPROP:inputstream.adaptive.licensekey={ "keys":[ { "kty":"oct", "k":"3k0xx/xgBe3iirqyoHIKnw", "kid":"eKtk+pDxN6aXdDtdwnsvlg" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network East
-https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)/master.mpd
+https://cfrt.stream.peacocktv.com/Content/CMAFOL1-CTR-4s/Live/channel(usa-east)/master.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"XT/L7VN0nuYi7Q5k8xwcvw", "kid":"Mzli4+E4NSmGepoOKKXl0Q" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.licensetype=clearkey
+#KODIPROP:inputstream.adaptive.licensekey={ "keys":[ { "kty":"oct", "k":"XT/L7VN0nuYi7Q5k8xwcvw", "kid":"Mzli4+E4NSmGepoOKKXl0Q" } ], "type":"temporary" }
 #EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network West
-https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
+https://cfrt.stream.peacocktv.com/Content/CMAFOL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 
 
