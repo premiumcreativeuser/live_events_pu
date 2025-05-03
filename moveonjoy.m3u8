@@ -727,6 +727,8 @@ http://fl1.moveonjoy.com/TV_ONE/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="UP.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/up-tv-us.png" tvg-name="UP TV",UP TV
 http://fl3.moveonjoy.com/Up_Tv/index.m3u8
 
+#EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
+
 #EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="LIVE TV CHANNELS" tvg-id="USA.Network.-.East.Feed.us",USA Network - East Feed
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-referrer=https://thetvapp.to/
