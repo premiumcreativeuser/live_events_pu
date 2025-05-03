@@ -1,10 +1,59 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="ppv" tvg-logo="https://i.imgur.com/NcuSGe6.png" tvg-name="LaLiga: Valladolid vs Barcelona",LaLiga: Valladolid vs Barcelona
+#EXTINF:-1 group-title="Soccer" tvg-logo="https://i.imgur.com/NcuSGe6.png" tvg-name="LaLiga: Valladolid vs Barcelona",LaLiga: Valladolid vs Barcelona
+group-title="Soccer",
+
+#EXTINF:-1 group-title="Soccer" tvg-logo="https://i.imgur.com/NcuSGe6.png" tvg-name="LaLiga: Valladolid vs Barcelona",LaLiga: Valladolid vs Barcelona
 https://c58bx6vat7sxiexj.freshsoup.shop/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CZjZGM2ITM1QmZjZWL2YjN40yM0UDNtQGNlJTLlljZ3QjZilzL.m3u8?md5=qaKbrLm0xqjWTAZRPbU1IA&expires=1746349493
 
-#EXTINF:-1 group-title="ppv" tvg-logo="https://i.imgur.com/NcuSGe6.png" tvg-name="LaLiga: Valladolid vs Barcelona",LaLiga: Valladolid vs Barcelona
-https://c58bx6vat7sxiexj.freshsoup.shop/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09CZjZGM2ITM1QmZjZWL2YjN40yM0UDNtQGNlJTLlljZ3QjZilzL.m3u8?md5=WYZ-SAQ3BlffYCgzuhZiDQ&expires=1746349210|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A138.0)%20Gecko%2F20100101%20Firefox%2F138.0&Referer=https%3A%2F%2Fvecloud.eu%2F
+#EXTINF:-1 group-title="Basketball",Clippers at Nuggets
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjVkNWYzNDFkZGVkLTg2Y2ItMWRiNC0zNjQxLTJhMGJiYmQy/master.m3u8?md5=UobO5Z8T_L57n59Gc9bELA&expires=1746350454
+
+#EXTINF:-1 group-title="Boxing",Canelo vs. Scull
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MDk5OTEzNWE5NmNlLTBlY2ItNmJlNC1hZWU3LTIyMjA5NTYx/master.m3u8?md5=23pfAgLWPmvvFba0ifM6og&expires=1746350486
+
+#EXTINF:-1 group-title="Baseball",Colorado Avalanche vs. Dallas Stars
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NTU4ZjdlYzM5ODJhLTQxZjktNDI3NC0xYmJjLThmZTVhYzI3/master.m3u8?md5=Vo1gA0KStwZm3serne68QQ&expires=1746327600&net=ODMuMTcxLjI1MS4yMDc%3D
+
+#EXTINF:-1 group-title="Baseball",Washington Nationals vs. Cincinnati Reds
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmZlYmFjYzI2MDc1LWYzZjktNjk3NC1lZDRhLTg5MDQ1NDU4/master.m3u8?md5=QADSf-rlm4Qe3HL86gRXtw&expires=1746322800&net=ODMuMTcxLjI1MS4yMDc%3D
+
+#EXTINF:-1 group-title="Baseball",Arizona Diamondbacks vs. Philadelphia Phillies
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzAyZDA2OTVjOTc2LTgwNTktN2U1NC04Njg3LTY2YjkzYWIw/master.m3u8?md5=TEXvtwwZwKQSCeY6M3qwuw&expires=1746320700&net=ODMuMTcxLjI1MS4yMDc%3D
+
+#EXTINF:-1 group-title="Baseball",Seattle Mariners vs. Texas Rangers
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YTUxZDg4MGIwYjVhLWNjZDktY2EwNC01ODA5LTZkOTViMDE5/master.m3u8?md5=B73jvcoJ4ZhudMLlXTzgMQ&expires=1746324300&net=ODMuMTcxLjI1MS4yMDc%3D
+
+#EXTINF:-1 group-title="Baseball",Chicago Cubs vs. Milwaukee Brewers
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MjU5MGQ0MTJkM2FkLTJhYTgtNDVkNC1iNGEwLTgyOTZhMDJj/master.m3u8?md5=4wGp1wLDw08uiB6PEuWRLg&expires=1746324600&net=ODMuMTcxLjI1MS4yMDc%3D
+
+#EXTINF:-1 group-title="Baseball",Kansas City Royals vs. Baltimore Orioles
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZmM0NzVlNjM1NTY0LWFjZWEtZDI4NC1kZjllLWVjZDc3N2E4/master.m3u8?md5=QrSotASYAjDx8_dHPesoWw&expires=1746324900&net=ODMuMTcxLjI1MS4yMDc%3D
+
+#EXTINF:-1 group-title="Baseball",Los Angeles Dodgers vs. Atlanta Braves
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWMxN2M4YWMzNTVjLWY0NjgtMTIwNC00MmY5LWZjMzJhNGU4/master.m3u8?md5=QrSotASYAjDx8_dHPesoWw&expires=1746324900&net=ODMuMTcxLjI1MS4yMDc%3D
+
+#EXTINF:-1 group-title="Baseball",Detroit Tigers vs. Los Angeles Angels
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1OWU2MzFkOTA2ZDFiLTQ4ZTktYTQyNC1lMWNiLWU5YzZhODVm/master.m3u8?md5=nns5c3qQPgXI_xxDQ1TguQ&expires=1746333480&net=ODMuMTcxLjI1MS4yMDc%3D
+
+#EXTINF:-1 group-title="Motosports",AMA Supercross_ Denver
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjQ4MTZhY2Q4NDZlLTg2N2ItZTZhNC1kZGY3LTk5NzU0NTJh/master.m3u8?md5=Vo1gA0KStwZm3serne68QQ&expires=1746327600&net=ODMuMTcxLjI1MS4yMDc%3D
+
+#EXTINF:-1 group-title="Motosports",F1 Miami GP (Race)
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=jxYsWvpil2Fl9otzkV2Iwg&expires=1746350701
+
+#EXTINF:-1 group-title="Motosports",F1 Miami GP Race F1TV
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzA0MzI5MjU5N2E5LWVlNGEtMzI2NC0xZTVmLWE2N2QxNGRm/master.m3u8?md5=jxYsWvpil2Fl9otzkV2Iwg&expires=1746350701
+
+
+
+
+
+
+
+
+
+
 
 
 
