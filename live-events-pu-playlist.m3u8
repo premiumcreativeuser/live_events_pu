@@ -16,5 +16,8 @@ https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-east)
 https://cfrt.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
 
+#EXTINF:-1,AMC 
+178.219.128.68:64889/AMCHD 
+
 
 
