@@ -1,22 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Boxing",Canelo vs. Scull
+#EXTINF:-1 group-title="Combat",Canelo vs. Scull
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MDk5OTEzNWE5NmNlLTBlY2ItNmJlNC1hZWU3LTIyMjA5NTYx/master.m3u8?md5=23pfAgLWPmvvFba0ifM6og&expires=1746350486
+
+#EXTINF:-1 group-title="Combat",UFC Fight Night Sandhagen vs. Figueiredo
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MmY0YjU2ZGFjNTJlLWZiMTgtYmZkNC0zOTc0LTQyNzZjNTZm/master.m3u8?md5=54iuS9y2HMi3NaIkqdN9_w&expires=1746338400&net=OTEuMTk2LjIyMC4yMTU%3D
 
 #EXTINF:-1 group-title="Basketball",Clippers at Nuggets
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NjVkNWYzNDFkZGVkLTg2Y2ItMWRiNC0zNjQxLTJhMGJiYmQy/master.m3u8?md5=UobO5Z8TL57n59Gc9bELA&expires=1746350454
 
-#EXTINF:-1 group-title="Motosports",F1 Miami GP (Quali F1TV)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzA0MzI5MjU5N2E5LWVlNGEtMzI2NC0xZTVmLWE2N2QxNGRm/master.m3u8?md5=zcdv6IfGfgWgV9WdCjPlcg&expires=1746351412
+#EXTINF:-1 group-title="Motosports",F1 Miami GP (Quali)
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=JIMRV--6W75DYhhZjNG6Q&expires=1746351411
 
 #EXTINF:-1 group-title="Motosports",F1 Miami GP (Race)
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=jxYsWvpil2Fl9otzkV2Iwg&expires=1746350701
 
+#EXTINF:-1 group-title="Motosports",F1 Miami GP (Quali F1TV)
+https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzA0MzI5MjU5N2E5LWVlNGEtMzI2NC0xZTVmLWE2N2QxNGRm/master.m3u8?md5=zcdv6IfGfgWgV9WdCjPlcg&expires=1746351412
+
 #EXTINF:-1 group-title="Motosports",F1 Miami GP Race F1TV
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzA0MzI5MjU5N2E5LWVlNGEtMzI2NC0xZTVmLWE2N2QxNGRm/master.m3u8?md5=jxYsWvpil2Fl9otzkV2Iwg&expires=1746350701
-
-#EXTINF:-1 group-title="Motosports",F1 Miami GP (Quali)
-https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=JIMRV--6W75DYhhZjNG6Q&expires=1746351411
 
 #EXTINF:-1 group-title="Baseball",Los Angeles Dodgers vs. Atlanta Braves
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWMxN2M4YWMzNTVjLWY0NjgtMTIwNC00MmY5LWZjMzJhNGU4/master.m3u8?md5=QrSotASYAjDx8dHPesoWw&expires=1746324900&net=ODMuMTcxLjI1MS4yMDc%3D
