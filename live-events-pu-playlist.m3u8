@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/nbcsn-bay-area-us.png" group-title="🇺🇸 Sᴘoʀᴛs",NBC Sports Bay Area
+#EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://windnew.newkso.ru/wind/premium753/mono.m3u8
+
 #EXTINF:-1 group-title="Combat",Canelo vs. Scull
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1MDk5OTEzNWE5NmNlLTBlY2ItNmJlNC1hZWU3LTIyMjA5NTYx/master.m3u8?md5=23pfAgLWPmvvFba0ifM6og&expires=1746350486
 
@@ -20,6 +26,9 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1NzA0MzI5MjU5N2E5LWVlNGEtM
 
 #EXTINF:-1 group-title="Baseball",Los Angeles Dodgers vs. Atlanta Braves
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1YWMxN2M4YWMzNTVjLWY0NjgtMTIwNC00MmY5LWZjMzJhNGU4/master.m3u8?md5=QrSotASYAjDx8dHPesoWw&expires=1746324900&net=ODMuMTcxLjI1MS4yMDc%3D
+
+
+
 
 
 
