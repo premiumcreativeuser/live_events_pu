@@ -204,7 +204,6 @@ Starz.Cinema.HD.-.Eastern.us
 Starz.In.Black.-.Eastern.us
 Universal.Kids.us
 ESPN.Deportes.us
-MTV-U.(MTV-U).us
 
 
 plex.tv.Stories.by.AMC.plex
