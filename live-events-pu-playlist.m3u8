@@ -1,14 +1,14 @@
-#EXTM3U
+#EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/daddylive-channels-epg.xml"
 
 #EXTINF:-1 group-title="Category" tvg-logo="LogoURL",StreamName
 
-#EXTINF:-1 group-title="Motosports" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/imgs/formula-logo.png",F1 Miami GP (Quali)
+#EXTINF:-1 group-title="Motosports" tvg-id="SkySp.F1.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/imgs/formula-logo.png",F1 Miami GP (Quali)
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=JIMRV--6W75DYhhZjNG6Q&expires=1746351411
 
-#EXTINF:-1 group-title="Motosports" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/imgs/formula-logo.png",F1 Miami GP (Race)
+#EXTINF:-1 group-title="Motosports" tvg-id="SkySp.F1.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/imgs/formula-logo.png",F1 Miami GP (Race)
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=jxYsWvpil2Fl9otzkV2Iwg&expires=1746350701
 
-#EXTINF:-1 group-title="Motosports" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/imgs/formula-logo.png",F1 Miami GP (Race)
+#EXTINF:-1 group-title="Motosports" tvg-id="SkySp.F1.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/imgs/formula-logo.png",F1 Miami GP (Race)
 https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtOTM0NC1lOTY2LTE3NDVjNzgy/master.m3u8?md5=jYxGfEIBO8fHPT0HoZcomA&expires=1746422012
 
 
