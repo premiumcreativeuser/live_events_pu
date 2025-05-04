@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/nbcsn-bay-area-us.png" group-title="🇺🇸 Sᴘoʀᴛs",NBC Sports Bay Area
+#EXTINF:-1 group-title="🇺🇸 Sᴘoʀᴛs" tvg-id="NBCSportsBayArea.us" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/nbcsn-bay-area-us.png" tvg-name="TES TEST TEST",NBC Sports Bay Area
 #EXTVLCOPT:http-referrer=https://caq21harderv991gpluralplay.xyz/
 #EXTVLCOPT:http-origin=https://caq21harderv991gpluralplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
