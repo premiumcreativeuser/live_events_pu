@@ -13,26 +13,3 @@ https://c58bx6vat7sxiexj.freshsoup.shop/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTgtO
 
 
 
-
-
-#KODIPROP:inputstream.adaptive.licensetype=clearkey
-#KODIPROP:inputstream.adaptive.licensekey={ "keys":[ { "kty":"oct", "k":"505616380de706936e493fdd1c25d0b6", "kid":"5b313f49c63c682236eab3357400e216" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="",Test 1
-https://a169aivottevtad-a.akamaihd.net/PDX/2e8a76ca8a0045d1bf95e0e69fe663d2/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_cfa615ed-dd0e-4799-9d83-8f08f0d166b5_us-west-2_pdx_dash_h264/live/clients/dash/enc/6pft71ahps/out/v1/d3efc52418fd4b90aa505d2e4e9a249a/cenc.mpd?aws.sessionId=c870f6f0-f199-42df-b0d9-ba5b1af61038
-
-#KODIPROP:inputstream.adaptive.licensetype=clearkey
-#KODIPROP:inputstream.adaptive.licensekey={ "keys":[ { "kty":"oct", "k":"505616380de706936e493fdd1c25d0b6", "kid":"5b313f49c63c682236eab3357400e216" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="",Test 2
-https://ABBFEAXAAAAAAAAMLJ2LQZHEZP4K3.2e8a76ca8a0045d1bf95e0e69fe663d2.emt.cf.ww.aiv-cdn.net/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_cfa615ed-dd0e-4799-9d83-8f08f0d166b5_us-west-2_pdx_dash_h264/live/clients/dash/enc/6pft71ahps/out/v1/d3efc52418fd4b90aa505d2e4e9a249a/cenc.mpd?aws.sessionId=c870f6f0-f199-42df-b0d9-ba5b1af61038
-
-#KODIPROP:inputstream.adaptive.licensetype=clearkey
-#KODIPROP:inputstream.adaptive.licensekey={ "keys":[ { "kty":"oct", "k":"505616380de706936e493fdd1c25d0b6", "kid":"5b313f49c63c682236eab3357400e216" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="",Test 3
-https://a205aivottevtad-a.akamaihd.net/IAD/4e4ae3a8021d42eabbc8dd369bb8d1c9/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_cfa615ed-dd0e-4799-9d83-8f08f0d166b5_us-east-1_iad_dash_h264/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd?aws.sessionId=702f0a5d-bab4-4dfd-88ff-cff47ca5d224
-
-#KODIPROP:inputstream.adaptive.licensetype=clearkey
-#KODIPROP:inputstream.adaptive.licensekey={ "keys":[ { "kty":"oct", "k":"505616380de706936e493fdd1c25d0b6", "kid":"5b313f49c63c682236eab3357400e216" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="",Test 4
-https://ABBFEAXAAAAAAAAMLJ2LQZHEZP4K3.4e4ae3a8021d42eabbc8dd369bb8d1c9.emt.cf.ww.aiv-cdn.net/v1/dash/159325541587/imdb_amagi_amzn1_dv_live_csid_cfa615ed-dd0e-4799-9d83-8f08f0d166b5_us-east-1_iad_dash_h264/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd?aws.sessionId=702f0a5d-bab4-4dfd-88ff-cff47ca5d224
-
-
