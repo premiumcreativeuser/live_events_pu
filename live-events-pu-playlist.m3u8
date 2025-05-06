@@ -10,3 +10,12 @@ https://3095.crackstreamslivehd.com/espn/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamtp4.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://3095.crackstreamslivehd.com/espn/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="LogoURL",Test 3
+https://8c51.crackstreamslivehd.com/espn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,ESPN TEST 4
+#EXTVLCOPT:http-origin=https://streamtp4.com
+#EXTVLCOPT:http-referrer=https://streamtp4.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://8c51.crackstreamslivehd.com/espn/tracks-v1a1/mono.m3u8
