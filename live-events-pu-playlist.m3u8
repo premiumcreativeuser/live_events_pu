@@ -5,3 +5,7 @@
 #EXTINF:-1 group-title="" tvg-logo="LogoURL",Test
 http://hoce.tsbdxkran.com:80/live/cyx-7BCA096543B49d9fF5E93008926A.m3u8
 
+#EXTINF:-1 group-title="" tvg-logo="LogoURL",Test 2
+http://hoce.tsbdxkran.com/live/cyx_724051235715373729415964.m3u8
+
+
