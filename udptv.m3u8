@@ -3,9 +3,6 @@
 #EXTINF:-1  tvg-name="Animal Planet" tvg-id="Animal.Planet.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/animal-planet-int.png" group-title="DOCUMENTARY",Animal Planet
 https://ott.djdoolky76.net/stream/astro/animalplanet/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
-#EXTINF:-1  tvg-name="Discovery Asia" tvg-id="Discovery.Asia.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/discovery-asia-hk.png" group-title="DOCUMENTARY",Discovery Asia
-https://ott.djdoolky76.net/stream/astro/discoveryasia/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-
 #EXTINF:-1  tvg-name="Discovery Channel" tvg-id="Discovery.Channel.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/discovery-channel-hd-uk.png" group-title="DOCUMENTARY",Discovery Channel
 https://ott.djdoolky76.net/stream/astro/discoverychannel/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
@@ -27,17 +24,8 @@ https://ott-s4.udptv.net/stream/sling/nationalgeographic/master.m3u8?u=discord.g
 #EXTINF:-1  tvg-name="Oxygen True Crime" tvg-id="Oxygen.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/oxygen-true-crime-us.png" group-title="DOCUMENTARY",Oxygen True Crime
 https://ott-s4.udptv.net/stream/nbc/oxygenwest/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
-#EXTINF:-1  tvg-name="Animax" tvg-id="Animax.(HD).sg" tvg-logo="https://i.imgur.com/b5YKiRd.png" group-title="KIDS",Animax
-http://ott.udptv.net/stream/iptv/animax/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-
 #EXTINF:-1  tvg-name="Anime x Hidive" tvg-id="plex.tv.ANIME.x.HIDIVE.plex" tvg-logo="https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png" group-title="KIDS",Anime x Hidive
 https://ott.udptv.net/stream/iptv/animexhidive/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-
-#EXTINF:-1  tvg-name="Aniplus" tvg-id="Aniplus.id" tvg-logo="https://static.wikia.nocookie.net/animax/images/b/b8/Aniplus_Asia_Logo.png" group-title="KIDS",Aniplus
-https://ott.udptv.net/stream/iptv/aniplus/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-
-#EXTINF:-1  tvg-name="Astro Cartoon Network" tvg-id="Cartoon.Network.HD.my" tvg-logo="https://i.imgur.com/8mfFj4h.png" group-title="KIDS",Astro Cartoon Network
-https://ott.djdoolky76.net/stream/astro/astrocartoonnetwork/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
 #EXTINF:-1  tvg-name="Boomerang" tvg-id="Cartoonito.(HD).sg" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cartoonito-us.png" group-title="KIDS",Boomerang
 https://ott.udptv.net/stream/iptv/boomerang/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
@@ -206,12 +194,6 @@ https://ott-s4.udptv.net/stream/nbc/nbatvfhd/master.m3u8?u=discord.gg/civ3&p=6d5
 
 #EXTINF:-1  tvg-name="NBA TV HDTV" tvg-id="NBA.TV.USA.us" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/NBA_TV_HDTV._SL170_FMpng_.png" group-title="SPORTS",NBA TV HDTV
 https://ott-s4.udptv.net/stream/nbc/nbatvhdtv/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-
-#EXTINF:-1  tvg-name="NBA TV Philippines" tvg-id="Cgnl.Nba.ph" tvg-logo="https://i.imgur.com/g5Q35IH.png" group-title="SPORTS",NBA TV Philippines
-http://ott.udptv.net/stream/iptv/nbatvphilippines/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-
-#EXTINF:-1  tvg-name="PBA Rush" tvg-id="Pbarush.Hd.ph" tvg-logo="https://i.imgur.com/tvxCVRr.png" group-title="SPORTS",PBA Rush
-http://ott.udptv.net/stream/iptv/pbarush/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
 
 #EXTINF:-1  tvg-name="Astro Arena" tvg-id="Astro.Arena.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/malaysia/astro-arena-my.png" group-title="SPORTS",Astro Arena
 https://ott-s1.udptv.net/stream/astro/astroarena/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
