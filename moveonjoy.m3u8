@@ -16,7 +16,7 @@ http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://v1.thetvapp.to/hls/AMCEast/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="plex.tv.Stories.by.AMC.plex" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/stories-by-amc-vod.png" tvg-name="Stories by AMC", Stories by AMC
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/stories-by-amc-vod.png" tvg-name="Stories by AMC", Stories by AMC
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="American.Heroes.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-name="American Heroes Channel",American Heroes Channel
@@ -196,7 +196,7 @@ http://41.205.93.154/ESPN/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" tvg-name="ESPN 2",ESPN 2
 http://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
-#EXTINF:-1 group-title="Sports" tvg-id="Canal.ESPN.4.(Sur).sv" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/espn-4-br.png",ESPN 4 SUR
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN.Deportes.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/espn-deportes-us.png",ESPN DEPORTES
 http://190.92.10.66:4000/play/a003/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" tvg-name="ESPN NEWS",ESPN NEWS
