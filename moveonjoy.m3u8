@@ -494,7 +494,7 @@ http://fl1.moveonjoy.com/STARZ_COMEDY/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.Edge.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-edge-us.png?raw=true" tvg-name="Starz Edge",Starz Edge
 http://fl1.moveonjoy.com/STARZ_EDGE/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="Starz.Encore.Action.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/premiumcu/gear/refs/heads/main/tv-logos/starz-encore-us.png" tvg-name="Starz Encore",Starz Encore
+#EXTINF:-1 group-title="Movies" tvg-id="Starz.Encore.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/premiumcu/gear/refs/heads/main/tv-logos/starz-encore-us.png" tvg-name="Starz Encore",Starz Encore
 http://fl1.moveonjoy.com/Starz_Encore/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="Starz.Encore.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-encore-action-us.png?raw=true" tvg-name="Starz Encore Action",Starz Encore Action
