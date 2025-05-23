@@ -48,7 +48,7 @@ https://streamer1.nexgen.bz/HALLMARK/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO2",HBO2
 https://streamer1.nexgen.bz/HBO2/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="" tvg-name="HBO PLUS",HBO PLUS
+#EXTINF:-1 group-title="Movies" tvg-id="Canal.HBO.Plus.mx" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-plus-br.png" tvg-name="HBO PLUS",HBO PLUS
 https://streamer1.nexgen.bz/HBO_PLUS/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png" tvg-name="HBO Family",HBO Family
