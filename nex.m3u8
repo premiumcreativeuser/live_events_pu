@@ -274,19 +274,16 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #EXTINF:-1 group-title="Entertainment" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
 https://streamer1.nexgen.bz/TNT/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT Stream 4
-http://143.244.60.30/TNT/index.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-id="truTV.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png" tvg-name="truTV",truTV
 https://streamer1.nexgen.bz/TRUTV/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
-http://143.244.60.30/USA_Network/index.m3u8
+http://143.244.60.30/Usa_Network/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" tvg-name="VH1",VH1
 http://143.244.60.30/VH1/index.m3u8
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" tvg-name="VH1",VH1
+#EXTINF:-1 group-title="Entertainment" tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png" tvg-name="VH1",VH1 Stream 2
 https://streamer1.nexgen.bz/VH1/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
@@ -296,47 +293,47 @@ http://143.244.60.30/YES_NETWORK/index.m3u8
 
 
 # ------------------Local TV---------------------------
-#EXTINF:-1 group-title="Local TV",BU| ABC (WPVI)
+#EXTINF:-1 group-title="Local TV",ABC (WPVI)
 http://cord-cutter.net:8080/hq3y4G/234247/121149
-#EXTINF:-1 group-title="Local TV",BU| ABC (WABC)
+#EXTINF:-1 group-title="Local TV",ABC (WABC)
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV",BU| ABC (WOLO)
+#EXTINF:-1 group-title="Local TV",ABC (WOLO)
 http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV",BU| ABC (WABC)
+#EXTINF:-1 group-title="Local TV",ABC (WABC)
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV",BU| ABC (KMIZ)
+#EXTINF:-1 group-title="Local TV",ABC (KMIZ)
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 group-title="Local TV",BU| ABC (KTVO)
+#EXTINF:-1 group-title="Local TV",ABC (KTVO)
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 
-#EXTINF:-1 group-title="Local TV",BU| CBS (KSMO)
+#EXTINF:-1 group-title="Local TV",CBS (KSMO)
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-#EXTINF:-1 group-title="Local TV",BU| CBS (KRCG)
+#EXTINF:-1 group-title="Local TV",CBS (KRCG)
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1 group-title="Local TV",BU| CBS (KTVO)
+#EXTINF:-1 group-title="Local TV",CBS (KTVO)
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
 
-#EXTINF:-1 group-title="Local TV",BU| CW (KOMU)
+#EXTINF:-1 group-title="Local TV",CW (KOMU)
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1 group-title="Local TV",BU| CW (KYOU)
+#EXTINF:-1 group-title="Local TV",CW (KYOU)
 https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
 
-#EXTINF:-1 group-title="Local TV",BU| Fox (WDAF)
+#EXTINF:-1 group-title="Local TV",Fox (WDAF)
 https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-#EXTINF:-1 group-title="Local TV",BU| Fox (KYOU)
+#EXTINF:-1 group-title="Local TV",Fox (KYOU)
 https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
-#EXTINF:-1 group-title="Local TV",BU| Fox (KQFX)
+#EXTINF:-1 group-title="Local TV",Fox (KQFX)
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-#EXTINF:-1 group-title="Local TV",BU| FOX (WNYW) 1
+#EXTINF:-1 group-title="Local TV",FOX (WNYW) 1
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV",BU| FOX (WNYW) 2
+#EXTINF:-1 group-title="Local TV",FOX (WNYW) 2
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 
-#EXTINF:-1 group-title="Local TV",BU| NBC (KOMU)
+#EXTINF:-1 group-title="Local TV",NBC (KOMU)
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1 group-title="Local TV",BU| NBC (KSHB)
+#EXTINF:-1 group-title="Local TV",NBC (KSHB)
 https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
-#EXTINF:-1 group-title="Local TV",BU| NBC (KYOU)
+#EXTINF:-1 group-title="Local TV",NBC (KYOU)
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
-#EXTINF:-1 group-title="Local TV",BU| NBC (WNBC)
+#EXTINF:-1 group-title="Local TV",NBC (WNBC)
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
