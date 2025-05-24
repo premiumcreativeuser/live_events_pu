@@ -18,9 +18,6 @@ https://streamer1.nexgen.bz/AMC/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",Animal Planet
 http://143.244.60.30/Animal_Planet/index.m3u8
 
-#EXTINF:-1 ATN
-https://streamer1.nexgen.bz/ATN/index.m3u8
-
 #EXTINF:-1 AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
@@ -63,9 +60,6 @@ http://143.244.60.30/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Cinemax.-.Pacific.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" tvg-name="CINEMAX WEST",CINEMAX WEST
 http://143.244.60.30/CINEMAX_WEST/index.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
-http://143.244.60.30/CINEMAX_MOREMAX/index.m3u8
-
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png" tvg-name="COMEDY CENTRAL",COMEDY CENTRAL
 https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
@@ -82,8 +76,6 @@ http://143.244.60.30/COOKING_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-name="Discovery Channel",Discovery Channel
 https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png" tvg-name="DISNEY CHANNEL",DISNEY CHANNEL
-http://143.244.60.30/DISNEY_CHANNEL/index.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png" tvg-name="DISNEY JR",DISNEY JR
 http://143.244.60.30/DISNEY_JR/index.m3u8
@@ -91,7 +83,7 @@ http://143.244.60.30/DISNEY_JR/index.m3u8
 #EXTINF:-1 group-title="Kids" tvg-id="Disney.XD.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" tvg-name="DISNEY XD",DISNEY XD
 http://143.244.60.30/DISNEY_XD/index.m3u8
 
-ENTERTAINMENT TELEVISION",E ENTERTAINMENT TELEVISION
+#EXTINF:-1 ENTERTAINMENT TELEVISION",E ENTERTAINMENT TELEVISION
 http://143.244.60.30/E_ENTERTAINMENT_TELEVISION/index.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="ESPN2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" tvg-name="ESPN 2",ESPN 2
