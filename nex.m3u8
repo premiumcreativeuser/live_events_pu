@@ -292,48 +292,4 @@ http://143.244.60.30/YES_NETWORK/index.m3u8
 
 
 
-# ------------------Local TV---------------------------
-#EXTINF:-1 group-title="Local TV",ABC (WPVI)
-http://cord-cutter.net:8080/hq3y4G/234247/121149
-#EXTINF:-1 group-title="Local TV",ABC (WABC)
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV",ABC (WOLO)
-http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV",ABC (WABC)
-http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV",ABC (KMIZ)
-https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 group-title="Local TV",ABC (KTVO)
-https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
 
-#EXTINF:-1 group-title="Local TV",CBS (KSMO)
-https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-#EXTINF:-1 group-title="Local TV",CBS (KRCG)
-https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1 group-title="Local TV",CBS (KTVO)
-https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
-
-#EXTINF:-1 group-title="Local TV",CW (KOMU)
-https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1 group-title="Local TV",CW (KYOU)
-https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
-
-#EXTINF:-1 group-title="Local TV",Fox (WDAF)
-https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-#EXTINF:-1 group-title="Local TV",Fox (KYOU)
-https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
-#EXTINF:-1 group-title="Local TV",Fox (KQFX)
-https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-#EXTINF:-1 group-title="Local TV",FOX (WNYW) 1
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="Local TV",FOX (WNYW) 2
-http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-
-#EXTINF:-1 group-title="Local TV",NBC (KOMU)
-https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1 group-title="Local TV",NBC (KSHB)
-https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
-#EXTINF:-1 group-title="Local TV",NBC (KYOU)
-https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
-#EXTINF:-1 group-title="Local TV",NBC (WNBC)
-http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
