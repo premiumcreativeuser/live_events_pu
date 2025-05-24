@@ -417,7 +417,7 @@ http://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="PBS.Create.(KHNE-TV3).Hastings.,.NE.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/Create_TV_us.png" tvg-name="Create (PBS)",Create (PBS)
 https://create.lls.pbs.org/index.m3u8
 
-#EXTINF:-1 group-title="" tvg-id="PBS.World.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/NHK_World-japan.png" tvg-name="World (PBS)",World (PBS)
+#EXTINF:-1 group-title="" tvg-id="PBS.World.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PBS_World_us.png" tvg-name="World (PBS)",World (PBS)
 https://world.lls.pbs.org/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fne-pbs-logo.png" tvg-name="First Nations Experience (PBS)",First Nations Experience (PBS)
