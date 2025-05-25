@@ -22,7 +22,6 @@ Fox.Sports.2.us
 Oxygen.-.Eastern.Feed.us
 ESPN2.us
 W.(WTN).-.East.us
-plex.tv.Stadium.plex
 ION.Plus.TV.us
 TSN3.ca
 American.Heroes.Channel.us
@@ -52,7 +51,6 @@ TSN5.ca
 WGN.Chicago.(LOCAL).us
 FYI.USA.-.Eastern.us
 YES.Network.us
-plex.tv.Outside.plex
 ABC.(WABC).New.York,.NY.us
 Ovation.us
 MoreMax..Eastern.us
@@ -149,7 +147,6 @@ ReelzChannel.us
 World.Fishing.Network.(US).(WFN).us
 History.Channel.US.-.Eastern.Feed.us
 TSN2.ca
-plex.tv.FOX.SOUL.plex
 NFL.RedZone.us
 Nick.Jr..-.East.us
 Paramount+.with.Showtime.-.Eastern.Feed.us
@@ -251,7 +248,10 @@ Astro.Sports.UHD.my
 Canal.HBO.Plus.mx
 
 
-
+plex.tv.FOX.SOUL.plex
+plex.tv.Stadium.plex
+plex.tv.Outside.plex
+plex.tv.CBS.Sports.Golazo.Network.plex
 
 
 
