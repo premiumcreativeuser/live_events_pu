@@ -153,9 +153,6 @@ https://ott.udptv.org/stream/udptvus/disneyxd/stream.m3u8?uid=2842221057&u=disco
 #EXTINF:-1  tvg-name="DMAX" tvg-id="DMAX.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dmax-uk.png" group-title="ENTERTAINMENT",DMAX
 https://ott.udptv.org/stream/astro/dmax/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
-#EXTINF:-1  tvg-name="DW" tvg-id="DW.English.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="NEWS",DW
-https://ott.udptv.org/stream/astro/dw/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
-
 #EXTINF:-1  tvg-name="E! East" tvg-id="nbc/eeast" tvg-logo="https://img.nbc.com/files/images/2019/3/20/E-Logo-White-95x300.png" group-title="ENTERTAINMENT",E! East
 https://ott.udptv.com/stream/nbc/eeast/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
