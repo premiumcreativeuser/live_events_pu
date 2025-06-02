@@ -306,7 +306,7 @@ http://fl1.moveonjoy.com/HSN/index.m3u8
 http://fl1.moveonjoy.com/INVESTIGATION_DISCOVERY/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="INSP.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/insp-us.png?raw=true" tvg-name="INSP TV",INSP TV
-http://fl2.moveonjoy.com/INSP/index.m3u8
+http://fl1.moveonjoy.com/INSP/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ION..-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true" tvg-name="ION",ION
 http://fl1.moveonjoy.com/ION_TV/index.m3u8
@@ -384,7 +384,7 @@ http://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" tvg-name="NBC",NBC
-http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
+http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-id="NewsNation.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/news-nation-us.png?raw=true" tvg-name="NewsNation",NewsNation
 http://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
