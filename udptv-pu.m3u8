@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/epgs/udptv-epg.xml"
 
-#EXTINF:-1  tvg-name="ABC (KABC)" tvg-id="sling/kabc" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-kabc-us.png?raw=true" group-title="ENTERTAINMENT",ABC (KABC)
-https://ott.udptv.org/stream/udptvus/kabc/stream.m3u8?uid=1993700823&u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
+#EXTINF:-1  tvg-name="ABC (KABC)" tvg-id="udptvus/kabc" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-kabc-us.png?raw=true" group-title="ENTERTAINMENT",ABC (KABC)
+https://ott.udptv.org/stream/udptvus/kabc/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1  tvg-name="ABC News Live" tvg-id="udptvus/abcnewslive" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-news-live-hz-us.png?raw=true" group-title="NEWS",ABC News Live
-https://ott.udptv.org/stream/udptvus/abcnewslive/stream.m3u8?uid=715375843&u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
+https://ott.udptv.org/stream/udptvus/abcnewslive/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1  tvg-name="ABC(KGO)" tvg-id="udptvus/abckgo" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-kabc-us.png?raw=true" group-title="ENTERTAINMENT",ABC(KGO)
 https://ott.udptv.org/stream/udptvus/abckgo/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
@@ -15,8 +15,8 @@ https://ott.udptv.org/stream/udptvus/wabc/master.m3u8?u=discord.gg/civ3&p=eeaf01
 #EXTINF:-1  tvg-name="Adult Swim CA" tvg-id="udptv/adultswim" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/adult-swim-ca.png?raw=true" group-title="ENTERTAINMENT",Adult Swim CA
 https://ott.udptv.com/stream/udptv/adultswim/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
-#EXTINF:-1  tvg-name="AMC" tvg-id="udptvus/amc" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="NEWS",AMC
-https://ott.udptv.org/stream/udptvus/amc/stream.m3u8?uid=982721431&u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
+#EXTINF:-1  tvg-name="AMC" tvg-id="udptvus/amc" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="ENTERTAINMENT",AMC
+https://ott.udptv.org/stream/udptvus/amc/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1  tvg-name="AMC Thrillers" tvg-id="udptvus/amcthrillers" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/amc-thrillers-vod.png?raw=true" group-title="MOVIES",AMC Thrillers
 https://ott.udptv.org/stream/udptvus/amcthrillers/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
@@ -34,7 +34,7 @@ https://ott.udptv.org/stream/astro/premiersports/master.m3u8?u=discord.gg/civ3&p
 https://ott.udptv.org/stream/astro/showcasemovies/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1  tvg-name="Astro Sports Plus" tvg-id="Astro.Sports.Plus.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png" group-title="SPORTS",Astro Sports Plus
-https://ott.udptv.org/stream/astro/astrosportsplus/stream.m3u8?uid=3412225278&u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
+https://ott.udptv.org/stream/astro/astrosportsplus/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1  tvg-name="Astro Sports UHD" tvg-id="Astro.Sports.UHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png" group-title="SPORTS",Astro Sports UHD
 https://ott.udptv.org/stream/astro/astrosportsuhd/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
@@ -46,7 +46,7 @@ https://ott.udptv.org/stream/astro/axn/master.m3u8?u=discord.gg/civ3&p=eeaf011ae
 https://ott.udptv.org/stream/astro/bbcearth/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1  tvg-name="BBC Food" tvg-id="udptvus/bbcfood" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/bbc-food-vod.png?raw=true" group-title="DOCUMENTARY",BBC Food
-https://ott.udptv.org/stream/udptvus/bbcfood/stream.m3u8?uid=2511183676&u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
+https://ott.udptv.org/stream/udptvus/bbcfood/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1  tvg-name="BBC News" tvg-id="BBC.News.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" group-title="NEWS",BBC News
 https://ott.udptv.org/stream/astro/bbcnews/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
@@ -67,13 +67,13 @@ https://ott.udptv.net/stream/iptv/beinsports4/master.m3u8?u=discord.gg/civ3&p=ee
 https://ott.udptv.net/stream/iptv/beinsports5/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1  tvg-name="Bein Sports HD" tvg-id="udptvus/beinsports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" group-title="SPORTS",Bein Sports HD
-https://ott.udptv.org/stream/udptvus/beinsports/stream.m3u8?uid=1878413767&u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
+https://ott.udptv.org/stream/udptvus/beinsports/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1  tvg-name="Bein Sports Xtra" tvg-id="413152" tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="SPORTS",Bein Sports Xtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 #EXTINF:-1  tvg-name="Billard TV" tvg-id="udptvus/billardtv" tvg-logo="https://p-img.movetv.com/cms/images/be553f7355653b3bc0755048f20ec9f0b11d4c77.png/height=183" group-title="SPORTS",Billard TV
-https://ott.udptv.org/stream/udptvus/billardtv/stream.m3u8?uid=507008795&u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
+https://ott.udptv.org/stream/udptvus/billardtv/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1  tvg-name="Bloomberg TV" tvg-id="Bloomberg.TV.HD.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png" group-title="NEWS",Bloomberg TV
 https://ott.udptv.org/stream/astro/bloombergtv/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
