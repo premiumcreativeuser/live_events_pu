@@ -39,9 +39,6 @@ https://ott.udptv.org/stream/astro/astrosportsplus/stream.m3u8?uid=3412225278&u=
 #EXTINF:-1  tvg-name="Astro Sports UHD" tvg-id="Astro.Sports.UHD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png" group-title="SPORTS",Astro Sports UHD
 https://ott.udptv.org/stream/astro/astrosportsuhd/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
-#EXTINF:-1  tvg-name="Astro Warner TV" tvg-id="Warner.TV.HD.my" tvg-logo="https://i.imgur.com/L6Ta5te.png" group-title="MOVIES",Astro Warner TV
-https://ott.udptv.org/stream/astro/astrowarnertv/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
-
 #EXTINF:-1  tvg-name="AXN" tvg-id="AXN.HD.my" tvg-logo="https://i.imgur.com/OO6mWTx.png" group-title="MOVIES",AXN
 https://ott.udptv.org/stream/astro/axn/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
@@ -180,15 +177,6 @@ https://ott.udptv.org/stream/udptvus/espnnews/stream.m3u8?uid=1786574544&u=disco
 #EXTINF:-1  tvg-name="ESPN U" tvg-id="sling/espnu" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" group-title="SPORTS",ESPN U
 https://ott.udptv.org/stream/udptvus/espnu/stream.m3u8?uid=1583919916&u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
-#EXTINF:-1  tvg-name="Eurosport" tvg-id="EUROSPORT.my" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="SPORTS",Eurosport
-https://ott.udptv.org/stream/astro/eurosport/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
-
-#EXTINF:-1  tvg-name="Eurosport 1" tvg-id="Eurosport.1.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-1-fr.png" group-title="SPORTS",Eurosport 1
-https://ott.udptv.com/stream/udptv/eurosport1/stream.m3u8?uid=3018890480&u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
-
-#EXTINF:-1  tvg-name="Eurosport 2" tvg-id="Eurosport.2.lt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/eurosport-2-fr.png" group-title="SPORTS",Eurosport 2
-https://ott.udptv.com/stream/udptv/eurosport2/stream.m3u8?uid=1152389537&u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
-
 #EXTINF:-1  tvg-name="Fanduel Sports Network Extra" tvg-id="iptv/fanduelsportsnetworkextra" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/fd_extra_lg_hr_rgb_wt.png" group-title="SPORTS",Fanduel Sports Network Extra
 https://ott.udptv.net/stream/iptv/fanduelsportsnetworkextra/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
@@ -323,12 +311,6 @@ https://ott.udptv.com/stream/udptv/mtvhits/stream.m3u8?uid=2337833998&u=discord.
 
 #EXTINF:-1  tvg-name="MTV Live" tvg-id="MTV.Live.my" tvg-logo="https://i.imgur.com/LUMQhnM.png" group-title="MUSIC",MTV Live
 https://ott.udptv.org/stream/astro/mtvlive/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
-
-#EXTINF:-1  tvg-name="MTV Live IT" tvg-id="MTV.Live.HD.us" tvg-logo="https://i.imgur.com/LUMQhnM.png" group-title="MUSIC",MTV Live IT
-https://ott.udptv.com/stream/udptv/mtvlive/stream.m3u8?uid=2171648670&u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
-
-#EXTINF:-1  tvg-name="MTV Live PH" tvg-id="MTVLIVE.ph" tvg-logo="https://i.imgur.com/LUMQhnM.png" group-title="MUSIC",MTV Live PH
-http://ott.udptv.net/stream/iptv/mtvliveph/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
 
 #EXTINF:-1  tvg-name="MTV Live US" tvg-id="MTV.Live.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mtv-live-us.png?raw=true" group-title="MUSIC",MTV Live US
 https://ott.udptv.com/stream/fubo/mtvlive/master.m3u8?u=discord.gg/civ3&p=eeaf011ae6d8cdbf0200cc0234f54fdc95d7b5b158d22258efd49d7e36275c7a
