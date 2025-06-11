@@ -480,7 +480,7 @@ https://ott.udptv.net/stream/iptv/skyshowtime2/master.m3u8?u=discord.gg/civ3&p=8
 #EXTINF:-1  tvg-name="Showtime 2" tvg-id="udptvus/showtime2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="MOVIES",Showtime 2
 https://ott.udptv.org/stream/udptvus/showtime2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
-EXTINF:-1  tvg-name="Showtime Showcase" tvg-id="udptvus/showtimeshowcase" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png?raw=true" group-title="MOVIES",Showtime Showcase
+#EXTINF:-1  tvg-name="Showtime Showcase" tvg-id="udptvus/showtimeshowcase" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-showcase-us.png?raw=true" group-title="MOVIES",Showtime Showcase
 https://ott.udptv.org/stream/udptvus/showtimeshowcase/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
 #EXTINF:-1  tvg-name="Showtime Extreme" tvg-id="udptvus/showtimeextreme" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-extreme-us.png?raw=true" group-title="MOVIES",Showtime Extreme
