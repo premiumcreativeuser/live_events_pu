@@ -15,13 +15,13 @@
 #EXTVLCOPT:http-origin=https://embedstreams.top
 #EXTVLCOPT:http-referrer=https://embedstreams.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://rr.buytommy.top/secure/wkzmzYMsaE/alpha/stream/espn/1/playlist.m3u8
+]https://rr.buytommy.top/secure/AQrrQfUxsB/alpha/stream/espn/1/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Fembedstreams.top%2Fembed%2Falpha%2Fespn%2F1
 
 #EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/imgs/formula-logo.png",Sky Sports F1 
 #EXTVLCOPT:http-origin=https://embedstreams.top
 #EXTVLCOPT:http-referrer=https://embedstreams.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://rr.buytommy.top/secure/RjYffchwiH/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://rr.buytommy.top/secure/qooNCyGFtw/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Fembedstreams.top%2F
 ############################################
 #EXTINF:-1 group-title="" tvg-logo="",Title
 #EXTVLCOPT:http-origin=https://embedstreams.top
