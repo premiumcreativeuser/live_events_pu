@@ -524,10 +524,10 @@ https://ott.udptv.com/stream/skyuk/skycomedy/master.m3u8?u=discord.gg/civ3&p=8c4
 https://ott.udptv.com/stream/skyuk/skymax/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
 #EXTINF:-1  tvg-name="sky SHOWTIME 1" tvg-id="iptv/skyshowtime1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/sky-showtime-1-no.png" group-title="ENTERTAINMENT",sky SHOWTIME 1
-https://ott.udptv.net/stream/iptv/skyshowtime1/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/skyshowtime1/stream.m3u8?uid=3271333133&u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
 #EXTINF:-1  tvg-name="sky SHOWTIME 2" tvg-id="iptv/skyshowtime2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/sky-showtime-2-no.png" group-title="ENTERTAINMENT",sky SHOWTIME 2
-https://ott.udptv.net/stream/iptv/skyshowtime2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
+https://ott.udptv.net/stream/iptv/skyshowtime2/stream.m3u8?uid=318177064&u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
 
 #EXTINF:-1  tvg-name="Showtime 2" tvg-id="Showtime.2.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true" group-title="MOVIES",Showtime 2
 https://ott.udptv.org/stream/udptvus/showtime2/master.m3u8?u=discord.gg/civ3&p=8c43211c3fe7f44b1af3deedb89d50ecef2ee4c97eb987071fd3fea18a7b0af7
