@@ -21,6 +21,23 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 ############################################
 
+#EXTINF:-1 group-title="" tvg-logo="",DAZN 1
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmY4Yjc0ZDFiNzdhLTYzN2EtNzIwNC0wNmEyLWEzM2EwMDM2/master.m3u8?auth_key=1750259845-3c31ed6f27c7691ccd311624290610dc-00000000000000000000000000000000-85a12f55e71b2432ea9ac0cac4f86ddd|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Ffstv.us%2F
+
+#EXTINF:-1 group-title="" tvg-logo="",DAZN 2
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDczNGRiNWVkN2QwLWU3NGItNmRkNC0wYjhiLTFjNmM2NTBj/master.m3u8?auth_key=1750259895-3c31ed6f27c7691ccd311624290610dc-00000000000000000000000000000000-adab215939d01da141eeb247ed26591f|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Ffstv.us%2F
+
+#EXTINF:-1 group-title="" tvg-logo="",Fox Soccer Plus
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8?auth_key=1750259767-3c31ed6f27c7691ccd311624290610dc-00000000000000000000000000000000-2d0e00aa737194ef8afd0c44ff8c512c|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Ffstv.us%2F
 
 #EXTINF:-1 group-title="" tvg-logo="",Sky Sports Formula 1 
 #EXTVLCOPT:http-origin=https://fstv.us
