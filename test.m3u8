@@ -4,9 +4,6 @@
 
 #EXTINF:-1 STREAM FINDER
 
-#EXTINF:-1 group-title="Entertainment" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
-https://ott-s4.udptv.net/stream/nbc/tnt/master.m3u8?u=discord.gg/civ3&p=6d5d9a902ca1be2c5ba915568660086c0d2cb315c3063482ce97b97b0e70b96a
-
 
 
 #EXTINF:-1 group-title="Movies" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
@@ -47,13 +44,6 @@ http://fl2.moveonjoy.com/FOX_SOCCER_PLUS/index.m3u8
 http://fl1.moveonjoy.com/fox_soccer_plus/index.m3u8
 http://fl1.moveonjoy.com/FOX_soccer_plus/index.m3u8
 
-
-
-#EXTINF:-1 group-title="Entertainment" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-name="TNT",TNT
-http://fl1.moveonjoy.com/TNT/index.m3u8
-http://fl1.moveonjoy.com/TNT_CHANNEL/index.m3u8
-http://fl1.moveonjoy.com/Tnt/index.m3u8
-http://fl1.moveonjoy.com/tnt/index.m3u8
 
 
 
@@ -124,8 +114,6 @@ http://143.244.60.30/STARZ_BLACK/index.m3u8
 http://143.244.60.30/STARZ_ENCORE/index.m3u8
 http://143.244.60.30/SUNDANCETV/index.m3u8
 http://143.244.60.30/TBN/index.m3u8
-http://143.244.60.30/TNT/index.m3u8
-http://143.244.60.30/TNT_CHANNEL/index.m3u8
 http://143.244.60.30/TVLAND/index.m3u8
 http://143.244.60.30/TVONE/index.m3u8
 http://143.244.60.30/VICE/index.m3u8
