@@ -27,6 +27,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://rr.buytommy.top/secure/LlCbHPjAvw/alpha/stream/juventus-vs-wydad-ac/1/playlist.m3u8
 
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/dazn-es.png",Wydad AC vs. Juventus Alpha 1 Test 2
+#EXTVLCOPT:http-origin=https://embedstreams.top
+#EXTVLCOPT:http-referrer=https://embedstreams.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://rr.buytommy.top/secure/WuiozlFJBY/alpha/stream/juventus-vs-wydad-ac/1/playlist.m3u8
+
 #EXTINF:-1 group-title="" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Find-okc%2F1280x720.png@jpg",Pacers at Thunder (Game 7)
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
