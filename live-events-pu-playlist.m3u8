@@ -21,42 +21,42 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 ############################################
 
-#EXTINF:-1 group-title="" tvg-logo="",Pacers at Thunder (Game 7)
+#EXTINF:-1 group-title="" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Find-okc%2F1280x720.png@jpg",Pacers at Thunder (Game 7)
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDUxOWZmYTM4YmNmLWNkNjktZjMwNC0wNGU2LTU4MTM1Y2Mz/master.m3u8?md5=I0S2CVXjrZ2fdpyH2wWDwA&expires=1750649093&t=1750605893|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Fveplay.top%2F
 
-#EXTINF:-1 group-title="" tvg-logo="",DAZN 1
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/dazn-1-es.png",DAZN 1
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmY4Yjc0ZDFiNzdhLTYzN2EtNzIwNC0wNmEyLWEzM2EwMDM2/master.m3u8?auth_key=1750259845-3c31ed6f27c7691ccd311624290610dc-00000000000000000000000000000000-85a12f55e71b2432ea9ac0cac4f86ddd|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Ffstv.us%2F
 
-#EXTINF:-1 group-title="" tvg-logo="",DAZN 2
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/dazn-2-es.png",DAZN 2
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDczNGRiNWVkN2QwLWU3NGItNmRkNC0wYjhiLTFjNmM2NTBj/master.m3u8?auth_key=1750259895-3c31ed6f27c7691ccd311624290610dc-00000000000000000000000000000000-adab215939d01da141eeb247ed26591f|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Ffstv.us%2F
 
-#EXTINF:-1 group-title="" tvg-logo="",Fox Soccer Plus
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-soccer-plus-us.png",Fox Soccer Plus
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8?auth_key=1750259767-3c31ed6f27c7691ccd311624290610dc-00000000000000000000000000000000-2d0e00aa737194ef8afd0c44ff8c512c|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Ffstv.us%2F
 
-#EXTINF:-1 group-title="" tvg-logo="",Sky Sports Formula 1 
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports Formula 1 
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8?auth_key=1750259589-3c31ed6f27c7691ccd311624290610dc-00000000000000000000000000000000-6392d9f13dd361a240aceea424c980cc|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Ffstv.us%2F
 
-#EXTINF:-1 group-title="" tvg-logo="",TBS
+#EXTINF:-1 group-title="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjM3NmYzZWJiZGE0LTIxYzgtYzBkNC0zNDc2LTlmODM2NzFj/master.m3u8?auth_key=1750554513-39c02b663be59285e894823c57105737-00000000000000000000000000000000-4607d645b427e6405c7d69a89de64d6e|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Ffstv.us%2F
 
-#EXTINF:-1 group-title="" tvg-logo="",TUDN
+#EXTINF:-1 tvg-id="TUDN.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png" group-title="UNITED STATES",TUDN USA
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
