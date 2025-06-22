@@ -21,7 +21,7 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 ############################################
 
-#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/dazn-1-es.png",Wydad AC vs. Juventus
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/dazn-es.png",Wydad AC vs. Juventus
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjFkODA5OWI4ZTVlLWY4YzgtYWYzNC1jNTc3LWNiOTBiMGYz/master.m3u8?md5=hnKBJCZPYvgETqbDB5J40w&expires=1750654448&t=1750611248|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Fveplay.top%2F
@@ -31,7 +31,7 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjFkODA5OWI4ZTVlLWY4Yzg
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDUxOWZmYTM4YmNmLWNkNjktZjMwNC0wNGU2LTU4MTM1Y2Mz/master.m3u8?md5=I0S2CVXjrZ2fdpyH2wWDwA&expires=1750649093&t=1750605893|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Fveplay.top%2F
 
-#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/dazn-1-es.png",Wydad AC vs. Juventus
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/dazn-es.png",Wydad AC vs. Juventus Alpha 1
 #EXTVLCOPT:http-origin=https://embedstreams.top
 #EXTVLCOPT:http-referrer=https://embedstreams.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
