@@ -189,7 +189,7 @@ ASPiRE.TV.us
 HBO.Zone.HD.-.East.us
 Cartoon.Network.USA.-.Eastern.Feed.us
 Fox.Business.us
-
+TUDN.us
 ThrillerMax.-.East.us
 AMC+.us
 Gol.TV.USA.us
