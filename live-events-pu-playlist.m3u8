@@ -50,6 +50,19 @@ https://rr.buytommy.top/secure/pNoGvNEmeU/alpha/stream/real-madrid-vs-pachuca/1/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://rr.buytommy.top/secure/EdfjWjxPyE/alpha/stream/real-madrid-vs-pachuca/1/playlist.m3u8
 
+#EXTINF:-1 group-title="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=8f02r534e8q0i5ft5uxxa0o5w_image-header_pRow_1749634052000&quality=50",Real Madrid vs Pachuca streamed 3
+#EXTVLCOPT:http-origin=https://embedstreams.top
+#EXTVLCOPT:http-referrer=https://embedstreams.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://rr.buytommy.top/secure/SMullGLZwE/alpha/stream/real-madrid-vs-pachuca/1/playlist.m3u8|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Fembedstreams.top%2F
+
+#EXTINF:-1 group-title="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=8f02r534e8q0i5ft5uxxa0o5w_image-header_pRow_1749634052000&quality=50",Real Madrid vs Pachuca streamed 4
+#EXTVLCOPT:http-origin=https://embedstreams.top
+#EXTVLCOPT:http-referrer=https://embedstreams.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://rr.buytommy.top/secure/SMullGLZwE/alpha/stream/real-madrid-vs-pachuca/1/playlist.m3u8
+
+
 #EXTINF:-1 group-title="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=8f02r534e8q0i5ft5uxxa0o5w_image-header_pRow_1749634052000&quality=50",Real Madrid vs Pachuca fstv
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
