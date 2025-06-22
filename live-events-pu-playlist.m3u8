@@ -1,10 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/epgs/moveonjoy-epg.xml" 
 ###############FORMATTING#################
-#EXTINF:-1 group-title="" tvg-logo="",streamed
-#EXTVLCOPT:http-origin=https://embedstreams.top
-#EXTVLCOPT:http-referrer=https://embedstreams.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-
 #EXTINF:-1 group-title="" tvg-logo="",ppv
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
@@ -15,54 +10,50 @@
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 
+#EXTINF:-1 group-title="" tvg-logo="",timstreams
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+
+#EXTINF:-1 group-title="" tvg-logo="",soccer-100 
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+
 #EXTINF:-1 group-title="" tvg-logo="",daddylive 
 #EXTVLCOPT:http-origin=https://veplay.top
 #EXTVLCOPT:http-referrer=https://veplay.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 
-#EXTINF:-1 group-title="" tvg-logo="",timstreams
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTINF:-1 group-title="" tvg-logo="",streamed
+#EXTVLCOPT:http-origin=https://embedstreams.top
+#EXTVLCOPT:http-referrer=https://embedstreams.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 ############################################
 
-#EXTINF:-1 group-title="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=8f02r534e8q0i5ft5uxxa0o5w_image-header_pRow_1749634052000&quality=50",Al Hilal vs. RB Salzburg ppv
+#EXTINF:-1 group-title="" tvg-logo="",Al Hilal vs. RB Salzburg ppv
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjFkODA5OWI4ZTVlLWY4YzgtYWYzNC1jNTc3LWNiOTBiMGYz/master.m3u8?md5=IHRbnn2Lr7_nGW2et0uSFA&expires=1750672954&t=1750629754|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Fveplay.top%2F
 
-#EXTINF:-1 group-title="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=8f02r534e8q0i5ft5uxxa0o5w_image-header_pRow_1749634052000&quality=50",Real Madrid vs Pachuca tims
-#EXTVLCOPT:http-origin=https://kleanembed.online
-#EXTVLCOPT:http-referrer=https://kleanembed.online/
+#EXTINF:-1 group-title="" tvg-logo="",Al Hilal vs. RB Salzburg soccer-100 supertips 
+#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
+#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://nl95iswiruspa6ocreswofri8ra86lcreveq3f2k9ph83.katosose2h2ri139ls8uwrlfixiwoqugedastoji7howrup7atrivichworker.workers.dev/8LpHexevlthiwihl8one1ab/17c7a8a980a7347a10f9639e37890cf1.m3u8
+https://azonew.newkso.ru/azo/nevena1/mono.m3u8|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Fforcedtoplay.xyz%2F
 
-#EXTINF:-1 group-title="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=8f02r534e8q0i5ft5uxxa0o5w_image-header_pRow_1749634052000&quality=50",Real Madrid vs Pachuca ppv
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjFkODA5OWI4ZTVlLWY4YzgtYWYzNC1jNTc3LWNiOTBiMGYz/master.m3u8?md5=MPoQq8vOBXRTBgXk2qCLog&expires=1750661990&t=1750618790|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Fveplay.top%2F
-
-#EXTINF:-1 group-title="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=8f02r534e8q0i5ft5uxxa0o5w_image-header_pRow_1749634052000&quality=50",Real Madrid vs Pachuca fstv
+#EXTINF:-1 group-title="" tvg-logo="",Al Hilal vs. RB Salzburg fstv 
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OGU5NDc2OGMzNzcxLWQ5NDktNDViNC1hMGMzLTI4YzBiZGY2/master.m3u8?auth_key=1750618966-a6be19f05ec477b6a2b2d3357d3ba7c6-00000000000000000000000000000000-a3df369b08cc949236ad83ec4da9709f|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Ffstv.us%2F
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZTllMGQyMjcyNTZmLWRiNWEtNzlmNC0yZmNhLTcxN2Q1Y2Vk/master.m3u8?auth_key=1750630774-c76bc92c388323ddd4355057d921660d-00000000000000000000000000000000-5471df0566a58d12f4b93d1296fe1026|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Ffstv.us%2F
 
-#EXTINF:-1 group-title="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=8f02r534e8q0i5ft5uxxa0o5w_image-header_pRow_1749634052000&quality=50",Real Madrid vs Pachuca daddylive 
-#EXTVLCOPT:http-origin=https://vecloud.eu
-#EXTVLCOPT:http-referrer=https://vecloud.eu/
+#EXTINF:-1 group-title="" tvg-logo="",Al Hilal vs. RB Salzburg timstreams
+#EXTVLCOPT:http-origin=https://kleanembed.online
+#EXTVLCOPT:http-referrer=https://kleanembed.online/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Y2EwYTJkMzUzM2NmLTlkYjgtMGUwNC1lMTAwLTJlZmQ0ZWJl/master.m3u8?md5=-CZaHSWIHlu458IzVUAaCg&expires=1750666839&t=1750623639|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Fvecloud.eu%2F
-
-#EXTINF:-1 group-title="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=8f02r534e8q0i5ft5uxxa0o5w_image-header_pRow_1749634052000&quality=50",Real Madrid vs Pachuca streamed 
-#EXTVLCOPT:http-origin=https://embedstreams.top
-#EXTVLCOPT:http-referrer=https://embedstreams.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://rr.buytommy.top/secure/SMullGLZwE/alpha/stream/real-madrid-vs-pachuca/1/playlist.m3u8
-
-
+https://dupho8lwap1lspojoqeme1inow7stisodo4icroxustac.katosose2h2ri139ls8uwrlfixiwoqugedastoji7howrup7atrivichworker.workers.dev/8LpHexevlthiwihl8one1ab/e53499886ec7c9534f9e19ecc1f07a58.m3u8|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Fkleanembed.online%2F
 
 
 
@@ -85,11 +76,6 @@ https://go7uxuprot8thiruz5tri7aswephog2cugufiqocotho5.katosose2h2ri139ls8uwrlfix
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8?auth_key=1750619604-a6be19f05ec477b6a2b2d3357d3ba7c6-00000000000000000000000000000000-4ca744806c61c8779fe9246f7f82f9d2|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A139.0)%20Gecko%2F20100101%20Firefox%2F139.0&Referer=https%3A%2F%2Ffstv.us%2F
-
-#EXTINF:-1 group-title="" tvg-logo="https://mc-2mhdiicnc6.b-cdn.net/thumbnail/plain/https%3A%2F%2Fcdn.nba.com%2Fdavinci%2Fimages%2Fteam-matchups%2Fnba%2Flatest%2Fced%2Find-okc%2F1280x720.png@jpg",Pacers at Thunder (Game 7) streamed
-#EXTVLCOPT:http-origin=https://embedstreams.top
-#EXTVLCOPT:http-referrer=https://embedstreams.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 
 
 
