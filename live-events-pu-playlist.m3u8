@@ -43,8 +43,11 @@ USA Vs Haiti Live Stream  https://dal.dalia.fun/hls1/ch2/index.m3u8?md5=5d17c67e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://rr.buytommy.top/secure/lQXpgociwi/alpha/stream/mexico-vs-costa-rica/1/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="" tvg-logo="",Mexico - Costa Rica - Video 1
+#EXTVLCOPT:http-origin=https://tvableon.me
+#EXTVLCOPT:http-referrer=https://tvableon.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://s-c4.aistrem.net/plyvivo/rapocohu4ic0xuxiliza/chunklist.m3u8
 
 
 
