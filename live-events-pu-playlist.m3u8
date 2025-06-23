@@ -37,8 +37,11 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:139.0) Gecko/20100101 Firefox/139.0
 USA Vs Haiti Live Stream  https://dal.dalia.fun/hls1/ch2/index.m3u8?md5=5d17c67e0dc196cb350d2be4ca89c753&expiretime=1750639990
 
-
-
+#EXTINF:-1 group-title="" tvg-logo="",Mexico vs Costa Rica Stream Alpha 1
+#EXTVLCOPT:http-origin=https://embedstreams.top
+#EXTVLCOPT:http-referrer=https://embedstreams.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://rr.buytommy.top/secure/lQXpgociwi/alpha/stream/mexico-vs-costa-rica/1/playlist.m3u8
 
 
 
