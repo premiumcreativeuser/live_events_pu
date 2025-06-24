@@ -226,6 +226,7 @@ TNT.Sports.5.HD.uk
 Sky.Sports.Football.HD.uk
 Sky.Action.HD.uk
 SkySpCricket.HD.uk
+Channel.5.uk
 
 
 
