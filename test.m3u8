@@ -4,7 +4,11 @@
 
 #EXTINF:-1 STREAM FINDER
 
+#EXTINF:-1 tvg-logo="" group-title="USA",TNT E🇺🇸 
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tnteast/slate/VIDEO_0_3564000.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="USA",TNT W🇺🇸 
+https://turnerlive.warnermediacdn.com/hls/live/2023170/tntwest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
 http://fl1.moveonjoy.com/Cinemax_Moremax/index.m3u8
