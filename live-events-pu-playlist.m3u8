@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/epgs/moveonjoy-epg.xml" 
-###############FORMATTING#################
+########################################################################################FORMATTING########################################################################################
 #EXTINF:-1 group-title="" tvg-logo="",ppv
 #EXTVLCOPT:http-origin=https://ppv.wtf
 #EXTVLCOPT:http-referrer=https://ppv.wtf/
@@ -34,7 +34,16 @@
 #EXTVLCOPT:http-origin=https://tvableon.me
 #EXTVLCOPT:http-referrer=https://tvableon.me/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-############################################
+################################################################################################################################################################################
+
+#EXTINF:-1 group-title="" tvg-logo="",FS1 
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iZihzN4YGOidDZlBTL1gzYi1iNyEGNtImY5YWL2IDNjhDZmZ2L.m3u8
+
+
+
 
 #EXTINF:-1 group-title="" tvg-logo="",Chelsea vs. Esperance Sportive de Tunis
 #EXTVLCOPT:http-origin=https://ppv.wtf
@@ -81,13 +90,6 @@ https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGFmZjU1ZjAxMmM5LTFjYTg
 
 
 
-
-
-#EXTINF:-1 group-title="" tvg-logo="",FS1 
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://hipaf6u2j3pwygg.nice-flower.store/v4/variant/VE1gTdz0mLzRnLv52bt9SMhFjdtM3ajFmc09iZihzN4YGOidDZlBTL1gzYi1iNyEGNtImY5YWL2IDNjhDZmZ2L.m3u8
 
 
 
