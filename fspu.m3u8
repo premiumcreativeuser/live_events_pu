@@ -1,0 +1,403 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/epgs/moveonjoy-epg.xml"
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-name="USA Network",USA Network
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8?auth_key=1750978881-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-14344ed4d4332669f15606f5de0e3301
+
+#EXTINF:-1 group-title="Sports" tvg-id="CBS.Sports.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-name="CBS SPORTS NETWORK",CBS SPORTS NETWORK
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MDJhM2Q4MmIzYTc3LWJhMjgtMGM2NC0yN2IwLTA4M2Q2NDkz/master.m3u8?auth_key=1750978853-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-c0ccc02b71e6a37cf6ed96dab1cb98ad
+
+#EXTINF:-1 group-title="News" tvg-id="WSBK.(TV-38).Boston.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS",CBS Los Angeles
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTgxYmU5ZDA3ZjQwLTc3NGItZGU5NC01MWY5LTNmMDNkMDNi/master.m3u8?auth_key=1750978896-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-d3cd9d03a4c7b534a8413686a33e9e30
+
+#EXTINF:-1 group-title="Sports" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-sports-golazo-network-us.png" tvg-name="CBS Sports Golazo",CBS Sports Golazo
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NjU5NGU0NzYwMGEwLTIwZmItMWNiNC1iMDI4LTYzZmM5NjU3/master.m3u8?auth_key=1750978917-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-bb181e8cd64223f0d28a16c77724b7ec
+
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-name="ESPN",ESPN
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTkzNGQyNjA3OWRiLWU1NGEtYmZjNC05NDMxLWU4OTEyYmJm/master.m3u8?auth_key=1750978925-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-c9b3a1883879c846b34e4c898f282421
+
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN2.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" tvg-name="ESPN 2",ESPN 2
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8?auth_key=1750978935-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-c7fb96ae7bce12a2ff0e99bc9c9b91bc
+
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" tvg-name="ESPN NEWS",ESPN NEWS
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTNmNzQ2YmUwYzk0LTU3OGEtOTM1NC1lZDBhLTVhODk0ODM4/master.m3u8?auth_key=1750978947-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-c8bd146092646a36fcec6da3f407c4d9
+
+#EXTINF:-1 group-title="Sports" tvg-id="SEC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-name="SEC Network",SEC Network
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZTRhYTk4ODliNWFmLTFmNDgtY2U4NC1hYTUxLTA1Nzg4ZDU3/master.m3u8?auth_key=1750978956-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-200e1760cc14eb6c754e0ab4422a578f
+
+#EXTINF:-1 group-title="Sports" tvg-id="ESPNU.On.Demand.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" tvg-name="ESPN U",ESPN U
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MDg5NTVmYzNlZjA1LWQzNmItYmI1NC0yNmQ3LWYyZDZjNDhi/master.m3u8?auth_key=1750978985-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-76bd2c51020103dc27f1dfd09a7b77db
+
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN.Deportes.On.Demand.us" tvg-logo="https://raw.githubusercontent.com/premiumcu/gear/refs/heads/main/tv-logos/espn-deportes-us.png" tvg-name="ESPN DEPORTES",ESPN DEPORTES
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1M2Q1YmI0NDBiOWI2LWRiNGEtNGRjNC1iODU4LTZkYzE3YTM4/master.m3u8?auth_key=1750978997-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-cbe4522b9f6de1f7d2821490a5cba9a0
+
+#EXTINF:-1  tvg-name="FS1" tvg-id="Fox.Sports.1.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="SPORTS",FS1
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmI4NzhmOGI3ZGUwLTU4Y2ItNjJhNC1iYjlmLTYyNGM4ZGZm/master.m3u8?auth_key=1750979006-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-580796b24556e7472b8023c2bc240fd1
+
+#EXTINF:-1 group-title="Sports" tvg-id="Fox.Sports.2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-name="FS2",FS2
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTY5MDFkNTVlYjFmLTEwMGItOWQ2NC0yYWE2LWVkYWYwMGYy/master.m3u8?auth_key=1750979016-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-4ad0344d80f0f19145ddd7347971c9c0
+
+#EXTINF:-1 group-title="Sports" tvg-id="The.Tennis.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" tvg-name="Tennis Channel",Tennis Channel
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmNhYTQ1ODQ5MGE2LTljYTktZGY1NC01NDRlLWMyZTQ3NjBm/master.m3u8?auth_key=1750979027-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-1985b907840c68687d4c50a1c9785ee1
+
+#EXTINF:-1 group-title="Sports" tvg-id="The.Tennis.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" tvg-name="Tennis Channel",Tennis Channel 2
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NmYzNTJiMzc5NTdmLWIwYzgtNGY4NC0xMTdhLTI0OWE5Mjcy/master.m3u8?auth_key=1750979054-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-2b2c7c0c53077a56e3a71d15bcbf4cb7
+
+#EXTINF:-1 group-title="News" tvg-id="NBC.(WNBC).New.York,.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" tvg-name="NBC",NBC
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8?auth_key=1750979064-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-bc0fa3a23df0cc41e4b63363aca02381
+
+#EXTINF:-1 group-title="News" tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC FHD",CNBC FHD
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MDJhNDYwMTRlYWY0LWFiOTktNTg2NC1hYWE4LThlY2NmNDk2/master.m3u8?auth_key=1750979076-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-e47986df1ba9bd809a37623845316db4
+
+#EXTINF:-1 group-title="News" tvg-id="CHANGE" tvg-logo="CHANGE" tvg-name="Universo",Universo
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjExOTNhYzE4OWVhLTgwMGItZmE0NC1kYTMzLWQzMmVkNmI1/master.m3u8?auth_key=1750979092-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-b1d7ad4527d37d67079dca95161325b2
+
+#EXTINF:-1 group-title="News" tvg-id="MSNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png" tvg-name="MSNBC",MSNBC
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OGQ4YzMwOTdlOTI4LWMxZWItMzdhNC0zN2U3LTIxMWIyZjhk/master.m3u8?auth_key=1750979101-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-51cf9708441426e58cfdd33c22be51f6
+
+#EXTINF:-1  tvg-name="TNT Sports 1" tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png" group-title="SPORTS",TNT Sports 1
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTE5MmVjYzhmYTE3LWZkMDgtZDQ2NC0xMzU3LWE5MmE0Mzk3/master.m3u8?auth_key=1750979113-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-bdadd77fc0cb4256774f285614c7876c
+
+#EXTINF:-1  tvg-name="TNT Sports 2" tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-2-uk.png" group-title="SPORTS",TNT Sports 2
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NGY2YTlkMjFlMzNiLTNlN2ItZTQ4NC1jMWVjLWY5ZjU0Mzg5/master.m3u8?auth_key=1750979121-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-93d2fc54c66ec7db23309c96d5e101f6
+
+#EXTINF:-1  tvg-name="TNT Sports 3" tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-3-uk.png" group-title="SPORTS",TNT Sports 3
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZDU3NjA3NzY4OTFjLWRkNzktMjE4NC1lN2E1LTkwNWRmY2Fm/master.m3u8?auth_key=1750979130-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-36cb6d89998b59dcd45bb5ddac322bee
+
+#EXTINF:-1  tvg-name="TNT Sports 4" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-4-uk.png" group-title="SPORTS",TNT Sports 4
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MzMyYzk1MGY3ZWIyLWM3NzgtNjNkNC1jODNhLWZmYjRjYzg1/master.m3u8?auth_key=1750979140-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-0f065bd7eb720dabb1a02280d7202878
+
+#EXTINF:-1  tvg-name="TNT Sports 5" tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-5-uk.png" group-title="SPORTS",TNT Sports 5
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGE3MDdjOWNmOGNhLWY1MjktYmRiNC1kYjY4LTQwMTQ3OWZj/master.m3u8?auth_key=1750979149-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-fe8a67a144e7148957693d89591900f8
+
+#EXTINF:-1  tvg-name="Sky Sports Action UK" tvg-id="Sky.Action.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png" group-title="SPORTS",Sky Sports Action UK
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzhjYzNjYTZjODJjLTYzZGItNDM3NC00YjFmLTQyYjZjYWM3/master.m3u8?auth_key=1750979161-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-27479add01c2813df8da2a7cabaad060
+
+#EXTINF:-1  tvg-name="Sky Sports Action UK" tvg-id="CHANGE" tvg-logo="CHANGE" group-title="SPORTS",Sky Sports Action PLUS
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDJkMDJjZTY1N2VmLTA5MGEtZDIwNC1kNjAwLTFlMWUzMzdj/master.m3u8?auth_key=1750979179-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-f580c213df9c627416f8346574e1f3e5
+
+#EXTINF:-1  tvg-name="Sky Sports F1 UK" tvg-id="CHANGE" tvg-logo="CHANGE" group-title="SPORTS",Sky Sports Racing
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDJkMDJjZTY1N2VmLTA5MGEtZDIwNC1kNjAwLTFlMWUzMzdj/master.m3u8?auth_key=1750979179-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-f580c213df9c627416f8346574e1f3e5
+
+#EXTINF:-1  tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NGRiMTQ4MmUyNmQwLWQ4YjktNmU1NC04MzllLWViNDg3MDJm/master.m3u8?auth_key=1750979215-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-190933c2ac6a2f4b8aed0afebf47ae39
+
+#EXTINF:-1  tvg-name="Sky Sports Football UK" tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="SPORTS",Sky Sports Football UK
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjY1NWIyOTgyOTRjLTlhZWEtOTc3NC04NTE3LWI1OGU2NWI4/master.m3u8?auth_key=1750979233-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-8d7afb57d323010a867af7beead8cc63
+
+#EXTINF:-1  tvg-name="Sky Sports Main Event UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png" group-title="SPORTS",Sky Sports Main Event UK
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTE2YjUwMDY3YzhlLTAzYzgtOTNlNC1lYzBkLWIzNjVmN2Uy/master.m3u8?auth_key=1750979246-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-6cd60649a9ca641fa533fd55af150c7c
+
+#EXTINF:-1  tvg-name="Sky Sports Main Event UK" tvg-id="CHANGE" tvg-logo="CHANGE" group-title="SPORTS",Sky Sports Main Event UK Arena
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZWIyNGYyOWFkMTNmLWM4M2ItNTljNC0zNGUzLTg2YmUwYzgz/master.m3u8?auth_key=1750979261-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-7d300963f9ce75c380a9f1c4376df1bb
+
+#EXTINF:-1  tvg-name="Sky Sports Action UK" tvg-id="CHANGE" tvg-logo="CHANGE" group-title="SPORTS",Sky Sports Premier League
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTMwMTUyNDhlM2ExLTAwMGItNjE3NC02OGM0LThjZDU4YmQy/master.m3u8?auth_key=1750979274-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-b80168b08b6005c9c74c0c6f263f41fd
+
+#EXTINF:-1  tvg-name="Sky Sports Action UK" tvg-id="CHANGE" tvg-logo="CHANGE" group-title="SPORTS",Sky Sports News
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YWRkMzJhZDNhMTUwLWQ4OWEtMGUyNC0yYzBjLWMyZGYyYjli/master.m3u8?auth_key=1750979284-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-e002425a2372e563b9b0a603f2fc4416
+
+#EXTINF:-1  tvg-name="Sky Sports Action UK" tvg-id="CHANGE" tvg-logo="CHANGE" group-title="SPORTS",Sky Sports Mix
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1Mzk2Y2I3ZWM1YjU4LWU4YzgtNzQ3NC02OTc0LTljMDdiOTM3/master.m3u8?auth_key=1750979297-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-425024569e9d6ed10f8896895a04cacb
+
+#EXTINF:-1 group-title="Sports" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" tvg-name="BEIN SPORTS",BEIN SPORTS HD
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzdiN2IwMTM2MzRmLTAwNmItNjM3NC05ZWJmLWFmZmYxNzU2/master.m3u8?auth_key=1750979316-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-5276b4c8cefb0ca4900f038080a87274
+
+#EXTINF:-1 group-title="Sports" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" tvg-name="BEIN SPORTS",BEIN SPORTS Xtra
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZGIyMWQzMDE2MGFiLWUwNDktMzBjNC1kNjUyLTljMWEzNzFi/master.m3u8?auth_key=1750979373-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-20513bba2374b2f3ca5d91de59ad946a
+
+#EXTINF:-1 group-title="Sports" tvg-id="beIN.Sports.HDTV.(Spanish).(beINHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true" tvg-name="BEIN SPORTS",BEIN SPORTS n
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MWZlMDAwZTlmM2QyLWUzMGItYjVmNC0zMDhjLTViNGQ3YTRl/master.m3u8?auth_key=1750979384-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-42407667b636d305b1c56d3f3c75f11f
+
+#EXTINF:-1 tvg-id="FOX.Soccer.Plus.us" group-title="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-soccer-plus-us.png",Fox Soccer Plus
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjVhMzNjZTkxZTdkLWRmZGItMWM4NC03Y2Q3LWU2NjQyMWU5/master.m3u8?auth_key=1750979398-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-15828f874b34352aab354d7e2cf36459
+
+#EXTINF:-1 group-title="Sports" tvg-id="Marquee.Sports.Network.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/marquee-sports-network-us.png" tvg-name="Marquee Sports Network",Marquee Sports Network
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTg3YTRhMjU3NTlhLTA4MGItM2ZlNC1lZmNmLTI0MmU4OWVj/master.m3u8?auth_key=1750979409-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-f22987f5cd012cfbf9c248bc398dfade
+
+#EXTINF:-1 group-title="Sports" tvg-id="YES.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/yes-network-us.png?raw=true" tvg-name="YES Network",YES Network
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjUyYmM3NjUzMTFhLWNjMWEtN2M5NC01NjEzLTEwNThhNDE1/master.m3u8?auth_key=1750979425-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-65ed384a02431378ea26b92c38547621
+
+#EXTINF:-1 group-title="News" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC News
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDY0Y2NjYjlhM2U2LTVkNGItZmJkNC1hODc2LTlmOGZiOWE5/master.m3u8?auth_key=1750979447-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-3057dc17ed1791f0716c7485fcc86bfa
+
+#EXTINF:-1 group-title="Sports" tvg-id="Big.Ten.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-name="Big Ten Network HD",Big Ten Network HD
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTMzMGI1OTk1YjA2LTIyYjgtNDc1NC1mMzYzLWRhZmUzM2Q1/master.m3u8?auth_key=1750979459-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-3e0dd90abff3f44242e0d5fe4c3729b1
+
+#EXTINF:-1 group-title="" tvg-id="CHANGE" tvg-logo="CHANGE",Univision 
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTc4ZWUyMjY1NGU1LTk4NGEtNDk0NC1iMGZhLTc3ZDRjZjI5/master.m3u8?auth_key=1750979468-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-4fcab2a429ac5df7b39bbcb772431456
+
+#EXTINF:-1 group-title="News" tvg-id="ABC.(WABC).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-wabc-us.png" tvg-name="ABC (WABC)",ABC 7
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTliNGZhYjg0M2E1LWM0OGItMmM1NC02ZGQxLWZmMDA2NGI4/master.m3u8?auth_key=1750979479-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-0b4db24696f2833d3a97b91105739243
+
+#EXTINF:-1 group-title="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN 
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MDYyNjQzMDkzOWYxLTg0ODktNzlmNC03MDIxLWRjNWFmZDI0/master.m3u8?auth_key=1750979490-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-294ebee0ad19d858b09e25aa883b2db4
+
+#EXTINF:-1 group-title="News" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1M2E1MWVlYmZkMWYwLWYzODktMWUyNC0xYzZkLTY2MjU0NmEw/master.m3u8?auth_key=1750979500-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-6f14abfe1224bd0219430ccd1491146a
+
+#EXTINF:-1 group-title="" tvg-id="CHANGE" tvg-logo="CHANGE",Telemundo
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NjVjN2YyNTQwN2UwLWYxMGItZTE3NC00MWM0LWQyNGY2MWRj/master.m3u8?auth_key=1750979509-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-043110c1d07b90f3c1580f1e2abda6c7
+
+#EXTINF:-1 group-title="" tvg-id="CHANGE" tvg-logo="CHANGE",Unimas
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjhmYmJlNjYzNjYwLTcwNWItMDRhNC1mMWJkLTA5NTczNTE3/master.m3u8?auth_key=1750979517-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-aca95a45d27a4e0f3e4d1b7be5b2d82d
+
+#EXTINF:-1 group-title="Sports" tvg-id="NHL.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png" tvg-name="NHL Network",NHL Network
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MTQzZTE2MTc0NmExLTg3ZjktYTdjNC00OThkLTE4NDRjODBh/master.m3u8?auth_key=1750979531-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-6a33575ecda4fcefc7ee1d43d6c47c93
+
+#EXTINF:-1 group-title="News" tvg-id="CNN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png" tvg-name="CNN",CNN
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTZkNzY5ZDhjNGQzLTJkNjktZGY4NC1iYmEzLWE3ZWJkMjEy/master.m3u8?auth_key=1750979544-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-c258562af50f32d8b45e150c237df8eb
+
+#EXTINF:-1 group-title="News" tvg-id="Fox.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" tvg-name="FOX News Channel",FOX News Channel
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YTc2YjM2MGRlYWVkLTkzNmEtMjNiNC0yMTY1LWZkMjYzMGUy/master.m3u8?auth_key=1750979561-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-b575aac315c24255d30b2cb06cdb7c47
+
+
+#EXTINF:-1  tvg-name="TNT" tvg-id="TNT.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" group-title="SPORTS",TNT
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OGU5NDc2OGMzNzcxLWQ5NDktNDViNC1hMGMzLTI4YzBiZGY2/master.m3u8?auth_key=1750979574-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-1d2ac92a09cc41bb3d6559690548525a
+
+#EXTINF:-1 group-title="" tvg-id="CHANGE" tvg-logo="CHANGE",Fanduel Sports Network
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTMxOWViZWI1ODVjLWNiYmItOTgzNC01ZWEwLTkwMGJlMThl/master.m3u8?auth_key=1750979591-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-6d703bd0d0211fec2b12f08e8f52f27b
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA",BBC
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MzJmNzY2NGE1MmQ2LTgzNDgtMzU4NC03ZDk1LWJjZTk5ODU2/master.m3u8?auth_key=1750979603-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-1c190f4465804d878d824245ac6548ed
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA",BBC Two
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NTVkYzFhNDNkNGI2LWUwMWItNDBmNC1jZDQwLTdhZmIxYWNl/master.m3u8?auth_key=1750979613-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-0d4744b9ef8fb39f1def706f00e244a7
+
+#EXTINF:-1 group-title="News" tvg-id="BBC.World.News.North.America.(BBCWN).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true" tvg-name="BBC WORLD NEWS",BBC WORLD NEWS
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDlkODUwYTgzMWNlLTU4NjgtNzZjNC03OGQyLTFhNWExNDk2/master.m3u8?auth_key=1750979645-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-bbacbc7e6e119f948f5c5ff244a0f6ae
+
+#EXTINF:-1 group-title="" tvg-id="CHANGE" tvg-logo="CHANGE",Fox Deportes
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NzJhZTA0ODBkNjlkLThiZDgtZjIyNC02NzM5LTJlYmVmMjYw/master.m3u8?auth_key=1750979664-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-5715254462171f8881c5972d39cfddf4
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="Paramount.Network.USA.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/paramount-network-us.png?raw=true" tvg-name="Paramount Network",Paramount Network
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NGM4MzE4YTY3ZTMwLTY2NjktNTNhNC0zM2RlLTRhZjQ3NjM4/master.m3u8?auth_key=1750979676-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-9f4f75b632ca30316d1da528452ed4ae
+
+#EXTINF:-1  tvg-name="Sky Cinema Family UK" tvg-id="SkyCinemaFamily.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-family-it.png" group-title="MOVIES",Sky Cinema Family UK
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzkzNTZiMjY3YzBhLTE4ZjgtN2M3NC1jOGYzLWQ1YzVlZjli/master.m3u8?auth_key=1750979686-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-f3ef2194ee2ede091c839dbb91fa219d
+
+#EXTINF:-1  tvg-name="Sky Cinema Comedy UK" tvg-id="skyuk/skycinemacomedy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-comedy-uk.png" group-title="MOVIES",Sky Cinema Comedy UK
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmRkNjU2YTRjODE2LTBhN2EtYzk0NC05OTMzLWZhZDQyZTI5/master.m3u8?auth_key=1750979697-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-d1c29fa3a90e7bfc026bfb014c70e082
+
+#EXTINF:-1 group-title="" tvg-id="CHANGE" tvg-logo="CHANGE",DAZN 1
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MmY4Yjc0ZDFiNzdhLTYzN2EtNzIwNC0wNmEyLWEzM2EwMDM2/master.m3u8?auth_key=1750979707-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-c0cc5b491ff0a501783773d009f34c98
+
+#EXTINF:-1 group-title="" tvg-id="CHANGE" tvg-logo="CHANGE",DAZN 2
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NDczNGRiNWVkN2QwLWU3NGItNmRkNC0wYjhiLTFjNmM2NTBj/master.m3u8?auth_key=1750979720-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-ded7a787e04adc620ca79019e5b6f845
+
+#EXTINF:-1 group-title="" tvg-id="CHANGE" tvg-logo="CHANGE",Sky Sport Top Event
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1NjgyNTVmNTE1M2M5LWM5OGItMGNjNC00YzdlLTliZWI4YWY3/master.m3u8?auth_key=1750979734-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-1b94ed6df08819f4a154201a3aeaf124
+
+#EXTINF:-1 group-title="" tvg-id="CHANGE" tvg-logo="CHANGE",Sky Sports News
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZmE0NzI3MGU5ZmRmLTMwMTktYWFhNC1mZDNhLWI5YjFkZGE2/master.m3u8?auth_key=1750979755-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-93e8b0a8bd3529d24495e8ee611c5393
+
+#EXTINF:-1 group-title="Movies" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-name="CINEMAX EAST",CINEMAX
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MjBiZDYyOWZhNTExLWIwZWEtMGY2NC00NmZiLTE3MzZiZDc5/master.m3u8?auth_key=1750979780-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-fd15b466b2a036eb07302cfd9b84b5d4
+
+#EXTINF:-1 group-title="Movies" tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" tvg-name="HBO",HBO
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YmI1MzMyYmI0YjJjLTdmMGEtZTlkNC0wNDhiLWY3YTQyODI4/master.m3u8?auth_key=1750979832-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-59f0b421e0b241549a6ef7a80bd74121
+
+#EXTINF:-1 group-title="Movies" tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" tvg-name="HBO2",HBO2
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YmI1MzMyYmI0YjJjLTdmMGEtZTlkNC0wNDhiLWY3YTQyODI4/master.m3u8?auth_key=1750979799-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-c9d1c7cd40363d70bf69688aab4e4126
+
+#EXTINF:-1 group-title="Entertainment" tvg-id="TBS.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png" tvg-name="TBS",TBS
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjM3NmYzZWJiZGE0LTIxYzgtYzBkNC0zNDc2LTlmODM2NzFj/master.m3u8?auth_key=1750979846-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-3558a7753ce4294f099d07dae475aaf8
+
+#EXTINF:-1 group-title="Sports" tvg-id="TSN1.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1",TSN 1
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1MDExYmYxYjFiZDhkLWVkMTktNzhkNC0xMTBiLWIyZGZjODNm/master.m3u8?auth_key=1750979859-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-caeb5bcb387b017d2427d2093d76877b
+
+#EXTINF:-1 group-title="Sports" tvg-id="TSN2.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2",TSN 2
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1OTZlNjZlYzdjMTlhLTYyMTgtNjQ0NC1jYzU3LTBmYzdmNmNh/master.m3u8?auth_key=1750979868-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-6d5b74532e88b79198845c6703a78c10
+
+#EXTINF:-1 group-title="Sports" tvg-id="TSN3.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-name="TSN 3",TSN 3
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1YzA3ZGVjOWEzMGU3LTg3NmItOGM2NC05ZGI4LTZiZDIxOTA1/master.m3u8?auth_key=1750979881-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-43a1d91d24741b84db9ecbc130770d7d
+
+#EXTINF:-1 group-title="Sports" tvg-id="TSN4.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-name="TSN 4",TSN 4
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1N2M3NDM4YWNiYTc4LTJmMzktNDcwNC1hNDExLWQyMzAzNTY0/master.m3u8?auth_key=1750979889-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-10d3aa307140863a62194d235d173cc6
+
+#EXTINF:-1 group-title="Sports" tvg-id="TSN5.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-name="TSN 5",TSN 5
+#EXTVLCOPT:http-origin=https://fstv.us
+#EXTVLCOPT:http-referrer=https://fstv.us/
+https://hipaf6u2j3pwygg.nice-flower.store/v3/director/VE1ZjU1MDM5ZjMzY2FjLTY0Y2ItMDJkNC04MDM4LWVjYWNlNTEx/master.m3u8?auth_key=1750979899-60486834cf4b882b3d708748271a9e26-00000000000000000000000000000000-feab22616889a6863b570f0e79c89d8d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
