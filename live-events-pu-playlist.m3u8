@@ -36,26 +36,16 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 ################################################################################################################################################################################
 
-#EXTINF:-1  tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8?auth_key=1751348603-1ec4cf20feb1e5001a311f5c15a1da81-00000000000000000000000000000000-f1bb6f15dd6c0fab5af68ca84b6bdc2f|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A140.0)%20Gecko%2F20100101%20Firefox%2F140.0&Referer=https%3A%2F%2Ffstv.us%2F
 
-#EXTINF:-1 group-title="" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWBB9sIWiBDctIEgZAxTKI5b4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp",Borussia Dortmund vs Monterrey fstv 
+#EXTINF:-1 tvg-name="Sky Sports Action UK" tvg-id="CHANGE" tvg-logo="CHANGE" group-title="SPORTS",Sky Sports Action PLUS
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1OGU5NDc2OGMzNzcxLWQ5NDktNDViNC1hMGMzLTI4YzBiZGY2/master.m3u8?auth_key=1751416756-a1791582d3219a5771e11d778b4ba6ba-00000000000000000000000000000000-898426539aa243a3c49c641e1469db52|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A140.0)%20Gecko%2F20100101%20Firefox%2F140.0&Referer=https%3A%2F%2Ffstv.us%2F
-
-#EXTINF:-1 group-title="" tvg-logo="https://streamed.su/api/images/proxy/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTtw5kAJqWCEImeuFFs8rGWBB9sIWiBDctIEgZAxTKI5b4FgSCjdYixKMCpRc35ellkemtGBuYqIQQA.webp",Borussia Dortmund vs CF Monterrey ppv
-#EXTVLCOPT:http-origin=https://ppv.wtf
-#EXTVLCOPT:http-referrer=https://ppv.wtf/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1MjFkODA5OWI4ZTVlLWY4YzgtYWYzNC1jNTc3LWNiOTBiMGYz/master.m3u8?md5=rCIN4LNZZYVfZlxXmWmrNA&expires=1751460017&t=1751416817|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A140.0)%20Gecko%2F20100101%20Firefox%2F140.0&Referer=https%3A%2F%2Fveplay.top%2F
-
-
-
+https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NzhjYzNjYTZjODJjLTYzZGItNDM3NC00YjFmLTQyYjZjYWM3/master.m3u8?auth_key=1751438551-87d96cca198bac70533bfbd429709902-00000000000000000000000000000000-9baed6b27c9b9c6b755bafc1d2a9011a|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A140.0)%20Gecko%2F20100101%20Firefox%2F140.0&Referer=https%3A%2F%2Ffstv.us%2F
 
 
 
