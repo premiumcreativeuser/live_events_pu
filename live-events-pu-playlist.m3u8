@@ -36,12 +36,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 ################################################################################################################################################################################
 
-#EXTINF:-1 tvg-name="Sky Sports Action UK" tvg-id="CHANGE" tvg-logo="CHANGE" group-title="SPORTS",Mexico vs Honduras
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1ZmI4NzhmOGI3ZGUwLTU4Y2ItNjJhNC1iYjlmLTYyNGM4ZGZm/master.m3u8?auth_key=1751510339-3a7dd7802a37b8c7abb51ae3379a44a2-00000000000000000000000000000000-4dc74f8e35b4017a8d749be8be214dd7|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A140.0)%20Gecko%2F20100101%20Firefox%2F140.0&Referer=https%3A%2F%2Ffstv.us%2F
-
 #EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
 #EXTVLCOPT:http-origin=https://fstv.us
 #EXTVLCOPT:http-referrer=https://fstv.us/
