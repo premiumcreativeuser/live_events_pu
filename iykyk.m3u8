@@ -73,7 +73,7 @@ https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3826
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/2598
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png",Discovery Life Channel LHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3858
-#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png,Disney Channel East UHD
+#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel East UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3630
 #EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel West
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/2590
