@@ -43,7 +43,7 @@ https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3823
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3618
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/2653
-#EXTINF:-1 ports.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-name="CBS SPORTS NETWORK",CBS Sports Network UHD
+#EXTINF:-1 tvg-id="CBS.Sports.Network.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS Sports Network UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3621
 #EXTINF:-1 tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png",Cinemax 5 StarMax East UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/81384
