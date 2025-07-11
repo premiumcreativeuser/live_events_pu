@@ -132,6 +132,10 @@ https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3739
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3741
 #EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries West (SHD)
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/649413
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO East UHD
+https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3655
+#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West (SHD)
+https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3835
 #EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 East UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3656
 #EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 West UHD
@@ -140,10 +144,6 @@ https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/553461
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/51550
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy West
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/631876
-#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO East UHD
-https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3655
-#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West (SHD)
-https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3835
 #EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",HBO Family UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/4927
 #EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",HBO Family West
