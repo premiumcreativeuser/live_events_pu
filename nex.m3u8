@@ -6,10 +6,10 @@ http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-name="ACC NETWORK",ACC NETWORK
 http://143.244.60.30/ACC_NETWORK/index.m3u8
 
-#EXTINF:-1 Adult Swim (East)
+#EXTINF:-1, Adult Swim (East)
 https://turnerlive.warnermediacdn.com/hls/live/2023183/aseast/noslate/VIDEO_1_5128000.m3u8
 
-#EXTINF:-1 Adult Swim (West)
+#EXTINF:-1, Adult Swim (West)
 https://turnerlive.warnermediacdn.com/hls/live/2023185/aswest/noslate/VIDEO_1_5128000.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-name="AMC East",AMC East
@@ -18,7 +18,7 @@ https://streamer1.nexgen.bz/AMC/index.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-id="Animal.Planet.US.-.East.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-name="Animal Planet",Animal Planet
 http://143.244.60.30/Animal_Planet/index.m3u8
 
-#EXTINF:-1 AXN
+#EXTINF:-1, AXN
 https://streamer1.nexgen.bz/AXN/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="BBC.America.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-name="BBC AMERICA",BBC AMERICA
@@ -114,7 +114,7 @@ http://143.244.60.30/FX_MOVIE/index.m3u8
 http://143.244.60.30/FXX/index.m3u8
 
 
-#EXTINF:-1 GSN
+#EXTINF:-1, GSN
 https://streamer1.nexgen.bz/GSN/index.m3u8
 
 
@@ -165,7 +165,7 @@ https://streamer1.nexgen.bz/HGTV/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" tvg-name="Lifetime",Lifetime
 https://streamer1.nexgen.bz/LIFETIME/index.m3u8
 
-#EXTINF:-1 LMN
+#EXTINF:-1, LMN
 https://streamer1.nexgen.bz/LMN/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-us.png?raw=true" tvg-name="MGM+",MGM+
