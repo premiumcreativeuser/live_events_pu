@@ -103,7 +103,7 @@ https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3644
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3831
 #EXTINF:-1 tvg-id="Fox.Business.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",FOX Business Network (SHD)
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3730
-#EXTINF:-1 tvg-id="Fox.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png"FOX News Channel LHD
+#EXTINF:-1 tvg-id="Fox.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png",FOX News Channel LHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3731
 #EXTINF:-1 tvg-id="Fox.Sports.1.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",Fox Sports 1 UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3645
