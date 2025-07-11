@@ -47,11 +47,11 @@ https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/2653
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3621
 #EXTINF:-1 tvg-id="5.Star.Max.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-5-starmax-us.png",Cinemax 5 StarMax East UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/81384
-#EXTINF:-1, USA CINEMAX ACTIONMAX EAST UHD
+#EXTINF:-1 tvg-id="ActionMax.-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX EAST UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/51557
-#EXTINF:-1, USA CINEMAX OUTERMAX UHD
+#EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-thrillermax-us.png",CINEMAX OUTERMAX UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/51555
-#EXTINF:-1, USA CINEMAX THRILLERMAX East UHD
+#EXTINF:-1 tvg-id="ThrillerMax.-.East.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-outermax-us.png",CINEMAX THRILLERMAX East UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/51554
 #EXTINF:-1 tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3624
@@ -148,9 +148,9 @@ https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3835
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/4927
 #EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",HBO Family West
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/631874
-#EXTINF:-1, USA HBO Signature UHD
+#EXTINF:-1 tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/51551
-#EXTINF:-1, USA HBO Signature West
+#EXTINF:-1 tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature West
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/631878
 #EXTINF:-1 tvg-id="HBO.Zone.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/51552
@@ -162,12 +162,10 @@ https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3654
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3836
 #EXTINF:-1 tvg-id="History.Channel.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History East UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3657
-#EXTINF:-1, CA |  Los Angeles | CW KTLA 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png", CA |  Los Angeles | CW KTLA 
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/87547
-#EXTINF:-1, CA | Los Angeles | CW KTLA
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png", CA |  Los Angeles | CW KTLA 
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/90546
-#EXTINF:-1, USA Antenna TV (KTLA)
-https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/611745
 #EXTINF:-1 tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime East UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3659
 #EXTINF:-1 tvg-id="Lifetime.Network.US.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime West (SHD)
@@ -176,7 +174,7 @@ https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/650317
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/51553
 #EXTINF:-1 tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true",Cinemax MoreMax West
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/81382
-#EXTINF:-1, USA MOVIEMAX East UHD
+#EXTINF:-1 tvg-id="MovieMax.(Max.6).-.East.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-moviemax-us.png",MOVIEMAX East UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/51556
 #EXTINF:-1 tvg-id="MSNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png",MSNBC UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3663
@@ -228,7 +226,7 @@ https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3841
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3684
 #EXTINF:-1 tvg-id="TBS.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS West
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3842
-#EXTINF:-1, USA Latin Telemundo East (SD)
+#EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo East (SD)
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/429798
 #EXTINF:-1 tvg-id="The.Tennis.Channel.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png",Tennis Channel UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3685
@@ -250,9 +248,9 @@ https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3845
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3688
 #EXTINF:-1 tvg-id="truTV.USA.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",truTV West
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3846
-#EXTINF:-1, USA Univision East (SHD)
+#EXTINF:-1 tvg-id="Univision.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision East (SHD)
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3697
-#EXTINF:-1, USA UnivisionNow: Univision_LosAngeles
+#EXTINF:-1 tvg-id="Univision.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",UnivisionNow: Univision_LosAngeles
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/4452
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network East UHD
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3694
@@ -262,27 +260,21 @@ https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3848
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/3699
 #EXTINF:-1 tvg-id="VH1.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 West
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/81588
-#EXTINF:-1, CA | Los Angeles | ABC KABC
+#EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC KABC
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/2684
-#EXTINF:-1, CA | Los Angeles | CBS KCAL
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/87548
-#EXTINF:-1, CA | Los Angeles | CBS KCBS
+#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/2637
-#EXTINF:-1, CA | Los Angeles | CBS KCBS
+#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/2622
-#EXTINF:-1, CA | Los Angeles | CW KTLA
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA 
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/90546
-#EXTINF:-1, CA | Los Angeles | FOX KTTV
+#EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/2550
-#EXTINF:-1, CA | Los Angeles | NBC  KNBC
+#EXTINF:-1 tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/2453
-#EXTINF:-1, CA | Los Angeles | PBS Kids KOCE
-https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/597137
-#EXTINF:-1, CA | Los Angeles | PBS KOCE
-https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/470373
-#EXTINF:-1, CA | Los Angeles | PBS KOCE
-https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/597149
-#EXTINF:-1, CA | Los Angeles | Univision34 KMEX
+#EXTINF:-1 tvg-id="Univision.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision East (SHD)
 https://restream-live.realiptv.to:443/Davenport/c9074e1fb0/4469
 
 
