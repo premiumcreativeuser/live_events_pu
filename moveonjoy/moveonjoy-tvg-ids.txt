@@ -200,6 +200,14 @@ New.England.Sports.Network.HDTV.(NESNHD).us
 Starz.Cinema.HD.-.Eastern.us
 Starz.In.Black.-.Eastern.us
 Universal.Kids.us
+ActionMax.-.Eastern.us
+MovieMax.(Max.6).-.East.us
+Telemundo..-.Eastern.Feed.us
+Univision.-.Eastern.Feed.us
+ABC.(KABC).Los.Angeles,.CA.us
+CBS.(KCBS).Los.Angeles,.CA.us
+FOX.(KTTV).Los.Angeles,.CA.us
+NBC.(KNBC).Los.Angeles,.CA.us
 
 
 
