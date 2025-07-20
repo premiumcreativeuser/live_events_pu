@@ -729,7 +729,7 @@ https://ott.udptv.org/stream/udptvus/showtimeshowcase/master.m3u8?u=discord.gg/c
 #https://ott.udptv.com/stream/skyuk/skysportsf1uhd/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 
 #EXTINF:-1  tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
-#https://ott.udptv.com/stream/skyuk/skysportsf1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+https://ott.udptv.com/stream/skyuk/skysportsf1/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
 
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" group-title="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports Formula 1 
 #EXTVLCOPT:http-origin=https://fstv.us
@@ -1126,3 +1126,19 @@ https://ott.udptv.net/stream/udptvppv/ppvch4/master.m3u8?u=discord.gg/civ4&p=b48
 
 #EXTINF:-1  tvg-name="PPV CH5 SD" tvg-id="udptv/ppvch5sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="SPORTS",PPV CH5 SD
 https://ott.udptv.net/stream/udptvppv/ppvch5sd/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="Live Event | PPV",Live Event 1
+https://a1xs.vip/ppv1
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="Live Event | PPV",Live Event 2
+https://a1xs.vip/ppv2
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="Live Event | PPV",Live Event 3
+https://a1xs.vip/ppv3
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="Live Event | PPV",Live Event 4
+https://a1xs.vip/ppv4
+
+#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="Live Event" tvg-logo="https://i.imgur.com/LoQdSia.png" group-title="Live Event | PPV",Live Event 5
+https://a1xs.vip/ppv5
+
