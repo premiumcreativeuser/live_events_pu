@@ -1114,3 +1114,18 @@ http://fl30.moveonjoy.com/PPV_5/index.m3u8
 
 #EXTINF:-1 group-title="Events" tvg-id="PPV.EVENTS.Dummy.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/PPV.png" tvg-name="PPV 6",PPV 6
 http://fl30.moveonjoy.com/PPV_6/index.m3u8
+
+#EXTINF:-1  tvg-name="PPV CH1" tvg-id="udptv/ppvch1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="SPORTS",PPV CH1
+https://ott.udptv.net/stream/udptvppv/ppvch1/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
+#EXTINF:-1  tvg-name="PPV CH2" tvg-id="udptv/ppvch2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="SPORTS",PPV CH2
+https://ott.udptv.net/stream/udptvppv/ppvch2/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
+#EXTINF:-1  tvg-name="PPV CH3" tvg-id="udptv/ppvch3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="SPORTS",PPV CH3
+https://ott.udptv.org/stream/udptvus/ppvch3/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
+#EXTINF:-1  tvg-name="PPV CH4" tvg-id="udptv/ppvch4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="SPORTS",PPV CH4
+https://ott.udptv.net/stream/udptvppv/ppvch4/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
+#EXTINF:-1  tvg-name="PPV CH5 SD" tvg-id="udptv/ppvch5sd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/Shaw_PPV.png" group-title="SPORTS",PPV CH5 SD
+https://ott.udptv.net/stream/udptvppv/ppvch5sd/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
