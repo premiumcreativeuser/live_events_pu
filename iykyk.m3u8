@@ -57,7 +57,7 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3709
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3823
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network (UHD)
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3618
-#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West
+#EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Pacific.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2653
 #EXTINF:-1 tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network East (SHD)
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2654
@@ -99,9 +99,9 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2598
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3858
 #EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel East UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3630
-#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel West (LHD)
+#EXTINF:-1 tvg-id="Disney.-.Pacific.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel West (LHD)
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3828
-#EXTINF:-1 tvg-id="Disney.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel West
+#EXTINF:-1 tvg-id="Disney.-.Pacific.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel West
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2588
 #EXTINF:-1 tvg-id="Disney.Junior.USA.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Junior UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3632
@@ -193,11 +193,11 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3655
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2491
 #EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO East LHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3742
-#EXTINF:-1 tvg-id="HBO.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West (SHD)
+#EXTINF:-1 tvg-id="HBO.-.Pacific.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West (SHD)
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3835
 #EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 East UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3656
-#EXTINF:-1 tvg-id="HBO.2.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 West UHD
+#EXTINF:-1 tvg-id="HBO.2.-.Pacific.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 West UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/553461
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/51550
@@ -205,7 +205,7 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/51550
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/631876
 #EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",HBO Family UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/4927
-#EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",HBO Family West
+#EXTINF:-1 tvg-id="HBO.Family.-.Pacific.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",HBO Family West
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/631874
 #EXTINF:-1 tvg-id="HBO.Signature.(HBO.3).-.Eastern.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/51551
@@ -259,7 +259,7 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/74691
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/631832
 #EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3673
-#EXTINF:-1 tvg-id="Nickelodeon.USA.-.East.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon West
+#EXTINF:-1 tvg-id="Nickelodeon.USA.-.Pacific.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon West
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/631831
 #EXTINF:-1 tvg-id="Nicktoons.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3674
@@ -279,7 +279,7 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3965
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/631912
 #EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3680
-#EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz West (SHD)
+#EXTINF:-1 tvg-id="Starz.-.Pacific.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz West (SHD)
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3963
 #EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy East UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3681
@@ -315,7 +315,7 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3688
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3846
 #EXTINF:-1 tvg-id="Univision.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision East (SHD)
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3697
-#EXTINF:-1 tvg-id="Univision.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",UnivisionNow: Univision_LosAngeles
+#EXTINF:-1 tvg-id="Univision.-.Pacific.Feed.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",UnivisionNow: Univision_LosAngeles
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/4452
 #EXTINF:-1 tvg-id="USA.Network.-.East.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network East UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3694
@@ -350,7 +350,7 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/40649
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/50947
 #EXTINF:-1 tvg-id="Univision.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/647750
-#EXTINF:-1 tvg-id="Univision.-.Eastern.Feed.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision34 KMEX
+#EXTINF:-1 tvg-id="Univision.-.Pacific.Feed.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision34 KMEX
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/4469
 
 
