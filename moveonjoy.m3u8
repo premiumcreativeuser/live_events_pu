@@ -104,7 +104,7 @@ http://fl30.moveonjoy.com/CINEMAX_EAST/index.m3u8
 http://fl30.moveonjoy.com/CINEMAX/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="Cinemax.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" tvg-name="CINEMAX WEST",CINEMAX (WEST)
-#http://fl30.moveonjoy.com/CINEMAX_WEST/index.m3u8
+http://fl30.moveonjoy.com/CINEMAX_WEST/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="MoreMax..Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-name="CINEMAX MOREMAX",CINEMAX MOREMAX
 
@@ -355,7 +355,7 @@ http://fl30.moveonjoy.com/MTV_2/index.m3u8
 http://fl30.moveonjoy.com/MTV_U/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Much.Music.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/much-ca.png?raw=true" tvg-name="MUCH",MUCH
-#http://fl30.moveonjoy.com/MUCH/index.m3u8
+http://fl30.moveonjoy.com/MUCH/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="National.Geographic.US.-.Eastern.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png" tvg-name="National Geographic",National Geographic
 http://fl30.moveonjoy.com/National_Geographic/index.m3u8
