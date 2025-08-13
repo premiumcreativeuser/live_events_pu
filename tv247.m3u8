@@ -24,7 +24,7 @@ https://aly.fbcdntv247.cfd/memfs/3427392c-1304-44d6-a80a-680111fff048.m3u8
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://aly.fbcdntv247.cfd/memfs/30919575-c426-404b-a063-395b706fa39c.m3u8
-#EXTINF:-1 tvg-id="CBSChannel" group-title="TV247" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/iptv-scraper/refs/heads/main/logos/cbs-usa.png",CBS TV247
+#EXTINF:-1 tvg-id="CBS.(WCBS).New.York,.NY.us" group-title="TV247" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/iptv-scraper/refs/heads/main/logos/cbs-usa.png",CBS TV247
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
@@ -94,7 +94,7 @@ https://aly.fbcdntv247.cfd/memfs/35f9fae8-6edc-4a88-ab78-65ac05b2b4e1.m3u8
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
 https://aly.fbcdntv247.cfd/memfs/5cd05983-0661-4da6-98ff-b31f6e411620.m3u8
-#EXTINF:-1 tvg-id="NBChannel" group-title="TV247" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/iptv-scraper/refs/heads/main/logos/nbcny-usa.png",NBC TV247
+#EXTINF:-1 tvg-id="NBC.(WNBC).New.York,.NY.us" group-title="TV247" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/iptv-scraper/refs/heads/main/logos/nbcny-usa.png",NBC TV247
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
