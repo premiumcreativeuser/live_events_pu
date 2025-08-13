@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/epgs/moveonjoy-epg.xml"
-#EXTINF:-1 tvg-id="ABChannel" group-title="TV247" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/iptv-scraper/refs/heads/main/logos/abc.png",ABC TV247
+#EXTINF:-1 tvg-id="ABC.(WABC).New.York,.NY.us" group-title="TV247" tvg-logo="https://raw.githubusercontent.com/MarkMCFC/iptv-scraper/refs/heads/main/logos/abc.png",ABC TV247
 #EXTVLCOPT:http-referrer=https://tv247.us/
 #EXTVLCOPT:http-origin=https://tv247.us
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
