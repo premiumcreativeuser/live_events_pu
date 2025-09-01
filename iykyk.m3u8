@@ -293,6 +293,50 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3840
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3965
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 West
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/631912
+
+
+#EXTINF:-1,USA AT&T SportsNet Pittsburgh
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/149311
+#EXTINF:-1,USA AT&T SportsNet Pittsburgh SD
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/401164
+#EXTINF:-1,USA AT&T SportsNet Southwest
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/4429
+#EXTINF:-1,USA Spectrum SportsNet LA Dodgers
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/74683
+#EXTINF:-1,USA Spectrum SportsNet LA Dodgers SD
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/401166
+#EXTINF:-1,USA Spectrum SportsNet Lakers (HD)
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/74684
+#EXTINF:-1,USA Spectrum SportsNet Lakers (SHD)
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/512561
+#EXTINF:-1,USA Spectrum SportsNet Lakers Alternate
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/552928
+#EXTINF:-1,USA Spectrum SportsNet Lakers SD
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/401165
+#EXTINF:-1,USA SportsNet New York (SHD)
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3865
+#EXTINF:-1,USA SportsNet New York SNY
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2413
+#EXTINF:-1,USA SPORTSNET NY (SD)
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/97492
+#EXTINF:-1,USA SPORTSNET SOUTHWEST SD
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/97493
+#EXTINF:-1,CA Sportsnet World
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/88060
+#EXTINF:-1,CA SPORTSNET WEST
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3068
+#EXTINF:-1,CA SPORTSNET PACIFIC
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3069
+#EXTINF:-1,CA SPORTSNET ONTARIO
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3070
+#EXTINF:-1,CA SPORTSNET ONE
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3071
+#EXTINF:-1,CA SPORTSNET EAST
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3072
+#EXTINF:-1,CA SPORTSNET 360
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3073
+
+
 #EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3680
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz West (SHD)
