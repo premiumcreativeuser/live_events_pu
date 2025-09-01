@@ -143,6 +143,21 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3723
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2584
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! West
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3830
+
+#EXTINF:-1,USA FOX Deportes (SHD)
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2559
+#EXTINF:-1,USA Fox Deportes LHD
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3853
+#EXTINF:-1,USA FOX DEPORTES SD
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/97535
+#EXTINF:-1,USA Fox Deportes UHD
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3809
+
+#EXTINF:-1,USA Fox Soccer Plus
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2531
+#EXTINF:-1,USA FOX Soccer Plus LHD
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3800
+
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3636
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN (SHD)
@@ -335,6 +350,16 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3071
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3072
 #EXTINF:-1,CA SPORTSNET 360
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3073
+
+
+#EXTINF:-1,UK Sky Sports Main Events HD
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2184
+#EXTINF:-1,UK Sky Sports Main Events
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2185
+#EXTINF:-1,UK Sky Sports F1 HD
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2189
+#EXTINF:-1,UK Sky Sports F1
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2190
 
 
 #EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East UHD
