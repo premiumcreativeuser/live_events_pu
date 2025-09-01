@@ -27,12 +27,12 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3141
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/5287
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3608
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC West (SHD)
-https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/643834
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC East (SHD)
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3843
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC East (LHD)
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3702
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC West (SHD)
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/643834
 #EXTINF:-1 tvg-id="AMC+.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC+
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/339687
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC Presents
