@@ -213,7 +213,7 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2494
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2493
 #EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true",Hallmark Drama LHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3739
-x#EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries East UHD
+#EXTINF:-1 tvg-id="Hallmark.Mystery.Eastern.-.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries East UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3653
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries West (SHD)
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/649413
