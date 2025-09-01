@@ -153,9 +153,9 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/97535
 #EXTINF:-1,USA Fox Deportes UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3809
 
-#EXTINF:-1,USA Fox Soccer Plus
+#EXTINF:-1 tvg-id="FOX.Soccer.Plus.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-soccer-plus-us.png",Fox Soccer Plus USA
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2531
-#EXTINF:-1,USA FOX Soccer Plus LHD
+#EXTINF:-1 tvg-id="FOX.Soccer.Plus.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-soccer-plus-us.png",Fox Soccer Plus LHD USA
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3800
 
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN UHD
@@ -320,14 +320,6 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/4429
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/74683
 #EXTINF:-1,USA Spectrum SportsNet LA Dodgers SD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/401166
-#EXTINF:-1,USA Spectrum SportsNet Lakers (HD)
-https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/74684
-#EXTINF:-1,USA Spectrum SportsNet Lakers (SHD)
-https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/512561
-#EXTINF:-1,USA Spectrum SportsNet Lakers Alternate
-https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/552928
-#EXTINF:-1,USA Spectrum SportsNet Lakers SD
-https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/401165
 #EXTINF:-1,USA SportsNet New York (SHD)
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3865
 #EXTINF:-1,USA SportsNet New York SNY
@@ -352,13 +344,13 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3072
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3073
 
 
-#EXTINF:-1,UK Sky Sports Main Events HD
+#EXTINF:-1  tvg-name="Sky Sports Main Events HD UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Events HD UK
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2184
-#EXTINF:-1,UK Sky Sports Main Events
+#EXTINF:-1  tvg-name="Sky Sports Main Events HD UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Events UK
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2185
-#EXTINF:-1,UK Sky Sports F1 HD
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2189
-#EXTINF:-1,UK Sky Sports F1
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2190
 
 
