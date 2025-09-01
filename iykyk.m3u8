@@ -143,8 +143,6 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3723
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2584
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! West
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3830
-
-
 #EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-sports-deportes-us.png",FOX Deportes (SHD) USA
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2559
 #EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-sports-deportes-us.png",Fox Deportes LHD USA
@@ -157,7 +155,6 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3809
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2531
 #EXTINF:-1 tvg-id="FOX.Soccer.Plus.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-soccer-plus-us.png",Fox Soccer Plus LHD USA
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3800
-
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3636
 #EXTINF:-1 tvg-id="ESPN.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN (SHD)
@@ -308,10 +305,6 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3840
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3965
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 West
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/631912
-
-#EXTINF:-1 tvg-id="replace" tvg-logo="newlink",ChannelName
-
-
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/149311
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh SD USA
@@ -330,22 +323,20 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3865
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2413
 #EXTINF:-1 tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SPORTSNET NY (SD) USA
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/97492
-#EXTINF:-1,CA Sportsnet World
+=#EXTINF:-1 tvg-id="Sportsnet.World.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",Sportsnet World CA
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/88060
-#EXTINF:-1,CA SPORTSNET WEST
+#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SPORTSNET WEST CA
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3068
-#EXTINF:-1,CA SPORTSNET PACIFIC
+#EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pacific-ca.png",SPORTSNET PACIFIC CA
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3069
-#EXTINF:-1,CA SPORTSNET ONTARIO
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-ontario-ca.png",ChannelName
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3070
-#EXTINF:-1,CA SPORTSNET ONE
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SPORTSNET ONE CA
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3071
-#EXTINF:-1,CA SPORTSNET EAST
+#EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-east-ca.png",SPORTSNET EAST CA
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3072
-#EXTINF:-1,CA SPORTSNET 360
+#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SPORTSNET 360 CA
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3073
-
-
 #EXTINF:-1  tvg-name="Sky Sports Main Events HD UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Events HD UK
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2184
 #EXTINF:-1  tvg-name="Sky Sports Main Events HD UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Events UK
