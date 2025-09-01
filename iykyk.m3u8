@@ -343,8 +343,6 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2185
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2189
 #EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2190
-
-
 #EXTINF:-1 tvg-id="Starz.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3680
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz West (SHD)
