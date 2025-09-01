@@ -321,6 +321,16 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3683
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3844
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT West (Stream 2)
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2384
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1 UHD",TSN 1 UHD CA
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3146
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2 UHD",TSN 2 UHD CA
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3145
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-name="TSN 3 UHD",TSN 3 UHD CA
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3144
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-name="TSN 4 UHD CA",TSN 4 UHD CA
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3143
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-name="TSN 5 UHD CA",TSN 5 UHD CA
+https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3142
 #EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel East LHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3765
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel West
