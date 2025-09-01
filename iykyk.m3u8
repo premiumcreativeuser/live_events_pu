@@ -321,7 +321,7 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3865
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/2413
 #EXTINF:-1 tvg-id="SNY:.SportsNet.New.York.(Comcast).us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SPORTSNET NY (SD) USA
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/97492
-=#EXTINF:-1 tvg-id="Sportsnet.World.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",Sportsnet World CA
+#EXTINF:-1 tvg-id="Sportsnet.World.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",Sportsnet World CA
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/88060
 #EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SPORTSNET WEST CA
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3068
