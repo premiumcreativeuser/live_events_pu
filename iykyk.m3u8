@@ -25,7 +25,7 @@ https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/30881
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3141
 #EXTINF:-1 tvg-id="ACC.Network.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC Network
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/5287
-#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC UHD
+#EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC East UHD
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3608
 #EXTINF:-1 tvg-id="AMC.-.Eastern.Feed.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC East (SHD)
 https://restream-live.realiptv.to:443/hankstreamer/sYWcksogwN/3843
