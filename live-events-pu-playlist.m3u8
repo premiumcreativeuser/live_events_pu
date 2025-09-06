@@ -40,7 +40,13 @@
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://rr.strmd.top/secure/JIaAQoJVTJ/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+https://zd.strmd.top/secure/wpJiRHuAvLWGNqLFTWyOYeZWCjkfuuOS/alpha/stream/sky-sports-f1-sky-f1/1/playlist.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="",UFC Fight Night: Imavov vs. Borralho
+#EXTVLCOPT:http-origin=https://ppvs.su
+#EXTVLCOPT:http-referrer=hhttps://ppvs.su/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://gg.poocloud.in/ufc/tracks-v1a1/mono.ts.m3u8
 
 
 
