@@ -1,0 +1,823 @@
+#EXTM3U url-tvg="http://civ4kap.mooo.com/epg.xml.gz?q=eyJ1c2VySWQiOiJjaXYxMCJ9.gimx7F-sjd23XXxIZhGXsSUfMHP13-5zrIXFJ3pq_cLgiaLxV6eVtMLrb6ggk16Qcz4WnL8KJLOTvSffjsLX4Q"
+#EXTINF:-1 tvg-name="13th Street DE" tvg-id="hlsproxy-2003" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/num/13th_street_de.png",13th Street DE
+https://ott.udptv.xyz/stream/skyde/13thstreet/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="A2Z" tvg-id="A2z.ph" group-title="UDPTV",A2Z
+http://ott.udptv.net/stream/iptv/a2z/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="ABC (KABC)" tvg-id="hlsproxy-51219" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/corp/aa/abc_us.png",ABC (KABC)
+https://ott.udptv.xyz/stream/udptvus/kabc/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="ABC (WABC)" tvg-id="hlsproxy-51219" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/corp/aa/abc_us.png",ABC (WABC)
+https://ott.udptv.xyz/stream/udptvus/wabc/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="ABC Australia" tvg-id="hlsproxy-51219" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/corp/aa/abc_us.png",ABC Australia
+https://ott.udptv.xyz/stream/astro/abcaustralia/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="ABC News Live" tvg-id="hlsproxy-50597" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/t1gaflciz5emomq/abcnews.png",ABC News Live
+https://ott.udptv.xyz/stream/udptvus/abcnewslive/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="ABC(KGO)" tvg-id="udptvus/abckgo" group-title="UDPTV",ABC(KGO)
+https://ott.udptv.xyz/stream/udptvus/abckgo/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Adult Swim CA" tvg-id="hlsproxy-1005" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/adult_channel_uk.png",Adult Swim CA
+https://ott.udptv.xyz/stream/udptv/adultswim/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Al Jazeera" tvg-id="hlsproxy-20066" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/aljazeera.png",Al Jazeera
+https://ott.udptv.xyz/stream/astro/aljazeera/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Alibi" tvg-id="hlsproxy-1701" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/alibi_uktv_uk.png",Alibi
+https://ott.udptv.xyz/stream/skyuk/alibi/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Aliw TV" tvg-id="iptv/aliwtv" group-title="UDPTV",Aliw TV
+http://ott.udptv.net/stream/iptv/aliwtv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="ALL TV" tvg-id="iptv/alltv" group-title="UDPTV",ALL TV
+http://ott.udptv.net/stream/iptv/alltv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="AMC" tvg-id="hlsproxy-55154" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/amc.png",AMC
+https://ott.udptv.xyz/stream/udptvus/amc/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="AMC IT" tvg-id="hlsproxy-55154" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/amc.png",AMC IT
+https://ott.udptv.xyz/stream/udptv/amc/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="AMC Thrillers" tvg-id="hlsproxy-55154" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/amc.png",AMC Thrillers
+https://ott.udptv.xyz/stream/udptvus/amcthrillers/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="ANC Global" tvg-id="ANC.ph" group-title="UDPTV",ANC Global
+http://ott.udptv.net/stream/iptv/ancglobal/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="ANC PH" tvg-id="ANC.ph" group-title="UDPTV",ANC PH
+http://ott.udptv.net/stream/iptv/ancph/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Animal Planet" tvg-id="hlsproxy-34" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/animal-planet.png",Animal Planet
+https://ott.udptv.xyz/stream/astro/animalplanet/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Animax" tvg-id="hlsproxy-6006" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png",Animax
+http://ott.udptv.net/stream/iptv/animax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Anime x Hidive" tvg-id="hlsproxy-51765" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/5ey08iaz8c6tptf/animetv.jpg",Anime x Hidive
+https://ott.udptv.net/stream/iptv/animexhidive/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Aniplus" tvg-id="Aniplus.id" group-title="UDPTV" tvg-logo="https://images.indihometv.com/assets/88_ANIPLUS_2025_03_17_14_53_54.png",Aniplus
+https://ott.udptv.net/stream/iptv/aniplus/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Arirang" tvg-id="hlsproxy-37" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/arirang.png",Arirang
+http://ott.udptv.net/stream/iptv/arirang/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Asian Food Network" tvg-id="hlsproxy-53904" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/asian_food_channel_sg.png",Asian Food Network
+https://ott.udptv.net/stream/iptv/asianfoodnetwork/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Astro Arena" tvg-id="hlsproxy-54936" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/astro_arena_my.png",Astro Arena
+https://ott.udptv.xyz/stream/astro/astroarena/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Astro Cinemax" tvg-id="hlsproxy-2016" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/astro_tv_de.png",Astro Cinemax
+https://ott.udptv.xyz/stream/astro/astrocinemax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Astro Football" tvg-id="hlsproxy-2016" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/astro_tv_de.png",Astro Football
+https://ott.udptv.xyz/stream/astro/astrofootball/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Astro Premier Sports" tvg-id="hlsproxy-2016" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/astro_tv_de.png",Astro Premier Sports
+https://ott.udptv.xyz/stream/astro/premiersports/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Astro Showcase" tvg-id="hlsproxy-2016" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/astro_tv_de.png",Astro Showcase
+https://ott.udptv.xyz/stream/astro/showcasemovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Astro Sports Plus" tvg-id="hlsproxy-2016" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/astro_tv_de.png",Astro Sports Plus
+https://ott.udptv.xyz/stream/astro/astrosportsplus/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Astro Sports UHD" tvg-id="hlsproxy-2016" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/astro_tv_de.png",Astro Sports UHD
+https://ott.udptv.xyz/stream/astro/astrosportsuhd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="AXN" tvg-id="hlsproxy-4004" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/axn_global.png",AXN
+https://ott.udptv.xyz/stream/astro/axn/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="BBC Earth" tvg-id="hlsproxy-52416" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/bbc-earth.png",BBC Earth
+https://ott.udptv.xyz/stream/astro/bbcearth/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="BBC Food" tvg-id="hlsproxy-1049" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bbc_news.png",BBC Food
+https://ott.udptv.xyz/stream/udptvus/bbcfood/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="BBC News" tvg-id="hlsproxy-1049" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/bb/bbc_news.png",BBC News
+https://ott.udptv.xyz/stream/astro/bbcnews/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Bein Sports 1" tvg-id="hlsproxy-50447" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/bein-sports-01.png",Bein Sports 1
+https://ott.udptv.xyz/stream/astro/beinsports1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Bein Sports 2" tvg-id="hlsproxy-50448" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/bein-sports-02.png",Bein Sports 2
+https://ott.udptv.xyz/stream/astro/beinsports2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Bein Sports 3" tvg-id="hlsproxy-50449" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/bein-sports-03.png",Bein Sports 3
+https://ott.udptv.xyz/stream/astro/beinsports3/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Bein Sports 4" tvg-id="hlsproxy-50450" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/bein-sports-04.png",Bein Sports 4
+https://ott.udptv.net/stream/iptv/beinsports4/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Bein Sports 5" tvg-id="hlsproxy-50451" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/bein-sports-05.png",Bein Sports 5
+https://ott.udptv.net/stream/iptv/beinsports5/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Bein Sports HD" tvg-id="hlsproxy-50447" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/bb/be_in_mena_sports_global.png",Bein Sports HD
+https://ott.udptv.xyz/stream/udptvus/beinsports/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Bein Sports Xtra" tvg-id="hlsproxy-2471" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/lizwmnf9num0kzi/beinxtra.png",Bein Sports Xtra
+https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-name="Billard TV" tvg-id="udptvus/billardtv" group-title="UDPTV",Billard TV
+https://ott.udptv.xyz/stream/udptvus/billardtv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Billonaryo News Channel" tvg-id="Bilyonaryoch.ph" group-title="UDPTV",Billonaryo News Channel
+http://ott.udptv.net/stream/iptv/billonaryonewschannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Blast Sports" tvg-id="blastPH.Blast.Sports" group-title="UDPTV",Blast Sports
+http://ott.udptv.net/stream/iptv/blastsports/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Bloomberg TV" tvg-id="hlsproxy-41" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/bloomberg.png",Bloomberg TV
+https://ott.udptv.xyz/stream/astro/bloombergtv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="BOO" tvg-id="BOO.HD.my" group-title="UDPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/251_144.png",BOO
+https://ott.udptv.xyz/stream/astro/boo/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Boomerang US" tvg-id="hlsproxy-20136" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png",Boomerang US
+https://ott.udptv.xyz/stream/udptvus/boomerang/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Buko" tvg-id="iptv/buko" group-title="UDPTV",Buko
+https://ott.udptv.net/stream/iptv/buko/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="hlsproxy-52" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/cartoon-network.png",Cartoon Network
+http://ott.udptv.net/stream/iptv/cartoonnetwork/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Cartoon Network MY" tvg-id="hlsproxy-52" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/cartoon-network.png",Cartoon Network MY
+https://ott.udptv.xyz/stream/astro/astrocartoonnetwork/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Cartoon Network UK" tvg-id="hlsproxy-54412" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png",Cartoon Network UK
+https://ott.udptv.xyz/stream/skyuk/cartoonnetwork/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Cartoonito" tvg-id="hlsproxy-1083" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cartoonito_it.png",Cartoonito
+https://ott.udptv.net/stream/iptv/boomerang/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="CBS" tvg-id="hlsproxy-8627" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cbs-news-us.png",CBS
+https://ott.udptv.xyz/stream/fubo/cbs/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="CBS Sports Golazo" tvg-id="hlsproxy-8627" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cbs-sports-network-us.png",CBS Sports Golazo
+https://ott.udptv.xyz/stream/udptv/cbssportsgolazo/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Celestial Movies Pinoy" tvg-id="hlsproxy-1902" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/cc/celestial_movies_asia.png",Celestial Movies Pinoy
+http://ott.udptv.net/stream/iptv/celestialmoviespinoy/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="CGTN" tvg-id="hlsproxy-703" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/cgtn.png",CGTN
+https://ott.udptv.xyz/stream/astro/cgtn/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Cignal Dreamworks" tvg-id="Cg.Dreamworktag.ph" group-title="UDPTV",Cignal Dreamworks
+http://ott.udptv.net/stream/iptv/cignaldreamworks/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Cinema One Global" tvg-id="hlsproxy-20198" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cinema_one_global.png",Cinema One Global
+http://ott.udptv.net/stream/iptv/cinemaoneglobal/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Cinema One PH" tvg-id="hlsproxy-20198" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cinema_one_global.png",Cinema One PH
+http://ott.udptv.net/stream/iptv/cinemaoneph/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Cinemax" tvg-id="hlsproxy-20193" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/cc/cinemax_east.png",Cinemax
+http://ott.udptv.net/stream/iptv/cinemax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Cinemo Global" tvg-id="CINEMO!.ph" group-title="UDPTV" tvg-logo="http://202.78.65.124/epgcms/uploads/Cinemo.png",Cinemo Global
+http://ott.udptv.net/stream/iptv/cinemoglobal/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Cinemo PH" tvg-id="CINEMO!.ph" group-title="UDPTV" tvg-logo="http://202.78.65.124/epgcms/uploads/Cinemo.png",Cinemo PH
+http://ott.udptv.net/stream/iptv/cinemoph/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="CLTV 36" tvg-id="iptv/cltv36" group-title="UDPTV",CLTV 36
+http://ott.udptv.net/stream/iptv/cltv36/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="CNA" tvg-id="hlsproxy-52405" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/cc/channel_newsasia.png",CNA
+https://ott.udptv.xyz/stream/astro/cna/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="CNBC" tvg-id="hlsproxy-20153" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/cnbc.png",CNBC
+https://ott.udptv.xyz/stream/astro/cnbc/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="CNN" tvg-id="hlsproxy-50592" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/cnn.png",CNN
+http://ott.udptv.net/stream/iptv/cnn/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="CRAVE 1" tvg-id="Amazon.US.CRAVE1" group-title="UDPTV",CRAVE 1
+https://ott.udptv.xyz/stream/udptv/crave1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="CRAVE 2" tvg-id="Amazon.US.CRAVE2" group-title="UDPTV",CRAVE 2
+https://ott.udptv.xyz/stream/udptv/crave2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="CRAVE 3" tvg-id="Amazon.US.CRAVE3" group-title="UDPTV",CRAVE 3
+https://ott.udptv.xyz/stream/udptv/crave3/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="CRAVE 4" tvg-id="Amazon.US.CRAVE4" group-title="UDPTV",CRAVE 4
+https://ott.udptv.xyz/stream/udptv/crave4/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Crime + Investigation DE" tvg-id="hlsproxy-2660" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/cc/crime_investigation_us.png",Crime + Investigation DE
+https://ott.udptv.xyz/stream/skyde/crimeinvestigation/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="DAZN Ringside" tvg-id="hlsproxy-55093" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/dd/dazn-de.png",DAZN Ringside
+https://ott.udptv.xyz/stream/udptv/daznringside/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Discovery Asia" tvg-id="hlsproxy-52434" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/dd/discovery_asia_us.png",Discovery Asia
+https://ott.udptv.xyz/stream/astro/discoveryasia/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-id="hlsproxy-100022" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/discovery-channel.png",Discovery Channel
+https://ott.udptv.xyz/stream/astro/discoverychannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Discovery US" tvg-id="hlsproxy-60" group-title="UDPTV" tvg-logo="https://sledovanitv.czhttp://imageserver.srv.czcloud.i.mtvreg.com/png?image=http%3A%2F%2Ffilecdn.srv.czcloud.i.mtvreg.com%2Fcache%2Flogos512%2FDiscovery.png&amp;width=256&amp;height=256",Discovery US
+https://ott.udptv.xyz/stream/udptvus/discovery/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Discovery DE" tvg-id="hlsproxy-54216" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/discovery-channel.png",Discovery DE
+https://ott.udptv.xyz/stream/skyde/discoverychannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Disney Channel CA" tvg-id="hlsproxy-66" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/disney-kanal.png",Disney Channel CA
+http://ott.udptv.net/stream/iptv/disneychannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Disney Channel US" tvg-id="hlsproxy-20250" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/disney-kanal.png",Disney Channel US
+https://ott.udptv.xyz/stream/udptvus/disneychannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Disney JR CA" tvg-id="hlsproxy-1143" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/disney-junior.png",Disney JR CA
+http://ott.udptv.net/stream/iptv/disneyjr/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Disney JR US" tvg-id="hlsproxy-1143" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/disney-junior.png",Disney JR US
+https://ott.udptv.xyz/stream/udptvus/disneyjr/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Disney XD CA" tvg-id="hlsproxy-1144" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png",Disney XD CA
+http://ott.udptv.net/stream/iptv/disneyxd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Disney XD US" tvg-id="hlsproxy-1144" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/dd/disney_xd_us.png",Disney XD US
+https://ott.udptv.xyz/stream/udptvus/disneyxd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="DMAX" tvg-id="hlsproxy-1148" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/dd/dmax_uk.png",DMAX
+https://ott.udptv.xyz/stream/astro/dmax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Dreamworks Tagalized" tvg-id="Dreamworks.Hd.ph" group-title="UDPTV",Dreamworks Tagalized
+http://ott.udptv.net/stream/iptv/dreamworkstagalized/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="DW" tvg-id="DW.English.my" group-title="UDPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/287_144.png",DW
+https://ott.udptv.xyz/stream/astro/dw/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="DZMM Teleradyo" tvg-id="TELERADYO.ph" group-title="UDPTV",DZMM Teleradyo
+https://ott.udptv.net/stream/iptv/dzmmteleradyo/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="DZMM Teleradyo SD" tvg-id="TELERADYO.ph" group-title="UDPTV",DZMM Teleradyo SD
+https://ott.udptv.net/stream/iptv/dzmmteleradyosd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="DZRH TV" tvg-id="iptv/dzrhtv" group-title="UDPTV",DZRH TV
+http://ott.udptv.net/stream/iptv/dzrhtv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="E! East" tvg-id="hlsproxy-340" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/e-tv.png",E! East
+https://ott.udptv.xyz/stream/nbc/eeast/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="E! West" tvg-id="hlsproxy-340" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/e-tv.png",E! West
+https://ott.udptv.xyz/stream/nbc/ewest/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="ESPN" tvg-id="hlsproxy-20770" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/espn.png",ESPN
+https://ott.udptv.xyz/stream/udptvus/espn/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="ESPN 2" tvg-id="hlsproxy-51667" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ee/espn_2.png",ESPN 2
+https://ott.udptv.xyz/stream/udptvus/espn2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="ESPN News" tvg-id="hlsproxy-20279" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ee/espnews.png",ESPN News
+https://ott.udptv.xyz/stream/udptvus/espnnews/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="ESPN U" tvg-id="hlsproxy-20278" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ee/espn_u.png",ESPN U
+https://ott.udptv.xyz/stream/udptvus/espnu/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Eurosport" tvg-id="hlsproxy-72" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/eurosport.png",Eurosport
+https://ott.udptv.xyz/stream/astro/eurosport/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Eurosport 1" tvg-id="hlsproxy-72" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/eurosport.png",Eurosport 1
+https://ott.udptv.xyz/stream/udptv/eurosport1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Eurosport 2" tvg-id="hlsproxy-73" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/eurosport-2.png",Eurosport 2
+https://ott.udptv.xyz/stream/udptv/eurosport2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Fanduel Sports Network Extra" tvg-id="iptv/fanduelsportsnetworkextra" group-title="UDPTV",Fanduel Sports Network Extra
+https://ott.udptv.net/stream/iptv/fanduelsportsnetworkextra/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Fanduel Sports Network Southwest" tvg-id="iptv/fanduelsportsnetworksouthwest" group-title="UDPTV",Fanduel Sports Network Southwest
+https://ott.udptv.net/stream/iptv/fanduelsportsnetworksouthwest/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Food Network" tvg-id="hlsproxy-20340" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/food-network.png",Food Network
+https://ott.udptv.xyz/stream/udptvus/foodnetwork/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="FOX 11" tvg-id="hlsproxy-51590" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kttv_fox11_los_angeles.png",FOX 11
+https://ott.udptv.xyz/stream/udptvus/fox11/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Fox News" tvg-id="hlsproxy-20356" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fox_news_channel.png",Fox News
+https://ott.udptv.xyz/stream/udptvus/foxnews/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="FOX 4K" tvg-id="hlsproxy-81" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/fox.png",FOX 4K
+https://ott.udptv.xyz/stream/udptvus/fox4k/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="FOX Sports" tvg-id="hlsproxy-52073" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_global.png",FOX Sports
+https://ott.udptv.xyz/stream/udptv/foxsports/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="FOX Sports 2" tvg-id="hlsproxy-20360" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-2-nederland-us-nl.png",FOX Sports 2
+https://ott.udptv.xyz/stream/udptv/foxsports2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="FOX Sports 3" tvg-id="hlsproxy-52374" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fox-sports-3-nederland-us-nl.png",FOX Sports 3
+https://ott.udptv.xyz/stream/udptv/foxsports3/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="France 24" tvg-id="hlsproxy-85" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/france-24.png",France 24
+https://ott.udptv.xyz/stream/astro/france24/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="FS1 4K" tvg-id="hlsproxy-20359" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png",FS1 4K
+https://ott.udptv.xyz/stream/udptvus/fs14k/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="FS1" tvg-id="hlsproxy-20359" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_1.png",FS1
+https://ott.udptv.xyz/stream/udptvus/fs1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="FS2" tvg-id="hlsproxy-20360" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fox_sports_us_2.png",FS2
+https://ott.udptv.xyz/stream/udptvus/fs2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="FX" tvg-id="hlsproxy-20323" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fx_us.png",FX
+https://ott.udptv.xyz/stream/udptvus/fx/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="FXM" tvg-id="hlsproxy-20324" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fox_moviechannel.png",FXM
+https://ott.udptv.xyz/stream/udptvus/fxm/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="FXX" tvg-id="hlsproxy-20326" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ff/fxx_west.png",FXX
+https://ott.udptv.xyz/stream/udptvus/fxx/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Global Trekker" tvg-id="hlsproxy-88" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/global-star-tv.png",Global Trekker
+https://ott.udptv.xyz/stream/astro/globaltrekker/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="GMA" tvg-id="GMA.ph" group-title="UDPTV",GMA
+https://ott.udptv.net/stream/iptv/gma/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="GMA Life TV" tvg-id="hlsproxy-20408" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/gg/gma_life_tv.png",GMA Life TV
+https://ott.udptv.net/stream/iptv/gmalifetv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="GMA News TV" tvg-id="GMA.News.TV.hk" group-title="UDPTV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch722_160_115",GMA News TV
+https://ott.udptv.net/stream/iptv/gmanewstv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="GMA Pinoy TV" tvg-id="hlsproxy-20409" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/gg/gma_pinoy_tv_us.png",GMA Pinoy TV
+https://ott.udptv.net/stream/iptv/gmapinoytv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Go3 Sport 1" tvg-id="Go3.Sport.1.lt" group-title="UDPTV",Go3 Sport
+https://ott.udptv.xyz/stream/udptv/go3sport/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Go3 Sport 2" tvg-id="Go3.Sport.2.lt" group-title="UDPTV",Go3 Sport 2
+https://ott.udptv.xyz/stream/udptv/go3sport2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Go3 Sport Open" tvg-id="Go3.Sport.Open.lt" group-title="UDPTV",Go3 Sport Open
+https://ott.udptv.xyz/stream/udptv/go3sportopen/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="GOLD" tvg-id="hlsproxy-55302" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/989sm8osgm8kldx/goldmd.png",GOLD
+https://ott.udptv.xyz/stream/skyuk/gold/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Golf Channel" tvg-id="hlsproxy-20424" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/gg/golf_channel_us.png",Golf Channel
+https://ott.udptv.xyz/stream/astro/golfchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="GTV" tvg-id="hlsproxy-52899" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/gg/gtv_il.png",GTV
+http://ott.udptv.net/stream/iptv/gtv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="HBO Boxing" tvg-id="hlsproxy-20439" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/hh/hbo_east.png",HBO Boxing
+https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="HBO Comedy" tvg-id="hlsproxy-20436" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/hh/hbo_comedy_us.png",HBO Comedy
+https://ott.udptv.net/stream/iptv/hbocomedy/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="HBO Family" tvg-id="hlsproxy-20440" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/hh/hbo_family.png",HBO Family
+https://ott.udptv.net/stream/iptv/hbofamily/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="HBO HD" tvg-id="hlsproxy-51711" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/hh/hbo_latinoamerica_hd.png",HBO HD
+https://ott.udptv.net/stream/iptv/hbohd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="HBO Hits" tvg-id="hlsproxy-8238" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/hh/hbo_hits.png",HBO Hits
+http://ott.udptv.net/stream/iptv/hbohits/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="HBO Signature" tvg-id="hlsproxy-20445" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/hh/hbo_signature.png",HBO Signature
+http://ott.udptv.net/stream/iptv/hbosignature/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="HBO West" tvg-id="hlsproxy-20439" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/hh/hbo_east.png",HBO West
+https://ott.udptv.net/stream/iptv/hbowest/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="HBO Zone" tvg-id="hlsproxy-20449" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/hh/hbo_zone_us.png",HBO Zone
+https://ott.udptv.net/stream/iptv/hbozone/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="HBO2" tvg-id="hlsproxy-20434" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/hh/hbo2_east.png",HBO2
+https://ott.udptv.net/stream/iptv/hbo2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Heart of Asia" tvg-id="hlsproxy-1196" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/hh/heart_tv_uk.png",Heart of Asia
+https://ott.udptv.net/stream/iptv/heartofasia/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="HGTV" tvg-id="hlsproxy-2603" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/hgtv.png",HGTV
+https://ott.udptv.xyz/stream/astro/hgtv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="History" tvg-id="hlsproxy-95" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/history.png",History
+http://ott.udptv.net/stream/iptv/history/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="History DE" tvg-id="hlsproxy-2098" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/hh/history_de.png",History DE
+https://ott.udptv.xyz/stream/skyde/history/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Hits" tvg-id="Hits.Hd.ph" group-title="UDPTV",Hits
+http://ott.udptv.net/stream/iptv/hits/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Hits Movies" tvg-id="Hits.Movies.ph" group-title="UDPTV",Hits Movies
+https://ott.udptv.xyz/stream/astro/hitsmovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Hits Now" tvg-id="HITS.NOW.my" group-title="UDPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/524_144.png",Hits Now
+https://ott.udptv.xyz/stream/astro/hitsnow/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="IBC13" tvg-id="hlsproxy-53219" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ii/ibc_tamil_uk_tv.png",IBC13
+http://ott.udptv.net/stream/iptv/ibc13/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="iHeart Movies" tvg-id="iptv/iheartmovies" group-title="UDPTV",iHeart Movies
+https://ott.udptv.net/stream/iptv/iheartmovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="IQIYI" tvg-id="iQIYI.HD.my" group-title="UDPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/355_144.png",IQIYI
+https://ott.udptv.xyz/stream/astro/iqiyi/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Jeepney TV" tvg-id="Jeepney.TV.ph" group-title="UDPTV",Jeepney TV
+http://ott.udptv.net/stream/iptv/jeepneytv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Jugo Pinoy TV" tvg-id="iptv/jugopinoytv" group-title="UDPTV",Jugo Pinoy TV
+http://ott.udptv.net/stream/iptv/jugopinoytv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Kapamilya Channel" tvg-id="Kapamilya.Channel.ph" group-title="UDPTV",Kapamilya Channel
+http://ott.udptv.net/stream/iptv/kapamilyachannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="KBS Korea" tvg-id="hlsproxy-1543" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kbs_world_kr.png",KBS Korea
+https://ott.udptv.xyz/stream/astro/kbskorea/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="KBS World" tvg-id="hlsproxy-1543" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kbs_world_kr.png",KBS World
+https://ott.udptv.xyz/stream/astro/kbsworld/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="KIX" tvg-id="hlsproxy-1905" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/kk/kix-hk.png",KIX
+http://ott.udptv.net/stream/iptv/kix/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="KNBC" tvg-id="hlsproxy-52362" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/kk/knbc_los_angeles.png",KNBC
+https://ott.udptv.xyz/stream/udptvus/knbc/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Knowledge Channel" tvg-id="hlsproxy-52286" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_net_knowledge.png",Knowledge Channel
+http://ott.udptv.net/stream/iptv/knowledgechannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="K-Plus" tvg-id="K-Plus.HD.my" group-title="UDPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/266_144.png",K-Plus
+https://ott.udptv.xyz/stream/astro/kplus/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Lifetime" tvg-id="hlsproxy-20534" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ll/lifetime_us.png",Lifetime
+https://ott.udptv.xyz/stream/astro/lifetime/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Lotus Macau" tvg-id="hlsproxy-7159" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ll/lotus_tv.png",Lotus Macau
+http://ott.udptv.net/stream/iptv/lotusmacau/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Love Nature" tvg-id="hlsproxy-51830" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/love-nature.png",Love Nature
+https://ott.udptv.xyz/stream/astro/lovenature/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Love Nature 4K" tvg-id="hlsproxy-55105" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/love-nature-4k.png",Love Nature 4K
+https://ott.udptv.xyz/stream/astro/lovenature4k/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Metro Channel" tvg-id="hlsproxy-20850" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png",Metro Channel
+http://ott.udptv.net/stream/iptv/metrochannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MGM+ Drive-In" tvg-id="sling/mgmdrivein" group-title="UDPTV",MGM+ Drive-In
+https://ott.udptv.xyz/stream/udptvus/mgmdrivein/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MLB Network" tvg-id="hlsproxy-20565" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/mm/mlb_network.png",MLB Network
+https://ott.udptv.xyz/stream/udptvus/mlbnetwork/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MN+" tvg-id="iptv/mn" group-title="UDPTV",MN+
+https://ott.udptv.net/stream/iptv/mn/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MNX" tvg-id="hlsproxy-1860" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/mm/mnx-in.png",MNX
+https://ott.udptv.net/stream/iptv/mnx/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Moonbug Kids" tvg-id="Moonbug.my" group-title="UDPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/465_144.png",Moonbug Kids
+https://ott.udptv.xyz/stream/astro/moonbugkids/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Movies Now" tvg-id="hlsproxy-8364" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/mm/movies_now.png",Movies Now
+https://ott.udptv.net/stream/iptv/moviesnow/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MPTV" tvg-id="Cg.Mptv.ph" group-title="UDPTV",MPTV
+http://ott.udptv.net/stream/iptv/mptv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MSG Sportszone" tvg-id="hlsproxy-20571" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/mm/msg_network_us.png",MSG Sportszone
+https://ott.udptv.xyz/stream/udptvus/msgsportszone/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MTV 00's" tvg-id="hlsproxy-54325" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/mtv-00s.png",MTV 00's
+https://ott.udptv.xyz/stream/udptv/mtv00s/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MTV 80's" tvg-id="hlsproxy-1270" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/mtv-80s.png",MTV 80's
+https://ott.udptv.xyz/stream/udptv/mtv80s/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MTV 90's" tvg-id="hlsproxy-1271" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/mtv-90s.png",MTV 90's
+http://ott.udptv.net/stream/iptv/mtv90s/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MTV Classic" tvg-id="hlsproxy-1270" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/mtv-80s.png",MTV Classic
+https://ott.udptv.xyz/stream/fubo/mtvclassic/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MTV Club" tvg-id="hlsproxy-113" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/mtv-dance.png",MTV Club
+https://ott.udptv.xyz/stream/udptv/clubmtv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MTV Hits" tvg-id="hlsproxy-115" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/mtv-hits.png",MTV Hits
+https://ott.udptv.xyz/stream/udptv/mtvhits/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MTV Live" tvg-id="hlsproxy-116" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/mtv-live-hd.png",MTV Live
+https://ott.udptv.xyz/stream/astro/mtvlive/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MTV Live IT" tvg-id="hlsproxy-116" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/mtv-live-hd.png",MTV Live IT
+https://ott.udptv.xyz/stream/udptv/mtvlive/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MTV Live US" tvg-id="hlsproxy-116" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/mtv-live-hd.png",MTV Live US
+https://ott.udptv.xyz/stream/fubo/mtvlive/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky MTV Live UK" tvg-id="hlsproxy-53073" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/mm/mtv_us.png",MTV UK
+https://ott.udptv.xyz/stream/skyuk/mtvlive/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MTVU" tvg-id="fubo/mtvu" group-title="UDPTV",MTVU
+https://ott.udptv.xyz/stream/fubo/mtvu/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Myx Global" tvg-id="hlsproxy-20633" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/mm/myx_us.png",Myx Global
+http://ott.udptv.net/stream/iptv/myxglobal-1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="MYX PH" tvg-id="hlsproxy-20633" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/mm/myx_us.png",MYX PH
+http://ott.udptv.net/stream/iptv/myxph/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-id="hlsproxy-128" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/nat-geo-wild.png",Nat Geo Wild
+https://ott.udptv.xyz/stream/udptv/natgeowild/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Nat Geo Wild US" tvg-id="hlsproxy-2141" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nat_geo_wild_us.png",Nat Geo Wild US
+https://ott.udptv.xyz/stream/udptvus/natgeowild/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="National Geographic Channel" tvg-id="hlsproxy-130" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/national-geographic.png",National Geographic Channel
+https://ott.udptv.xyz/stream/udptv/nationalgeographicchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="National Geographic Channel CA" tvg-id="hlsproxy-130" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/national-geographic.png",National Geographic Channel CA
+https://ott.udptv.xyz/stream/udptv/nationalgeographicca/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="National Geographic Channel US" tvg-id="hlsproxy-130" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/national-geographic.png",National Geographic Channel US
+https://ott.udptv.xyz/stream/udptvus/nationalgeographic/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="NBA TV - NBALP" tvg-id="hlsproxy-20638" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nba_tv_us.png",NBA TV - NBALP
+https://ott.udptv.xyz/stream/udptvus/nbatvnbalp/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="NBA TV HDTV" tvg-id="hlsproxy-20638" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nba_tv_us.png",NBA TV HDTV
+https://ott.udptv.xyz/stream/udptv/nbatvhdtv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="NBA TV Philippines" tvg-id="hlsproxy-20638" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nba_tv_us.png",NBA TV Philippines
+http://ott.udptv.net/stream/iptv/nbatvphilippines/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="NBA TV USA" tvg-id="hlsproxy-20638" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nba_tv_us.png",NBA TV USA
+https://ott.udptv.xyz/stream/udptvus/nbatv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="NBC (KNBC)" tvg-id="hlsproxy-20644" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nbc_us.png",NBC (KNBC)
+http://ott.udptv.net/stream/iptv/arirang/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="NBC Golf" tvg-id="hlsproxy-20424" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/gg/golf_channel_us.png",NBC Golf
+https://ott.udptv.xyz/stream/nbc/nbcgolf/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="NECN" tvg-id="New.England.Sports.Network.us" group-title="UDPTV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10996_h15_ac.png",NECN
+https://ott.udptv.xyz/stream/nbc/necn/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="NET25" tvg-id="Net.25.ph" group-title="UDPTV",NET25
+http://ott.udptv.net/stream/iptv/net25/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="NFL Network" tvg-id="hlsproxy-50551" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nfl_network_us.png",NFL Network
+https://ott.udptv.xyz/stream/udptv/nflnetwork/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="NFL Redzone Network" tvg-id="hlsproxy-20648" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nfl_red_zone.png",NFL Redzone Network
+https://ott.udptv.xyz/stream/udptvus/nflredzonenetwork/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="NHK World Japan" tvg-id="hlsproxy-126" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/nhk.png",NHK World Japan
+http://ott.udptv.net/stream/iptv/nhkworldjapan/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="NHK World Premium" tvg-id="hlsproxy-126" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nhk_world_premium.png",NHK World Premium
+https://ott.udptv.xyz/stream/astro/nhkworldpremium/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Nick Junior" tvg-id="hlsproxy-3188" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/nick-junior.png",Nick Junior
+https://ott.udptv.xyz/stream/astro/nickjunior/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Nick Music AU" tvg-id="hlsproxy-54549" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nick_us_music.png",Nick Music AU
+https://ott.udptv.xyz/stream/udptv/nickmusic/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Nick Music US" tvg-id="hlsproxy-54549" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nick_us_music.png",Nick Music US
+https://ott.udptv.xyz/stream/fubo/nickmusic/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Nick Toons" tvg-id="hlsproxy-54368" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/nicktoons.png",Nick Toons
+https://ott.udptv.xyz/stream/udptv/nicktoons/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-id="hlsproxy-136" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/nickelodeon.png",Nickelodeon
+https://ott.udptv.xyz/stream/astro/nickelodeon/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="OCN Movies" tvg-id="hlsproxy-52479" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/oo/ocn_broadcasting_us.png",OCN Movies
+https://ott.udptv.net/stream/iptv/ocnmovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="OCN Movies 2" tvg-id="hlsproxy-52479" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/oo/ocn_broadcasting_us.png",OCN Movies 2
+https://ott.udptv.net/stream/iptv/ocnmovies2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="One News" tvg-id="hlsproxy-8100" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/cc/channel_one_news_in.png",One News
+http://ott.udptv.net/stream/iptv/onenews/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="One PH" tvg-id="hlsproxy-844" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/ard_one.png",One PH
+http://ott.udptv.net/stream/iptv/oneph/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="One Sports" tvg-id="hlsproxy-844" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/ard_one.png",One Sports
+http://ott.udptv.net/stream/iptv/onesports-1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="One Sports +" tvg-id="hlsproxy-844" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/ard_one.png",One Sports +
+http://ott.udptv.net/stream/iptv/onesports/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="One TV Asia" tvg-id="hlsproxy-844" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/aa/ard_one.png",One TV Asia
+https://ott.udptv.net/stream/iptv/onetvasia/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Outdoor Channel" tvg-id="hlsproxy-139" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/outdoor-channel.png",Outdoor Channel
+https://ott.udptv.xyz/stream/udptvus/outdoorchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Oxygen True Crime" tvg-id="Oxygen.-.Eastern.Feed.us" group-title="UDPTV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s21484_h15_ac.png",Oxygen True Crime
+https://ott.udptv.xyz/stream/udptvus/oxygentruecrime/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Paramount Network" tvg-id="hlsproxy-1637" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/pp/paramount-network-us.png",Paramount Network
+https://ott.udptv.xyz/stream/udptvus/paramountnetwork/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Paramount+ with Showtime" tvg-id="udptvus/paramountwithshowtime" group-title="UDPTV",Paramount+ with Showtime
+https://ott.udptv.xyz/stream/udptvus/paramountwithshowtime/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Paramount+ with Showtime West" tvg-id="udptvus/paramountwithshowtimewest" group-title="UDPTV",Paramount+ with Showtime West
+https://ott.udptv.xyz/stream/udptvus/paramountwithshowtimewest/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="PBA Rush" tvg-id="Pbarush.Hd.ph" group-title="UDPTV",PBA Rush
+http://ott.udptv.net/stream/iptv/pbarush/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="PBB All-Access Livestream" tvg-id="iptv/pbballaccesslivestream" group-title="UDPTV",PBB All-Access Livestream
+https://ott.udptv.net/stream/iptv/pbballaccesslivestream/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="PBO" tvg-id="PBO.ph" group-title="UDPTV",PBO
+http://ott.udptv.net/stream/iptv/pbo/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Premier League" tvg-id="hlsproxy-1313" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/pp/premier_league_tv_uk.png",Premier League
+https://ott.udptv.net/stream/iptv/premierleague/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Premier Sports" tvg-id="hlsproxy-1314" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/fvvz8rwz46wlxit/prspo1.png",Premier Sports
+https://ott.udptv.net/stream/iptv/premiersports/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Premier Sports 1 UK" tvg-id="hlsproxy-1314" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/fvvz8rwz46wlxit/prspo1.png",Premier Sports 1 UK
+https://ott.udptv.xyz/stream/skyie/premiersports1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Premier Sports 2" tvg-id="hlsproxy-55075" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/4kd5sydrifs7219/prspo2.png",Premier Sports 2
+https://ott.udptv.net/stream/iptv/premiersports2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Premier Sports 2 UK" tvg-id="hlsproxy-55075" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/4kd5sydrifs7219/prspo2.png",Premier Sports 2 UK
+https://ott.udptv.xyz/stream/skyie/premiersports2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="PPV CH1" tvg-id="udptv/ppvch1" group-title="UDPTV",PPV CH1
+https://ott.udptv.net/stream/udptvppv/ppvch1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="PPV CH2" tvg-id="udptv/ppvch2" group-title="UDPTV",PPV CH2
+https://ott.udptv.net/stream/udptvppv/ppvch2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="PPV CH3" tvg-id="udptv/ppvch3" group-title="UDPTV",PPV CH3
+https://ott.udptv.xyz/stream/udptvus/ppvch3/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="PPV CH4" tvg-id="udptv/ppvch4" group-title="UDPTV",PPV CH4
+https://ott.udptv.net/stream/udptvppv/ppvch4/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="PPV CH5 SD" tvg-id="udptv/ppvch5sd" group-title="UDPTV",PPV CH5 SD
+https://ott.udptv.net/stream/udptvppv/ppvch5sd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="PTV" tvg-id="PTV.ph" group-title="UDPTV",PTV
+http://ott.udptv.net/stream/iptv/ptv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-id="hlsproxy-51971" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/w0osuonbeeleazt/redbull.png",Red Bull TV
+https://ott.udptv.xyz/stream/udptv/redbulltv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Rock Action" tvg-id="hlsproxy-4176" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rock_tv_it.png",Rock Action
+http://ott.udptv.net/stream/iptv/rockaction/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Rock Entertainment" tvg-id="hlsproxy-4176" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/rr/rock_tv_it.png",Rock Entertainment
+http://ott.udptv.net/stream/iptv/rockentertainment/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="RPTV" tvg-id="Rptv.ph" group-title="UDPTV",RPTV
+http://ott.udptv.net/stream/iptv/rptv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sari Sari" tvg-id="Sari.Sari.ph" group-title="UDPTV",Sari Sari
+http://ott.udptv.net/stream/iptv/sarisari/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="ScreamFlix" tvg-id="iptv/screamflix" group-title="UDPTV",ScreamFlix
+http://ott.udptv.net/stream/iptv/screamflix/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Setanta Sports 1" tvg-id="hlsproxy-413" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/setanta-sports-1.png",Setanta Sports 1
+https://ott.udptv.xyz/stream/udptv/setantasport1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Showtime 2" tvg-id="hlsproxy-20788" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/showtime2_east.png",Showtime 2
+https://ott.udptv.xyz/stream/udptvus/showtime2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Showtime Extreme" tvg-id="hlsproxy-20795" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/showtime_extreme_east.png",Showtime Extreme
+https://ott.udptv.xyz/stream/udptvus/showtimeextreme/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Showtime Next" tvg-id="hlsproxy-20800" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/showtime_next_east.png",Showtime Next
+https://ott.udptv.xyz/stream/udptvus/showtimenext/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Showtime Showcase" tvg-id="hlsproxy-20803" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/showtime_showcase_east.png",Showtime Showcase
+https://ott.udptv.xyz/stream/udptvus/showtimeshowcase/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Arts UK" tvg-id="hlsproxy-1366" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_arts.png",Sky Arts UK
+https://ott.udptv.xyz/stream/skyuk/skyarts/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Atlantic" tvg-id="hlsproxy-4189" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-atlantic-uk.png",Sky Atlantic
+https://ott.udptv.xyz/stream/Sky/skyatlantic/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Atlantic UK" tvg-id="hlsproxy-4189" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-atlantic-uk.png",Sky Atlantic UK
+https://ott.udptv.xyz/stream/skyuk/skyatlantic/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Atlantic DE" tvg-id="hlsproxy-52752" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_atlantic.png",Sky Atlantic DE
+https://ott.udptv.xyz/stream/skyde/skyatlantic/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Calcio 1" tvg-id="hlsproxy-4191" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_calcio_hd.png",Sky Calcio 1
+https://ott.udptv.xyz/stream/Sky/skycalcio1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Calcio 2" tvg-id="hlsproxy-4191" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_calcio_hd.png",Sky Calcio 2
+https://ott.udptv.xyz/stream/Sky/skycalcio2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Calcio 3" tvg-id="hlsproxy-4191" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_calcio_hd.png",Sky Calcio 3
+https://ott.udptv.xyz/stream/Sky/skycalcio3/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Calcio 4" tvg-id="hlsproxy-4191" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_calcio_hd.png",Sky Calcio 4
+https://ott.udptv.xyz/stream/Sky/skycalcio4/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Calcio 5" tvg-id="hlsproxy-4191" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_calcio_hd.png",Sky Calcio 5
+https://ott.udptv.xyz/stream/Sky/skycalcio5/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Calcio 6" tvg-id="hlsproxy-4191" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_calcio_hd.png",Sky Calcio 6
+https://ott.udptv.xyz/stream/Sky/skycalcio6/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Calcio 7" tvg-id="hlsproxy-4191" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_calcio_hd.png",Sky Calcio 7
+https://ott.udptv.xyz/stream/Sky/skycalcio7/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Calcio 8" tvg-id="hlsproxy-4191" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_calcio_hd.png",Sky Calcio 8
+https://ott.udptv.xyz/stream/Sky/skycalcio8/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Calcio 9" tvg-id="hlsproxy-4191" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_calcio_hd.png",Sky Calcio 9
+https://ott.udptv.xyz/stream/Sky/skycalcio9/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema 2024 Picks UK" tvg-id="skyuk/skycinema2024picks" group-title="UDPTV",Sky Cinema 2024 Picks UK
+https://ott.udptv.xyz/stream/skyuk/skycinema2024picks/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Action" tvg-id="hlsproxy-1358" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_cinema_action.png",Sky Cinema Action
+https://ott.udptv.xyz/stream/Sky/skycinemaaction/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Action UK" tvg-id="hlsproxy-52790" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_cinema_action_adventure.png",Sky Cinema Action UK
+https://ott.udptv.xyz/stream/skyuk/skycinemaaction/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Action DE" tvg-id="hlsproxy-1358" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_cinema_action.png",Sky Cinema Action DE
+https://ott.udptv.xyz/stream/skyde/skycinemaaction/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Animation UK" tvg-id="hlsproxy-2202" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-premieren-de.png",Sky Cinema Animation UK
+https://ott.udptv.xyz/stream/skyuk/skycinemaanimation/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Book to Screen UK" tvg-id="skyuk/skycinemabooktoscreen" group-title="UDPTV",Sky Cinema Book to Screen UK
+https://ott.udptv.xyz/stream/skyuk/skycinemabooktoscreen/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Classics DE" tvg-id="hlsproxy-4196" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-classics-de.png",Sky Cinema Classics DE
+https://ott.udptv.xyz/stream/skyde/skycinemaclassics/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Collection" tvg-id="hlsproxy-4199" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-collection-it.png",Sky Cinema Collection
+https://ott.udptv.xyz/stream/Sky/skycinemacollection/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Comedy" tvg-id="hlsproxy-1380" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_cinema_comedy.png",Sky Cinema Comedy
+https://ott.udptv.xyz/stream/Sky/skycinemacomedy/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Comedy UK" tvg-id="hlsproxy-1380" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_cinema_comedy.png",Sky Cinema Comedy UK
+https://ott.udptv.xyz/stream/skyuk/skycinemacomedy/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Drama" tvg-id="hlsproxy-54703" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-drama-it.png",Sky Cinema Drama
+https://ott.udptv.xyz/stream/Sky/skycinemadrama/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Drama UK" tvg-id="hlsproxy-54703" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-drama-it.png",Sky Cinema Drama UK
+https://ott.udptv.xyz/stream/skyuk/skycinemadrama/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Due" tvg-id="hlsproxy-4197" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-due-it.png",Sky Cinema Due
+https://ott.udptv.xyz/stream/Sky/skycinemadue/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Family" tvg-id="hlsproxy-4198" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_family.png",Sky Cinema Family
+https://ott.udptv.xyz/stream/Sky/skycinemafamily/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Family UK" tvg-id="hlsproxy-51185" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-family-uk.png",Sky Cinema Family UK
+https://ott.udptv.xyz/stream/skyuk/skycinemafamily/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Family DE" tvg-id="hlsproxy-1384" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_cinema_family_hd.png",Sky Cinema Family DE
+https://ott.udptv.xyz/stream/skyde/skycinemafamily/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Highlights DE" tvg-id="hlsproxy-2202" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-premieren-de.png",Sky Cinema Highlights DE
+https://ott.udptv.xyz/stream/skyde/skycinemahighlights/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Greats UK" tvg-id="hlsproxy-1385" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_cinema_greats.png",Sky Cinema Greats UK
+https://ott.udptv.xyz/stream/skyuk/skycinemagreats/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Premiere UK" tvg-id="hlsproxy-1386" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_cinema_premiere.png",Sky Cinema Premiere UK
+https://ott.udptv.xyz/stream/skyuk/skycinemapremier/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Premiere DE" tvg-id="hlsproxy-1386" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_cinema_premiere.png",Sky Cinema Premiere DE
+https://ott.udptv.xyz/stream/skyde/skycinemapremiere/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Romance" tvg-id="hlsproxy-4202" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-romance-it.png",Sky Cinema Romance
+https://ott.udptv.xyz/stream/Sky/skycinemaromance/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Suspence" tvg-id="hlsproxy-51186" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-cinema-suspense-it.png",Sky Cinema Suspence
+https://ott.udptv.xyz/stream/Sky/skycinemasuspence/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Thriller UK" tvg-id="hlsproxy-1381" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/g5onepddrob5l8t/skycincrtr.png",Sky Cinema Thriller UK
+https://ott.udptv.xyz/stream/skyuk/skycinemathriller/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Cinema Uno" tvg-id="hlsproxy-51187" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_cinema_uno_hd.png",Sky Cinema Uno
+https://ott.udptv.xyz/stream/Sky/skycinemauno/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Comedy UK" tvg-id="hlsproxy-52336" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-comedy-uk.png",Sky Comedy UK
+https://ott.udptv.xyz/stream/skyuk/skycomedy/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Eurosport 1" tvg-id="hlsproxy-72" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/eurosport.png",Sky Eurosport 1
+https://ott.udptv.xyz/stream/Sky/eurosport1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Eurosport 2" tvg-id="hlsproxy-73" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/eurosport-2.png",Sky Eurosport 2
+https://ott.udptv.xyz/stream/Sky/eurosport2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Kids UK" tvg-id="Sky.Kids.HD.uk" group-title="UDPTV" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1147.png",Sky Kids UK
+https://ott.udptv.xyz/stream/skyuk/skykids/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Krimi DE" tvg-id="hlsproxy-2209" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_krimi.png",Sky Krimi DE
+https://ott.udptv.xyz/stream/skyde/skykrimi/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Max UK" tvg-id="SkyMax.uk" group-title="UDPTV",Sky Max UK
+https://ott.udptv.xyz/stream/skyuk/skymax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky News" tvg-id="hlsproxy-1393" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_news_international.png",Sky News
+https://ott.udptv.xyz/stream/astro/skynews/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky One DE" tvg-id="hlsproxy-52562" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_1.png",Sky One DE
+https://ott.udptv.xyz/stream/skyde/skyone/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Replay DE" tvg-id="skyde/skyreplay" group-title="UDPTV",Sky Replay DE
+https://ott.udptv.xyz/stream/skyde/skyreplay/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Showcase DE" tvg-id="skyde/skyshowcase" group-title="UDPTV",Sky Showcase DE
+https://ott.udptv.xyz/stream/skyde/skyshowcase/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="sky SHOWTIME 1" tvg-id="iptv/skyshowtime1" group-title="UDPTV",sky SHOWTIME 1
+https://ott.udptv.net/stream/iptv/skyshowtime1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="sky SHOWTIME 2" tvg-id="iptv/skyshowtime2" group-title="UDPTV",sky SHOWTIME 2
+https://ott.udptv.net/stream/iptv/skyshowtime2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport 1 DE" tvg-id="hlsproxy-4205" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/y82i7rctrr1wijx/ssport1.png",Sky Sport 1 DE
+https://ott.udptv.xyz/stream/skyde/skysport1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport 2 DE" tvg-id="hlsproxy-4206" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/xo3cc3wr82cag9p/ssport2.png",Sky Sport 2 DE
+https://ott.udptv.xyz/stream/skyde/skysport2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport 3 DE" tvg-id="hlsproxy-52526" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/72qn2q849z2krgq/ssport3.png",Sky Sport 3 DE
+https://ott.udptv.xyz/stream/skyde/skysport3/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport 4 DE" tvg-id="hlsproxy-52527" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/b6ds0feaks099a1/ssport4.png",Sky Sport 4 DE
+https://ott.udptv.xyz/stream/skyde/skysport4/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport 5 DE" tvg-id="hlsproxy-52528" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/756tjv1uowa4vqg/ssport5.png",Sky Sport 5 DE
+https://ott.udptv.xyz/stream/skyde/skysport5/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport 6 DE" tvg-id="hlsproxy-52529" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/amn9bpgf87lsegb/ssport6.png",Sky Sport 6 DE
+https://ott.udptv.xyz/stream/skyde/skysport6/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport 7 DE" tvg-id="hlsproxy-52530" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/luyolu3yydm6iea/ssport7.png",Sky Sport 7 DE
+https://ott.udptv.xyz/stream/skyde/skysport7/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport 8 DE" tvg-id="hlsproxy-52531" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/2l2j78y9bcin0ps/ssport8.png",Sky Sport 8 DE
+https://ott.udptv.xyz/stream/skyde/skysport8/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport 9 DE" tvg-id="hlsproxy-52532" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/dkplgofugempzuj/ssport9.png",Sky Sport 9 DE
+https://ott.udptv.xyz/stream/skyde/skysport9/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport 10 DE" tvg-id="hlsproxy-54181" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/s55m8kr5p81alhw/ssport10.png",Sky Sport 10 DE
+https://ott.udptv.xyz/stream/skyde/skysport10/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga DE" tvg-id="hlsproxy-2201" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_bundesliga.png",Sky Sport Bundesliga DE
+https://ott.udptv.xyz/stream/skyde/skysportbundesliga/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 1 DE" tvg-id="hlsproxy-2201" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_bundesliga.png",Sky Sport Bundesliga 1 DE
+https://ott.udptv.xyz/stream/skyde/skysportbundesliga1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 2 DE" tvg-id="hlsproxy-1974" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_bundesliga.png",Sky Sport Bundesliga 2 DE
+https://ott.udptv.xyz/stream/skyde/skysportbundesliga2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 3 DE" tvg-id="hlsproxy-1975" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_bundesliga.png",Sky Sport Bundesliga 3 DE
+https://ott.udptv.xyz/stream/skyde/skysportbundesliga3/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 4 DE" tvg-id="hlsproxy-1976" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_bundesliga.png",Sky Sport Bundesliga 4 DE
+https://ott.udptv.xyz/stream/skyde/skysportbundesliga4/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 5 DE" tvg-id="hlsproxy-1977" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_bundesliga.png",Sky Sport Bundesliga 5 DE
+https://ott.udptv.xyz/stream/skyde/skysportbundesliga5/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 6 DE" tvg-id="hlsproxy-1978" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_bundesliga.png",Sky Sport Bundesliga 6 DE
+https://ott.udptv.xyz/stream/skyde/skysportbundesliga6/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 7 DE" tvg-id="hlsproxy-1979" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_bundesliga.png",Sky Sport Bundesliga 7 DE
+https://ott.udptv.xyz/stream/skyde/skysportbundesliga7/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 8 DE" tvg-id="hlsproxy-1980" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_bundesliga.png",Sky Sport Bundesliga 8 DE
+https://ott.udptv.xyz/stream/skyde/skysportbundesliga8/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 9 DE" tvg-id="hlsproxy-1981" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_bundesliga.png",Sky Sport Bundesliga 9 DE
+https://ott.udptv.xyz/stream/skyde/skysportbundesliga9/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Bundesliga 10 DE" tvg-id="hlsproxy-1982" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_bundesliga.png",Sky Sport Bundesliga 10 DE
+https://ott.udptv.xyz/stream/skyde/skysportbundesliga10/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport 24" tvg-id="hlsproxy-4207" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_sport24.png",Sky Sport 24
+https://ott.udptv.xyz/stream/Sky/skysport24/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Arena" tvg-id="hlsproxy-55271" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-arena-it.png",Sky Sport Arena
+https://ott.udptv.xyz/stream/Sky/skysportarena/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Calcio" tvg-id="hlsproxy-52759" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport.png",Sky Sport Calcio
+https://ott.udptv.xyz/stream/Sky/skysportcalcio/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport F1" tvg-id="hlsproxy-4209" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_sport_f1_hd.png",Sky Sport F1
+https://ott.udptv.xyz/stream/Sky/skysportf1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport F1 DE" tvg-id="hlsproxy-4209" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_sport_f1_hd.png",Sky Sport F1 DE
+https://ott.udptv.xyz/stream/skyde/skysportf1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Golf" tvg-id="hlsproxy-53559" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-golf-it.png",Sky Sport Golf
+https://ott.udptv.xyz/stream/Sky/skysportgolf/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Max" tvg-id="hlsproxy-52759" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport.png",Sky Sport Max
+https://ott.udptv.xyz/stream/Sky/skysportmax/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Motogp" tvg-id="hlsproxy-4210" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-moto-gp-it.png",Sky Sport Motogp
+https://ott.udptv.xyz/stream/Sky/skysportmotogp/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport NBA" tvg-id="hlsproxy-55275" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-nba-it.png",Sky Sport NBA
+https://ott.udptv.xyz/stream/Sky/skysportnba/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Uno" tvg-id="hlsproxy-1408" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-uno-it.png",Sky Sport Uno
+https://ott.udptv.xyz/stream/Sky/skysportuno/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sports Action UK" tvg-id="hlsproxy-4212" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/ifgfuzlad7rfaje/sspsaction.png",Sky Sports Action UK
+https://ott.udptv.xyz/stream/skyuk/skysportsaction/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sports Cricket UK" tvg-id="hlsproxy-53558" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_cricket.png",Sky Sports Cricket UK
+https://ott.udptv.xyz/stream/skyuk/skysportscricket/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sports F1 UHD UK" tvg-id="hlsproxy-1397" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/sky-sports-f1-hd.png",Sky Sports F1 UHD UK
+https://ott.udptv.xyz/stream/skyuk/skysportsf1uhd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="hlsproxy-1397" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/sky-sports-f1-hd.png",Sky Sports F1 UK
+https://ott.udptv.xyz/stream/skyuk/skysportsf1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sports Football UK" tvg-id="hlsproxy-52535" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/sky-sports-football-hd.png",Sky Sports Football UK
+https://ott.udptv.xyz/stream/skyuk/skysportsfootball/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sports Golf UK" tvg-id="hlsproxy-53559" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_golf.png",Sky Sports Golf UK
+https://ott.udptv.xyz/stream/skyuk/skysportsgolf/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Golf DE" tvg-id="hlsproxy-53559" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-sport-golf-it.png",Sky Sport Golf DE
+https://ott.udptv.xyz/stream/skyde/skysportgolf/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sports Main Event UHD UK" tvg-id="hlsproxy-53560" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/8tawq4odgmkk6gw/sspsmain.png",Sky Sports Main Event UHD UK
+https://ott.udptv.xyz/stream/skyuk/skysportsmaineventuhd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sports Main Event UK" tvg-id="hlsproxy-53560" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/8tawq4odgmkk6gw/sspsmain.png",Sky Sports Main Event UK
+https://ott.udptv.xyz/stream/skyuk/skysportsmainevent/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sports Mix UK" tvg-id="hlsproxy-1398" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_mix.png",Sky Sports Mix UK
+https://ott.udptv.xyz/stream/skyuk/skysportsmix/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Mix DE" tvg-id="hlsproxy-1398" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_sport_hd.png",Sky Sport Mix DE
+https://ott.udptv.xyz/stream/skyde/skysportmix/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sports News UK" tvg-id="hlsproxy-52534" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/skysportsnews.png",Sky Sports News UK
+https://ott.udptv.xyz/stream/skyuk/skysportsnews/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport News DE" tvg-id="hlsproxy-782" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport_news.png",Sky Sport News DE
+https://ott.udptv.xyz/stream/skyde/skysportnews/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sports Plus UK" tvg-id="hlsproxy-52782" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_life_kr_sports.png",Sky Sports Plus UK
+https://ott.udptv.xyz/stream/skyuk/skysportsplus/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sports Premier League UK" tvg-id="hlsproxy-52759" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/k6v04rd18buoiaj/sspspremier.png",Sky Sports Premier League UK
+https://ott.udptv.xyz/stream/skyuk/skysportspremierleague/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Premier League DE" tvg-id="hlsproxy-52759" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport.png",Sky Sport Premier League DE
+https://ott.udptv.xyz/stream/skyde/skysportpremierleague/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sports Racing UK" tvg-id="hlsproxy-55278" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-racing-uk.png",Sky Sports Racing UK
+https://ott.udptv.xyz/stream/skyuk/skysportsracing/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sports Tennis IT" tvg-id="hlsproxy-52782" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_life_kr_sports.png",Sky Sports Tennis IT
+https://ott.udptv.xyz/stream/Sky/skysporttennis/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sports Tennis UK" tvg-id="hlsproxy-52782" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_life_kr_sports.png",Sky Sports Tennis UK
+https://ott.udptv.xyz/stream/skyuk/skysportstennis/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Tennis DE" tvg-id="hlsproxy-52759" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_de_sport.png",Sky Sport Tennis DE
+https://ott.udptv.xyz/stream/skyde/skysporttennis/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Sport Top Event DE" tvg-id="skyde/skysporttopevent" group-title="UDPTV",Sky Sport Top Event DE
+https://ott.udptv.xyz/stream/skyde/skysporttopevent/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sky Uno" tvg-id="hlsproxy-4220" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sky_it_uno_hd.png",Sky Uno
+https://ott.udptv.xyz/stream/Sky/skyuno/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="SMNI" tvg-id="iptv/smni" group-title="UDPTV",SMNI
+http://ott.udptv.net/stream/iptv/smni/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="SPO TV" tvg-id="SPOTV.my" group-title="UDPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/456_144.png",SPO TV
+http://ott.udptv.net/stream/iptv/spotv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="SPO2 TV 2" tvg-id="SPOTV2.my" group-title="UDPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/474_144.png",SPO2 TV 2
+http://ott.udptv.net/stream/iptv/spo2tv2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sport 1" tvg-id="hlsproxy-2223" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sport1_de.png",Sport 1
+https://ott.udptv.xyz/stream/udptv/sport1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sport 1 Baltic" tvg-id="hlsproxy-54323" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/sport-1-baltic.png",Sport 1 Baltic
+https://ott.udptv.xyz/stream/udptv/sport1baltic/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sport 2 Baltic" tvg-id="hlsproxy-54665" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/sport-2-baltic.png",Sport 2 Baltic
+https://ott.udptv.xyz/stream/udptv/sport2baltic/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sport 4" tvg-id="hlsproxy-54676" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/israel-04-sport.png",Sport 4
+https://ott.udptv.xyz/stream/udptv/sport4/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sports Bay Area" tvg-id="hlsproxy-732" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sports_tv_tr.png",Sports Bay Area
+https://ott.udptv.xyz/stream/nbc/sportsbayarea/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sports Boston" tvg-id="hlsproxy-732" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sports_tv_tr.png",Sports Boston
+https://ott.udptv.xyz/stream/nbc/sportsboston/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sports California" tvg-id="hlsproxy-732" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sports_tv_tr.png",Sports California
+https://ott.udptv.xyz/stream/nbc/sportscalifornia/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sports Philadelphia" tvg-id="hlsproxy-20642" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/nn/nbcsn-us.png",Sports Philadelphia
+https://ott.udptv.xyz/stream/nbc/sportsphiladelphia/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sportsnet 360" tvg-id="hlsproxy-1674" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sportsnet_360.png",Sportsnet 360
+https://ott.udptv.net/stream/iptv/sportsnet360/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sportsnet East" tvg-id="hlsproxy-51070" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sportsnet_east.png",Sportsnet East
+https://ott.udptv.net/stream/iptv/sportsneteast/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sportsnet One" tvg-id="hlsproxy-20201" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sportsnet_one.png",Sportsnet One
+https://ott.udptv.net/stream/iptv/sportsnetone/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sportsnet Ontario" tvg-id="hlsproxy-2620" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sportsnet_ontario.png",Sportsnet Ontario
+https://ott.udptv.net/stream/iptv/sportsnetontario/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sportsnet Pacific" tvg-id="hlsproxy-2622" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sportsnet_pacific.png",Sportsnet Pacific
+https://ott.udptv.net/stream/iptv/sportsnetpacific/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sportsnet West" tvg-id="hlsproxy-20929" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sportsnet_west.png",Sportsnet West
+https://ott.udptv.net/stream/iptv/sportsnetwest/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Sportsnet World" tvg-id="hlsproxy-50545" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/sportsnet_world.png",Sportsnet World
+https://ott.udptv.net/stream/iptv/sportsnetworld/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Super Radyo DZBB" tvg-id="hlsproxy-54419" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/super_tv_it.png",Super Radyo DZBB
+https://stream.gmanews.tv/ioslive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-name="Syfy DE" tvg-id="hlsproxy-2230" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/syfy_us_global.png",Syfy DE
+https://ott.udptv.xyz/stream/skyde/syfy/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Syfy" tvg-id="hlsproxy-52247" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/syfy_us_global.png",Syfy
+https://ott.udptv.xyz/stream/udptvus/syfy/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Syfy East" tvg-id="hlsproxy-52247" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/syfy_us_global.png",Syfy East
+https://ott.udptv.xyz/stream/nbc/syfyeast/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Syfy West" tvg-id="hlsproxy-52247" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ss/syfy_us_global.png",Syfy West
+https://ott.udptv.xyz/stream/nbc/syfywest/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Tap Action Flix" tvg-id="Tapactionflix.Hd.ph" group-title="UDPTV",Tap Action Flix
+http://ott.udptv.net/stream/iptv/tapactionflix/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Tap Edge" tvg-id="Tap.Edge.ph" group-title="UDPTV",Tap Edge
+http://ott.udptv.net/stream/iptv/tapedge/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Tap Movies" tvg-id="Tapmovies.Hd.ph" group-title="UDPTV",Tap Movies
+http://ott.udptv.net/stream/iptv/tapmovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Tap Sports" tvg-id="Tap.Sports.ph" group-title="UDPTV",Tap Sports
+http://ott.udptv.net/stream/iptv/tapsports/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Tap TV" tvg-id="Taptv.ph" group-title="UDPTV",Tap TV
+http://ott.udptv.net/stream/iptv/taptv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Teen Nick" tvg-id="hlsproxy-20932" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/teennick.png",Teen Nick
+https://ott.udptv.xyz/stream/udptvus/teennick/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Tennis Channel" tvg-id="hlsproxy-20941" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tennis_channel.png",Tennis Channel
+https://ott.udptv.xyz/stream/udptvus/tennischannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TFC Asia" tvg-id="TFC.hk" group-title="UDPTV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch725_160_115",TFC Asia
+http://ott.udptv.net/stream/iptv/tfcasia/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TFC Global" tvg-id="TFC.hk" group-title="UDPTV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch725_160_115",TFC Global
+http://ott.udptv.net/stream/iptv/tfcglobal/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Thrill" tvg-id="TLC.ph" group-title="UDPTV" tvg-logo="http://202.78.65.124/epgcms/uploads/TLC_Logo_Pepper_Red_FG.png",Thrill
+http://ott.udptv.net/stream/iptv/thrill/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TLC" tvg-id="hlsproxy-166" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/tlc.png",TLC
+https://ott.udptv.xyz/stream/astro/tlc/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TMC" tvg-id="hlsproxy-51152" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tmc_mc.png",TMC
+http://ott.udptv.net/stream/iptv/tmc/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TNT" tvg-id="hlsproxy-52252" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/tnt.png",TNT
+https://ott.udptv.xyz/stream/udptvus/tnt/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TNT Sports 1" tvg-id="hlsproxy-2527" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us-ar.png",TNT Sports 1
+https://ott.udptv.xyz/stream/skyie/tntsports1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-id="hlsproxy-2527" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us-ar.png",TNT Sports 2
+https://ott.udptv.xyz/stream/skyie/tntsports2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TNT Sports 3" tvg-id="hlsproxy-2527" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us-ar.png",TNT Sports 3
+https://ott.udptv.xyz/stream/skyie/tntsports3/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-id="hlsproxy-2527" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us-ar.png",TNT Sports 4
+https://ott.udptv.xyz/stream/skyie/tntsports4/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TNT Sports 5" tvg-id="hlsproxy-2527" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tnt-sports-us-ar.png",TNT Sports 5
+https://ott.udptv.net/stream/iptv/tntsports5/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Travel Channel IT" tvg-id="hlsproxy-182" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/travel-channel.png",Travel Channel IT
+https://ott.udptv.xyz/stream/udptv/travelchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Travel Channel US" tvg-id="hlsproxy-182" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/travel-channel.png",Travel Channel US
+https://ott.udptv.xyz/stream/udptvus/travelchannel/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Tru TV" tvg-id="hlsproxy-20978" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tru_tv_us.png",Tru TV
+https://ott.udptv.xyz/stream/udptvus/trutv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="True FM TV" tvg-id="Truefmtv.ph" group-title="UDPTV",True FM TV
+http://ott.udptv.net/stream/iptv/truefmtv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TSN1" tvg-id="hlsproxy-50546" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/tsn-1.png",TSN1
+https://ott.udptv.net/stream/iptv/tsn1/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TSN2" tvg-id="hlsproxy-50547" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/tsn-2.png",TSN2
+https://ott.udptv.net/stream/iptv/tsn2/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TSN3" tvg-id="hlsproxy-50548" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/tsn-3.png",TSN3
+https://ott.udptv.net/stream/iptv/tsn3/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TSN4" tvg-id="hlsproxy-50549" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/tsn-4.png",TSN4
+https://ott.udptv.net/stream/iptv/tsn4/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TSN5" tvg-id="hlsproxy-50550" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/tsn-5.png",TSN5
+https://ott.udptv.net/stream/iptv/tsn5/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="TV5 HD" tvg-id="hlsproxy-3240" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/tt/tv5_monde_fr_be_ch.png",TV5 HD
+http://ott.udptv.net/stream/iptv/tv5hd/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="tvN" tvg-id="hlsproxy-54653" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/rwgn3iix2ryh2rc/tvn-es.png",tvN
+http://ott.udptv.net/stream/iptv/tvn/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="tvN Movies" tvg-id="hlsproxy-54653" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/rwgn3iix2ryh2rc/tvn-es.png",tvN Movies
+https://ott.udptv.xyz/stream/astro/tvnmovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="tvN Movies Pinoy" tvg-id="hlsproxy-54653" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/rwgn3iix2ryh2rc/tvn-es.png",tvN Movies Pinoy
+http://ott.udptv.net/stream/iptv/tvnmoviespinoy/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Universal Movies" tvg-id="hlsproxy-1474" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/uu/universal_somali_tv.png",Universal Movies
+https://ott.udptv.xyz/stream/fubo/universalmovies/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Universal TV DE" tvg-id="hlsproxy-52341" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/uu/universal-channel-america-latina-us.png",Universal TV DE
+https://ott.udptv.xyz/stream/skyde/universal/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="UNTV" tvg-id="iptv/untv" group-title="UDPTV",UNTV
+http://ott.udptv.net/stream/iptv/untv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="USA East" tvg-id="hlsproxy-9352" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/uu/usa_network_east.png",USA East
+https://ott.udptv.xyz/stream/udptv/usaeast/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="USA West" tvg-id="hlsproxy-9352" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/uu/usa_network_east.png",USA West
+https://ott.udptv.xyz/stream/udptv/usawest/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Vevo 2K" tvg-id="hlsproxy-8155" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/7de6bstssei597y/VEVOMusic.png",Vevo 2K
+https://ott.udptv.xyz/stream/udptv/vevo2k/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Vevo 70's" tvg-id="hlsproxy-8155" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/7de6bstssei597y/VEVOMusic.png",Vevo 70's
+https://ott.udptv.xyz/stream/udptv/vevo70s/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Vevo 80's" tvg-id="hlsproxy-8155" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/7de6bstssei597y/VEVOMusic.png",Vevo 80's
+https://ott.udptv.xyz/stream/udptv/vevo80s/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Vevo 90's" tvg-id="hlsproxy-8155" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/7de6bstssei597y/VEVOMusic.png",Vevo 90's
+https://ott.udptv.xyz/stream/udptv/vevo90s/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Vevo Country" tvg-id="hlsproxy-8155" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/7de6bstssei597y/VEVOMusic.png",Vevo Country
+https://ott.udptv.xyz/stream/udptv/vevocountry/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Vevo Hip-hop" tvg-id="hlsproxy-8155" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/7de6bstssei597y/VEVOMusic.png",Vevo Hip-hop
+https://ott.udptv.xyz/stream/udptv/vevohiphop/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Vevo R&B" tvg-id="hlsproxy-8155" group-title="UDPTV" tvg-logo="https://dl.dropboxusercontent.com/s/7de6bstssei597y/VEVOMusic.png",Vevo R&B
+https://ott.udptv.xyz/stream/udptv/vevorb/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Viva Cinema" tvg-id="hlsproxy-52910" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/logos/viva-tv-il.png",Viva Cinema
+http://ott.udptv.net/stream/iptv/vivacinema/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Warner TV" tvg-id="hlsproxy-21054" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ww/warner_tv_us.png",Warner TV
+http://ott.udptv.net/stream/iptv/warnertv/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Warner TV Comedy DE" tvg-id="hlsproxy-21054" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ww/warner_tv_us.png",Warner TV Comedy DE
+https://ott.udptv.xyz/stream/skyde/warnertvcomedy/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Warner TV Film DE" tvg-id="hlsproxy-21054" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ww/warner_tv_us.png",Warner TV Film DE
+https://ott.udptv.xyz/stream/skyde/warnertvfilm/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="Warner TV Serie DE" tvg-id="hlsproxy-21054" group-title="UDPTV" tvg-logo="http://civ4kap.mooo.com/proxy/https://www.lyngsat-logo.com/logo/tv/ww/warner_tv_us.png",Warner TV Serie DE
+https://ott.udptv.xyz/stream/skyde/warnertvserie/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
+#EXTINF:-1 tvg-name="W-Sport" tvg-id="W-Sport.my" group-title="UDPTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png",W-Sport
+https://ott.udptv.xyz/stream/astro/wsport/master.m3u8?u=cocked&p=dd0abb52723d22acc0f97fe0336480feaa88a37ecda55a138a8d5e0ee14b0664
