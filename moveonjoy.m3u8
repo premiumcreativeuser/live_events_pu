@@ -506,6 +506,9 @@ http://fl41.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" tvg-name="Showtime Women",Showtime Women
 http://fl41.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
+#EXTINF:-1 tvg-name="Sky Sports Football" tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-football-uk.png" group-title="SPORTS",Sky Sports Football
+https://fl41.moveonjoy.com/Sky_Sports_F1/index.m3u8
+
 #EXTINF:-1 group-title="Documentary" tvg-id="Smithsonian.Channel.USA.HD.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/smithsonian-channel-us.png?raw=true" tvg-name="SMITHSONIAN CHANNEL",SMITHSONIAN CHANNEL
 http://fl41.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 
@@ -550,9 +553,6 @@ http://fl41.moveonjoy.com/STARZ_WEST/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="SundanceTV.USA.-.East.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16108_dark_360w_270h.png" tvg-name="SundanceTV",SundanceTV
 http://fl41.moveonjoy.com/SUNDANCE/index.m3u8
-
-#EXTINF:-1 tvg-name="Sky Sports Football" tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-football-uk.png" group-title="SPORTS",Sky Sports Football
-https://fl41.moveonjoy.com/Sky_Sports_F1/index.m3u8
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="Syfy.-.Eastern.Feed.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true" tvg-name="SYFY",SYFY
 http://fl41.moveonjoy.com/SYFY/index.m3u8
