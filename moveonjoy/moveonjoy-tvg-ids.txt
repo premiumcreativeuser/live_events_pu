@@ -101,6 +101,7 @@ NBC.West.Stream.us2
 Curiosity.Channel.HD.us2
 Curiosity.NOW.us2
 CuriosityStream.us2
+Discovery.Channel.HD.us2
 Discovery.Family.Channel.HD.us2
 E!.Entertainment.Television.HD.us2
 Paramount.Network.HD.us2
