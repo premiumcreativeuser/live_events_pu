@@ -290,6 +290,7 @@ CBS.(KCBS).Los.Angeles,.CA.us
 FOX.(KTTV).Los.Angeles,.CA.us
 NBC.(KNBC).Los.Angeles,.CA.us
 ABC.(WABC).New.York,.NY.us
+CBS.(WBZ).Boston,.MA.us
 
 TSN.1.ca2
 TSN.2.ca2
