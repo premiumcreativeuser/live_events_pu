@@ -300,6 +300,13 @@ NBC.(WNBC).New.York,.NY.us
 KTLA.Los.Angeles,.CA.us
 KCAL.Los.Angeles.us
 
+KCBS-DT.us_locals1
+KNBC-DT.us_locals1
+KTLA-DT.us_locals1
+KABC-DT.us_locals1
+KCAL-DT.us_locals1
+KTTV-DT.us_locals1
+
 TSN.1.ca2
 TSN.2.ca2
 TSN.2.HD.ca2
