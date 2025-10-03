@@ -245,7 +245,7 @@ NHL.Network.HD.us2
 SNY.SportsNet.New.York.HD.us2
 COZI.TV.us2
 Discovery.Life.Channel.us2
-
+SportsNet.Pittsburgh.us2
 BBC.America.HD.us2
 BBC.News.(North.America).HD.us2
 
