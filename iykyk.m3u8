@@ -1,19 +1,19 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/epgs/moveonjoy-epg.xml"
 
 #NEWS
-#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS
+#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2637
-#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS
+#EXTINF:-1 tvg-id="CBS.(KCBS).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2622
-#EXTINF:-1 tvg-id="NBC.(KNBC).Los.Angeles,.CA.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC
+#EXTINF:-1 tvg-id="NBC.(KNBC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2453
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA 
+#EXTINF:-1 tvg-id="KTLA.Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA 
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/90546
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA 
+#EXTINF:-1 tvg-id="KTLA.Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA 
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/87547
-#EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC KABC
+#EXTINF:-1 tvg-id="ABC.(KABC).Los.Angeles,.CA.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC KABC
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2684
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL
+#EXTINF:-1 tvg-id="KCAL.Los.Angeles.us" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/87548
 #EXTINF:-1 tvg-id="FOX.(KTTV).Los.Angeles,.CA.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2550
