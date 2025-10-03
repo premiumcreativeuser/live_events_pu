@@ -355,7 +355,7 @@ SkyCinemaThriller.uk
 SkyMax.uk
 TNT.Sports.1.HD.uk
 TNT.Sports.2.HD.uk
-NT.Sports.3.HD.uk
+TNT.Sports.3.HD.uk
 TNT.Sports.4.HD.uk
 TNT.Sports.5.HD.uk
 Sky.Sports.Football.HD.uk
