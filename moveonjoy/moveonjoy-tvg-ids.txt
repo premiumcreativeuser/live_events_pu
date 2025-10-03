@@ -362,6 +362,12 @@ Sky.Sports.Football.HD.uk
 Sky.Action.HD.uk
 SkySpCricket.HD.uk
 Channel.5.uk
+TNTSports1.uk
+TNTSports2.uk
+TNTSports3.uk
+TNTSports4.uk
+TNTSports5.uk
+
 
 
 
