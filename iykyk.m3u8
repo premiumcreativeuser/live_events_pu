@@ -405,7 +405,7 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/50947
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3694
 #EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network West
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3848
-#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network West (Stream 2)
+#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network West (Stream 2)
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2379
 #EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 UHD
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3699
