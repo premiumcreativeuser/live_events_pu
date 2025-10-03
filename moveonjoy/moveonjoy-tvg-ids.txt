@@ -294,6 +294,7 @@ ABC.(WABC).New.York,.NY.us
 CBS.(WBZ).Boston,.MA.us
 CBS.(WCBS).New.York,.NY.us
 FOX.(WNYW).New.York,.NY.us
+NBC.(WNBC).New.York,.NY.us
 
 TSN.1.ca2
 TSN.2.ca2
