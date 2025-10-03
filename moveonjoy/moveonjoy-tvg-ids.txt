@@ -26,6 +26,7 @@ The.Weather.Channel.HD.us2
 WE.tv.HD.us2
 Nicktoons.us2
 Magnolia.Network.HD.us2
+Fox.Deportes.HD.us2
 FS1.Fox.Sports.1.HD.us2
 FS1.HD.us2
 FS2.Fox.Sports.2.HD.us2
