@@ -42,7 +42,30 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5deb190b1dac28e46c0bdada7668b7de:ddd2b372702e42b0d2708a70b91dec8d
+#EXTINF:-1 tvg-id="TNTSports1.uk",TNT Sports 1 🇬🇧
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d9efa8287a52a2497a281f7a9012211:e4f832d372943014fe5c30928a90e547
+#EXTINF:-1 tvg-id="TNTSports2.uk",TNT Sports 2 🇬🇧
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=08efc7fb107981608f7b64db5ea62469:3a6844bc9f0d9d9fd962639d7e4eb76a
+#EXTINF:-1 tvg-id="TNTSports3.uk",TNT Sports 3 🇬🇧
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ccdccf0818d3d9ff6c26076fc1153ac:f8d7fda7e3f11a29b346a37e98f749d4
+#EXTINF:-1 tvg-id="TNTSports4.uk",TNT Sports 4 🇬🇧
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b04b327bfb0bc7cce8f6a288a26600ed:????????????????????????????????
+#EXTINF:-1 tvg-id="TNTSports5.uk",TNT Sports 5 🇬🇧
+https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 
 
