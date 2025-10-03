@@ -308,6 +308,7 @@ KABC-DT.us_locals1
 KCAL-DT.us_locals1
 KTTV-DT.us_locals1
 WABC-DT.us_locals1
+WBZ-DT.us_locals1
 
 TSN.1.ca2
 TSN.2.ca2
