@@ -77,6 +77,7 @@ def filter_and_build_epg(urls):
 
 urls = [
     'https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz',
+    'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS1.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz',
     'https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz',
