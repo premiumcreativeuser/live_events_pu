@@ -303,6 +303,14 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3840
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3965
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 West
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/631912
+#EXTINF:-1  tvg-name="Sky Sports Main Events HD UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Events HD UK
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2184
+#EXTINF:-1  tvg-name="Sky Sports Main Events HD UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Events UK
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2185
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2189
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2190
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/149311
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh SD USA
@@ -335,14 +343,6 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3071
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3072
 #EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SPORTSNET 360 CA
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3073
-#EXTINF:-1  tvg-name="Sky Sports Main Events HD UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Events HD UK
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2184
-#EXTINF:-1  tvg-name="Sky Sports Main Events HD UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Events UK
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2185
-#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2189
-#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2190
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East UHD
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3680
 #EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz West (SHD)
