@@ -48,15 +48,13 @@
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 
-#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK 1
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://card-images-save-two.s3.us-east-1.amazonaws.com/hls/480p/playlist.m3u8?token=w94szgtmro&v=1760940026763
-
-#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK 2
-#EXTVLCOPT:http-origin=https://topembed.pw
-#EXTVLCOPT:http-referrer=https://topembed.pw/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://azonew.newkso.ru/azo/eplayerskyf1/mono.m3u8
-
+#EXTINF:-1,Sky Sports Football
+#EXTVLCOPT:http-referrer=https://zukiplay.cfd/
+#EXTVLCOPT:http-origin=https://zukiplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium35/mono.m3u8
+#EXTINF:-1,Sky Sports Main Event
+#EXTVLCOPT:http-origin=https://zukiplay.cfd/
+#EXTVLCOPT:http-referrer=https://zukiplay.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
+https://zekonew.newkso.ru/zeko/premium38/mono.m3u8
