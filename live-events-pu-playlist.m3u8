@@ -43,11 +43,17 @@
 
 ################################################################################################################################################################################
 
-#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Mexican Grand Prix - Race
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Mexican Grand Prix - Race PPV
 #EXTVLCOPT:http-origin=https://ppvs.su
 #EXTVLCOPT:http-referrer=https://ppvs.su/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Mexican Grand Prix - Race Tims
+#EXTVLCOPT:http-origin=https://justembeds.top
+#EXTVLCOPT:http-referrer=https://justembeds.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/end-love/8TJWYxCLs6_dMET9hCk5JNNa8FrXbWBGBmetLBvuuhyFrk72vpk26v53bIdAi1XlMbUSFZW48PvYGOnjotg0B1c5ZH3LMTwuu_ucoim9TTzh3E_uiUJ_94TLwumpL2g2/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="",NFL RedZone
 #EXTVLCOPT:http-origin=https://ppvs.su
