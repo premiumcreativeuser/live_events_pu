@@ -6,8 +6,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 
 #EXTINF:-1 group-title="" tvg-logo="",fstv 
-#EXTVLCOPT:http-origin=https://fstv.us
-#EXTVLCOPT:http-referrer=https://fstv.us/
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 
 #EXTINF:-1 group-title="" tvg-logo="",timstreams
@@ -54,6 +54,12 @@ https://gg.poocloud.in/f1/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-referrer=https://justembeds.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://cr6rabe9r4sterowutru5o9o5hepiva2r.ruseneslt0xadlcrahithot2dlcum4j3f.jdx3.org/end-love/8TJWYxCLs6_dMET9hCk5JNNa8FrXbWBGBmetLBvuuhyFrk72vpk26v53bIdAi1XlMbUSFZW48PvYGOnjotg0B1c5ZH3LMTwuu_ucoim9TTzh3E_uiUJ_94TLwumpL2g2/8f9b6c2d1e4a7890f3a5b1c8d7e6f4a3.m3u8
+
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Mexican Grand Prix - Race Fstv
+#EXTVLCOPT:http-origin=https://fstv.zip
+#EXTVLCOPT:http-referrer=https://fstv.zip/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://o2.shangper.shop/uk-skysportf1.m3u8?auth_key=1761503308-63011f577ca3e43a33e42362b355039f-00000000000000000000000000000000-fc6e54204d20848e131c973b2d166896&__PROXY_IDENTIFIER__=true
 
 #EXTINF:-1 group-title="" tvg-logo="",NFL RedZone
 #EXTVLCOPT:http-origin=https://ppvs.su
