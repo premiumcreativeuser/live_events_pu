@@ -1,281 +1,187 @@
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/TNT-Sports-1.png",TNT Sports 1
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=TNT-Sports-1&token=42bc6bf642bc6bf642bc6bf642bc6bf6
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/TNT-Sports-2.png",TNT Sports 2
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=TNT-Sports-2&token=42bc6bf742bc6bf742bc6bf742bc6bf7
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/TNT-Sports-3.png",TNT Sports 3
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=TNT-Sports-3&token=42bc6bf842bc6bf842bc6bf842bc6bf8
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/TNT-Sports-4.png",TNT Sports 4
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=TNT-Sports-4&token=42bc6bf942bc6bf942bc6bf942bc6bf9
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-Football.png",Sky Sports Football
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-Football&token=ba969e0fba969e0fba969e0fba969e0f
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-Main-Event.png",Sky Sports Main Event
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-Main-Event&token=f907ff88f907ff88f907ff88f907ff88
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-Premier-League.png",Sky Sports Premier League
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-Premier-League&token=5446bbf25446bbf25446bbf25446bbf2
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-Action.png",Sky Sports Action
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-Action&token=a7a03158a7a03158a7a03158a7a03158
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-Mix.png",Sky Sports Mix
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-Mix&token=c4f8967ac4f8967ac4f8967ac4f8967a
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-Arena.png",Sky Sports Arena
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-Arena&token=6887a3a56887a3a56887a3a56887a3a5
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-News.png",Sky Sports News
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-News&token=da1a9e75da1a9e75da1a9e75da1a9e75
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-Cricket.png",Sky Sports Cricket
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-Cricket&token=cf2d550fcf2d550fcf2d550fcf2d550f
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-Tennis.png",Sky Sports Tennis
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-Tennis&token=c825cbfdc825cbfdc825cbfdc825cbfd
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-F1.png",Sky Sports F1
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-F1&token=8a7ba0ad8a7ba0ad8a7ba0ad8a7ba0ad
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-Golf.png",Sky Sports Golf
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-Golf&token=da179404da179404da179404da179404
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-Racing.png",Sky Sports Racing
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Sky-Sports-Racing&token=c47eaa70c47eaa70c47eaa70c47eaa70
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Tennis-Channel.png",Tennis Channel
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Tennis-Channel&token=b0a44d31b0a44d31b0a44d31b0a44d31
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/La-Liga-TV.png",La Liga TV
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=La-Liga-TV&token=fd4643c0fd4643c0fd4643c0fd4643c0
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/DAZN.png",DAZN
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=DAZN&token=2e25cb912e25cb912e25cb912e25cb91
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Premier-Sports-1.png",Premier Sports 1
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Premier-Sports-1&token=ceb4b504ceb4b504ceb4b504ceb4b504
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Premier-Sports-2.png",Premier Sports 2
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Premier-Sports-2&token=ceb4b505ceb4b505ceb4b505ceb4b505
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/La-Liga-TV.png",La Liga TV
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=La-Liga-TV&token=fd4643c0fd4643c0fd4643c0fd4643c0
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/DAZN.png",DAZN
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=DAZN&token=2e25cb912e25cb912e25cb912e25cb91
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Bein-Sports-USA.png",Bein Sports USA
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Bein-Sports-USA&token=d550893ad550893ad550893ad550893a
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Bein-Sports-English-2.png",Bein Sports English 2
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Bein-Sports-English-2&token=141da68c141da68c141da68c141da68c
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Eurosport-1.png",Eurosport 1
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Eurosport-1&token=fa783d4bfa783d4bfa783d4bfa783d4b
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Eurosport-2.png",Eurosport 2
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Eurosport-2&token=fa783d4cfa783d4cfa783d4cfa783d4c
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Premier-Sports-1.png",Premier Sports 1
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Premier-Sports-1&token=ceb4b504ceb4b504ceb4b504ceb4b504
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Premier-Sports-2.png",Premier Sports 2
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Premier-Sports-2&token=ceb4b505ceb4b505ceb4b505ceb4b505
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Golf-Channel.png",Golf Channel
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Golf-Channel&token=35880db835880db835880db835880db8
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/MLB-Network.png",MLB Network
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=MLB-Network&token=353525a4353525a4353525a4353525a4
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/NBA-TV.png",NBA TV
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=NBA-TV&token=4cf3ea624cf3ea624cf3ea624cf3ea62
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/NFL-Network.png",NFL Network
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=NFL-Network&token=db0d87b5db0d87b5db0d87b5db0d87b5
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/NFL-REDZONE.png",NFL Redzone
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=NFL-REDZONE&token=75594d4475594d4475594d4475594d44
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/NHL-Network.png",NHL Network
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=NHL-Network&token=c3a069f3c3a069f3c3a069f3c3a069f3
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/WWE.png",WWE
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=WWE&token=96228a4596228a4596228a4596228a45
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Willow-Cricket.png",Willow Cricket
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Willow-Cricket&token=f3639d7ef3639d7ef3639d7ef3639d7e
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Willow-Extra.png",Willow Extra
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Willow-Extra&token=cd7e8cddcd7e8cddcd7e8cddcd7e8cdd
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/World-Fishing-Network.png",World Fishing Network
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=World-Fishing-Network&token=8d7b0e308d7b0e308d7b0e308d7b0e30
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Fight-Network.png",Fight Network
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Fight-Network&token=38533e1138533e1138533e1138533e11
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/ESPN.png",ESPN
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=ESPN&token=2e26824c2e26824c2e26824c2e26824c
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/ESPN-2.png",ESPN 2
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=ESPN-2&token=3e8f24f13e8f24f13e8f24f13e8f24f1
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/ESPN-News.png",ESPN News
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=ESPN-News&token=13ea2dd413ea2dd413ea2dd413ea2dd4
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/ESPN-U.png",ESPN U
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=ESPN-U&token=3e8f25143e8f25143e8f25143e8f2514
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/MUTV.png",MUTV
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=MUTV&token=2e2a2d4a2e2a2d4a2e2a2d4a2e2a2d4a
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/LFC-TV.png",LFC TV
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=LFC-TV&token=49c37fe649c37fe649c37fe649c37fe6
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/ACC-Network.png",ACC Network
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=ACC-Network&token=382c3982382c3982382c3982382c3982
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/CBS-Sports-Network.png",CBS Sports Network
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=CBS-Sports-Network&token=4f8d6c194f8d6c194f8d6c194f8d6c19
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Fox-Sports-1.png",Fox Sports 1
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Fox-Sports-1&token=62d4540162d4540162d4540162d45401
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/Fox-Sports-2.png",Fox Sports 2
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Fox-Sports-2&token=62d4540262d4540262d4540262d45402
+#EXTM3U
+#EXTM3U x-tvg-url="https://epg.iill.top/epg"
+# ----- 體育賽事 (48 個頻道) -----
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png",TNT SPORTS 1
+http://37.187.115.146:5050/play?id=TNT-Sports-1
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png",TNT SPORTS 1 [備線1]
+http://37.187.115.146:5050/play?id=TNT-Sports-1-BU
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png",TNT SPORTS 1 [備線2]
+http://37.187.115.146:5050/play?id=TNT-Sports-1
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png",TNT SPORTS 2
+http://37.187.115.146:5050/play?id=TNT-Sports-2
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png",TNT SPORTS 2 [備線1]
+http://37.187.115.146:5050/play?id=TNT-Sports-2-BU
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png",TNT SPORTS 3
+http://37.187.115.146:5050/play?id=TNT-Sports-3
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png",TNT SPORTS 3 [備線1]
+http://37.187.115.146:5050/play?id=TNT-Sports-3-BU
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png",TNT SPORTS 4
+http://37.187.115.146:5050/play?id=TNT-Sports-4
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png",TNT SPORTS 4 [備線1]
+http://37.187.115.146:5050/play?id=TNT-Sports-4-BU
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png",SKY SPORTS FOOTBALL
+http://37.187.115.146:5050/play?id=Sky-Sports-Football
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png",SKY SPORTS FOOTBALL [備線1]
+http://37.187.115.146:5050/play?id=Sky-Sports-Football-BU
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png",SKY SPORTS MAIN EVENT
+http://37.187.115.146:5050/play?id=Sky-Sports-Main-Event
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png",SKY SPORTS MAIN EVENT [備線1]
+http://37.187.115.146:5050/play?id=Sky-Sports-Main-Event-BU
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg",SKY SPORTS PREMIER LEAGUE
+http://37.187.115.146:5050/play?id=Sky-Sports-Premier-League
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg",SKY SPORTS PREMIER LEAGUE [備線1]
+http://37.187.115.146:5050/play?id=Sky-Sports-Premier-League-BU
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/la-fw-h-oy-u5-i1-f-x1-i-s-d-v-s-bxs-a-so-n85-sjiw8-ql-igz-w-f.png",SKY SPORTS MIX
+http://37.187.115.146:5050/play?id=Sky-Sports-Mix
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/l-gy5-lwm-a-tg-hek2-f-hb8l-ff-km-z-l-i8-ww-z-pf-iuw3ts-jd.png",SKY SPORTS ARENA
+http://37.187.115.146:5050/play?id=Sky-Sports-Arena
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-g7y-pm-t-wijfcn-w9u00x1-v-wr-x-pgbgdsi-b1ixvdx-p-m.png",SKY SPORTS NEWS
+http://37.187.115.146:5050/play?id=Sky-Sports-News
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/o-k37-cj0-vvsn-xq1-p-hph-x-s-a-nw4-awo-e-qai-m-b-is-u-l-ntx.png",SKY SPORTS CRICKET
+http://37.187.115.146:5050/play?id=Sky-Sports-Cricket
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-ww-c-i-q-eb-f-xu-e-xi-fkjo56ya-oi-g-hm-j8-d-dz-cezx8279.png",Sky Sports Tennis
+http://37.187.115.146:5050/play?id=Sky-Sports-Tennis
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/i-u-rj7vj-y-h5-u-b-chr2-s-bdjm-qp-o8-a-k-obc-c94kh-fv-r-kk.png",SKY SPORTS F1
+http://37.187.115.146:5050/play?id=Sky-Sports-F1
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/n-o-wzh-xjqvb-qs-txqgd3s-u-n-ft-u-s-a7-x-s-p-hfh4da1tgy.png",SKY SPORTS GOLF
+http://37.187.115.146:5050/play?id=Sky-Sports-Golf
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/kfl5-li-lg-c2-z-a-wz-as136l9v9u-jl-i-r-xa-s-ofco-y-k-h-b8.png",SKY SPORTS RACING
+http://37.187.115.146:5050/play?id=Sky-Sports-Racing
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/nlt-ev-a9qj-h-qa-hh-x1-n-mx-yg-iyriul-rmt-qz-b-a-jcxg9-p.png",BEIN SPORTS USA
+http://37.187.115.146:5050/play?id=Bein-Sports-USA
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/nlt-ev-a9qj-h-qa-hh-x1-n-mx-yg-iyriul-rmt-qz-b-a-jcxg9-p.png",BEIN SPORTS USA [備線1]
+http://37.187.115.146:5050/play?id=BEIN-SPORT-USA-BU
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/Hvg8f5rQIhHrfUN9zPsktEzu928QoTjhk2NpAqPK.png",Racing TV
+http://37.187.115.146:5050/play?id=Racing-TV
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/94bbab25-acbc-4e62-9468-39038ac16f92-tc_og.png",TENNIS CHANNEL
+http://37.187.115.146:5050/play?id=Tennis-Channel
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2560px--sky_-cinema_-comedy_-_-logo_2016.svg.png",Sky Cinema Comedy
+http://37.187.115.146:5050/play?id=UK-Sky-Cinema-Comedy
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2560px--sky_-cinema_-family_-_-logo_2021.svg.png",Sky Cinema Family
+http://37.187.115.146:5050/play?id=UK-Sky-Cinema-Family
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/xoFwpmX85KdS4KiiKZh2HTg7z9C588zrClleoH0u.webp",Sky Cinema Action
+http://37.187.115.146:5050/play?id=Sky-Cinema-Action
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/So67ypbXnCLB8aIICUay2TfFiwlXh5mDh5GPw7Pc.svg",Sky Cinema Animation
+http://37.187.115.146:5050/play?id=Sky-Cinema-Animation
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9r-j-w92-g-j-imn-a2vfqm6v-k-er0-n-o9-k-l8-b-phk-a4cv-cbq.png",DAZN
+http://37.187.115.146:5050/play?id=DAZN-TV
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/be-i-n_-s-p-o-r-t-s1_-e-n-g-l-i-s-h_-digital_-mono.png",Bein Sports English 1
+http://37.187.115.146:5050/play?id=Bein-Sports-English-1
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/v-hu-vg-g-s-gu-t-yy-i2usg-k8-bh-y-ov-fo-pv9n-g65z-dm-txo3.png",Bein Sports English 2
+http://37.187.115.146:5050/play?id=Bein-Sports-English-2
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/",Bein Sports English 3
+http://37.187.115.146:5050/play?id=Bein-Sports-English-3
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8e-oj-t6-c-f3arb-q-seorft-m-fem-cy4ww-w-azm-ta0sempl.png",Eurosport 2
+http://37.187.115.146:5050/play?id=Eurosport-2
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/s-p4-kxd-v-lp-hl9-y-t-fb-e-wz-m0-n8k-kkgg-h-pkccaqcc-bdu.png",Premier Sports 1
+http://37.187.115.146:5050/play?id=Premier-Sports-1
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/1-gbngsz7-d-l-xy3x6-m-sk5xw-fj3-h-v42-r-e-cr-p1h4-dlyn.png",Premier Sports 2
+http://37.187.115.146:5050/play?id=Premier-Sports-2
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-a5-e-z-f-zrrvis-h-c-m5l-b-r-y-f7yu8h5-x04qu-ka-b047-a-v.png",Golf Channel
+http://37.187.115.146:5050/play?id=Golf-Channel
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/1200px--m-l-b-network-logo.svg.png",MLB Network
+http://37.187.115.146:5050/play?id=MLB-Network
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/m-g3-iq91-ukrb-cn24-w-zuxpr-j-mm-b9tv-m7-hb-b3-v9-gw95.svg",NFL Network
+http://37.187.115.146:5050/play?id=NFL-Network
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/iwzyqv-vw-j0c-du-w3-mr-mb3cg82e-e-mr-m-b-v-y-e-nw-hw-fmh.png",NFL REDZONE
+http://37.187.115.146:5050/play?id=NFL-REDZONE
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/c-l33-tbx4-bvcvs8s-p-zfvwzd-nk-r-b-vncgag-w-jy-x-k-ol-t.png",WWE
+http://37.187.115.146:5050/play?id=WWE
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/to0if-g-f-pzs3i-my1-d-spsrs3-sv-wn-k-h-m-sya-fz6b-meh4.png",Willow Cricket
+http://37.187.115.146:5050/play?id=Willow-Cricket
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/xs7-c-u-j2d-j-h-r-i6s-zgr7-dyp-n-s-a-mn-z7-kpq-hf6y-wwvx-i.png",ESPN
+http://37.187.115.146:5050/play?id=ESPN
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/512px--e-s-p-n2_logo.svg.png",ESPN 2
+http://37.187.115.146:5050/play?id=ESPN-2
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2-g-ojo-g33-ls-wv-cf3-j-a-h-z-ojpp3y4-q4-fuj-c-p-r-oi-r-m4o.png",ESPN News
+http://37.187.115.146:5050/play?id=ESPN-News
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t9vr-m9-p-v1p-y-wh-rm-v-d-tj-dxo-d-af-xb3-zz67-f-dn-pane-y.png",ESPN U
+http://37.187.115.146:5050/play?id=ESPN-U
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/8lPFlMIg4VQSlx0OGlDRH5OM5qMomtsfwzQiyeLo.png",ESPN Deportes
+http://37.187.115.146:5050/play?id=ESPN-Deportes
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/8lPFlMIg4VQSlx0OGlDRH5OM5qMomtsfwzQiyeLo.png",ESPN Deportes [備線1]
+http://37.187.115.146:5050/play?id=ESPN-Deportes-BU
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/nd9b-n-us-b-m0lw-zka-ilkgas-bu-v-b4-y-b-fcug6-va-j-c-y-i-g.png",MUTV
+http://37.187.115.146:5050/play?id=MUTV
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/microsoft-teams-image_(13).png",LFC TV
+http://37.187.115.146:5050/play?id=LFC-TV
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/x-c1-yl3tu1-ga-wl-e-o3b-w-aiye3e127-l5yarb-ot2-ezxe.png",Fight Network
+http://37.187.115.146:5050/play?id=Fight-Network
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a4df4ef049b119253c9833bea8ed6515.jpg",CBS Sports Network
+http://37.187.115.146:5050/play?id=CBS-Sports-Network
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/y7-y-yvh-ej8piz6c2-ium-vye-z-q77au-v4-p-do-h-s-nen-d-qr.png",Fox Sports 1
+http://37.187.115.146:5050/play?id=Fox-Sports-1
+#EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/6-ff-p-flc-r8kqe-k-o-n6-x-v0-cjr-mfei5gtm-e3-wj-x7e-vk-a.png",Fox Sports 2
+http://37.187.115.146:5050/play?id=Fox-Sports-2
 
-#EXTINF:-1,HBO 1
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=HBO&token=96224f7596224f7596224f7596224f75
-#EXTINF:-1,HBO 2
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=HBO-2&token=96cc4bda96cc4bda96cc4bda96cc4bda
-#EXTINF:-1,Cinemax West
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Cinemax-West&token=31601375316013753160137531601375
-#EXTINF:-1,UK Great Movies
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=UK-Great-Movies&token=9ecce17a9ecce17a9ecce17a9ecce17a
-#EXTINF:-1,UK Sky Cinema Comedy
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=UK-Sky-Cinema-Comedy&token=be1b30d2be1b30d2be1b30d2be1b30d2
-#EXTINF:-1,UK Sky Cinema Family
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=UK-Sky-Cinema-Family&token=c274819dc274819dc274819dc274819d
-#EXTINF:-1,ITV 1
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=ITV-1&token=96e2ac4f96e2ac4f96e2ac4f96e2ac4f
-#EXTINF:-1,ITV 2
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=ITV-2&token=96e2ac5096e2ac5096e2ac5096e2ac50
-#EXTINF:-1,ITV 3
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=ITV-3&token=96e2ac5196e2ac5196e2ac5196e2ac51
-#EXTINF:-1,ITV 4
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=ITV-4&token=96e2ac5296e2ac5296e2ac5296e2ac52
-#EXTINF:-1,ABC
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=ABC&token=96223522962235229622352296223522
-#EXTINF:-1,FOX News
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=FOX-NEWS&token=7786fc517786fc517786fc517786fc51
-#EXTINF:-1,CNBC
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=CNBC&token=2e25850c2e25850c2e25850c2e25850c
-#EXTINF:-1,UK Virgin 1
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=UK-Virgin-1&token=0b3e04080b3e04080b3e04080b3e0408
-#EXTINF:-1,UK Virgin 2
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=UK-Virgin-2&token=0b3e04090b3e04090b3e04090b3e0409
-#EXTINF:-1,UK Virgin 3
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=UK-Virgin-3&token=0b3e040a0b3e040a0b3e040a0b3e040a
-#EXTINF:-1,Nat Geo Wild HD
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Nat-Geo-Wild-HD&token=1862f9371862f9371862f9371862f937
-#EXTINF:-1,Discovery Channel
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Discovery-Channel&token=73b73e8673b73e8673b73e8673b73e86
-#EXTINF:-1,Discovery Life
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=Discovery-Life&token=0d9b14590d9b14590d9b14590d9b1459
-#EXTINF:-1,UK Cartoon Network
-#EXTVLCOPT:http-referrer=https://player.feanor.sbs/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.0.1 Mobile/15E148 Safari/604.1
-https://bee.188766.xyz/bee?id=beesport&pid=UK-Cartoon-Network&token=29282878292828782928287829282878
+# ----- 新聞財經 (4 個頻道) -----
+#EXTINF:-1 group-title="新聞財經" tvg-logo="https://center.urlix.co/storage/images/uN6eIk65I2im0d4ojxIloksV9wyxbVshhM8Num6J.jpg",BBC News
+http://37.187.115.146:5050/play?id=BBC-News
+#EXTINF:-1 group-title="新聞財經" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/768px--fox_-news_-channel_logo.svg.png",FOX NEWS
+http://37.187.115.146:5050/play?id=FOX-NEWS
+#EXTINF:-1 group-title="新聞財經" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-tgl-m-ns6-d-r6bcw3qf-il-l8a-rg-k-l-ll-dmc-p-v5h7-s-wg-d.png",CNBC
+http://37.187.115.146:5050/play?id=CNBC
+#EXTINF:-1 group-title="新聞財經" tvg-logo="https://center.urlix.co/storage/images/PEoLnkz4lbWBN4A79dA6p1nOi15uD1VE8CN2mqT4.svg",NBC UNIVERSO
+http://37.187.115.146:5050/play?id=NBC-UNIVERSO
+
+# ----- 綜合頻道 (14 個頻道) -----
+#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/zK62gh9S9Z9TpM5RiSseKzM4hs9Wz3oTuaIqa8D4.jpg",BBC Three
+http://37.187.115.146:5050/play?id=BBC-Three
+#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/MUfPvwYCKrhk35p5BQ4qRBktD9iBALX4dMOqFV8q.jpg",BBC FOUR
+http://37.187.115.146:5050/play?id=BBC-FOUR
+#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/dMcVmNAd6ayvAw11IJi3LnMrftYrkM5VGoY3roDR.webp",BBC One
+http://37.187.115.146:5050/play?id=BBC-1
+#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/o8L1QWPS4sWAdPbaDiGKqqu5BspdchEK3l1834EQ.png",BBC Two
+http://37.187.115.146:5050/play?id=BBC-2
+#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/z-n1gy-tr71-xm1uia7-m8-jv-e-t0ygm-ql47v-h4-d5wu-t91.png",Virgin 3
+http://37.187.115.146:5050/play?id=UK-Virgin-3
+#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/c7-mg-r-w1l-p-k-cm-sc-rd-w-b-dhs-n90-b-uc-qozpi3-v-dwtmz-a.png",Virgin 1
+http://37.187.115.146:5050/play?id=UK-Virgin-1
+#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8z795-gbo1duqut1-f32-ga-ip-b-a8-urzp90c-g-u-dm-r-c2-o.svg",NHL Network
+http://37.187.115.146:5050/play?id=NHL-Network
+#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/ui-yy7ozk-m-unr-o33oc-izqx-el5-ewy-kg-v2vo-p-no-i-e-b-b.svg",World Fishing Network
+http://37.187.115.146:5050/play?id=World-Fishing-Network
+#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-t-zte39n-nu-a-z-cr-to-h-c7k5-shg-n-yaa9-ccl-iljf2onx.png",ITV 1
+http://37.187.115.146:5050/play?id=ITV-1
+#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-pt-eo-s-rm-jk-n-b1-qg9v-b-x-n-l-la-m-z-vp6-i-w4-l-j-t7-j-g01-c.png",ITV 2
+http://37.187.115.146:5050/play?id=ITV-2
+#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/3j3ra-qdk-rm3-cz-c9l-iyhrk-si82-oyshnipxl8os-sm-n.png",ITV 3
+http://37.187.115.146:5050/play?id=ITV-3
+#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/d0-sx-p-n7-cb6-o-n-rdi-m-w-bnrzrrzgu-k-u-srs-h-d-b-q-gy-l5w.png",ITV 4
+http://37.187.115.146:5050/play?id=ITV-4
+#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-c-c_-network_-raycom_-logo.png",ACC Network
+http://37.187.115.146:5050/play?id=ACC-Network
+#EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/7N4k68afYicjhSWwU5Kx0yTlVY9A1Ob5iYPUmXPF.jpg",BBC Red Button
+http://37.187.115.146:5050/play?id=BBC-Red-Button
+
+# ----- 其他綜合 (4 個頻道) -----
+#EXTINF:-1 group-title="其他綜合" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/g-e46rp-x-a-j-o-cxma-gth2-ovp5sf-az-g4p-eq-v-vlyost-q-l.png",LALIGA TV HD
+http://37.187.115.146:5050/play?id=La-Liga-TV
+#EXTINF:-1 group-title="其他綜合" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/g-e46rp-x-a-j-o-cxma-gth2-ovp5sf-az-g4p-eq-v-vlyost-q-l.png",LALIGA TV HD [備線1]
+http://37.187.115.146:5050/play?id=LA-LIGA-TV-BU
+#EXTINF:-1 group-title="其他綜合" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k9-cbp-r-zcaom-r-jayck5v-qr-m-o-n-zqop9v1-e-s-u-z-g-kk3b.png",Willow Extra
+http://37.187.115.146:5050/play?id=Willow-Extra
+#EXTINF:-1 group-title="其他綜合" tvg-logo="https://center.urlix.co/storage/images/QThyDK3aE2AEGNXcjaaFUHeFgNy3X5izleCb6QT4.png",Fox Soccer Plus
+http://37.187.115.146:5050/play?id=Fox-Soccer-Plus
+#EXTINF:-1 group-title="其他綜合" tvg-logo="https://center.urlix.co/storage/images/WwxRNu3hV1UHfo1EYkbbUyqPrTbiwOfAhztbwrff.jpg",FOX DEPORTES
+http://37.187.115.146:5050/play?id=FOX-DEPORTES
+#EXTINF:-1 group-title="其他綜合" tvg-logo="https://center.urlix.co/storage/images/WwxRNu3hV1UHfo1EYkbbUyqPrTbiwOfAhztbwrff.jpg",FOX DEPORTES [備線1]
+http://37.187.115.146:5050/play?id=FOX-DEPORTES-BU
+
+# ----- 戲劇電影 (6 個頻道) -----
+#EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-d9d247-s1-q-wg-g-lcg-c-g-ps2r-s-t6024f-l-ak-eld-h-e-m-tn.png",HBO 1
+http://37.187.115.146:5050/play?id=HBO
+#EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/5-tj1j-wtmcg-o-zj-egka-yk-s-x-p-puqfj03x0w-ka-b-rwcy-o.png",HBO 2
+http://37.187.115.146:5050/play?id=HBO-2
+#EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/euzl-x-u-j-t8dx9s-puq8-hh5-g-m-rlmzu-sek-cn1ra-g-g-my2.png",Discovery Channel
+http://37.187.115.146:5050/play?id=Discovery-Channel
+#EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/152-b-g-b-ja-rg9je-jt-nw8-xm7-en-g-uayb-i-u-x-mjc5od5d5.png",Discovery Life
+http://37.187.115.146:5050/play?id=Discovery-Life
+#EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/waj-k6-w-wwz-x-np7-h573-ir-p-sj-x-ewjdwmvri-bfz-aimc1.png",Cinemax West
+http://37.187.115.146:5050/play?id=Cinemax-West
+#EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-r-yjt-u-b-a-hk-q-tvi-dbq-n5q-n7-a-a-rd0gxv-f-ks-l-j6-yml-s.png",Great Movies
+http://37.187.115.146:5050/play?id=UK-Great-Movies
+
+# ----- 兒童卡通 (1 個頻道) -----
+#EXTINF:-1 group-title="兒童卡通" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-i-gsl2-n77-dpt-h-wdy-q-c-f-odhz-gf-x-a-h-sje4z3-q-a0-qn-o.png",Cartoon Network
+http://37.187.115.146:5050/play?id=UK-Cartoon-Network
