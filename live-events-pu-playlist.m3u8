@@ -43,13 +43,20 @@
 
 ################################################################################################################################################################################
 
-#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",F1 UK
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-
-#EXTINF:-1 group-title="" tvg-logo="",Toronto Blue Jays vs. Los Angeles Dodgers
-#EXTVLCOPT:http-origin=https://ppvs.su
-#EXTVLCOPT:http-referrer=https://ppvs.su/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://gg.poocloud.in/dodgers/tracks-v1a1/mono.ts.m3u8
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/756446
+#EXTINF:-1 tvg-id="" tvg-name="US (ESPNXtra 492) | Formula One: F1 Las Vegas GP Practice 1 (2025-11-20 19:25:00)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/63633dfd-69f9-4c9b-a3ef-2ea2e33e1de1/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN EVENTS",US (ESPNXtra 492) | Formula One: F1 Las Vegas GP Practice 1 (2025-11-20 19:25:00)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/756447
+#EXTINF:-1 tvg-id="" tvg-name="US (ESPNXtra 493) | Formula One: F1 Practice 1 Las Vegas (ESP) (2025-11-20 19:25:05)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/18ae7a36-9b71-42e7-b876-acae54d0c0e7/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN EVENTS",US (ESPNXtra 493) | Formula One: F1 Practice 1 Las Vegas (ESP) (2025-11-20 19:25:05)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/756448
+#EXTINF:-1 tvg-id="" tvg-name="US (ESPNXtra 494) | UFC: UFC: Camino al Octágono (2025-11-20 20:35:00)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/5fb79c84-15bb-4635-8edd-6b15c91d29c9/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN EVENTS",US (ESPNXtra 494) | UFC: UFC: Camino al Octágono (2025-11-20 20:35:00)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/756449
+#EXTINF:-1 tvg-id="" tvg-name="US (ESPNXtra 495) | Motor Sports: F1 Academy: Las Vegas Practice (2025-11-20 21:00:00)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/1aca96b0-1759-466a-aa68-84bd06573f88/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN EVENTS",US (ESPNXtra 495) | Motor Sports: F1 Academy: Las Vegas Practice (2025-11-20 21:00:00)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/756450
+#EXTINF:-1 tvg-id="" tvg-name="US (ESPNXtra 496) | Formula One: F1 Las Vegas GP Practice 2 (2025-11-20 22:55:00)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/b5d58c76-9bc4-4b4a-97c7-f1149bf1c4f4/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN EVENTS",US (ESPNXtra 496) | Formula One: F1 Las Vegas GP Practice 2 (2025-11-20 22:55:00)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/756451
+#EXTINF:-1 tvg-id="" tvg-name="US (ESPNXtra 497) | Formula One: F1 Practice 2 Las Vegas (ESP) (2025-11-20 22:55:05)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/6cd5bc73-42ba-4974-97a3-ee40fe1c2057/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN EVENTS",US (ESPNXtra 497) | Formula One: F1 Practice 2 Las Vegas (ESP) (2025-11-20 22:55:05)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/756452
+#EXTINF:-1 tvg-id="" tvg-name="US (ESPNXtra 498) | Motor Sports: F1 Academy: Las Vegas Qual. (2025-11-21 00:30:00)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/3811c03b-2a8e-49ec-8f11-30a54c8effd9/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN EVENTS",US (ESPNXtra 498) | Motor Sports: F1 Academy: Las Vegas Qual. (2025-11-21 00:30:00)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/756453
+#EXTINF:-1 tvg-id="" tvg-name="US (ESPNXtra 499) | F1 Show: F1 Show: Las Vegas (2025-11-21 01:10:00)" tvg-logo="https://artwork.api.espn.com/artwork/collections/airings/ad10411e-c111-4ff9-8bb3-76fd6b71d845/default?width=640&apikey=1ngjw23osgcis1i1vbj96lmfqs" group-title="ESPN EVENTS",US (ESPNXtra 499) | F1 Show: F1 Show: Las Vegas (2025-11-21 01:10:00)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/756454
