@@ -128,6 +128,18 @@ http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418115
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN UHD
 http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418118
 
+#EXTINF:-1 group-title="Movies" tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 1",CRAVE 1
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418441
+
+#EXTINF:-1 group-title="Movies" tvg-id="Crave2.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418442
+
+#EXTINF:-1 group-title="Movies" tvg-id="Crave3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 3",CRAVE 3
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418443
+
+#EXTINF:-1 group-title="Movies" tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418444
+
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central East
 http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/417882
 
@@ -299,7 +311,6 @@ http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/417998
 #EXTINF:-1 tvg-id="HistoryChannelPacific.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History West HD
 http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419337
 
-
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime East HD
 http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/417894
 
@@ -345,135 +356,217 @@ http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/237120
 http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418184
 
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr East
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418031
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr West
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419274
 
-#EXTINF:-1 tvg-id="Nickelodeon.HD.us2HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon UHD
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon HD
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418039
 
 #EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon West
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419275
 
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons UHD
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418032
+
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons UHD
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419276
 
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418014
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime East UHD
-
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime East (SHD)
-
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime East LHD
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418064
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime West
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419294
 
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 East UHD
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418103
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 West
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419295
 
 #EXTINF:-1  tvg-name="Sky Sports Main Events HD UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Events HD UK
-
-#EXTINF:-1  tvg-name="Sky Sports Main Events HD UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Events UK
-
-#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/508252
 
 #EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/508246
 
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418143
 
-#EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh SD USA
+#EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="US: SPECTRUM SPORTSNET LA" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="USA SPORTS HD",US: SPECTRUM SPORTSNET LA
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418164
 
-#EXTINF:-1 tvg-id="ATTSWPL.ATT.SportsNet.Southwest.Plus.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/at-and-t-sportsnet-southwest-custom-us.png",AT&T SportsNet Southwest USA
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/0451a56dccc04c6fb08415533a9chttp://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418163
+90bf62d7c9c6/logos/Spectrum_Sportsnet_LA.svg",Spectrum SportsNet LA Dodgers USA
 
-#EXTINF:-1 tvg-id="ATTSWPL.ATT.SportsNet.Southwest.Plus.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/at-and-t-sportsnet-southwest-custom-us.png",SPORTSNET SOUTHWEST SD USA
+#EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="US: SPECTRUM SPORTSNET LAKERS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="USA SPORTS HD",US: SPECTRUM SPORTSNET LAKERS
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418165
 
-#EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/0451a56dccc04c6fb08415533a9c90bf62d7c9c6/logos/Spectrum_Sportsnet_LA.svg",Spectrum SportsNet LA Dodgers USA
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="US: NBC SPORTS (BAY AREA)" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS (BAY AREA)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418154
+#EXTINF:-1 tvg-id="NBCSportsCaliforniaPlus.us" tvg-name="US: NBC SPORTS (BAY AREA) +" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS (BAY AREA) +
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/640552
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="US: NBC SPORTS (BOSTON)" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS (BOSTON)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418155
+#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="US: NBC SPORTS (CALIFORNIA)" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS (CALIFORNIA)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418156
+#EXTINF:-1 tvg-id="NBCSportsCaliforniaPlus.us" tvg-name="US: NBC SPORTS (CALIFORNIA) +" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS (CALIFORNIA) +
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/640553
+#EXTINF:-1 tvg-id="NBCSportsChicagoPlus.us" tvg-name="US: NBC SPORTS CHICAGO" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS CHICAGO
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418144
+#EXTINF:-1 tvg-id="NBCSportsChicagoPlus.us" tvg-name="US: NBC SPORTS CHICAGO PLUS" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS CHICAGO PLUS
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418148
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="US: NBC SPORTS NETWORK" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS NETWORK
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418183
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphiaPlus.us" tvg-name="US: NBC SPORTS PHILLY PLUS" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS PHILLY PLUS
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418158
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-name="US: NBCSN PHILADELPHIA" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBCSN PHILADELPHIA
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418159
+#EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="US: SPACE CITY HOME NETWORK" tvg-logo="https://i.ibb.co/3rBNrw5/at-and-t-sportsnet-southwest-us.png" group-title="USA SPORTS HD",US: SPACE CITY HOME NETWORK
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418153
 
-#EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/0451a56dccc04c6fb08415533a9c90bf62d7c9c6/logos/Spectrum_Sportsnet_LA.svg",Spectrum SportsNet LA Dodgers SD USA
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East SD
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418054
 
-#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SportsNet New York (SHD) USA
+#EXTINF:-1 tvg-id="StarzPacific.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz West
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419301
 
-#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SportsNet New York SNY USA
 
-#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SPORTSNET NY (SD) USA
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East SD
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/509136
 
-#EXTINF:-1 tvg-id="Sportsnet.World.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",Sportsnet World CA
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="US: STARZ CINEMA" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ CINEMA
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418071
+#EXTINF:-1 tvg-id="StarzCinemaPacific.us" tvg-name="US: Starz Cinema (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Cinema (West)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419302
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="US: STARZ COMEDY" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ COMEDY
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418072
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="US: STARZ EDGE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ EDGE
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418073
+#EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="US: Starz Edge (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Edge (West)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419303
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="US: STARZ ENCORE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418051
+#EXTINF:-1 tvg-id="StarzEncorePacific.us" tvg-name="US: Starz Encore (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore (West)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419304
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="US: STARZ ENCORE ACTION" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE ACTION
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418047
+#EXTINF:-1 tvg-id="StarzEncoreActionPacific.us" tvg-name="US: Starz Encore Action (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Action (West)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419307
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="US: STARZ ENCORE BLACK" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE BLACK
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418048
+#EXTINF:-1 tvg-id="StarzEncoreBlackPacific.us" tvg-name="US: Starz Encore Black (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Black (West)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419308
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-name="US: STARZ ENCORE CLASSIC" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE CLASSIC
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418049
+#EXTINF:-1 tvg-id="StarzEncoreClassicPacific.us" tvg-name="US: Starz Encore Classic (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Classic (West)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419309
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="US: STARZ ENCORE FAMILY" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE FAMILY
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418050
+#EXTINF:-1 tvg-id="StarzEncoreFamilyPacific.us" tvg-name="US: Starz Encore Family (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Family (West)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419310
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="US: STARZ ENCORE SUSPENSE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE SUSPENSE
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418052
+#EXTINF:-1 tvg-id="StarzEncoreSuspensePacific.us" tvg-name="US: Starz Encore Suspense (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Suspense (West)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419311
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="US: STARZ ENCORE WESTERNS" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE WESTERNS
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419305
+#EXTINF:-1 tvg-id="StarzEncoreWesternsPacific.us" tvg-name="US: Starz Encore Westerns (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Westerns (West)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419306
+#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="US: STARZ IN BLACK" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ IN BLACK
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418074
+#EXTINF:-1 tvg-id="StarzinBlackPacific.us" tvg-name="US: Starz in Black (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz in Black (West)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419312
+#EXTINF:-1 tvg-id="StarzKids.us" tvg-name="US: STARZ KIDS AND FAMILY" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ KIDS AND FAMILY
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418075
+#EXTINF:-1 tvg-id="StarzKidsPacific.us" tvg-name="US: Starz Kids Family (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Kids Family (West)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419313
 
-#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SPORTSNET WEST CA
-
-#EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pacific-ca.png",SPORTSNET PACIFIC CA
-
-#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-ontario-ca.png",Sportsnet Ontario
-
-#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA
-
-#EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-east-ca.png",SPORTSNET EAST CA
-
-#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SPORTSNET 360 CA
-
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East UHD
-
-#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz West (SHD)
-
-#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy East UHD
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy East 
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/417911
 
 #EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy West
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419359
 
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS East UHD
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS East 
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/417913
 
 #EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS West
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419360
 
-#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo East (SD)
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo LA
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/410604
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png",Tennis Channel UHD
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418188
 
-#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png",The Weather Channel UHD
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png",The Weather Channel 
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418120
 
-#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC East UHD
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC East 
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/417914
 
 #EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC West
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419361
 
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT East UHD
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT East 
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/417915
+
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT East SD
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/509143
 
 #EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT West
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419362
 
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT West (Stream 2)
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1 UHD",TSN 1 UHD CA
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418553
 
 #EXTINF:-1 tvg-id="TTSN.2.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2 UHD",TSN 2 UHD CA
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418554
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-name="TSN 3 UHD",TSN 3 UHD CA
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/418555
 
 #EXTINF:-1 tvg-id="TSN.4.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-name="TSN 4 UHD CA",TSN 4 UHD CA
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/457001
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-name="TSN 5 UHD CA",TSN 5 UHD CA
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/457002
 
 #EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel East LHD
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/417916
 
 #EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel West
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419365
 
-#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV East UHD
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV East HD
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/417917
 
-#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",truTV West
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV East SD
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/509145
 
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision East (SHD)
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/410637
 
-#EXTINF:-1 tvg-id="Univision.Network.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision34 KMEX
-
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision
-
-#EXTINF:-1 tvg-id="Univision.Network.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",UnivisionNow: Univision_LosAngeles
-
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision
-
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision_Network
+#EXTINF:-1 tvg-id="Univision.Network.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision34 LA
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/410641
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network East UHD
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/417921
 
 #EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network West
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419369
 
-#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network West (Stream 2)
-
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 UHD
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 East HD
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/417922
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 West
+http://defaultgen.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419370
+
 
 
