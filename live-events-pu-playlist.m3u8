@@ -45,7 +45,7 @@
 
 #EXTINF:-1 group-title="" tvg-logo="",Sky Sports F1 
 #EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/live-tv.html
+#EXTVLCOPT:http-referrer=https://fstv.zip/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://fstv.zip/player?link=https://o4.greektoday.shop/usa-usanetwork.m3u8?auth_key=1763620390-7d36789af148a4ccd68925ea20a79a76-00000000000000000000000000000000-d4275d2e9aa85c7a7e0ce7f034cd404c&type=hls&isLive=false
 
