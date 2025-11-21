@@ -71,7 +71,7 @@ https://gg.poocloud.in/f1/index.m3u8|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://gg.poocloud.in/f1/index.m3u8|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A145.0)%20Gecko%2F20100101%20Firefox%2F145.0&Referer=https%3A%2F%2Fwatchlive.top%2F
 
-1 group-title="" tvg-logo="",Las Vegas Grand Prix - Race
+#EXTINF:-1 group-title="" tvg-logo="",Las Vegas Grand Prix - Race
 #EXTVLCOPT:http-origin=https://watchlive.top
 #EXTVLCOPT:http-referrer=https://watchlive.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
