@@ -46,19 +46,6 @@
 #EXTINF:-1,24/7 Formula 1 Drive To Survive
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/331752
 
-#EXTINF:-1 group-title="" tvg-logo="",Sky Sports F1 FSTV
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://o2.greektoday.shop/uk-skysportf1.m3u8?auth_key=1763620504-7d36789af148a4ccd68925ea20a79a76-00000000000000000000000000000000-3446273866a1774f38a76317b7303842&__PROXY_IDENTIFIER__=true
-
-#EXTINF:-1 group-title="" tvg-logo="",Sky Sports F1 timstreams
-#EXTVLCOPT:http-origin=https://justembeds.xyz
-#EXTVLCOPT:http-referrer=https://justembeds.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://fried-manicure-hostle-war.ott-vncdn.site/junk-files/COGNlGf-zbXeBMTktHWQ2R0q2JDibbS1XyOcZpUQL67Zk_QZyZKBsSNLKc4PcA8et8et3xq9OPqhG0plZM96BP0zVYqkW0IS4MVaQ5nfqUcDdkzMF1U6FD2W3_QOqw5R/888520f36cd94c5da4c71fddc1a5fc9b.m3u8
-
-
 #EXTINF:-1 group-title="" tvg-logo="",Las Vegas Grand Prix - FP3
 #EXTVLCOPT:http-origin=https://watchlive.top
 #EXTVLCOPT:http-referrer=https://watchlive.top/
