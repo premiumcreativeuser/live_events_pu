@@ -46,13 +46,6 @@
 #EXTINF:-1,24/7 Formula 1 Drive To Survive
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/331752
 
-#EXTINF:-1 tvg-id="SkySpF1.uk" tvg-name="[NowTV UK] Sky Sports F1 UHD" tvg-logo="http://x.skycpd.com:24321/u=StreamTeam/p=1ace234bef981ee2cadd7d608ee9a722558496687d7f860b2726dd8525c9d96c/logos/nowtvuk-skysportsf1uhd.png" group-title="04 SKY UK  SUB'S & DOLBY 5.1 VIP",[NowTV UK] Sky Sports F1 UHD
-http://xc.tvset.top:80/MarioBorgolivier/3Pn0Oc6L/271814
-
-#EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 4K" tvg-logo="" group-title="03 UHD/4K  CHANNELS",UK: SKY SPORTS F1 4K
-http://xc.tvset.top:80/MarioBorgolivier/3Pn0Oc6L/188766
-
-
 #EXTINF:-1 group-title="" tvg-logo="",Las Vegas Grand Prix - Qualifying
 #EXTVLCOPT:http-origin=https://watchlive.top
 #EXTVLCOPT:http-referrer=https://watchlive.top/
