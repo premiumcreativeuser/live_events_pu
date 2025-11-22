@@ -52,11 +52,6 @@ http://xc.tvset.top:80/MarioBorgolivier/3Pn0Oc6L/271814
 #EXTINF:-1 tvg-id="" tvg-name="UK: SKY SPORTS F1 4K" tvg-logo="" group-title="03 UHD/4K  CHANNELS",UK: SKY SPORTS F1 4K
 http://xc.tvset.top:80/MarioBorgolivier/3Pn0Oc6L/188766
 
-#EXTINF:-1 group-title="" tvg-logo="",Las Vegas Grand Prix - FP3
-#EXTVLCOPT:http-origin=https://watchlive.top
-#EXTVLCOPT:http-referrer=https://watchlive.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://gg.poocloud.in/f1/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="",Las Vegas Grand Prix - Qualifying
 #EXTVLCOPT:http-origin=https://watchlive.top
