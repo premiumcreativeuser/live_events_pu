@@ -2,186 +2,186 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg"
 # ----- 體育賽事 (48 個頻道) -----
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png",TNT SPORTS 1
-http://37.187.115.146:5050/play?id=TNT-Sports-1
+https://forum-tfms-xyz.onrender.com/?id=TNT-Sports-1
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png",TNT SPORTS 1 [備線1]
-http://37.187.115.146:5050/play?id=TNT-Sports-1-BU
+https://forum-tfms-xyz.onrender.com/?id=TNT-Sports-1-BU
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/vo-nnv-vm-da3-o-hqr-d-tqs-l-h-v-bq-bai-v-t-hc-i-l09-z3-t-rs-z.png",TNT SPORTS 1 [備線2]
-http://37.187.115.146:5050/play?id=TNT-Sports-1
+https://forum-tfms-xyz.onrender.com/?id=TNT-Sports-1
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png",TNT SPORTS 2
-http://37.187.115.146:5050/play?id=TNT-Sports-2
+https://forum-tfms-xyz.onrender.com/?id=TNT-Sports-2
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/s1-n-k-n3-b-sj-q-mam9-f-xn-w-g-rfo-q-o-ngb-pqypaz-ub5tj11.png",TNT SPORTS 2 [備線1]
-http://37.187.115.146:5050/play?id=TNT-Sports-2-BU
+https://forum-tfms-xyz.onrender.com/?id=TNT-Sports-2-BU
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png",TNT SPORTS 3
-http://37.187.115.146:5050/play?id=TNT-Sports-3
+https://forum-tfms-xyz.onrender.com/?id=TNT-Sports-3
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-i-r-x-l3-u2ut-d2-zn-foo9-k-u-h-a-duh-a-s-w-e-f-p-p-qrdm-v-v-x-c.png",TNT SPORTS 3 [備線1]
-http://37.187.115.146:5050/play?id=TNT-Sports-3-BU
+https://forum-tfms-xyz.onrender.com/?id=TNT-Sports-3-BU
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png",TNT SPORTS 4
-http://37.187.115.146:5050/play?id=TNT-Sports-4
+https://forum-tfms-xyz.onrender.com/?id=TNT-Sports-4
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/lj-ogkw86c-j-n-i-wrvumds70-l5z7xa-d9-s-q-kg-gg-s-xy-qh.png",TNT SPORTS 4 [備線1]
-http://37.187.115.146:5050/play?id=TNT-Sports-4-BU
+https://forum-tfms-xyz.onrender.com/?id=TNT-Sports-4-BU
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png",SKY SPORTS FOOTBALL
-http://37.187.115.146:5050/play?id=Sky-Sports-Football
+https://forum-tfms-xyz.onrender.com/?id=Sky-Sports-Football
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-v-dh-zp-i-qa-alh-lgx1-jpu-y-y-q-m-t-c4-o7-fi7-rc-fcqz-uup.png",SKY SPORTS FOOTBALL [備線1]
-http://37.187.115.146:5050/play?id=Sky-Sports-Football-BU
+https://forum-tfms-xyz.onrender.com/?id=Sky-Sports-Football-BU
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png",SKY SPORTS MAIN EVENT
-http://37.187.115.146:5050/play?id=Sky-Sports-Main-Event
+https://forum-tfms-xyz.onrender.com/?id=Sky-Sports-Main-Event
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8-a1o6-z1-vb-a-dve-w2-xa-c-kb9-odz-hewz-yl0-w-p-c-l-hcr7p.png",SKY SPORTS MAIN EVENT [備線1]
-http://37.187.115.146:5050/play?id=Sky-Sports-Main-Event-BU
+https://forum-tfms-xyz.onrender.com/?id=Sky-Sports-Main-Event-BU
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg",SKY SPORTS PREMIER LEAGUE
-http://37.187.115.146:5050/play?id=Sky-Sports-Premier-League
+https://forum-tfms-xyz.onrender.com/?id=Sky-Sports-Premier-League
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9e-er-o-p5-u-cxgq-vhw-xrj8-c0-j-er6h-p-u6-d-ee-uc-yo-p761.svg",SKY SPORTS PREMIER LEAGUE [備線1]
-http://37.187.115.146:5050/play?id=Sky-Sports-Premier-League-BU
+https://forum-tfms-xyz.onrender.com/?id=Sky-Sports-Premier-League-BU
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/la-fw-h-oy-u5-i1-f-x1-i-s-d-v-s-bxs-a-so-n85-sjiw8-ql-igz-w-f.png",SKY SPORTS MIX
-http://37.187.115.146:5050/play?id=Sky-Sports-Mix
+https://forum-tfms-xyz.onrender.com/?id=Sky-Sports-Mix
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/l-gy5-lwm-a-tg-hek2-f-hb8l-ff-km-z-l-i8-ww-z-pf-iuw3ts-jd.png",SKY SPORTS ARENA
-http://37.187.115.146:5050/play?id=Sky-Sports-Arena
+https://forum-tfms-xyz.onrender.com/?id=Sky-Sports-Arena
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-g7y-pm-t-wijfcn-w9u00x1-v-wr-x-pgbgdsi-b1ixvdx-p-m.png",SKY SPORTS NEWS
-http://37.187.115.146:5050/play?id=Sky-Sports-News
+https://forum-tfms-xyz.onrender.com/?id=Sky-Sports-News
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/o-k37-cj0-vvsn-xq1-p-hph-x-s-a-nw4-awo-e-qai-m-b-is-u-l-ntx.png",SKY SPORTS CRICKET
-http://37.187.115.146:5050/play?id=Sky-Sports-Cricket
+https://forum-tfms-xyz.onrender.com/?id=Sky-Sports-Cricket
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k-ww-c-i-q-eb-f-xu-e-xi-fkjo56ya-oi-g-hm-j8-d-dz-cezx8279.png",Sky Sports Tennis
-http://37.187.115.146:5050/play?id=Sky-Sports-Tennis
+https://forum-tfms-xyz.onrender.com/?id=Sky-Sports-Tennis
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/i-u-rj7vj-y-h5-u-b-chr2-s-bdjm-qp-o8-a-k-obc-c94kh-fv-r-kk.png",SKY SPORTS F1
-http://37.187.115.146:5050/play?id=Sky-Sports-F1
+https://forum-tfms-xyz.onrender.com/?id=Sky-Sports-F1
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/n-o-wzh-xjqvb-qs-txqgd3s-u-n-ft-u-s-a7-x-s-p-hfh4da1tgy.png",SKY SPORTS GOLF
-http://37.187.115.146:5050/play?id=Sky-Sports-Golf
+https://forum-tfms-xyz.onrender.com/?id=Sky-Sports-Golf
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/kfl5-li-lg-c2-z-a-wz-as136l9v9u-jl-i-r-xa-s-ofco-y-k-h-b8.png",SKY SPORTS RACING
-http://37.187.115.146:5050/play?id=Sky-Sports-Racing
+https://forum-tfms-xyz.onrender.com/?id=Sky-Sports-Racing
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/nlt-ev-a9qj-h-qa-hh-x1-n-mx-yg-iyriul-rmt-qz-b-a-jcxg9-p.png",BEIN SPORTS USA
-http://37.187.115.146:5050/play?id=Bein-Sports-USA
+https://forum-tfms-xyz.onrender.com/?id=Bein-Sports-USA
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/nlt-ev-a9qj-h-qa-hh-x1-n-mx-yg-iyriul-rmt-qz-b-a-jcxg9-p.png",BEIN SPORTS USA [備線1]
-http://37.187.115.146:5050/play?id=BEIN-SPORT-USA-BU
+https://forum-tfms-xyz.onrender.com/?id=BEIN-SPORT-USA-BU
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/Hvg8f5rQIhHrfUN9zPsktEzu928QoTjhk2NpAqPK.png",Racing TV
-http://37.187.115.146:5050/play?id=Racing-TV
+https://forum-tfms-xyz.onrender.com/?id=Racing-TV
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/94bbab25-acbc-4e62-9468-39038ac16f92-tc_og.png",TENNIS CHANNEL
-http://37.187.115.146:5050/play?id=Tennis-Channel
+https://forum-tfms-xyz.onrender.com/?id=Tennis-Channel
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2560px--sky_-cinema_-comedy_-_-logo_2016.svg.png",Sky Cinema Comedy
-http://37.187.115.146:5050/play?id=UK-Sky-Cinema-Comedy
+https://forum-tfms-xyz.onrender.com/?id=UK-Sky-Cinema-Comedy
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2560px--sky_-cinema_-family_-_-logo_2021.svg.png",Sky Cinema Family
-http://37.187.115.146:5050/play?id=UK-Sky-Cinema-Family
+https://forum-tfms-xyz.onrender.com/?id=UK-Sky-Cinema-Family
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/xoFwpmX85KdS4KiiKZh2HTg7z9C588zrClleoH0u.webp",Sky Cinema Action
-http://37.187.115.146:5050/play?id=Sky-Cinema-Action
+https://forum-tfms-xyz.onrender.com/?id=Sky-Cinema-Action
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/So67ypbXnCLB8aIICUay2TfFiwlXh5mDh5GPw7Pc.svg",Sky Cinema Animation
-http://37.187.115.146:5050/play?id=Sky-Cinema-Animation
+https://forum-tfms-xyz.onrender.com/?id=Sky-Cinema-Animation
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/9r-j-w92-g-j-imn-a2vfqm6v-k-er0-n-o9-k-l8-b-phk-a4cv-cbq.png",DAZN
-http://37.187.115.146:5050/play?id=DAZN-TV
+https://forum-tfms-xyz.onrender.com/?id=DAZN-TV
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/be-i-n_-s-p-o-r-t-s1_-e-n-g-l-i-s-h_-digital_-mono.png",Bein Sports English 1
-http://37.187.115.146:5050/play?id=Bein-Sports-English-1
+https://forum-tfms-xyz.onrender.com/?id=Bein-Sports-English-1
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/v-hu-vg-g-s-gu-t-yy-i2usg-k8-bh-y-ov-fo-pv9n-g65z-dm-txo3.png",Bein Sports English 2
-http://37.187.115.146:5050/play?id=Bein-Sports-English-2
+https://forum-tfms-xyz.onrender.com/?id=Bein-Sports-English-2
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/",Bein Sports English 3
-http://37.187.115.146:5050/play?id=Bein-Sports-English-3
+https://forum-tfms-xyz.onrender.com/?id=Bein-Sports-English-3
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8e-oj-t6-c-f3arb-q-seorft-m-fem-cy4ww-w-azm-ta0sempl.png",Eurosport 2
-http://37.187.115.146:5050/play?id=Eurosport-2
+https://forum-tfms-xyz.onrender.com/?id=Eurosport-2
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/s-p4-kxd-v-lp-hl9-y-t-fb-e-wz-m0-n8k-kkgg-h-pkccaqcc-bdu.png",Premier Sports 1
-http://37.187.115.146:5050/play?id=Premier-Sports-1
+https://forum-tfms-xyz.onrender.com/?id=Premier-Sports-1
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/1-gbngsz7-d-l-xy3x6-m-sk5xw-fj3-h-v42-r-e-cr-p1h4-dlyn.png",Premier Sports 2
-http://37.187.115.146:5050/play?id=Premier-Sports-2
+https://forum-tfms-xyz.onrender.com/?id=Premier-Sports-2
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-a5-e-z-f-zrrvis-h-c-m5l-b-r-y-f7yu8h5-x04qu-ka-b047-a-v.png",Golf Channel
-http://37.187.115.146:5050/play?id=Golf-Channel
+https://forum-tfms-xyz.onrender.com/?id=Golf-Channel
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/1200px--m-l-b-network-logo.svg.png",MLB Network
-http://37.187.115.146:5050/play?id=MLB-Network
+https://forum-tfms-xyz.onrender.com/?id=MLB-Network
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/m-g3-iq91-ukrb-cn24-w-zuxpr-j-mm-b9tv-m7-hb-b3-v9-gw95.svg",NFL Network
-http://37.187.115.146:5050/play?id=NFL-Network
+https://forum-tfms-xyz.onrender.com/?id=NFL-Network
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/iwzyqv-vw-j0c-du-w3-mr-mb3cg82e-e-mr-m-b-v-y-e-nw-hw-fmh.png",NFL REDZONE
-http://37.187.115.146:5050/play?id=NFL-REDZONE
+https://forum-tfms-xyz.onrender.com/?id=NFL-REDZONE
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/c-l33-tbx4-bvcvs8s-p-zfvwzd-nk-r-b-vncgag-w-jy-x-k-ol-t.png",WWE
-http://37.187.115.146:5050/play?id=WWE
+https://forum-tfms-xyz.onrender.com/?id=WWE
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/to0if-g-f-pzs3i-my1-d-spsrs3-sv-wn-k-h-m-sya-fz6b-meh4.png",Willow Cricket
-http://37.187.115.146:5050/play?id=Willow-Cricket
+https://forum-tfms-xyz.onrender.com/?id=Willow-Cricket
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/xs7-c-u-j2d-j-h-r-i6s-zgr7-dyp-n-s-a-mn-z7-kpq-hf6y-wwvx-i.png",ESPN
-http://37.187.115.146:5050/play?id=ESPN
+https://forum-tfms-xyz.onrender.com/?id=ESPN
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/512px--e-s-p-n2_logo.svg.png",ESPN 2
-http://37.187.115.146:5050/play?id=ESPN-2
+https://forum-tfms-xyz.onrender.com/?id=ESPN-2
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/2-g-ojo-g33-ls-wv-cf3-j-a-h-z-ojpp3y4-q4-fuj-c-p-r-oi-r-m4o.png",ESPN News
-http://37.187.115.146:5050/play?id=ESPN-News
+https://forum-tfms-xyz.onrender.com/?id=ESPN-News
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t9vr-m9-p-v1p-y-wh-rm-v-d-tj-dxo-d-af-xb3-zz67-f-dn-pane-y.png",ESPN U
-http://37.187.115.146:5050/play?id=ESPN-U
+https://forum-tfms-xyz.onrender.com/?id=ESPN-U
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/8lPFlMIg4VQSlx0OGlDRH5OM5qMomtsfwzQiyeLo.png",ESPN Deportes
-http://37.187.115.146:5050/play?id=ESPN-Deportes
+https://forum-tfms-xyz.onrender.com/?id=ESPN-Deportes
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://center.urlix.co/storage/images/8lPFlMIg4VQSlx0OGlDRH5OM5qMomtsfwzQiyeLo.png",ESPN Deportes [備線1]
-http://37.187.115.146:5050/play?id=ESPN-Deportes-BU
+https://forum-tfms-xyz.onrender.com/?id=ESPN-Deportes-BU
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/nd9b-n-us-b-m0lw-zka-ilkgas-bu-v-b4-y-b-fcug6-va-j-c-y-i-g.png",MUTV
-http://37.187.115.146:5050/play?id=MUTV
+https://forum-tfms-xyz.onrender.com/?id=MUTV
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/microsoft-teams-image_(13).png",LFC TV
-http://37.187.115.146:5050/play?id=LFC-TV
+https://forum-tfms-xyz.onrender.com/?id=LFC-TV
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/x-c1-yl3tu1-ga-wl-e-o3b-w-aiye3e127-l5yarb-ot2-ezxe.png",Fight Network
-http://37.187.115.146:5050/play?id=Fight-Network
+https://forum-tfms-xyz.onrender.com/?id=Fight-Network
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a4df4ef049b119253c9833bea8ed6515.jpg",CBS Sports Network
-http://37.187.115.146:5050/play?id=CBS-Sports-Network
+https://forum-tfms-xyz.onrender.com/?id=CBS-Sports-Network
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/y7-y-yvh-ej8piz6c2-ium-vye-z-q77au-v4-p-do-h-s-nen-d-qr.png",Fox Sports 1
-http://37.187.115.146:5050/play?id=Fox-Sports-1
+https://forum-tfms-xyz.onrender.com/?id=Fox-Sports-1
 #EXTINF:-1 group-title="體育賽事" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/6-ff-p-flc-r8kqe-k-o-n6-x-v0-cjr-mfei5gtm-e3-wj-x7e-vk-a.png",Fox Sports 2
-http://37.187.115.146:5050/play?id=Fox-Sports-2
+https://forum-tfms-xyz.onrender.com/?id=Fox-Sports-2
 
 # ----- 新聞財經 (4 個頻道) -----
 #EXTINF:-1 group-title="新聞財經" tvg-logo="https://center.urlix.co/storage/images/uN6eIk65I2im0d4ojxIloksV9wyxbVshhM8Num6J.jpg",BBC News
-http://37.187.115.146:5050/play?id=BBC-News
+https://forum-tfms-xyz.onrender.com/?id=BBC-News
 #EXTINF:-1 group-title="新聞財經" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/768px--fox_-news_-channel_logo.svg.png",FOX NEWS
-http://37.187.115.146:5050/play?id=FOX-NEWS
+https://forum-tfms-xyz.onrender.com/?id=FOX-NEWS
 #EXTINF:-1 group-title="新聞財經" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-tgl-m-ns6-d-r6bcw3qf-il-l8a-rg-k-l-ll-dmc-p-v5h7-s-wg-d.png",CNBC
-http://37.187.115.146:5050/play?id=CNBC
+https://forum-tfms-xyz.onrender.com/?id=CNBC
 #EXTINF:-1 group-title="新聞財經" tvg-logo="https://center.urlix.co/storage/images/PEoLnkz4lbWBN4A79dA6p1nOi15uD1VE8CN2mqT4.svg",NBC UNIVERSO
-http://37.187.115.146:5050/play?id=NBC-UNIVERSO
+https://forum-tfms-xyz.onrender.com/?id=NBC-UNIVERSO
 
 # ----- 綜合頻道 (14 個頻道) -----
 #EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/zK62gh9S9Z9TpM5RiSseKzM4hs9Wz3oTuaIqa8D4.jpg",BBC Three
-http://37.187.115.146:5050/play?id=BBC-Three
+https://forum-tfms-xyz.onrender.com/?id=BBC-Three
 #EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/MUfPvwYCKrhk35p5BQ4qRBktD9iBALX4dMOqFV8q.jpg",BBC FOUR
-http://37.187.115.146:5050/play?id=BBC-FOUR
+https://forum-tfms-xyz.onrender.com/?id=BBC-FOUR
 #EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/dMcVmNAd6ayvAw11IJi3LnMrftYrkM5VGoY3roDR.webp",BBC One
-http://37.187.115.146:5050/play?id=BBC-1
+https://forum-tfms-xyz.onrender.com/?id=BBC-1
 #EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/o8L1QWPS4sWAdPbaDiGKqqu5BspdchEK3l1834EQ.png",BBC Two
-http://37.187.115.146:5050/play?id=BBC-2
+https://forum-tfms-xyz.onrender.com/?id=BBC-2
 #EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/z-n1gy-tr71-xm1uia7-m8-jv-e-t0ygm-ql47v-h4-d5wu-t91.png",Virgin 3
-http://37.187.115.146:5050/play?id=UK-Virgin-3
+https://forum-tfms-xyz.onrender.com/?id=UK-Virgin-3
 #EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/c7-mg-r-w1l-p-k-cm-sc-rd-w-b-dhs-n90-b-uc-qozpi3-v-dwtmz-a.png",Virgin 1
-http://37.187.115.146:5050/play?id=UK-Virgin-1
+https://forum-tfms-xyz.onrender.com/?id=UK-Virgin-1
 #EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/8z795-gbo1duqut1-f32-ga-ip-b-a8-urzp90c-g-u-dm-r-c2-o.svg",NHL Network
-http://37.187.115.146:5050/play?id=NHL-Network
+https://forum-tfms-xyz.onrender.com/?id=NHL-Network
 #EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/ui-yy7ozk-m-unr-o33oc-izqx-el5-ewy-kg-v2vo-p-no-i-e-b-b.svg",World Fishing Network
-http://37.187.115.146:5050/play?id=World-Fishing-Network
+https://forum-tfms-xyz.onrender.com/?id=World-Fishing-Network
 #EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/t-t-zte39n-nu-a-z-cr-to-h-c7k5-shg-n-yaa9-ccl-iljf2onx.png",ITV 1
-http://37.187.115.146:5050/play?id=ITV-1
+https://forum-tfms-xyz.onrender.com/?id=ITV-1
 #EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-pt-eo-s-rm-jk-n-b1-qg9v-b-x-n-l-la-m-z-vp6-i-w4-l-j-t7-j-g01-c.png",ITV 2
-http://37.187.115.146:5050/play?id=ITV-2
+https://forum-tfms-xyz.onrender.com/?id=ITV-2
 #EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/3j3ra-qdk-rm3-cz-c9l-iyhrk-si82-oyshnipxl8os-sm-n.png",ITV 3
-http://37.187.115.146:5050/play?id=ITV-3
+https://forum-tfms-xyz.onrender.com/?id=ITV-3
 #EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/d0-sx-p-n7-cb6-o-n-rdi-m-w-bnrzrrzgu-k-u-srs-h-d-b-q-gy-l5w.png",ITV 4
-http://37.187.115.146:5050/play?id=ITV-4
+https://forum-tfms-xyz.onrender.com/?id=ITV-4
 #EXTINF:-1 group-title="綜合頻道" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/a-c-c_-network_-raycom_-logo.png",ACC Network
-http://37.187.115.146:5050/play?id=ACC-Network
+https://forum-tfms-xyz.onrender.com/?id=ACC-Network
 #EXTINF:-1 group-title="綜合頻道" tvg-logo="https://center.urlix.co/storage/images/7N4k68afYicjhSWwU5Kx0yTlVY9A1Ob5iYPUmXPF.jpg",BBC Red Button
-http://37.187.115.146:5050/play?id=BBC-Red-Button
+https://forum-tfms-xyz.onrender.com/?id=BBC-Red-Button
 
 # ----- 其他綜合 (4 個頻道) -----
 #EXTINF:-1 group-title="其他綜合" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/g-e46rp-x-a-j-o-cxma-gth2-ovp5sf-az-g4p-eq-v-vlyost-q-l.png",LALIGA TV HD
-http://37.187.115.146:5050/play?id=La-Liga-TV
+https://forum-tfms-xyz.onrender.com/?id=La-Liga-TV
 #EXTINF:-1 group-title="其他綜合" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/g-e46rp-x-a-j-o-cxma-gth2-ovp5sf-az-g4p-eq-v-vlyost-q-l.png",LALIGA TV HD [備線1]
-http://37.187.115.146:5050/play?id=LA-LIGA-TV-BU
+https://forum-tfms-xyz.onrender.com/?id=LA-LIGA-TV-BU
 #EXTINF:-1 group-title="其他綜合" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/k9-cbp-r-zcaom-r-jayck5v-qr-m-o-n-zqop9v1-e-s-u-z-g-kk3b.png",Willow Extra
-http://37.187.115.146:5050/play?id=Willow-Extra
+https://forum-tfms-xyz.onrender.com/?id=Willow-Extra
 #EXTINF:-1 group-title="其他綜合" tvg-logo="https://center.urlix.co/storage/images/QThyDK3aE2AEGNXcjaaFUHeFgNy3X5izleCb6QT4.png",Fox Soccer Plus
-http://37.187.115.146:5050/play?id=Fox-Soccer-Plus
+https://forum-tfms-xyz.onrender.com/?id=Fox-Soccer-Plus
 #EXTINF:-1 group-title="其他綜合" tvg-logo="https://center.urlix.co/storage/images/WwxRNu3hV1UHfo1EYkbbUyqPrTbiwOfAhztbwrff.jpg",FOX DEPORTES
-http://37.187.115.146:5050/play?id=FOX-DEPORTES
+https://forum-tfms-xyz.onrender.com/?id=FOX-DEPORTES
 #EXTINF:-1 group-title="其他綜合" tvg-logo="https://center.urlix.co/storage/images/WwxRNu3hV1UHfo1EYkbbUyqPrTbiwOfAhztbwrff.jpg",FOX DEPORTES [備線1]
-http://37.187.115.146:5050/play?id=FOX-DEPORTES-BU
+https://forum-tfms-xyz.onrender.com/?id=FOX-DEPORTES-BU
 
 # ----- 戲劇電影 (6 個頻道) -----
 #EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/r-d9d247-s1-q-wg-g-lcg-c-g-ps2r-s-t6024f-l-ak-eld-h-e-m-tn.png",HBO 1
-http://37.187.115.146:5050/play?id=HBO
+https://forum-tfms-xyz.onrender.com/?id=HBO
 #EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/5-tj1j-wtmcg-o-zj-egka-yk-s-x-p-puqfj03x0w-ka-b-rwcy-o.png",HBO 2
-http://37.187.115.146:5050/play?id=HBO-2
+https://forum-tfms-xyz.onrender.com/?id=HBO-2
 #EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/euzl-x-u-j-t8dx9s-puq8-hh5-g-m-rlmzu-sek-cn1ra-g-g-my2.png",Discovery Channel
-http://37.187.115.146:5050/play?id=Discovery-Channel
+https://forum-tfms-xyz.onrender.com/?id=Discovery-Channel
 #EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/152-b-g-b-ja-rg9je-jt-nw8-xm7-en-g-uayb-i-u-x-mjc5od5d5.png",Discovery Life
-http://37.187.115.146:5050/play?id=Discovery-Life
+https://forum-tfms-xyz.onrender.com/?id=Discovery-Life
 #EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/waj-k6-w-wwz-x-np7-h573-ir-p-sj-x-ewjdwmvri-bfz-aimc1.png",Cinemax West
-http://37.187.115.146:5050/play?id=Cinemax-West
+https://forum-tfms-xyz.onrender.com/?id=Cinemax-West
 #EXTINF:-1 group-title="戲劇電影" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-r-yjt-u-b-a-hk-q-tvi-dbq-n5q-n7-a-a-rd0gxv-f-ks-l-j6-yml-s.png",Great Movies
-http://37.187.115.146:5050/play?id=UK-Great-Movies
+https://forum-tfms-xyz.onrender.com/?id=UK-Great-Movies
 
 # ----- 兒童卡通 (1 個頻道) -----
 #EXTINF:-1 group-title="兒童卡通" tvg-logo="https://i0.wp.com/static.techor.sbs/public/images/tv-channels/f-i-gsl2-n77-dpt-h-wdy-q-c-f-odhz-gf-x-a-h-sje4z3-q-a0-qn-o.png",Cartoon Network
-http://37.187.115.146:5050/play?id=UK-Cartoon-Network
+https://forum-tfms-xyz.onrender.com/?id=UK-Cartoon-Network
