@@ -45,3 +45,33 @@
 
 #EXTINF:-1,24/7 Formula 1 Drive To Survive
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/331752
+
+#EXTINF:-1 group-title="" tvg-logo="",Los Angeles Rams vs. Seattle Seahawks
+#EXTVLCOPT:http-origin=https://pooembed.top
+#EXTVLCOPT:http-referrer=https://pooembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://gg.poocloud.in/seattleseahawks/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="",Orlando Magic vs. Denver Nuggets
+#EXTVLCOPT:http-origin=https://pooembed.top
+#EXTVLCOPT:http-referrer=https://pooembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://gg.poocloud.in/denvernuggets/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="",New York Knicks vs. Indiana Pacers
+#EXTVLCOPT:http-origin=https://pooembed.top
+#EXTVLCOPT:http-referrer=https://pooembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://gg.poocloud.in/indianapacers/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="",LA Clippers vs. Oklahoma City Thunder
+#EXTVLCOPT:http-origin=https://pooembed.top
+#EXTVLCOPT:http-referrer=https://pooembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://gg.poocloud.in/oklahomacitythunder/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="",Los Angeles Lakers vs. Utah Jazz
+#EXTVLCOPT:http-origin=https://pooembed.top
+#EXTVLCOPT:http-referrer=https://pooembed.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://gg.poocloud.in/utahjazz/index.m3u8
