@@ -283,6 +283,10 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3667
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3670
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",NFL Red Zone UHD
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3671
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",NFL Red Zone LHD
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3752
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",NFL Red Zone SD
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/97491
 #EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png",NHL Network UHD
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3672
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr East
