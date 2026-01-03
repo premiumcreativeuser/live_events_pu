@@ -61,6 +61,12 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3946
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/631835
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true",Big Ten Network UHD
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4443
+
+#EXTINF:-1,USA beIN SPORTS La Liga
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/90427
+#EXTINF:-1,USA BeIN Sports LaLiga
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/5308
+
 #EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",Boomerang (UHD)
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3616
 #EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",Boomerang (LHD)
