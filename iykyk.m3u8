@@ -321,6 +321,20 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2185
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2189
 #EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2190
+
+#EXTINF:-1,UK Sky Sports Premier League
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2182
+#EXTINF:-1,UK Sky Sports Premier League HD
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2181
+#EXTINF:-1,Astro SuperSport 2 Premier League
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/587718
+#EXTINF:-1,Astro SuperSport 3 Premier League
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/587719
+#EXTINF:-1,Astro SuperSport 4 Premier League
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/587720
+#EXTINF:-1,USA Premier League TV (PC)
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/660938
+
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/149311
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh SD USA
