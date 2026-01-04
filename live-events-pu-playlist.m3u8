@@ -42,6 +42,21 @@
 
 ################################################################################################################################################################################
 
+#EXTINF:-1,USA Premier League TV (PC)
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/660938.ts
+#EXTINF:-1,UK Sky Sports Premier League
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/2182.ts
+#EXTINF:-1,UK Sky Sports Premier League HD
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/2181.ts
+#EXTINF:-1,Astro SuperSport 2 Premier League
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/587718.ts
+#EXTINF:-1,Astro SuperSport 3 Premier League
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/587719.ts
+#EXTINF:-1,Astro SuperSport 4 Premier League
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/587720.ts
+#EXTINF:-1,Astro SuperSport Football
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/587717.ts
+
 #EXTINF:-1,NFL Red Zone LHD
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3752.ts
 #EXTINF:-1,NFL Red zone UHD
