@@ -61,12 +61,6 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3946
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/631835
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true",Big Ten Network UHD
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4443
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/laliga-tv-no.png",beIN SPORTS La Liga USA
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/90427
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/laliga-tv-no.png",BeIN Sports LaLiga USA
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/5308
-
 #EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",Boomerang (UHD)
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3616
 #EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",Boomerang (LHD)
@@ -327,20 +321,6 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2185
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2189
 #EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2190
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2182
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK HD
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2181
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/astro-supersport-2-bug-my.png",Astro SuperSport 2 Premier League
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/587718
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/astro-supersport-3-bug-my.png",Astro SuperSport 3 Premier League
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/587719
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/astro-supersport-4-bug-my.png",Astro SuperSport 4 Premier League
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/587720
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/premier-league-uk.png",Premier League TV (PC) USA
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/660938
-
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/149311
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh SD USA
