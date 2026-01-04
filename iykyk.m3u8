@@ -64,7 +64,7 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/4443
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/laliga-tv-no.png",beIN SPORTS La Liga USA
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/90427
-#EXTINF:-1,tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/laliga-tv-no.png",BeIN Sports LaLiga USA
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/laliga-tv-no.png",BeIN Sports LaLiga USA
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/5308
 
 #EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",Boomerang (UHD)
