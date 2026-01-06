@@ -26,8 +26,8 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 
 #EXTINF:-1 group-title="" tvg-logo="",streamed
-#EXTVLCOPT:http-origin=https://embedstreams.top
-#EXTVLCOPT:http-referrer=https://embedstreams.top/
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 
 #EXTINF:-1 group-title="" tvg-logo="",vipleague
@@ -67,3 +67,9 @@ https://daffodil.shadow-ran.online/nba.m3u8
 #EXTVLCOPT:http-referrer=https://streamfree.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://streamfree.to/live/new-york-knicks-vs-detroit-pistons720p/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="",New York Knicks vs Detroit Pistons streamed
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://gg.poocloud.in/detroitpistons/index.m3u8
