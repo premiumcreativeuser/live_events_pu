@@ -199,3 +199,86 @@ https://tfms-xyz-free.lxf69343.workers.dev/id=MatchTV2
 https://tfms-xyz-free.lxf69343.workers.dev/id=MatchTV3
 #EXTINF:-1 tvg-id="" tvg-name="Setanta Sports KZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/Setanta_Sport_RU.png/revision/latest?cb=20220714215421" group-title="FREESHOT",Setanta Sports KZ
 https://tfms-xyz-free.lxf69343.workers.dev/id=SetantaKZ
+
+#EXTINF:-1,Astro Premier League 1
+http://51.89.166.17:3002/index.php?id=go_assp1
+#EXTINF:-1,Astro EPL 1 backup 
+http://51.89.166.17:3002/index.php?id=go_assp1x
+#EXTINF:-1,Astro Premier League 2 
+http://51.89.166.17:3002/index.php?id=go_assp2
+#EXTINF:-1,Astro Grandstand 
+http://51.89.166.17:3002/index.php?id=go_assp3
+#EXTINF:-1,Astro Football 
+http://51.89.166.17:3002/index.php?id=go_assp4
+#EXTINF:-1,Astro Sports Plus 
+http://51.89.166.17:3002/index.php?id=go_sportsplus
+#EXTINF:-1,Astro Badminton 1 
+http://51.89.166.17:3002/index.php?id=go_badminton1
+#EXTINF:-1,Astro Badminton 2 
+http://51.89.166.17:3002/index.php?id=go_badminton2
+#EXTINF:-1,Astro W-Sports 
+http://51.89.166.17:3002/index.php?id=go_assp5
+#EXTINF:-1,Supersports 1 
+http://51.89.166.17:3002/index.php?id=Assp1
+#EXTINF:-1,Supersports 2 
+http://51.89.166.17:3002/index.php?id=Assp2
+#EXTINF:-1,Supersports 3 
+http://51.89.166.17:3002/index.php?id=Assp3
+#EXTINF:-1,Supersports 4 
+http://51.89.166.17:3002/index.php?id=Assp4
+#EXTINF:-1,WWE 
+http://51.89.166.17:3002/index.php?id=Wwe
+#EXTINF:-1,Fight Sports 
+http://51.89.166.17:3002/index.php?id=Fs
+#EXTINF:-1,NBA TV 
+http://51.89.166.17:3002/index.php?id=Nba
+#EXTINF:-1,Astro Cricket 
+http://51.89.166.17:3002/index.php?id=Acricket
+#EXTINF:-1,Astro Golf 
+http://51.89.166.17:3002/index.php?id=Agolf
+#EXTINF:-1,TNT Sports 1 
+http://51.89.166.17:3002/index.php?id=6fac0aaead
+#EXTINF:-1,TNT Sports 2 
+http://51.89.166.17:3002/index.php?id=d9a76a79cc
+#EXTINF:-1,TNT Sports 3 
+http://51.89.166.17:3002/index.php?id=5fea4d73db
+#EXTINF:-1,TNT Sports 4 
+http://51.89.166.17:3002/index.php?id=tntsport4
+#EXTINF:-1,Sony Ten 1 
+http://51.89.166.17:3002/index.php?id=ten1_raj
+#EXTINF:-1,Sony Ten 2 
+http://51.89.166.17:3002/index.php?id=ten2_raj
+#EXTINF:-1,Sony Ten 3 
+http://51.89.166.17:3002/index.php?id=ten3_raj
+#EXTINF:-1,SPOTV 1 HD 
+http://51.89.166.17:3002/index.php?id=go_spotv
+#EXTINF:-1,SPO TV 2 
+http://51.89.166.17:3002/index.php?id=go_spotv2
+#EXTINF:-1,Skysports F1 
+http://51.89.166.17:3002/index.php?id=tiankongf1
+#EXTINF:-1,Skysports Cricket 
+http://51.89.166.17:3002/index.php?id=tiankongcricket
+#EXTINF:-1,Skysports EPL 
+http://51.89.166.17:3002/index.php?id=tiankongepl
+#EXTINF:-1,Skysports Main Event 
+http://51.89.166.17:3002/index.php?id=tiankongmain
+#EXTINF:-1,Skysports News 
+http://51.89.166.17:3002/index.php?id=tiankongnews
+#EXTINF:-1,Skysports Mix 
+http://51.89.166.17:3002/index.php?id=tiankongmix
+#EXTINF:-1,RTM Sports HD 
+http://51.89.166.17:3002/index.php?id=Rtmsport
+#EXTINF:-1,Arena 
+http://51.89.166.17:3002/index.php?id=Arena
+#EXTINF:-1,Arena 2 
+http://51.89.166.17:3002/index.php?id=Arena2
+#EXTINF:-1,BolaArena 1 
+http://51.89.166.17:3002/index.php?id=Bolaarena1
+#EXTINF:-1,BolaArena 2 
+http://51.89.166.17:3002/index.php?id=Bolaarena2
+#EXTINF:-1,Astro Beinsports 1 
+http://51.89.166.17:3002/index.php?id=Astrobein1
+#EXTINF:-1,Astro Beinsports 2 
+http://51.89.166.17:3002/index.php?id=Astrobein2
+#EXTINF:-1,Astro Beinsports 3 
+http://51.89.166.17:3002/index.php?id=Astrobein
