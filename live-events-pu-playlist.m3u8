@@ -1,54 +1,11 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/epgs/moveonjoy-epg.xml" 
+#EXTM3U url-tvg="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/epgs/moveonjoy-epg.xml"
+
 #######################################FORMATTING#############################################
 #EXTINF:-1 group-title="" tvg-logo="",ppv 
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-
-#EXTINF:-1 group-title="" tvg-logo="",fstv 
-#EXTVLCOPT:http-origin=https://fstv.zip
-#EXTVLCOPT:http-referrer=https://fstv.zip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-
-#EXTINF:-1 group-title="" tvg-logo="",timstreams
-#EXTVLCOPT:http-origin=https://justembeds.xyz
-#EXTVLCOPT:http-referrer=https://justembeds.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-
-#EXTINF:-1 group-title="" tvg-logo="",soccer-100 
-#EXTVLCOPT:http-origin=https://forcedtoplay.xyz
-#EXTVLCOPT:http-referrer=https://forcedtoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-
-#EXTINF:-1 group-title="" tvg-logo="",daddylive 
-#EXTVLCOPT:http-origin=https://zukiplay.cfd
-#EXTVLCOPT:http-referrer=https://zukiplay.cfd/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-
-#EXTINF:-1 group-title="" tvg-logo="",streamed
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-
-#EXTINF:-1 group-title="" tvg-logo="",vipleague
-#EXTVLCOPT:http-origin=https://tvableon.me
-#EXTVLCOPT:http-referrer=https://tvableon.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-
-#EXTINF:-1 group-title="" tvg-logo="",roxiestreams
-#EXTVLCOPT:http-origin=https://roxiestreams.live
-#EXTVLCOPT:http-referrer=https://roxiestreams.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-
-
-#EXTINF:-1 group-title="" tvg-logo="",nbawebcast
-#EXTVLCOPT:http-origin=https://modistreams.org
-#EXTVLCOPT:http-referrer=https://modistreams.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-
-
-################################################################################################################################################################################
-
+##############################################################################################
 
 #EXTINF:-1 group-title="" tvg-logo="",New York Knicks vs. Detroit Pistons ppv
 #EXTVLCOPT:http-origin=https://modistreams.org
@@ -61,12 +18,6 @@ https://gg.poocloud.in/detroitpistons/index.m3u8
 #EXTVLCOPT:http-referrer=https://roxiestreams.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://daffodil.shadow-ran.online/nba.m3u8
-
-#EXTINF:-1 group-title="" tvg-logo="",New York Knicks vs Detroit Pistons streamfree
-#EXTVLCOPT:http-origin=https://streamfree.to
-#EXTVLCOPT:http-referrer=https://streamfree.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://streamfree.to/live/new-york-knicks-vs-detroit-pistons720p/index.m3u8
 
 #EXTINF:-1 group-title="" tvg-logo="",New York Knicks vs Detroit Pistons streamed
 #EXTVLCOPT:http-origin=https://embedsports.top
