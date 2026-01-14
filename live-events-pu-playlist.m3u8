@@ -7,128 +7,19 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 ##############################################################################################
 
-#EXTINF:-1,[NBA] ATLANTA HAWKS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89060
-#EXTINF:-1,[NBA] BOSTON CELTICS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89061
-#EXTINF:-1,[NBA] BROOKLYN NETS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89062
-#EXTINF:-1,[NBA] CHARLOTTE HORNETS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89063
-#EXTINF:-1,[NBA] CHICAGO BULLS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89064
-#EXTINF:-1,[NBA] CLEVELAND CAVALIERS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89065
-#EXTINF:-1,[NBA] DALLAS MAVERICKS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89066
-#EXTINF:-1,[NBA] DENVER NUGGETS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89067
-#EXTINF:-1,[NBA] DETROIT PISTONS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89068
-#EXTINF:-1,[NBA] GOLDEN STATE WARRIORS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/92887
-#EXTINF:-1,[NBA] HOUSTON ROCKETS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89069
-#EXTINF:-1,[NBA] INDIANA PACERS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89070
-#EXTINF:-1,[NBA] LOS ANGELES CLIPPERS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89071
-#EXTINF:-1,[NBA] LOS ANGELES LAKERS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89072
-#EXTINF:-1,[NBA] MEMPHIS GRIZZLIES
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89073
-#EXTINF:-1,[NBA] MIAMI HEAT
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89074
-#EXTINF:-1,[NBA] MILWAUKEE BUCKS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89075
-#EXTINF:-1,[NBA] MINNESOTA TIMBERWOLVES
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89076
-#EXTINF:-1,[NBA] NEW ORLEANS PELICANS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89077
-#EXTINF:-1,[NBA] NEW YORK KNICKS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89078
-#EXTINF:-1,[NBA] OKLAHOMA CITY THUNDER
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89079
-#EXTINF:-1,[NBA] ORLANDO MAGIC
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89080
-#EXTINF:-1,[NBA] PHILADELPHIA 76ERS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89081
-#EXTINF:-1,[NBA] PHOENIX SUNS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89082
-#EXTINF:-1,[NBA] PORTLAND TRAIL BLAZERS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89083
-#EXTINF:-1,[NBA] SACRAMENTO KINGS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89084
-#EXTINF:-1,[NBA] SAN ANTONIO SPURS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89085
-#EXTINF:-1,[NBA] TORONTO RAPTORS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89086
-#EXTINF:-1,[NBA] UTAH JAZZ
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89087
-#EXTINF:-1,[NBA] WASHINGTON WIZARDS
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89088
+#EXTINF:-1,USA Real NBA 01: Phoenix Suns vs Miami Heat @ 07:30 PM EST
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214171
+#EXTINF:-1,USA Real NBA 02: Chicago Bulls vs Houston Rockets @ 08:00 PM EST
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214172
+#EXTINF:-1,USA Real NBA 03: Minnesota Timberwolves vs Milwaukee Bucks @ 08:00 PM EST
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214173
+#EXTINF:-1,USA Real NBA 04: Denver Nuggets vs New Orleans Pelicans @ 08:00 PM EST
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214174
+#EXTINF:-1,USA Real NBA 05: San Antonio Spurs vs Oklahoma City Thunder @ 08:00 PM EST
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214175
+#EXTINF:-1,USA Real NBA 06: Atlanta Hawks vs Los Angeles Lakers @ 10:30 PM EST
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214176
+#EXTINF:-1,USA Real NBA 07: Portland Trail Blazers vs Golden State Warriors @ 11:00 PM EST
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214177
 
-#EXTINF:-1,USA NFL-Saints 
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/401122
-#EXTINF:-1,USA NFL: 49ers
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390458
-#EXTINF:-1,USA NFL: Bears
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390457
-#EXTINF:-1,USA NFL: Bengals
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390456
-#EXTINF:-1,USA NFL: Bills
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390455
-#EXTINF:-1,USA NFL: Broncos
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390454
-#EXTINF:-1,USA NFL: Browns
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390453
-#EXTINF:-1,USA NFL: Buccaneers
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390452
-#EXTINF:-1,USA NFL: Cardinals
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390451
-#EXTINF:-1,USA NFL: Chargers
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390450
-#EXTINF:-1,USA NFL: Chiefs
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390449
-#EXTINF:-1,USA NFL: Colts
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390448
-#EXTINF:-1,USA NFL: Commanders
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390433
-#EXTINF:-1,USA NFL: Cowboys
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390447
-#EXTINF:-1,USA NFL: Dolphins
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390446
-#EXTINF:-1,USA NFL: Eagles
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390445
-#EXTINF:-1,USA NFL: Falcons
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390444
-#EXTINF:-1,USA NFL: Giants
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390443
-#EXTINF:-1,USA NFL: Jaguars
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390442
-#EXTINF:-1,USA NFL: Jets
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390441
-#EXTINF:-1,USA NFL: Lions
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390440
-#EXTINF:-1,USA NFL: Packers
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390439
-#EXTINF:-1,USA NFL: Panthers
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390438
-#EXTINF:-1,USA NFL: Patriots
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390437
-#EXTINF:-1,USA NFL: Raiders
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390436
-#EXTINF:-1,USA NFL: Rams
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390435
-#EXTINF:-1,USA NFL: Ravens
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390434
-#EXTINF:-1,USA NFL: Seahawks
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390432
-#EXTINF:-1,USA NFL: Steelers
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390431
-#EXTINF:-1,USA NFL: Texans
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390430
-#EXTINF:-1,USA NFL: Titans
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390429
-#EXTINF:-1,USA NFL: Vikings
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/390428
+
