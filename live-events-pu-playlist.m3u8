@@ -7,19 +7,21 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 ##############################################################################################
 
-#EXTINF:-1,USA Real NBA 01: Phoenix Suns vs Miami Heat @ 07:30 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214171
-#EXTINF:-1,USA Real NBA 02: Chicago Bulls vs Houston Rockets @ 08:00 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214172
-#EXTINF:-1,USA Real NBA 03: Minnesota Timberwolves vs Milwaukee Bucks @ 08:00 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214173
-#EXTINF:-1,USA Real NBA 04: Denver Nuggets vs New Orleans Pelicans @ 08:00 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214174
-#EXTINF:-1,USA Real NBA 05: San Antonio Spurs vs Oklahoma City Thunder @ 08:00 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214175
-#EXTINF:-1,USA Real NBA 06: Atlanta Hawks vs Los Angeles Lakers @ 10:30 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214176
-#EXTINF:-1,USA Real NBA 07: Portland Trail Blazers vs Golden State Warriors @ 11:00 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214177
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN UHD
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3636.ts
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN (SHD)
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3725.ts
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN 2 UHD
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3637.ts
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN 2 (SHD)
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/2581.ts
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN 2 LHD
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3726.ts
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png",ESPN News UHD
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3640.ts
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",ESPNU UHD
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3638.ts
+
+
 
 
