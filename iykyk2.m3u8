@@ -381,6 +381,22 @@ https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/3683
 https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/3844
 #EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT West (Stream 2)
 https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2384
+
+#EXTINF:-1,UK TNT Sports 1
+https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/737805
+#EXTINF:-1,UK TNT Sports 1 FHD
+https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2337
+#EXTINF:-1,UK TNT Sports 2 FHD 50fps
+https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2336
+#EXTINF:-1,UK TNT Sports 3 FHD 50fps
+https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2335
+#EXTINF:-1,UK TNT Sports 4
+https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2334
+#EXTINF:-1,UK TNT Sports 4 FHD
+https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/675021
+#EXTINF:-1,UK TNT Sports 5 Extra 1
+https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/2332
+
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1 UHD",TSN 1 UHD CA
 https://restream-live.realiptv.to:443/monstercable/Dq6jjknxCr/3146
 #EXTINF:-1 tvg-id="TTSN.2.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2 UHD",TSN 2 UHD CA
