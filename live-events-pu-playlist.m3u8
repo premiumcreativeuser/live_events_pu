@@ -6,6 +6,11 @@
 #EXTVLCOPT:http-referrer=https://pooembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 ##############################################################################################
+#EXTINF:-1 group-title="" tvg-logo="",Dallas Mavericks vs Denver Nuggets Streamed
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://lb7.strmd.top/secure/HaEkIEscWObLWSrAFPmspYsgfYepEVBM/admin/stream/dallasmavericks/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN UHD
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3636.ts
