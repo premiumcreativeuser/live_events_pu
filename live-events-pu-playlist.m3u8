@@ -22,6 +22,21 @@ https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3640.ts
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",ESPNU UHD
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3638.ts
 
+#EXTINF:-1,USA Real NBA 01: CLE Cavaliers VS PHI 76ers ( ESPN Feed ) @ 7:00 PM
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214171
+#EXTINF:-1,USA Real NBA 02: DEN Nuggets VS DAL Mavericks ( ESPN Feed ) @ 9:30 PM
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214172
+#EXTINF:-1,USA Real NBA 03: Toronto Raptors vs Indiana Pacers @ 07:00 PM EST
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214173
+#EXTINF:-1,USA Real NBA 04: Utah Jazz vs Chicago Bulls @ 08:00 PM EST
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214174
+#EXTINF:-1,USA Real NBA 05: Brooklyn Nets vs New Orleans Pelicans @ 08:00 PM EST
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214175
+#EXTINF:-1,USA Real NBA 06: New York Knicks vs Sacramento Kings @ 10:00 PM EST
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214176
+#EXTINF:-1,USA Real NBA 07: Washington Wizards vs LA Clippers @ 10:30 PM EST
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214177
+
 #EXTINF:-1 group-title="" tvg-logo="",Toronto Raptors vs. Indiana Pacers ppv
 #EXTVLCOPT:http-origin=https://modistreams.org
 #EXTVLCOPT:http-referrer=https://modistreams.org/
