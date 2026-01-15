@@ -6,11 +6,6 @@
 #EXTVLCOPT:http-referrer=https://pooembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 ##############################################################################################
-#EXTINF:-1 group-title="" tvg-logo="",Dallas Mavericks vs Denver Nuggets Streamed
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://lb7.strmd.top/secure/HaEkIEscWObLWSrAFPmspYsgfYepEVBM/admin/stream/dallasmavericks/1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN UHD
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3636.ts
@@ -44,9 +39,6 @@ http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785900?token=TBdbWBBd
 http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785901?token=TBdbWBBdEl4VUlVdBQYDClNSU1AFDVECVlcJBQcMBQdWAlcAUQIJBVQVHEZAFkdWUV45ClEXWAVeBAFRBxhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFUDBVUCBBkRSQpREl4VBQFcClAFABIfRAZNQQdACFBUPlJRFVpUUBEDDUBcCBsVXwpsBlBeUV0CQQ8XUxBKE1ESRhZZXUJZXxVBV1kQRVZEARFYFwQABlBBGRcBXRNfTBNPFlkRcHcRFUFQSBBSWUMNXAwXCRJHFUEZFwtBOUNdEkJGBlJaUEEbWRcARhsVXQVLPVZcXl0DAEFcDVwVEwJDAhZPEVpaXVAXWkI7R15URglABAoFC1BWBxcf
 #EXTINF:-1 tvg-id="" tvg-name="NBA 07: Washington Wizards vs Los Angeles Clippers Jan 14 10:30PM" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 07: Washington Wizards vs Los Angeles Clippers Jan 14 10:30PM
 http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/787808?token=TBdbWBBdEl4VAlNUVwEGCgkCUVQHAFBQUFIIU1UHBVJRA1UMBldRVFEVHEZAFkdWUV45ClEXWAVeBgBRDhhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFUDBVUABxkRSQpREl4VBQFdAFIGBBIfRAZNQQdACFBUPlJRFVpUUBEDDUBcCBsVXwpsBlBeUV0CQQ8XUxBKE1ESRhZZXUJZXxVBV1kQRVZEARFYFwUDAVZBGRcBXRNfTBNPFlkRcHcRFUFQSBBSWUMNXAwXCRJHFUEZFwtBOUNdEkJGBlJaUEEbWRcARhsVXQVLPVZcXl0DAEFcDVwVEwJDAhZPEVpaXVAXWkI7R15URglABwMBAlJaARcf
-
-#EXTINF:-1,19:00 Utah Jazz vs Chicago Bulls
-http://imaxplay.net:8880//live/esteban2/ATSBA/631854.ts
 
 #EXTINF:-1,009 USA: NBA 01 / RAPTORS @ PACERS - 6:00PM - TSN 4
 http://imaxplay.net:8880//live/esteban2/ATSBA/631815.ts
