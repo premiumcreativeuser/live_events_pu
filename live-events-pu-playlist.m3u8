@@ -25,15 +25,3 @@ https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214176
 #EXTINF:-1,USA Real NBA 07: Washington Wizards vs LA Clippers @ 10:30 PM EST
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214177
 
-#EXTINF:-1 group-title="" tvg-logo="",Toronto Raptors vs. Indiana Pacers ppv
-#EXTVLCOPT:http-origin=https://modistreams.org
-#EXTVLCOPT:http-referrer=https://modistreams.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://strm.poocloud.in/secure/uBVxMRIYyJilbMaZpphxUmXRMNpzKFEX/1768428000/1768452480/indianapacers.m3u8
-
-#EXTINF:-1 group-title="" tvg-logo="",Cleveland Cavaliers vs. Philadelphia 76ers ppv
-#EXTVLCOPT:http-origin=https://modistreams.org
-#EXTVLCOPT:http-referrer=https://modistreams.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://strm.poocloud.in/secure/laWIqsoVfYwGYpBXlMUznRbkUVMmWkbh/1768428000/1768452480/philadelphia76ers.m3u8
-
