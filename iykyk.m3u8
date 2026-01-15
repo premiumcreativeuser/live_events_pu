@@ -105,6 +105,16 @@ https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/51554.ts
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3624.ts
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN UHD
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3625.ts
+
+#EXTINF:-1 group-title="Movies" tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3184.ts
+#EXTINF:-1 group-title="Movies" tvg-id="Crave2.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3185.ts
+#EXTINF:-1 group-title="Movies" tvg-id="Crave3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3186.ts
+#EXTINF:-1 group-title="Movies" tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4
+https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3187.ts
+
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central East UHD
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3626.ts
 #EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central
