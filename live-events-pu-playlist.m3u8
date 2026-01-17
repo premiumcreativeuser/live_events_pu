@@ -10,77 +10,30 @@
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN UHD
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3636.ts
 
-#EXTINF:-1,USA Real NBA 01: Phoenix Suns vs Detroit Pistons @ 07:00 PM EST
+#EXTINF:-1,USA Real NBA 01: CLE Cavaliers VS PHI 76ers ( ESPN Feed ) @ 7:00 PM
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214171
-#EXTINF:-1,USA Real NBA 02: Boston Celtics vs Miami Heat @ 07:30 PM EST
+#EXTINF:-1,USA Real NBA 02: MIN Timberwolves VS HOU Rockets ( ESPN Feed ) @ 9:30 PM
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214172
-#EXTINF:-1,USA Real NBA 03: Oklahoma City Thunder vs Houston Rockets @ 07:30 PM EST
+#EXTINF:-1,USA Real NBA 03: New Orleans Pelicans vs Indiana Pacers @ 07:00 PM EST 
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214173
-#EXTINF:-1,USA Real NBA 04: Milwaukee Bucks vs San Antonio Spurs @ 08:00 PM EST
+#EXTINF:-1,USA Real NBA 04: Chicago Bulls vs Brooklyn Nets @ 07:30 PM EST
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214174
-#EXTINF:-1,USA Real NBA 05: Utah Jazz vs Dallas Mavericks @ 08:30 PM EST
+#EXTINF:-1,USA Real NBA 05: LA Clippers vs Toronto Raptors @ 07:30 PM EST
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214175
-#EXTINF:-1,USA Real NBA 06: New York Knicks vs Golden State Warriors @ 10:00 PM EST
+#EXTINF:-1,USA Real NBA 06: Washington Wizards vs Sacramento Kings @ 10:00 PM EST
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214176
-#EXTINF:-1,USA Real NBA 07: Atlanta Hawks vs Portland Trail Blazers @ 10:00 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214177
-#EXTINF:-1,USA Real NBA 08: Charlotte Hornets vs Los Angeles Lakers @ 10:30 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214178
 
-#EXTINF:-1 tvg-id="" tvg-name="NBA 01: Magic vs. Grizzlies (1.15 2:00 PM ET)" tvg-logo="http://appstreams.xyz:2086/images/dc583afd723a00e771f1372c0712f993.png" group-title="NBA",NBA 01: Magic vs. Grizzlies (1.15 2:00 PM ET)
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785881?token=TBdbWBBdEl4VAwRQBAZXVwQEAwFWDAZWV1IOUQADBgJTBlcMUwBVVg8VHEZAFkdWUV45ClEXWAVeBABZBxhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVALAxkRSQpREl4VDwVUClYGERwRAxtBUBBcB11nBVNCClBSFwlXFllcSBVYXjtXB1hSXldEWRcEQB5EWEsRFA4NRltZHxsBXEQWVkNVRglAAwIIBkRPF1YNRwhFShgUDkF0dRcfGwZNRAFZRFkLXUAPEURARE8XXBFtFFRLFURRAl5SRxEDQQUSSBVaURxsAVpdXlYFF1xaDEFECxpVFBhBXlhbWk0MR28UXlMSXhFaAQYDB19BSA==
-#EXTINF:-1 tvg-id="" tvg-name="NBA 02: Pistons vs. Suns (1.15 7:00 PM ET)" tvg-logo="http://appstreams.xyz:2086/images/dc583afd723a00e771f1372c0712f993.png" group-title="NBA",NBA 02: Pistons vs. Suns (1.15 7:00 PM ET)
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785889?token=TBdbWBBdEl4VBQhRAAMNAQBWUVdQAAcKUFUIUAAEUQAGBAsOB1AFU1YVHEZAFkdWUV45ClEXWAVeBABZDxhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVcBBhkRSQpREl4VBgJXAFAECxIfRAZNQQdACFBUPlJRFVpUUBEDDUBcCBsVXwpsBlBeUV0CQQ8XUxBKE1ESRhZZXUJZXxVBV1kQRVZEARFYW0ZcX0pBVloXXBJDQUMMFiRxFRkRXBtBVQpEXl8KEVgXR0MRSkFcRj1AA0JME1NVDlZFFwkbUxccRlpWSDtQDVtdVVASClpbERBcEwxDGhYOXFlcR1YRakANUxUKRgJTBAAEA1ZBSA==
-#EXTINF:-1 tvg-id="" tvg-name="NBA 03: Heat vs. Celtics (1.15 7:30 PM ET)" tvg-logo="http://appstreams.xyz:2086/images/dc583afd723a00e771f1372c0712f993.png" group-title="NBA",NBA 03: Heat vs. Celtics (1.15 7:30 PM ET)
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785890?token=TBdbWBBdEl4VBlUCAQQDAwEEAFYDBVQHAgIAWAAMUFYCAFALAQAFXA8VHEZAFkdWUV45ClEXWAVeBABYBhhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVcGDhkRSQpREl4VBgJXB1cAABIfRAZNQQdACFBUPlJRFVpUUBEDDUBcCBsVXwpsBlBeUV0CQQ8XUxBKE1ESRhZZXUJZXxVBV1kQRVZEARFYW0ZcX0pBVloXXBJDQUMMFiRxFRkRXBtBVQpEXl8KEVgXR0MRSkFcRj1AA0JME1NVDlZFFwkbUxccRlpWSDtQDVtdVVASClpbERBcEwxDGhYOXFlcR1YRakANUxUKRgJTBAUHA1BBSA==
-#EXTINF:-1 tvg-id="" tvg-name="NBA 04: Rockets vs. Thunder (1.15 7:30 PM ET)" tvg-logo="http://appstreams.xyz:2086/images/dc583afd723a00e771f1372c0712f993.png" group-title="NBA",NBA 04: Rockets vs. Thunder (1.15 7:30 PM ET)
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785891?token=TBdbWBBdEl4VDwEGBlQMUlNRXgdQBlALUAgBAgJSB1EFVwAJBgQIXVMVHEZAFkdWUV45ClEXWAVeBABYBxhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVcKAxkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BDxJVBQQGUAZQF04=
-#EXTINF:-1 tvg-id="" tvg-name="NBA 05: Spurs vs. Bucks (1.15 8:00 PM ET)" tvg-logo="http://appstreams.xyz:2086/images/dc583afd723a00e771f1372c0712f993.png" group-title="NBA",NBA 05: Spurs vs. Bucks (1.15 8:00 PM ET)
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785892?token=TBdbWBBdEl4VDwlXBQAHBwAFUFUHAQEGVgUJUw8ABwIEBgsNWwRRVwcVHEZAFkdWUV45ClEXWAVeBABYBBhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVYFBRkRSQpREl4VBgJXBFYHBxIfRAZNQQdACFBUPlJRFVpUUBEDDUBcCBsVXwpsBlBeUV0CQQ8XUxBKE1ESRhZZXUJZXxVBV1kQRVZEARFYW0ZcX0pBVloXXBJDQUMMFiRxFRkRXBtBVQpEXl8KEVgXR0MRSkFcRj1AA0JME1NVDlZFFwkbUxccRlpWSDtQDVtdVVASClpbERBcEwxDGhYOXFlcR1YRakANUxUKRgdWAgYGAEQe
-#EXTINF:-1 tvg-id="" tvg-name="NBA 06: Mavericks vs. Jazz (1.15 8:30 PM ET)" tvg-logo="http://appstreams.xyz:2086/images/dc583afd723a00e771f1372c0712f993.png" group-title="NBA",NBA 06: Mavericks vs. Jazz (1.15 8:30 PM ET)
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785893?token=TBdbWBBdEl4VAgRUUVVTBVYKVFIHAFUEAggNAgYAAlYEAwoMBQFSB1EVHEZAFkdWUV45ClEXWAVeBABYBRhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVYEDhkRSQpREl4VBgJXClYNBhIfRAZNQQdACFBUPlJRFVpUUBEDDUBcCBsVXwpsBlBeUV0CQQ8XUxBKE1ESRhZZXUJZXxVBV1kQRVZEARFYW0ZcX0pBVloXXBJDQUMMFiRxFRkRXBtBVQpEXl8KEVgXR0MRSkFcRj1AA0JME1NVDlZFFwkbUxccRlpWSDtQDVtdVVASClpbERBcEwxDGhYOXFlcR1YRakANUxUKRgJQBgcJBFRBSA==
-#EXTINF:-1 tvg-id="" tvg-name="NBA 07: Warriors vs. Knicks (1.15 10:00 PM ET)" tvg-logo="http://appstreams.xyz:2086/images/dc583afd723a00e771f1372c0712f993.png" group-title="NBA",NBA 07: Warriors vs. Knicks (1.15 10:00 PM ET)
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785894?token=TBdbWBBdEl4VDglRUQRRUgVWUAUNAVQAUANZUAVSUAcBBAVYUgMEXFQVHEZAFkdWUV45ClEXWAVeBABYAhhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVUBDxkRSQpREl4VBgJXClUGABIfRAZNQQdACFBUPlJRFVpUUBEDDUBcCBsVXwpsBlBeUV0CQQ8XUxBKE1ESRhZZXUJZXxVBV1kQRVZEARFYW0ZcX0pBVloXXBJDQUMMFiRxFRkRXBtBVQpEXl8KEVgXR0MRSkFcRj1AA0JME1NVDlZFFwkbUxccRlpWSDtQDVtdVVASClpbERBcEwxDGhYOXFlcR1YRakANUxUKRgJQBgoDAV5BSA==
-#EXTINF:-1 tvg-id="" tvg-name="NBA 08: Trail Blazers vs. Hawks (1.15 10:00 PM ET)" tvg-logo="http://appstreams.xyz:2086/images/dc583afd723a00e771f1372c0712f993.png" group-title="NBA",NBA 08: Trail Blazers vs. Hawks (1.15 10:00 PM ET)
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785895?token=TBdbWBBdEl4VVVJQAgAGBwJRXlEGDAEDVVNZVQRVVFUPB1VcAAxVUwYVHEZAFkdWUV45ClEXWAVeBABYAxhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVUHDhkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-#EXTINF:-1 tvg-id="" tvg-name="NBA 09: Lakers vs. Hornets (1.15 10:30 PM ET)" tvg-logo="http://appstreams.xyz:2086/images/dc583afd723a00e771f1372c0712f993.png" group-title="NBA",NBA 09: Lakers vs. Hornets (1.15 10:30 PM ET)
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/787486?token=TBdbWBBdEl4VAAEAClYCBglQVlIHB1EKU1cIWFIDUFIPV1cIVABWUVYVHEZAFkdWUV45ClEXWAVeBgxZABhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVUEDxkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-#EXTINF:-1 tvg-id="" tvg-name="NBA 10: Kings vs. Rockets (1.11 9:00 PM ET)" tvg-logo="https://logo.iptveditor.com/nba13.png" group-title="NBA",NBA 10: Kings vs. Rockets (1.11 9:00 PM ET)
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/787487?token=TBdbWBBdEl4VBgFSC1RRBwIFUwdWAlYLBVMBWVAMVlJTBgYIUVADAAcVHEZAFkdWUV45ClEXWAVeBgxZARhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVUKABkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-#EXTINF:-1 tvg-id="" tvg-name="NBA 01: Memphis Grizzlies vs Orlando Magic Jan 15 2:00PM (Amazon)" tvg-logo="https://logo.iptveditor.com/nba13.png" group-title="NBA",NBA 01: Memphis Grizzlies vs Orlando Magic Jan 15 2:00PM (Amazon)
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785896?token=TBdbWBBdEl4VAFQHUFYNC1RRV1EFUFMGUVNeAgEHBQcFA1IKAVYIAlIVHEZAFkdWUV45ClEXWAVeBABYABhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVQABxkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-#EXTINF:-1 tvg-id="" tvg-name="NBA 02: Phoenix Suns vs Detroit Pistons Jan 15 7:00PM" tvg-logo="https://logo.iptveditor.com/nba13.png" group-title="NBA",NBA 02: Phoenix Suns vs Detroit Pistons Jan 15 7:00PM
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785897?token=TBdbWBBdEl4VD1EHBQZWA1IKUgBTDAACVQcJVVUAVFFTBQcOBQNWAAEVHEZAFkdWUV45ClEXWAVeBABYARhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVQGAxkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-#EXTINF:-1 tvg-id="" tvg-name="NBA 03: Boston Celtics vs Miami Heat Jan 15 7:30PM" tvg-logo="https://logo.iptveditor.com/nba13.png" group-title="NBA",NBA 03: Boston Celtics vs Miami Heat Jan 15 7:30PM
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785898?token=TBdbWBBdEl4VDgFVUlICAwQDAlICVgFTVgcLAAJRWwUHVgYPU1AEU1UVHEZAFkdWUV45ClEXWAVeBABYDhhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVQEAxkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-#EXTINF:-1 tvg-id="" tvg-name="NBA 04: Oklahoma City Thunder vs Houston Rockets Jan 15 7:30PM (Amazon)" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 04: Oklahoma City Thunder vs Houston Rockets Jan 15 7:30PM (Amazon)
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785899?token=TBdbWBBdEl4VAlJWBAZWBAIAU1dTA1IDBwFaWQEMVwICUwQLUlAHV1QVHEZAFkdWUV45ClEXWAVeBABYDxhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVQLABkRSQpREl4VBgJQBlUDABIfRAZNQQdACFBUPlJRFVpUUBEDDUBcCBsVXwpsBlBeUV0CQQ8XUxBKE1ESRhZZXUJZXxVBV1kQRVZEARFYW0ZcX0pBVloXXBJDQUMMFiRxFRkRXBtBVQpEXl8KEVgXR0MRSkFcRj1AA0JME1NVDlZFFwkbUxccRlpWSDtQDVtdVVASClpbERBcEwxDGhYOXFlcR1YRakANUxUKRgJQAQYCAFdBSA==
-#EXTINF:-1 tvg-id="" tvg-name="NBA 05: Milwaukee Bucks vs San Antonio Spurs Jan 15 8:00PM" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 05: Milwaukee Bucks vs San Antonio Spurs Jan 15 8:00PM
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785900?token=TBdbWBBdEl4VAFRQBwcMVQEFA1tTAAEEAgFbUgcGVAECBlINUwcCXVIVHEZAFkdWUV45ClEXWAVeBAFRBhhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVsDARkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-#EXTINF:-1 tvg-id="" tvg-name="NBA 06: Utah Jazz vs Dallas Mavericks Jan 15 8:30PM" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 06: Utah Jazz vs Dallas Mavericks Jan 15 8:30PM
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785901?token=TBdbWBBdEl4VDgNWBFoEBFVVUgBWB1BUUQENUwYBUwMAVwIMUwcJVlIVHEZAFkdWUV45ClEXWAVeBAFRBxhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVsBABkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-#EXTINF:-1 tvg-id="" tvg-name="NBA 07: New York Knicks vs Golden State Warriors Jan 15 10:00PM (Amazon)" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 07: New York Knicks vs Golden State Warriors Jan 15 10:00PM (Amazon)
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/787808?token=TBdbWBBdEl4VAFECBQMCC1IFVVUEBlcDVwELWVUEUVJUBwIOVw0HVg4VHEZAFkdWUV45ClEXWAVeBgBRDhhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVsHBRkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-#EXTINF:-1 tvg-id="" tvg-name="NBA 08: Atlanta Hawks vs Portland Trail Blazers Jan 15 10:00PM" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 08: Atlanta Hawks vs Portland Trail Blazers Jan 15 10:00PM
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/787999?token=TBdbWBBdEl4VBAVdAFRWBgNRXlMEVAMGBAddWFAMAgNWAFJaVwAGBg4VHEZAFkdWUV45ClEXWAVeBgFYDxhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVsFBRkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-#EXTINF:-1 tvg-id="" tvg-name="NBA 09: Charlotte Hornets vs Los Angeles Lakers Jan 15 10:30PM" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 09: Charlotte Hornets vs Los Angeles Lakers Jan 15 10:30PM
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/788000?token=TBdbWBBdEl4VVAJdV1UNClMKAlYAVlpQAlUAVANXVwIEAwMJVwBUB1IVHEZAFkdWUV45ClEXWAVeCQhRBhhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFQHAVsLBBkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
+#EXTINF:-1 tvg-id="" tvg-name="NBA 01: Chicago Bulls vs Brooklyn Nets Jan 16 7:30PM" tvg-logo="https://logo.iptveditor.com/nba13.png" group-title="NBA",NBA 01: Chicago Bulls vs Brooklyn Nets Jan 16 7:30PM
+http://defaultgen.com:5050/celow23609@gmail.com/KjJwG8dQKV/785896
+#EXTINF:-1 tvg-id="" tvg-name="NBA 02: New Orleans Pelicans vs Indiana Pacers Jan 16 7:00PM" tvg-logo="https://logo.iptveditor.com/nba13.png" group-title="NBA",NBA 02: New Orleans Pelicans vs Indiana Pacers Jan 16 7:00PM
+http://defaultgen.com:5050/celow23609@gmail.com/KjJwG8dQKV/785897
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03: Cleveland Cavaliers vs Philadelphia 76ers Jan 16 7:00PM (ESPN)" tvg-logo="https://logo.iptveditor.com/nba13.png" group-title="NBA",NBA 03: Cleveland Cavaliers vs Philadelphia 76ers Jan 16 7:00PM (ESPN)
+http://defaultgen.com:5050/celow23609@gmail.com/KjJwG8dQKV/785898
+#EXTINF:-1 tvg-id="" tvg-name="NBA 04: Los Angeles Clippers vs Toronto Raptors Jan 16 7:30PM" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 04: Los Angeles Clippers vs Toronto Raptors Jan 16 7:30PM
+http://defaultgen.com:5050/celow23609@gmail.com/KjJwG8dQKV/785899
+#EXTINF:-1 tvg-id="" tvg-name="NBA 05: Minnesota Timberwolves vs Houston Rockets Jan 16 9:30PM (ESPN)" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 05: Minnesota Timberwolves vs Houston Rockets Jan 16 9:30PM (ESPN)
+http://defaultgen.com:5050/celow23609@gmail.com/KjJwG8dQKV/785900
+#EXTINF:-1 tvg-id="" tvg-name="NBA 06: Washington Wizards vs Sacramento Kings Jan 16 10:00PM" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 06: Washington Wizards vs Sacramento Kings Jan 16 10:00PM
+http://defaultgen.com:5050/celow23609@gmail.com/KjJwG8dQKV/785901
 
-#EXTINF:-1,007 USA: NBA 01 / GRIZZLIES @ MAGIC - 1:00PM - NBA PASS
-http://imaxplay.net:8880//live/esteban2/ATSBA/632053.ts
-#EXTINF:-1,007 USA: NBA 02 / SUNS @ PISTONS - 6:00PM - Fanduel Detroit
-http://imaxplay.net:8880//live/esteban2/ATSBA/632054.ts
-#EXTINF:-1,007 USA: NBA 03 / CELTICS @ HEAT 6:30PM - HORNETS @ LAKERS 9:30PM - NBA TV Canada
-http://imaxplay.net:8880//live/esteban2/ATSBA/632055.ts
-#EXTINF:-1,007 USA: NBA 03 / CELTICS @ HEAT - 6:30PM - Fanduel Sun
-http://imaxplay.net:8880//live/esteban2/ATSBA/632056.ts
-#EXTINF:-1,007 USA: NBA 04 / THUNDER @ ROCKETS 6:30PM - KNICKS @ WARRIORS 9:00PM Amazon en Espanol - Purple 5
-http://imaxplay.net:8880//live/esteban2/ATSBA/632057.ts
-#EXTINF:-1,007 USA: NBA 05 / BUCKS @ SPURS - 7:00PM - Fanduel Wisconsin
-http://imaxplay.net:8880//live/esteban2/ATSBA/632058.ts
-#EXTINF:-1,007 USA: NBA 06 / JAZZ @ MAVERICKS - 7:30PM - NBA PASS
-http://imaxplay.net:8880//live/esteban2/ATSBA/632059.ts
-#EXTINF:-1,007 USA: NBA 07 / HAWKS @ BLAZERS - 9:00PM - Fanduel Georgia
-http://imaxplay.net:8880//live/esteban2/ATSBA/632060.ts
-#EXTINF:-1,007 USA: NBA 08 / HORNETS @ LAKERS - 9:30PM - Spectrum
-http://imaxplay.net:8880//live/esteban2/ATSBA/632061.ts
+
