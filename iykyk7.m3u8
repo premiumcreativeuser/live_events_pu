@@ -51,7 +51,7 @@ https://cdn-live-tv.ru/api/v1/channels/us-astro-football/tracks-v1a1/mono.ts.m3u
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-bein-sports/tracks-v1a1/mono.ts.m3u8?token=2fe132b38b31fd3d62cc3a9d697bf3936f33b3774cdb5c85fe159d5ebc7c4ae2.1768759007.3fb23779e5c4fe0792214ff32708c624.0aa5d5df12b1eaa1634b9c6c135c0917.e75c1255d5e281dbb73bc3e4e68c6269.e0724f72702d5a60
+https://cdn-live-tv.ru/api/v1/channels/us-bein-sports/index.m3u8?token=2fe132b38b31fd3d62cc3a9d697bf3936f33b3774cdb5c85fe159d5ebc7c4ae2.1768759007.3fb23779e5c4fe0792214ff32708c624.0aa5d5df12b1eaa1634b9c6c135c0917.e75c1255d5e281dbb73bc3e4e68c6269.e0724f72702d5a60
 
 #EXTINF:-1 tvg-id="BET.Her.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png",BET HER UHD
 
@@ -104,8 +104,7 @@ https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/es-dazn-1/tracks-v1a1/mono.ts.m3u8?token=8c12c85a74ad0e7ec3a39273af5e8728ef429d95e07b46dacfe3fcb601df7c3e.1768758750.cdd00f310033b7990db5c7a0e9b0a8c4.0c15ded3adc4fba76fc933872a3edeaa.da13a227e5d6c2f635af82f220d988ef.71296d6b54774691
-
+https://cdn-live-tv.ru/api/v1/channels/es-dazn-1/index.m3u8?token=8c12c85a74ad0e7ec3a39273af5e8728ef429d95e07b46dacfe3fcb601df7c3e.1768758750.cdd00f310033b7990db5c7a0e9b0a8c4.0c15ded3adc4fba76fc933872a3edeaa.da13a227e5d6c2f635af82f220d988ef.71296d6b54774691
 
 #EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true",Destination America UHD
 
