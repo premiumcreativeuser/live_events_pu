@@ -332,6 +332,10 @@ https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/2185.ts
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/2189.ts
 #EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/2190.ts
+
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",UK: SKY SPORTS F1
+http://217.147.172.28:5050/celow23609@gmail.com/KjJwG8dQKV/508246?token=TBdbWBBdEl4VDlRTBARRUQQABAECBgYEUgJcAgdRB1UFDFIAAVFUBgAVHEZAFkdWUV45ClEXWAdWCQpVABhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFYHDVUHAhkRSQpREl4VBQBWClUABhIfRAZNQQdACFBUPlJRFVpUUBEDDUBcCBsVXwpsBlBeUV0CQQ8XUxBKE1ESRhZZXUJZXxVBV1kQRVZEARFYFwQIB1RBGRcBXRNfTBNPFlkRcHcRFUFQSBBSWUMNXAwXCRJHFUEZFwtBOUNdEkJGBlJaUEEbWRcARhsVXQVLPVZcXl0DAEFcDVwVEwJDAhZPEVpaXVAXWkI7R15URglABwMCClBaABcf
+
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/149311.ts
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh SD USA
