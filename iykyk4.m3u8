@@ -400,8 +400,8 @@ http://defaultgen.com:5050/mmarcmiller@gmail.com/45FmZ8YgTJ/418143
 #EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="US: SPECTRUM SPORTSNET LA" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="USA SPORTS HD",US: SPECTRUM SPORTSNET LA
 http://defaultgen.com:5050/mmarcmiller@gmail.com/45FmZ8YgTJ/418164
 
-#EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/0451a56dccc04c6fb08415533a9chttp://defaultgen.com:5050/mmarcmiller@gmail.com/45FmZ8YgTJ/418163
-90bf62d7c9c6/logos/Spectrum_Sportsnet_LA.svg",Spectrum SportsNet LA Dodgers USA
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/0451a56dccc04c6fb08415533a9c90bf62d7c9c6/logos/Spectrum_Sportsnet_LA.svg",Spectrum SportsNet LA Dodgers USA
+http://defaultgen.com:5050/mmarcmiller@gmail.com/45FmZ8YgTJ/418163
 
 #EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="US: SPECTRUM SPORTSNET LAKERS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="USA SPORTS HD",US: SPECTRUM SPORTSNET LAKERS
 http://defaultgen.com:5050/mmarcmiller@gmail.com/45FmZ8YgTJ/418165
