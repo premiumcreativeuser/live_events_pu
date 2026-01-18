@@ -5,6 +5,10 @@
 #EXTVLCOPT:http-origin=https://pooembed.top
 #EXTVLCOPT:http-referrer=https://pooembed.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+
+#restream-live, 
+#celow23609 - requires token, 
+#ricardobarragan
 ##############################################################################################
 
 #EXTINF:-1 group-title="" tvg-logo="",USA Network
@@ -43,62 +47,6 @@ http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/168012
 
 ##############################################################################################
 
-#EXTINF:-1 group-title="NBA",USA Real NBA 01: PHX Suns VS NYK Knicks ( NBA TV Feed ) @ 7:30 PM
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214171
-#EXTINF:-1 group-title="NBA",USA Real NBA 02: LAL Lakers VS POR Trail Blazers ( NBA TV Feed ) @ 10:00 PM
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214172
-#EXTINF:-1 group-title="NBA",USA Real NBA 03: Utah Jazz vs Dallas Mavericks @ 05:00 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214173
-#EXTINF:-1 group-title="NBA",USA Real NBA 04: Boston Celtics vs Atlanta Hawks @ 07:30 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214174
-#EXTINF:-1 group-title="NBA",USA Real NBA 05: Indiana Pacers vs Detroit Pistons @ 07:30 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214175
-#EXTINF:-1 group-title="NBA",USA Real NBA 06: Oklahoma City Thunder vs Miami Heat @ 08:00 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214176
-#EXTINF:-1 group-title="NBA",USA Real NBA 07: Minnesota Timberwolves vs San Antonio Spurs @ 08:00 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214177
-#EXTINF:-1 group-title="NBA",USA Real NBA 08: Charlotte Hornets vs Golden State Warriors @ 08:30 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214178
-#EXTINF:-1 group-title="NBA",USA Real NBA 09: Washington Wizards vs Denver Nuggets @ 09:00 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/214179
-
-#EXTINF:-1 tvg-id="" tvg-name="NBA 01: Utah Jazz vs Dallas Mavericks Jan 17 5:00PM" tvg-logo="https://logo.iptveditor.com/nba13.png" group-title="NBA",NBA 01: Utah Jazz vs Dallas Mavericks Jan 17 5:00PM
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785896?token=TBdbWBBdEl4VBQAFC1FQVwQCAFEFDVRXAAVcAgMCW1dWA1ILAlBSV1UVHEZAFkdWUV45ClEXWAVeBABYABhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFcBBFQLBBkRSQpREl4VDglVBlcDERwRAxtBUBBcB11nBVNCClBSFwlXFllcSBVYXjtXB1hSXldEWRcEQB5EWEsRFA4NRltZHxsBXEQWVkNVRgkMQF9cH0QAWkAMRhRIGlsUcyERGxdWQRdQXhdeWF5GCUBBQBIfRApGahBXFUVKBFdZBkEVDxEJQRkSCVZPbwdcDFtWU0cPDFtGQAhEBRpNFFkMXV5BXEs8RVkAFQ0SXQpTBQACERs=
-#EXTINF:-1 tvg-id="" tvg-name="NBA 02: Boston Celtics vs Atlanta Hawks Jan 17 7:30PM" tvg-logo="https://logo.iptveditor.com/nba13.png" group-title="NBA",NBA 02: Boston Celtics vs Atlanta Hawks Jan 17 7:30PM
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785897?token=TBdbWBBdEl4VBAFUUVtQAwgKU1YAAVYCB1daBFQHB1ZTDAIJVQNUAVQVHEZAFkdWUV45ClEXWAVeBABYARhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFcBBFsBBRkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-#EXTINF:-1 tvg-id="" tvg-name="NBA 03: Indiana Pacers vs Detroit Pistons Jan 17 7:30PM" tvg-logo="https://logo.iptveditor.com/nba13.png" group-title="NBA",NBA 03: Indiana Pacers vs Detroit Pistons Jan 17 7:30PM
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785898?token=TBdbWBBdEl4VAgQABVBTVVYCAwINUFMHUwlaUQJXUAZUAAEBB1MCXVMVHEZAFkdWUV45ClEXWAVeBABYDhhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFcBBFsHBhkRSQpREl4VDglQAVcDERwRAxtBUBBcB11nBVNCClBSFwlXFllcSBVYXjtXB1hSXldEWRcEQB5EWEsRFA4NRltZHxsBXEQWVkNVRglAAAcBA0RPF1YNRwhFShgUDkF0dRcfGwZNRAFZRFkLXUAPEURARE8XXBFtFFRLFURRAl5SRxEDQQUSSBVaURxsAVpdXlYFF1xaDEFECxpVFBhBXlhbWk0MR28UXlMSXhFQBAQIBEQe
-#EXTINF:-1 tvg-id="" tvg-name="NBA 04: Phoenix Suns vs New York Knicks Jan 17 7:30PM" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 04: Phoenix Suns vs New York Knicks Jan 17 7:30PM
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785899?token=TBdbWBBdEl4VBQYCAwdQUQUCBVcHVFFXBwYBUFcHVFcDAAdYUlRSAlYVHEZAFkdWUV45ClEXWAVeBABYDxhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFcBBFsFBRkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-#EXTINF:-1 tvg-id="" tvg-name="NBA 05: Oklahoma City Thunder vs Miami Heat Jan 17 8:00PM" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 05: Oklahoma City Thunder vs Miami Heat Jan 17 8:00PM
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785900?token=TBdbWBBdEl4VDgVTA1VRBVYLUFIEAVQKAAcKVA9QBVIHDABbVlYDUAIVHEZAFkdWUV45ClEXWAVeBAFRBhhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFcBBFsEDxkRSQpREl4VDglSBFsMERwRAxtBUBBcB11nBVNCClBSFwlXFllcSBVYXjtXB1hSXldEWRcEQB5EWEsRFA4NRltZHxsBXEQWVkNVRglAAAYDA0RPF1YNRwhFShgUDkF0dRcfGwZNRAFZRFkLXUAPEURARE8XXBFtFFRLFURRAl5SRxEDQQUSSBVaURxsAVpdXlYFF1xaDEFECxpVFBhBXlhbWk0MR28UXlMSXhFTDQYEAkQe
-#EXTINF:-1 tvg-id="" tvg-name="NBA 06: Minnesota Timberwolves vs San Antonio Spurs Jan 17 8:00PM" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 06: Minnesota Timberwolves vs San Antonio Spurs Jan 17 8:00PM
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/785901?token=TBdbWBBdEl4VUlRSBQEMAwYAVgIEAgcEUlcMWQFWUAUADQRfUwYIB1EVHEZAFkdWUV45ClEXWAVeBAFRBxhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFcBBFoCBBkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-#EXTINF:-1 tvg-id="" tvg-name="NBA 07: Charlotte Hornets vs Golden State Warriors Jan 17 8:30PM" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 07: Charlotte Hornets vs Golden State Warriors Jan 17 8:30PM
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/787808?token=TBdbWBBdEl4VVAUAAldUUFJWBFVRB1cFBAVbVwFQWlFRDQpaBgIIU1QVHEZAFkdWUV45ClEXWAVeBgBRDhhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFcBBFoBAhkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-#EXTINF:-1 tvg-id="" tvg-name="NBA 08: Washington Wizards vs Denver Nuggets Jan 17 9:00PM" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 08: Washington Wizards vs Denver Nuggets Jan 17 9:00PM
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/788153?token=TBdbWBBdEl4VBANQUVQMBAIBAgUNAQYABVUOVg8NAlIOBFZfUFQFAQUVHEZAFkdWUV45ClEXWAVeCQlUBRhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFcBBFoHBxkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-#EXTINF:-1 tvg-id="" tvg-name="NBA 09: Los Angeles Lakers vs Portland Trail Blazers Jan 17 10:00PM" tvg-logo="https://logo.iptveditor.com/nba2.png" group-title="NBA",NBA 09: Los Angeles Lakers vs Portland Trail Blazers Jan 17 10:00PM
-http://217.147.172.35:5050/celow23609@gmail.com/KjJwG8dQKV/788154?token=TBdbWBBdEl4VDwYABAQBUQlWBAYAV1cCBAUOVFcBVFFWVANaBVZSAVQVHEZAFkdWUV45ClEXWAVeCQlUAhhBRkRQQWYKURJeFQUAUwtSFx8SRw8OUBdYA1EHAFcBBFoGBRkRSQpREl5ZQlwIH0BQS0RWFA1UWT1WA0dRAlMWWV1CWV8VQVpeO1NSXQVdBhcJEgJETxdcEUJEC1YUWlhPEVVcR0sCQVVGDVlFCF9OF1BfRggXR0xACER2ekMaFgZLQ1BdSgpaXkYNFUQXEU4XWkNsFAZGQRBXB1xdExQOQQMVGRFUAk1vB1hZXgFQFlxcXkBEWRcBQB5EXFcPX0AMQWhFWl1BD14RW1tN
-
-#EXTINF:-1 group-title="NBA",NBA 01 | Jan-17-2026 4:00PM | Utah Jazz at Dallas Mavericks
-http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/167962
-#EXTINF:-1 group-title="NBA",NBA 02 | Jan-17-2026 6:30PM | Boston Celtics at Atlanta Hawks
-http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/167963
-#EXTINF:-1 group-title="NBA",NBA 03 | Jan-17-2026 6:30PM | Indiana Pacers at Detroit Pistons
-http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/167964
-#EXTINF:-1 group-title="NBA",NBA 04 | Jan-17-2026 6:30PM | Phoenix Suns at New York Knicks
-http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/167965
-#EXTINF:-1 group-title="NBA",NBA 05 | Jan-17-2026 7:00PM | Oklahoma City Thunder at Miami Heat
-http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/167966
-#EXTINF:-1 group-title="NBA",NBA 06 | Jan-17-2026 7:00PM | Minnesota Timberwolves at San Antonio Spurs
-http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/167967
-#EXTINF:-1 group-title="NBA",NBA 07 | Jan-17-2026 7:30PM | Charlotte Hornets at Golden State Warriors
-http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/167968
-#EXTINF:-1 group-title="NBA",NBA 08 | Jan-17-2026 8:00PM | Washington Wizards at Denver Nuggets
-http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/167969
-#EXTINF:-1 group-title="NBA",NBA 09 | Jan-17-2026 9:00PM | Los Angeles Lakers at Portland Trail Blazers
-http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/167970
 
 
 
