@@ -357,7 +357,7 @@ https://cdn-live-tv.ru/api/v1/channels/us-tlc/index.m3u8?token=7fd3c4246e6863518
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-tnt/tracks-v1a1/2026/01/18/18/01/44-05005.ts?token=c0883f80ea49169a15859927318935645a096a9b0e294382a318d08125f2def4.1768759274.2a060b1418acf894c69cb373ee4ee005.481568c8dab480b7e956393a2d9b7e48.9151a79d5eaba7d5fe0584b79ff8bc0e.6ad2d070e10df096
+https://cdn-live-tv.ru/api/v1/channels/us-tnt/index.m3u8?token=3136ef4e67715ee7f5e6df4767c0fa5a6cfc351a90aea1269f0564045d0cd4c6.1768801066.56c63167b29ec6070012ff8735eff221.dc274f6d6735c7993b53898190800d0e.59e5184e17c379efc884b27bb03f945d.6be5af15e84ffeeb
 
 #EXTINF:-1,UK TNT Sports 1
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
