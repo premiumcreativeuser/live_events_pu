@@ -260,7 +260,48 @@ https://cdn-live-tv.ru/api/v1/channels/gb-premier-sports-2/index.m3u8?token=7cce
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-main-event/index.m3u8?token=ec48b4220466cc51ffcf9485bad52d68714e9f2ed1735e5dac36dc9a70c343eb.1768798064.5c5949bfeb9ed1e49a13ef15a8539868.d9b157c53cf38863482b5baf8d307376.0ade58abc96c5a0997c420f9799bb518.cd2d9c0183b4898a
 
-#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
+#EXTINF:-1,Sky Sports Action
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-action/index.m3u8?token=02d20ce2202e9789d9d2fc50ca8551848117760bbc268dda154cc8af7123861a.1768800338.50d6533b33b1b15032eeafc1c15a08e8.9e16a0265ce66da7547686ede078eb5c.f3caf636c588626c7050dca16ad69eaf.08d2a77676718cad
+
+#EXTINF:-1,Sky Sports Arena
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-arena/index.m3u8?token=956d0f9e7b31bfb3ee5309da0909ec6696f64b43d85e55a02fca176854a0145c.1768800393.e2469216689bbeabacd8ec2c65a29238.6e08b63cea9caca7659663b0264b2e14.a80ef10e633240639d2458be5a3b14c3.6918bfc6bcd3b416
+
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-f1/index.m3u8?token=f22abd8b8da34758e854490a61b0d29e0db439372131a481e0f55bd91c8569f6.1768800248.e15120c8c90d1cf168ac60052e8400a9.8c9a1f27258c9a645887c04f355bde8a.3de5c765a9fcd62b71332c0ecc2ef23e.abe1e91be1abf889
+
+#EXTINF:-1,Sky Sports Football
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-football/index.m3u8?token=53cc5cee926d2685c8b5d690f76ad87c1fc672495daf84167ec6e863c0743d37.1768800435.4c88a670ab994874715d82ddc65cce9c.ef106efe1afe7fdc1fbf90dd6257f3d5.6327d13142cb42d015b2856cf6a86c8e.ee3e0d18309aa4cc
+
+#EXTINF:-1,Sky Sports Mix
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-mix/index.m3u8?token=16fafa3cba3809572ec4cc2d6802ab3aef4f7af4c322a06d161af0c2458b3e4c.1768800468.4133fb4e3256422cae3719cbe1d8aadc.10b8cd9d45ef5c9a0f28c02d6d3c20a6.3304f1bcbe067c8543a513f9f58d156f.8969c2b2753ac903
+
+#EXTINF:-1,Sky Sports Premier League
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-premier-league/index.m3u8?token=cf3440b1142f9d403a1425ef504ebe046e3504d85146b51b6d16d266b8876240.1768800502.60f8819885ef0db47a7fd94289d9ba2e.45d5ae0db9df21518508716b63df395b.37bbaa42cb7886e1c696f43a4ad1953d.ecf77fa6c15efa48
+
+#EXTINF:-1,Sky Sports Racing
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-racing/index.m3u8?token=00fbed146435e77c34f9b56aecfea991cb48c2c6dd93771546d1918699f08cf3.1768800529.28e2f6ae9e75cc4d530f678e8b8fc8cc.1786483e1a218cb17464868a513f0fb1.6b40cb530718e248f5470ac4b14c089e.afc6e31f3a369989
+
 
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
 
