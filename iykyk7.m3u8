@@ -178,7 +178,17 @@ https://cdn-live-tv.ru/api/v1/channels/us-espn-deportes/index.m3u8?token=e7987d8
 
 #EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries East UHD
 
-#EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO East UHD
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/us-hbo/index.m3u8
+
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO Token
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/us-hbo/index.m3u8?token=c113877d2d09b307a53d3d1ecf66e2a704d593531cb4e84e9752aac9cbeea210.1768801329.c97c09e595f0ef8f8d8062bfe87e800f.ebd32f152aac5151cc1ecd4772b70944.cd0b2501ecefb7a72a02aab865055705.8714f3995a4d9d37
 
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 East UHD
 
@@ -351,9 +361,21 @@ https://cdn-live-tv.ru/api/v1/channels/ca-sportsnet-world/index.m3u8?token=133c5
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/us-tlc/index.m3u8
+
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC Token
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/us-tlc/index.m3u8?token=7fd3c4246e6863518e0dedd99d093e36ecc78cc70d5490625832693b0dbaa1e4.1768798088.0b17e37e03a3b7c4b657027c1c6c590a.0c2a35630b0a7521bbdc7c8f3ee0f2ee.5bee84860979cd9849a1a90893e901e7.7cd2098c240e6d5f
 
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/us-tnt/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT Token
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
@@ -406,6 +428,12 @@ https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-5/index.m3u8?token=f56ed539
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision East (SHD)
 
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network 
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/us-usa-network/index.m3u8
+
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network Token
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
