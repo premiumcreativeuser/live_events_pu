@@ -254,11 +254,6 @@ https://cdn-live-tv.ru/api/v1/channels/gb-premier-sports-2/index.m3u8?token=7cce
 
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 East UHD
 
-#EXTINF:-1  tvg-name="Sky Sports Main Event HD UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-main-event/index.m3u8?token=ec48b4220466cc51ffcf9485bad52d68714e9f2ed1735e5dac36dc9a70c343eb.1768798064.5c5949bfeb9ed1e49a13ef15a8539868.d9b157c53cf38863482b5baf8d307376.0ade58abc96c5a0997c420f9799bb518.cd2d9c0183b4898a
 
 #EXTINF:-1,Sky Sports Action
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
@@ -283,6 +278,13 @@ https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-f1/index.m3u8?token=f22abd8
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-football/index.m3u8?token=53cc5cee926d2685c8b5d690f76ad87c1fc672495daf84167ec6e863c0743d37.1768800435.4c88a670ab994874715d82ddc65cce9c.ef106efe1afe7fdc1fbf90dd6257f3d5.6327d13142cb42d015b2856cf6a86c8e.ee3e0d18309aa4cc
+
+#EXTINF:-1  tvg-name="Sky Sports Main Event HD UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-main-event/index.m3u8?token=ec48b4220466cc51ffcf9485bad52d68714e9f2ed1735e5dac36dc9a70c343eb.1768798064.5c5949bfeb9ed1e49a13ef15a8539868.d9b157c53cf38863482b5baf8d307376.0ade58abc96c5a0997c420f9799bb518.cd2d9c0183b4898a
+
 
 #EXTINF:-1,Sky Sports Mix
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
