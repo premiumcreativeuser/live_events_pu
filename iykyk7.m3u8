@@ -7,7 +7,11 @@
 #NEWS
 #EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS
 
-#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC
+#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/us-nbc/index.m3u8?token=69cbd57dac021c816f13d2cf8db29a324af12f444a0d2bc227656fdc725c6aa7.1768795822.e172df6d0d875a2618bc4e5ed9d3391e.a11bcb37c66279d7c45dc67a11575013.04aa4e803878baab31d0a99a87ebbf31.125ace81b3c97487
 
 #EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA 
 
@@ -15,7 +19,7 @@
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-abc/tracks-v1a1/mono.ts.m3u8?token=b09296eabb98a417304a7807ed424d3c9dd9cc791045b0fe1616885bd6434802.1768756381.02668bee17bb15cd13891600a3ca94f8.0a1e6ccc3b364bf6bc39a76fb695db7b.e90797435283c0b7aafb6234967bcfa6.52fa9c3332622327
+https://cdn-live-tv.ru/api/v1/channels/us-abc/index.m3u8?token=1a92278bb03b383d15c002ffe4c81c70ac20405940e813305ca56925afaff1d9.1768797809.e9fb46bd403466cca0847cf667c90035.eca37c65e832566e338ce8e30a50ca40.b5c77d9b7c37f4b259de0ad991842536.0a008954ecb3d180
 
 #EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL 9
 
@@ -25,7 +29,7 @@ https://cdn-live-tv.ru/api/v1/channels/us-abc/tracks-v1a1/mono.ts.m3u8?token=b09
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-astro-football/tracks-v1a1/mono.ts.m3u8?token=3922beb826721d0ed8a6275ca9a75c203c3fff7e1cd6bfd23064dc7d050ab3b8.1768758865.4ade448893c027d6c4234d8cf1579e7f.dfe851da4023bc6daaf8ae2ec184571a.50cd1da9eb245a29c2f53390957161b3.7c13591e4ce65496
+https://cdn-live-tv.ru/api/v1/channels/us-astro-football/index.m3u8?token=f0d71523096356a4e1640edea0f38e7d75c6cc7889fa64ef4db71d69446739a0.1768797892.5b4b02b3859d0b766ac24fb42e03b46e.26466884e061555fc21b734b61bc956a.69c481aaa4d00bb6aab92524594fb37d.6cb8b56dcfd45f25
 
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E UHD
 
@@ -190,7 +194,7 @@ https://cdn-live-tv.ru/api/v1/channels/us-espn-deportes/index.m3u8?token=e7987d8
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-hub-premier-1/tracks-v1a1/mono.ts.m3u8
+https://cdn-live-tv.ru/api/v1/channels/gb-hub-premier-1/index.m3u8?token=c3f4830e65d9a92f282beaf35b15d90ec4e09a027234bed9b7ec6652c849a719.1768797924.bb2826f47f48d9c9f50fb7520a086c3f.4966c65f6345902c2a8115fd75641163.0ed0d0ddecf1b9bc38b53f42a9298649.8756f6762b2f8113
 
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime East UHD
 
@@ -208,7 +212,7 @@ https://cdn-live-tv.ru/api/v1/channels/gb-hub-premier-1/tracks-v1a1/mono.ts.m3u8
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gr-nova-sports-prime/tracks-v1a1/mono.ts.m3u8?token=d6178df2eed28a7a26c95a5a89ab1f0f48611a0bad9d84af30e002a9ee127648.1768758921.0736cf56d19a1e6a963898fe4d9ec1de.87a89a263447be58ac1aded5d7edf05e.a42a80e207af16adaa8594d7ec61da62.b7b6455877928b95
+https://cdn-live-tv.ru/api/v1/channels/gr-nova-sports-prime/index.m3u8?token=b057e97226c1abf95a7a88621551b36e9f7e518bca004979e7641bcc15a360da.1768797963.7a3387d288fe63f1cb8f064c05b1db51.057552d6d64cfeab4241d1cc87c97288.007f55637ff85d5bb197ae1986d3b859.258f10f62bf6a89a
 
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",NBA TV UHD
 
@@ -216,7 +220,7 @@ https://cdn-live-tv.ru/api/v1/channels/gr-nova-sports-prime/tracks-v1a1/mono.ts.
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-nfl-network/tracks-a1/mono.ts.m3u8?token=ef1847dee738bfecdaad07ed92bb6763d394511ab532e4220ccbb54cdb88ca9b.1768759587.566016da227ef9a5f552579166ebb9ef.d7875d7c543e8db2f2640e3acfe01066.a1e9385edb65673de4535290bba6174d.80c157a6ee95f840
+https://cdn-live-tv.ru/api/v1/channels/us-nfl-network/index.m3u8?token=4937678eca66d4208d43b9e65a31315699d39448dd843c9c620aea264d5c6e82.1768797988.a273ec6410810bcca3fb624b645b7bf0.1714db584e72c800f51033b10381b259.94c48ed8840315fba528342615656999.7e9e2938e9d35459
 
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",NFL Red Zone UHD
 
@@ -230,11 +234,17 @@ https://cdn-live-tv.ru/api/v1/channels/us-nfl-network/tracks-a1/mono.ts.m3u8?tok
 
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
 
+#EXTINF:-1 tvg-id="Premier Sports 2" tvg-logo="Premier Sports 2",Premier Sports 1
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/gb-premier-sports-1/index.m3u8?token=1b815ca6d2dcdf5d0c49a28701c7033cf4fcef89ad62e0e580011d729d8d1ea7.1768798033.1b51ed15524435556fb27b792426b7c2.0a5deb64cdd96cd57f3a3bb2a696c19f.96300d5875422bf8d711187f3af9211c.a50224b6202b6d2f
+
 #EXTINF:-1 tvg-id="Premier Sports 2" tvg-logo="Premier Sports 2",Premier Sports 2
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-premier-sports-2/tracks-v1a1/mono.ts.m3u8?token=9c4de7b113da2feae92d7a9663592f5a81cdbd80aae72ef74c4d8f8e13832d99.1768758810.d751164a73aaa5f5bd319ca9540b66c7.9bcf351b4798af65f203744de249d373.5eeb8dedeb9c98af5ee1aa4fbd3f83d8.f5b756e952ad0bca
+https://cdn-live-tv.ru/api/v1/channels/gb-premier-sports-2/index.m3u8?token=7cce435ddf05a21545bebd615ad594a0e9d9b0c1cce6ad98e956b153e7d61373.1768798045.90e1506f04d3bf5d7a12f6bfe5c01370.de35d59d727b1e29b2559c55b726917d.b1bac0f22361bbbae08ad211a3967f55.92efc7ca70b77822
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime East UHD
 
@@ -244,7 +254,7 @@ https://cdn-live-tv.ru/api/v1/channels/gb-premier-sports-2/tracks-v1a1/mono.ts.m
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-main-event/tracks-v1a1/mono.ts.m3u8
+https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-main-event/index.m3u8?token=ec48b4220466cc51ffcf9485bad52d68714e9f2ed1735e5dac36dc9a70c343eb.1768798064.5c5949bfeb9ed1e49a13ef15a8539868.d9b157c53cf38863482b5baf8d307376.0ade58abc96c5a0997c420f9799bb518.cd2d9c0183b4898a
 
 #EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
 
@@ -290,11 +300,11 @@ https://cdn-live-tv.ru/api/v1/channels/ca-sportsnet-world/index.m3u8?token=133c5
 
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png",The Weather Channel UHD
 
-#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC East UHD
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC East
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-tlc/tracks-v1a1/mono.ts.m3u8?token=a03baede61f3988c645bc7e302119605c2338f9e8ecc9be62c128e72db6ad581.1768756489.fcd7f56ed73d7c43489018eb7a3d87e4.9dbbce859393b316508f4285e45e51d8.edbc2d351ebc74d537b88d895a382e46.c94f9c22e4deebf1
+https://cdn-live-tv.ru/api/v1/channels/us-tlc/index.m3u8?token=7fd3c4246e6863518e0dedd99d093e36ecc78cc70d5490625832693b0dbaa1e4.1768798088.0b17e37e03a3b7c4b657027c1c6c590a.0c2a35630b0a7521bbdc7c8f3ee0f2ee.5bee84860979cd9849a1a90893e901e7.7cd2098c240e6d5f
 
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT East UHD
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
@@ -306,13 +316,13 @@ https://cdn-live-tv.ru/api/v1/channels/us-tnt/tracks-v1a1/2026/01/18/18/01/44-05
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-1/tracks-v1a1/mono.ts.m3u8?token=68aed8764abcc92e5c39fa504c5638e774a8213130d2c31d39d35367b0b05f38.1768759306.63745c9991580d08f366050573f2a303.3e3668ce8511e65d1e6fbaa2cbaf3847.eb05c189446b8ca27767093a0458a807.d74405e760e259c5
+https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-1/index.m3u8?token=c4421c3e0457f478b6cc55fcf898afe47d949d8270eba22bfe11ad34412ac2b4.1768798130.191631d7b8e27f45e9ce142713429c21.b741b30689b8a6b09800f8173fc06162.2f7e35cfa5939b8929f56cf1745c52ea.cc2f51d087bc981b
 
 #EXTINF:-1,UK TNT Sports 2
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-2/tracks-v1a1/mono.ts.m3u8?token=919299efcd69b64fbe1f7b1daf08e1505f766d1802288168d994173afd325251.1768759359.bcf2f089244483fe6b9d373d6b07a195.e66d55ce3b666b0bc9790985d2bc4037.6ab26180cb71d7f9de97866facfe3d39.1d6cf81d1d0b8d28
+https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-2/index.m3u8?token=fad332e9a57b2306a959bcd6df0d80d078a7316937c3398daea3645f873fcd1f.1768798153.eb083f878272d7e0a6432a834fcf2587.044fc2f4254ca9b95efc85d80de8c7d0.3b0fa9494ca320888b71f692cbd79209.0fea5029607dc7de
 
 #EXTINF:-1,UK TNT Sports 3 
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
@@ -352,7 +362,7 @@ https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-5/index.m3u8?token=f56ed539
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
 #EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-usa-network/tracks-a1/mono.ts.m3u8
+https://cdn-live-tv.ru/api/v1/channels/us-usa-network/index.m3u8?token=d81407998abdf7b06569630f1b024580f650ef12dab3d2c6ebdf553c7341b685.1768795121.ea0c60bef6f7a2b9f323411551704f64.04885974e16025419050da62ab2af273.af8c4bceb88336ee3ad295c628896366.48941f148002befc
 
 #EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 UHD
 
