@@ -23,7 +23,11 @@ https://cdn-live-tv.ru/api/v1/channels/us-abc/index.m3u8?token=1a92278bb03b383d1
 
 #EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL 9
 
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX
+#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
+#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://cdn-live-tv.ru/api/v1/channels/us-fox/index.m3u8?token=19181eb58c4ff0dfa66d17f3a6e77ca033ac1aafacadaa87a52588ae8a3bd098.1768799769.c574915ff00173ce5c1192057291a11a.c11cc65d1ac8a9e9bd456d0093ecfe72.97731d92c4bf5d139933e1117d7368f8.34127d2a376df3e9
 
 #EXTINF:-1 tvg-id="Astro Football" tvg-logo="Astro Football",Astro Football
 #EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
