@@ -16,12 +16,6 @@ https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3636.ts
 
 ##############################################################################################
 
-#EXTINF:-1 group-title="" tvg-logo="",Cleveland Cavaliers vs. Charlotte Hornets ppv
-#EXTVLCOPT:http-origin=https://modistreams.org
-#EXTVLCOPT:http-referrer=https://modistreams.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://strm.poocloud.in/secure/ZSbgLeWkCiQIiUaNEJLvxIrPxjwMlNVJ/1769032800/1769057280/charlottehornets/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="NBA 01 | Jan-21-2026 6:00PM | Cleveland Cavaliers at Charlotte Hornets" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 01 | Jan-21-2026 6:00PM | Cleveland Cavaliers at Charlotte Hornets
 http://tv.zeuspro.xyz:8080/rociogalvan1/XkJDyZSWMb/169627
 #EXTINF:-1 tvg-id="" tvg-name="NBA 02 | Jan-21-2026 6:30PM | Indiana Pacers at Boston Celtics" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 02 | Jan-21-2026 6:30PM | Indiana Pacers at Boston Celtics
