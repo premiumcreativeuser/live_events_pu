@@ -1,421 +1,570 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/epgs/moveonjoy-epg.xml"
 
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-
 #NEWS
 #EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/684565
 
-#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-nbc/index.m3u8?token=69cbd57dac021c816f13d2cf8db29a324af12f444a0d2bc227656fdc725c6aa7.1768795822.e172df6d0d875a2618bc4e5ed9d3391e.a11bcb37c66279d7c45dc67a11575013.04aa4e803878baab31d0a99a87ebbf31.125ace81b3c97487
+#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/424636
+
+#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419600
+
+#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/424638
 
 #EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA 
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/648495
 
-#EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-abc/index.m3u8?token=1a92278bb03b383d15c002ffe4c81c70ac20405940e813305ca56925afaff1d9.1768797809.e9fb46bd403466cca0847cf667c90035.eca37c65e832566e338ce8e30a50ca40.b5c77d9b7c37f4b259de0ad991842536.0a008954ecb3d180
+#EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC KABC
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/684213
 
-#EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL 9
+#EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC KABC
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419373
 
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-fox/index.m3u8?token=19181eb58c4ff0dfa66d17f3a6e77ca033ac1aafacadaa87a52588ae8a3bd098.1768799769.c574915ff00173ce5c1192057291a11a.c11cc65d1ac8a9e9bd456d0093ecfe72.97731d92c4bf5d139933e1117d7368f8.34127d2a376df3e9
+#EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/684564
 
-#EXTINF:-1 tvg-id="Astro Football" tvg-logo="Astro Football",Astro Football
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-astro-football/index.m3u8?token=f0d71523096356a4e1640edea0f38e7d75c6cc7889fa64ef4db71d69446739a0.1768797892.5b4b02b3859d0b766ac24fb42e03b46e.26466884e061555fc21b734b61bc956a.69c481aaa4d00bb6aab92524594fb37d.6cb8b56dcfd45f25
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419598
 
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E UHD
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/424637
 
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC East UHD
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E East SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509083
+
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417871
+
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E West HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419320
+
+#EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC Network HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/433791
+
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417872
+
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC East (SHD)
+
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC East (LHD)
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC West (SHD)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419279
 
 #EXTINF:-1 tvg-id="AMC+.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC+
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417953
 
 #EXTINF:-1 tvg-id="AMC Presents" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC Presents
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417953
 
-#EXTINF:-1  tvg-name="AMC Thrillers" tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/misc/vod/amc-thrillers-vod.png?raw=true",AMC Thrillers
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417996
 
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet East UHD
+#EXTINF:-1 tvg-id="Animal.Planet.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet West HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419321
 
-#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png",BBC America (UHD)
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png",BBC America HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417877
 
-#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true",BBC World News LHD
+#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png",BBC America SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509085
 
-#EXTINF:-1 tvg-id="BET.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET East UHD
-
-#EXTINF:-1 tvg-id="BET.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET West
-
-#EXTINF:-1 tvg-id="beIN SPORTS" tvg-logo="beIN SPORTS",beIN SPORTS
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-bein-sports/index.m3u8?token=2fe132b38b31fd3d62cc3a9d697bf3936f33b3774cdb5c85fe159d5ebc7c4ae2.1768759007.3fb23779e5c4fe0792214ff32708c624.0aa5d5df12b1eaa1634b9c6c135c0917.e75c1255d5e281dbb73bc3e4e68c6269.e0724f72702d5a60
-
-#EXTINF:-1 tvg-id="BET.Her.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png",BET HER UHD
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png",BET HER West
+#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true",BBC World News HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418112
 
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true",Big Ten Network UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/433792
 
-#EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",Boomerang (UHD)
+#EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",Boomerang HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418036
 
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo East (UHD)
+#EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",Boomerang SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509088
 
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network East (UHD)
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417880
 
-#EXTINF:-1 tvg-id="Cartoon.Network.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West
+#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo West HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419322
 
-#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS Sports Network (UHD)
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418037
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419270
+
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS Sports Network HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418177
+
+#EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS Sports Network SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509089
+
 #EXTINF:-1 group-title="Sports" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-sports-golazo-network-us.png" tvg-name="CBS Sports Golazo",CBS Sports Golazo
-https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/541954
 
-#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",Cinemax 5 StarMax East UHD
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",Cinemax 5 StarMax East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418081
 
-#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX EAST UHD
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ActionMax East 
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418104
 
-#EXTINF:-1 tvg-id="OuterMax.east.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-thrillermax-us.png",CINEMAX OUTERMAX UHD
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",Cinemax ActionMax West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419281
 
-#EXTINF:-1 tvg-id="ThrillerMax.-.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-outermax-us.png",CINEMAX THRILLERMAX East UHD
+#EXTINF:-1 tvg-id="OuterMax.east.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-thrillermax-us.png",CINEMAX West 
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419280
+
+#EXTINF:-1 tvg-id="ThrillerMax.-.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-outermax-us.png",CINEMAX Hits East
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418078
+
+#EXTINF:-1 tvg-id="ThrillerMax.-.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-outermax-us.png",CINEMAX Hits West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419282
 
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418115
 
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418118
 
-#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central East UHD
-
-#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png",Cooking Channel (SHD)
-
-#EXTINF:-1 group-title="Movies" tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1
+#EXTINF:-1 group-title="Movies" tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 1",CRAVE 1
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418441
 
 #EXTINF:-1 group-title="Movies" tvg-id="Crave2.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418442
 
-#EXTINF:-1 group-title="Movies" tvg-id="Crave3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3
+#EXTINF:-1 group-title="Movies" tvg-id="Crave3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 3",CRAVE 3
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418443
 
 #EXTINF:-1 group-title="Movies" tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418444
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="DAZN 1",DAZN 1
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/es-dazn-1/index.m3u8?token=8c12c85a74ad0e7ec3a39273af5e8728ef429d95e07b46dacfe3fcb601df7c3e.1768758750.cdd00f310033b7990db5c7a0e9b0a8c4.0c15ded3adc4fba76fc933872a3edeaa.da13a227e5d6c2f635af82f220d988ef.71296d6b54774691
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central East
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417882
 
-#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true",Destination America UHD
+#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419324
 
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery East UHD
+#EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png",Cooking Channel 
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417987
+
+#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true",Destination America
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417999
+
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery East East
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418001
 
 #EXTINF:-1 tvg-id="The.Discovery.Channel.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419326
 
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png",Discovery Family (SHD)
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png",Discovery Family 
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418000
 
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png",Discovery Life Channel LHD
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel East 
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418033
 
-#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel East UHD
+#EXTINF:-1 tvg-id="Disney.Channel.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419271
 
-#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Junior UHD
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Junior West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419272
 
-#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD UHD
+#EXTINF:-1 tvg-id="Disney.XD.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD West 
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419273
 
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! East (UHD)
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! East
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417884
 
-#EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-sports-deportes-us.png",FOX Deportes (SHD) USA
+#EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-sports-deportes-us.png",FOX Deportes SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509175
 
-#EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-soccer-plus-us.png",Fox Soccer Plus USA
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-soccer-plus-us.png",Fox Soccer Plus HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418210
 
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN 
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-espn/index.m3u8?token=0d63adb5d32bcb0829d08b51e49cbef8adc2d614c424b13da930c813da29c317.1768796009.bc757d1b4800614cfebc54c42dd878d2.5681856e4855214ac85749f8d213acf8.884bb493bc8b8db16f20ecafa439a9d4.a1fb6d1577918fa2
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/592590
 
-#EXTINF:-1 group-title="Sports" tvg-id="ESPN.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcu/gear/refs/heads/main/tv-logos/espn-deportes-us.png" tvg-name="ESPN DEPORTES",ESPN Deportes
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-espn-deportes/index.m3u8?token=e7987d8f2af4c7d7a9e348ba6e027eb1cc76457ff9a308cd6c25035e42107737.1768756393.9768d60062244965f9f6874579824bc3.ddab739d0b7361a48bf5924fc52c016e.425200627da5340382d616691fb65a6a.988a662534dcc902
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418175
 
-#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png",ESPN News UHD
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509097
 
-#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",ESPNU UHD
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN 2 HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418173
+
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN 2 SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509098
+
+#EXTINF:-1 group-title="Sports" tvg-id="ESPN.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcu/gear/refs/heads/main/tv-logos/espn-deportes-us.png" tvg-name="ESPN DEPORTES",ESPN Deportes SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509171
+
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png",ESPN News HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418174
+
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",ESPN U
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418176
 
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network East UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417885
 
-#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",FOX Business Network (UHD)
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419327
 
-#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png",FOX News Channel LHD
+#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",FOX Business Network 
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418110
 
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",FS1 - Fox Sports 1 UHD
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png",FOX News Channel
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418111
 
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",FS2 - Fox Sports 2 UHD
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",FS1 - Fox Sports 1 HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418178
+
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",FS1 - Fox Sports 1 SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509106
+
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",FS2 - Fox Sports 2 HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418179
+
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",FS2 - Fox Sports 2 SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509107
 
 #EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png",Freeform UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417886
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png",Freeform West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419328
 
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX East UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417888
 
-#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true",FXM UHD
+#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419329
 
-#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX East UHD
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true",FXM HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418089
 
-#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark Channel East LHD
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true",FXM SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509109
+
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417889
+
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX East SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509110
+
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark Channel East HD 
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417892
+
+#EXTINF:-1 tvg-id="HallmarkChannelPacific.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark Channel West 
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419335
 
 #EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-family-us.png?raw=true",Hallmark Drama SHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/541951
 
-#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries East UHD
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418098
 
-#EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO 
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-hbo/index.m3u8?token=c113877d2d09b307a53d3d1ecf66e2a704d593531cb4e84e9752aac9cbeea210.1768801329.c97c09e595f0ef8f8d8062bfe87e800f.ebd32f152aac5151cc1ecd4772b70944.cd0b2501ecefb7a72a02aab865055705.8714f3995a4d9d37
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries East SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509118
 
-#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 East UHD
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/568124
 
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy UHD
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO East SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509114
 
-#EXTINF:-1 tvg-id="HBO.Family.-.Eastern.Feed.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16585_dark_360w_270h.png",HBO Family UHD
+#EXTINF:-1 tvg-id="HBO.West.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419287
 
-#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature UHD
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418058
 
-#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone UHD
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418059
 
-#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",HGTV East UHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy West HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419288
 
-#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History East UHD
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418061
 
-#EXTINF:-1 tvg-id="Hub Premier 1" tvg-logo="Hub Premier 1",Hub Premier 1
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-hub-premier-1/index.m3u8?token=c3f4830e65d9a92f282beaf35b15d90ec4e09a027234bed9b7ec6652c849a719.1768797924.bb2826f47f48d9c9f50fb7520a086c3f.4966c65f6345902c2a8115fd75641163.0ed0d0ddecf1b9bc38b53f42a9298649.8756f6762b2f8113
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419291
 
-#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime East UHD
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone East UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418092
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419292
+
+#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",HGTV East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417997
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",HGTV West HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419336
+
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417998
+
+#EXTINF:-1 tvg-id="HistoryChannelPacific.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History West HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419337
+
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417894
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime West HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419340
 
 #EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true",CINEMAX MOREMAX East
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418078
 
-#EXTINF:-1 tvg-id="MovieMax.(Max.6).-.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-moviemax-us.png",MOVIEMAX East UHD
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true",Cinemax MoreMax West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419282
 
 #EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png",MSNBC UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418123
 
-#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV East UHD
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417898
 
-#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild East UHD
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV West HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419342
 
-#EXTINF:-1 tvg-id="Nova Sports Prime" tvg-logo="Nova Sports Prime",Nova Sports Prime
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gr-nova-sports-prime/index.m3u8?token=b057e97226c1abf95a7a88621551b36e9f7e518bca004979e7641bcc15a360da.1768797963.7a3387d288fe63f1cb8f064c05b1db51.057552d6d64cfeab4241d1cc87c97288.007f55637ff85d5bb197ae1986d3b859.258f10f62bf6a89a
+#EXTINF:-1 tvg-id="MTV2.us" tvg-name="US: MTV 2" tvg-logo="http://www.jeffgreenleaf.com/wp-content/uploads/MTV2.png" group-title="USA ENT HD",US: MTV 2
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417896
+#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="US: MTV CLASSIC" tvg-logo="https://i.ibb.co/vYc1pYt/mtv-classic-us.png" group-title="USA ENT HD",US: MTV CLASSIC
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417897
+#EXTINF:-1 tvg-id="MTVClassicPacific.us" tvg-name="US: MTV Classic (West)" tvg-logo="https://i.ibb.co/vYc1pYt/mtv-classic-us.png" group-title="USA ENT HD",US: MTV Classic (West)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419343
+#EXTINF:-1 tvg-id="mtvU.us" tvg-name="US: MTV U" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="USA ENT HD",US: MTV U
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417940
+#EXTINF:-1 tvg-id="MTV2Pacific.us" tvg-name="US: MTV2 (West)" tvg-logo="http://www.jeffgreenleaf.com/wp-content/uploads/MTV2.png" group-title="USA ENT HD",US: MTV2 (West)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419344
 
-#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",NBA TV UHD
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild East
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418005
 
-#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true",NFL Network
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-nfl-network/index.m3u8?token=4937678eca66d4208d43b9e65a31315699d39448dd843c9c620aea264d5c6e82.1768797988.a273ec6410810bcca3fb624b645b7bf0.1714db584e72c800f51033b10381b259.94c48ed8840315fba528342615656999.7e9e2938e9d35459
+#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",NBA TV HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418182
 
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",NFL Red Zone UHD
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true",NFL Network UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/237120
 
 #EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png",NHL Network UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418184
 
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr East
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418031
 
-#EXTINF:-1 tvg-id="Nickelodeon.HD.us2HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon UHD
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419274
+
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418039
+
+#EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419275
 
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418032
+
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419276
 
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
-
-#EXTINF:-1 tvg-id="Premier Sports 2" tvg-logo="Premier Sports 2",Premier Sports 1
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-premier-sports-1/index.m3u8?token=1b815ca6d2dcdf5d0c49a28701c7033cf4fcef89ad62e0e580011d729d8d1ea7.1768798033.1b51ed15524435556fb27b792426b7c2.0a5deb64cdd96cd57f3a3bb2a696c19f.96300d5875422bf8d711187f3af9211c.a50224b6202b6d2f
-
-#EXTINF:-1 tvg-id="Premier Sports 2" tvg-logo="Premier Sports 2",Premier Sports 2
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-premier-sports-2/index.m3u8?token=7cce435ddf05a21545bebd615ad594a0e9d9b0c1cce6ad98e956b153e7d61373.1768798045.90e1506f04d3bf5d7a12f6bfe5c01370.de35d59d727b1e29b2559c55b726917d.b1bac0f22361bbbae08ad211a3967f55.92efc7ca70b77822
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418014
 
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime East UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418064
+
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419294
 
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 East UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418103
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419295
 
-#EXTINF:-1,Sky Sports Action
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-action/index.m3u8?token=02d20ce2202e9789d9d2fc50ca8551848117760bbc268dda154cc8af7123861a.1768800338.50d6533b33b1b15032eeafc1c15a08e8.9e16a0265ce66da7547686ede078eb5c.f3caf636c588626c7050dca16ad69eaf.08d2a77676718cad
+#EXTINF:-1  tvg-name="Sky Sports Main Events HD UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Events HD UK
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/508252
 
-#EXTINF:-1,Sky Sports Arena
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-arena/index.m3u8?token=956d0f9e7b31bfb3ee5309da0909ec6696f64b43d85e55a02fca176854a0145c.1768800393.e2469216689bbeabacd8ec2c65a29238.6e08b63cea9caca7659663b0264b2e14.a80ef10e633240639d2458be5a3b14c3.6918bfc6bcd3b416
-
-#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-f1/index.m3u8?token=f22abd8b8da34758e854490a61b0d29e0db439372131a481e0f55bd91c8569f6.1768800248.e15120c8c90d1cf168ac60052e8400a9.8c9a1f27258c9a645887c04f355bde8a.3de5c765a9fcd62b71332c0ecc2ef23e.abe1e91be1abf889
-
-#EXTINF:-1,Sky Sports Football
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-football/index.m3u8?token=53cc5cee926d2685c8b5d690f76ad87c1fc672495daf84167ec6e863c0743d37.1768800435.4c88a670ab994874715d82ddc65cce9c.ef106efe1afe7fdc1fbf90dd6257f3d5.6327d13142cb42d015b2856cf6a86c8e.ee3e0d18309aa4cc
-
-#EXTINF:-1  tvg-name="Sky Sports Main Event HD UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-main-event/index.m3u8?token=ec48b4220466cc51ffcf9485bad52d68714e9f2ed1735e5dac36dc9a70c343eb.1768798064.5c5949bfeb9ed1e49a13ef15a8539868.d9b157c53cf38863482b5baf8d307376.0ade58abc96c5a0997c420f9799bb518.cd2d9c0183b4898a
-
-#EXTINF:-1,Sky Sports Mix
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-mix/index.m3u8?token=16fafa3cba3809572ec4cc2d6802ab3aef4f7af4c322a06d161af0c2458b3e4c.1768800468.4133fb4e3256422cae3719cbe1d8aadc.10b8cd9d45ef5c9a0f28c02d6d3c20a6.3304f1bcbe067c8543a513f9f58d156f.8969c2b2753ac903
-
-#EXTINF:-1,Sky Sports Premier League
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-premier-league/index.m3u8?token=cf3440b1142f9d403a1425ef504ebe046e3504d85146b51b6d16d266b8876240.1768800502.60f8819885ef0db47a7fd94289d9ba2e.45d5ae0db9df21518508716b63df395b.37bbaa42cb7886e1c696f43a4ad1953d.ecf77fa6c15efa48
-
-#EXTINF:-1,Sky Sports Racing
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-sky-sports-racing/index.m3u8?token=00fbed146435e77c34f9b56aecfea991cb48c2c6dd93771546d1918699f08cf3.1768800529.28e2f6ae9e75cc4d530f678e8b8fc8cc.1786483e1a218cb17464868a513f0fb1.6b40cb530718e248f5470ac4b14c089e.afc6e31f3a369989
-
+#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/508246
 
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418143
 
-#EXTINF:-1 tvg-id="ATTSWPL.ATT.SportsNet.Southwest.Plus.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/at-and-t-sportsnet-southwest-custom-us.png",AT&T SportsNet Southwest USA
-
-#EXTINF:-1 tvg-id="ATTSWPL.ATT.SportsNet.Southwest.Plus.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/at-and-t-sportsnet-southwest-custom-us.png",SPORTSNET SOUTHWEST SD USA
+#EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="US: SPECTRUM SPORTSNET LA" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="USA SPORTS HD",US: SPECTRUM SPORTSNET LA
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418164
 
 #EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/0451a56dccc04c6fb08415533a9c90bf62d7c9c6/logos/Spectrum_Sportsnet_LA.svg",Spectrum SportsNet LA Dodgers USA
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418163
 
-#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SportsNet New York (SHD) USA
+#EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="US: SPECTRUM SPORTSNET LAKERS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="USA SPORTS HD",US: SPECTRUM SPORTSNET LAKERS
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418165
 
-#EXTINF:-1 tvg-id="Sportsnet.World.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",Sportsnet World
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/ca-sportsnet-world/index.m3u8?token=133c5f434e2a4ad90c8b30fe70bb26804c5fdc36e0c6f2bb72381bb51a5f6e57.1768759550.54e72287dba91812dd116c4d6b8ce45c.1a8a05d616193d9540eba4285617a6b0.8cea57875b7f4e6bd2089fe163235508.4c846bd4a033e0d1
+#EXTINF:-1 tvg-id="NBCSportsBayArea.us" tvg-name="US: NBC SPORTS (BAY AREA)" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS (BAY AREA)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418154
+#EXTINF:-1 tvg-id="NBCSportsCaliforniaPlus.us" tvg-name="US: NBC SPORTS (BAY AREA) +" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS (BAY AREA) +
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/640552
+#EXTINF:-1 tvg-id="NBCSportsBoston.us" tvg-name="US: NBC SPORTS (BOSTON)" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS (BOSTON)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418155
+#EXTINF:-1 tvg-id="NBCSportsCalifornia.us" tvg-name="US: NBC SPORTS (CALIFORNIA)" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS (CALIFORNIA)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418156
+#EXTINF:-1 tvg-id="NBCSportsCaliforniaPlus.us" tvg-name="US: NBC SPORTS (CALIFORNIA) +" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS (CALIFORNIA) +
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/640553
+#EXTINF:-1 tvg-id="NBCSportsChicagoPlus.us" tvg-name="US: NBC SPORTS CHICAGO" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS CHICAGO
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418144
+#EXTINF:-1 tvg-id="NBCSportsChicagoPlus.us" tvg-name="US: NBC SPORTS CHICAGO PLUS" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS CHICAGO PLUS
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418148
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="US: NBC SPORTS NETWORK" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS NETWORK
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418183
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphiaPlus.us" tvg-name="US: NBC SPORTS PHILLY PLUS" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBC SPORTS PHILLY PLUS
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418158
+#EXTINF:-1 tvg-id="NBCSportsPhiladelphia.us" tvg-name="US: NBCSN PHILADELPHIA" tvg-logo="https://static.epg.best/us/NBCSportsNetwork.us.png" group-title="USA SPORTS HD",US: NBCSN PHILADELPHIA
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418159
+#EXTINF:-1 tvg-id="SpaceCityHomeNetwork.us" tvg-name="US: SPACE CITY HOME NETWORK" tvg-logo="https://i.ibb.co/3rBNrw5/at-and-t-sportsnet-southwest-us.png" group-title="USA SPORTS HD",US: SPACE CITY HOME NETWORK
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418153
 
-#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SPORTSNET WEST CA
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418054
 
-#EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pacific-ca.png",SPORTSNET PACIFIC CA
+#EXTINF:-1 tvg-id="StarzPacific.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419301
 
-#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-ontario-ca.png",Sportsnet Ontario
 
-#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509136
 
-#EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-east-ca.png",SPORTSNET EAST CA
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="US: STARZ CINEMA" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ CINEMA
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418071
+#EXTINF:-1 tvg-id="StarzCinemaPacific.us" tvg-name="US: Starz Cinema (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Cinema (West)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419302
+#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="US: STARZ COMEDY" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ COMEDY
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418072
+#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="US: STARZ EDGE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ EDGE
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418073
+#EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="US: Starz Edge (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Edge (West)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419303
+#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="US: STARZ ENCORE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418051
+#EXTINF:-1 tvg-id="StarzEncorePacific.us" tvg-name="US: Starz Encore (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore (West)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419304
+#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="US: STARZ ENCORE ACTION" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE ACTION
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418047
+#EXTINF:-1 tvg-id="StarzEncoreActionPacific.us" tvg-name="US: Starz Encore Action (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Action (West)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419307
+#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="US: STARZ ENCORE BLACK" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE BLACK
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418048
+#EXTINF:-1 tvg-id="StarzEncoreBlackPacific.us" tvg-name="US: Starz Encore Black (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Black (West)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419308
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-name="US: STARZ ENCORE CLASSIC" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE CLASSIC
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418049
+#EXTINF:-1 tvg-id="StarzEncoreClassicPacific.us" tvg-name="US: Starz Encore Classic (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Classic (West)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419309
+#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="US: STARZ ENCORE FAMILY" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE FAMILY
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418050
+#EXTINF:-1 tvg-id="StarzEncoreFamilyPacific.us" tvg-name="US: Starz Encore Family (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Family (West)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419310
+#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="US: STARZ ENCORE SUSPENSE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE SUSPENSE
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418052
+#EXTINF:-1 tvg-id="StarzEncoreSuspensePacific.us" tvg-name="US: Starz Encore Suspense (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Suspense (West)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419311
+#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="US: STARZ ENCORE WESTERNS" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE WESTERNS
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419305
+#EXTINF:-1 tvg-id="StarzEncoreWesternsPacific.us" tvg-name="US: Starz Encore Westerns (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Westerns (West)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419306
+#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="US: STARZ IN BLACK" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ IN BLACK
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418074
+#EXTINF:-1 tvg-id="StarzinBlackPacific.us" tvg-name="US: Starz in Black (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz in Black (West)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419312
+#EXTINF:-1 tvg-id="StarzKids.us" tvg-name="US: STARZ KIDS AND FAMILY" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ KIDS AND FAMILY
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418075
+#EXTINF:-1 tvg-id="StarzKidsPacific.us" tvg-name="US: Starz Kids Family (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Kids Family (West)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419313
 
-#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SPORTSNET 360 CA
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy East 
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417911
 
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East UHD
+#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419359
 
-#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz West (SHD)
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS East 
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417913
 
-#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy East UHD
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419360
 
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS East UHD
-
-#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo East (SD)
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo LA
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/410604
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png",Tennis Channel UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418188
 
-#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png",The Weather Channel UHD
+#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png",The Weather Channel 
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418120
 
-#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-tlc/index.m3u8?token=7fd3c4246e6863518e0dedd99d093e36ecc78cc70d5490625832693b0dbaa1e4.1768798088.0b17e37e03a3b7c4b657027c1c6c590a.0c2a35630b0a7521bbdc7c8f3ee0f2ee.5bee84860979cd9849a1a90893e901e7.7cd2098c240e6d5f
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC East 
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417914
 
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-tnt/index.m3u8?token=3136ef4e67715ee7f5e6df4767c0fa5a6cfc351a90aea1269f0564045d0cd4c6.1768801066.56c63167b29ec6070012ff8735eff221.dc274f6d6735c7993b53898190800d0e.59e5184e17c379efc884b27bb03f945d.6be5af15e84ffeeb
+#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419361
 
-#EXTINF:-1,UK TNT Sports 1
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-1/index.m3u8?token=c4421c3e0457f478b6cc55fcf898afe47d949d8270eba22bfe11ad34412ac2b4.1768798130.191631d7b8e27f45e9ce142713429c21.b741b30689b8a6b09800f8173fc06162.2f7e35cfa5939b8929f56cf1745c52ea.cc2f51d087bc981b
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT East 
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417915
 
-#EXTINF:-1,UK TNT Sports 2
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-2/index.m3u8?token=fad332e9a57b2306a959bcd6df0d80d078a7316937c3398daea3645f873fcd1f.1768798153.eb083f878272d7e0a6432a834fcf2587.044fc2f4254ca9b95efc85d80de8c7d0.3b0fa9494ca320888b71f692cbd79209.0fea5029607dc7de
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT East SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509143
 
-#EXTINF:-1,UK TNT Sports 3 
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-3/index.m3u8?token=eeba33e90c9023752863094123c1459887ba6097c490d155bc5106c7a69beba3.1768759376.7344e8b722e5296cfd1dd11d1830b30e.7d619d2c7f446ee136a4071ef7848e7b.9c78251f4b652994513e339f5d1f5b9a.5bb41fcabe23e83c
+#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419362
 
-#EXTINF:-1,UK TNT Sports 4
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-4/index.m3u8?token=c90791c565723f0e682a2005a07bffcef50523ae6a6e9779c88890d8f44e715d.1768759422.53e948ed780c139d48bd4c79a2dd67d5.b222591b8d7c42f568154e648b8d8f7a.62b6e8bcc373ca948fe2d12ad7681329.b59e557fb6770fd0
-
-#EXTINF:-1,UK TNT Sports 5
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/gb-tnt-sports-5/index.m3u8?token=f56ed539e9b5869171264626bf6179f572925e41062cf3b664abdca44b79fcce.1768759443.6f62ef1efcc278303be7b22cf9f3b9b7.d730b0843570285c27d7fcfeec2ecba2.0dffe43d18b9942b6ed507f86daabde1.9f73a92de1b56965
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1 UHD",TSN 1 UHD CA
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418553
 
 #EXTINF:-1 tvg-id="TTSN.2.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2 UHD",TSN 2 UHD CA
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418554
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-name="TSN 3 UHD",TSN 3 UHD CA
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/418555
 
 #EXTINF:-1 tvg-id="TSN.4.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-name="TSN 4 UHD CA",TSN 4 UHD CA
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/457001
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-name="TSN 5 UHD CA",TSN 5 UHD CA
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/457002
 
 #EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel East LHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417916
 
-#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV East UHD
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419365
+
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417917
+
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV East SD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/509145
 
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision East (SHD)
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/410637
 
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network
-#EXTVLCOPT:http-origin=https://iptv.playtorrio.xyz
-#EXTVLCOPT:http-referrer=https://iptv.playtorrio.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://cdn-live-tv.ru/api/v1/channels/us-usa-network/index.m3u8?token=d81407998abdf7b06569630f1b024580f650ef12dab3d2c6ebdf553c7341b685.1768795121.ea0c60bef6f7a2b9f323411551704f64.04885974e16025419050da62ab2af273.af8c4bceb88336ee3ad295c628896366.48941f148002befc
+#EXTINF:-1 tvg-id="Univision.Network.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision34 LA
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/410641
 
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 UHD
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network East UHD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417921
 
+#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419369
 
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 East HD
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/417922
 
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 West
+http://bedroombullyonline.com:5050/total/Wk9hXW9b57/419370
 
