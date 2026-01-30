@@ -9,299 +9,234 @@
 #EXTINF:-1 group-title="Sports" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-sports-golazo-network-us.png" tvg-name="CBS Sports Golazo",CBS Sports Golazo
 https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 
-#EXTINF:-1,MX (HD) TP PX Sports
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3980
-#EXTINF:-1,MX A3Cine
+#EXTINF:-1,A3Cine
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4620
-#EXTINF:-1,MX ADN40 Querétaro
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4167
-#EXTINF:-1,MX Al Jazeera HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4168
-#EXTINF:-1,MX AMC
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1613
-#EXTINF:-1,MX Animal Planet
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1614
-#EXTINF:-1,MX Animal Planet HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4170
-#EXTINF:-1,MX Antena 3
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4171
-#EXTINF:-1,MX AXN HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4172
-#EXTINF:-1,MX AYM Sports
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4173
-#EXTINF:-1,MX Azteca 7 HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4180
-#EXTINF:-1,MX Baby TV HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4184
-#EXTINF:-1,MX Bandamax
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4185
-#EXTINF:-1,MX BBC World News
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4186
-#EXTINF:-1,MX Bloomberg B1 HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4187
-#EXTINF:-1,MX Bloomberg HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4188
-#EXTINF:-1,MX Canal 5 HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4194
-#EXTINF:-1,MX Canal Once
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1619
-#EXTINF:-1,MX Cartoon Network HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4198
-#EXTINF:-1,MX Cinecanal HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4199
-#EXTINF:-1,MX Cinemax HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4200
-#EXTINF:-1,MX CNN
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4201
-#EXTINF:-1,MX CNN International
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4202
-#EXTINF:-1,MX De Pelicula
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4204
-#EXTINF:-1,MX De Pelicula Plus
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4205
-#EXTINF:-1,MX Discovery Channel HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4206
-#EXTINF:-1,MX Discovery Home & Health
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4208
-#EXTINF:-1,MX Discovery Kids
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4209
-#EXTINF:-1,MX Discovery Science
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4210
-#EXTINF:-1,MX Discovery Theater HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4211
-#EXTINF:-1,MX Discovery Turbo
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1631
-#EXTINF:-1,MX Discovery World HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4213
-#EXTINF:-1,MX Disney Channel
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4214
-#EXTINF:-1,MX Disney Jr.
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4215
-#EXTINF:-1,MX Distrito Comedia
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4217
-#EXTINF:-1,MX DW
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4218
-#EXTINF:-1,MX E! Entertainment HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4219
-#EXTINF:-1,MX El Gourmet HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4220
-#EXTINF:-1,MX Espn 2 HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4221
-#EXTINF:-1,MX Europa Europa
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4226
-#EXTINF:-1,MX Food Network HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4229
-#EXTINF:-1,MX Foro TV HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4231
-#EXTINF:-1,MX Fox News HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4239
-#EXTINF:-1,MX Fox Sports 1
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4243
-#EXTINF:-1,MX Fox Sports 2
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4241
-#EXTINF:-1,MX Francia 24 HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4244
-#EXTINF:-1,MX FX HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4245
-#EXTINF:-1,MX Garage TV
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4247
-#EXTINF:-1,MX Golden Edge
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4250
-#EXTINF:-1,MX Golden Plus HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4251
-#EXTINF:-1,MX Golf HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4269
-#EXTINF:-1,MX History HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4252
-#EXTINF:-1,MX HLN HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4253
-#EXTINF:-1,MX Hola TV HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4254
-#EXTINF:-1,MX Investigation Discovery HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4255
-#EXTINF:-1,MX LAS ESTRELLAS
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3977
-#EXTINF:-1,MX Lifetime HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4258
-#EXTINF:-1,MX Mas Chic HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4259
-#EXTINF:-1,MX Milenio TV HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4260
-#EXTINF:-1,MX MTV HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4261
-#EXTINF:-1,MX MTV Hits
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4262
-#EXTINF:-1,MX MTV Live HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4263
-#EXTINF:-1,MX Multimedios HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4264
-#EXTINF:-1,MX National Geographic Channel
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1655
-#EXTINF:-1,MX Nick Jr.
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4271
-#EXTINF:-1,MX Nickelodeon HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4272
-#EXTINF:-1,MX NTN24
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4275
-#EXTINF:-1,MX Paramount Channel HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4276
-#EXTINF:-1,MX Sony Movies
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4279
-#EXTINF:-1,MX Space HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4280
-#EXTINF:-1,MX Star TVE
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4281
-#EXTINF:-1,MX Studio Universal HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4282
-#EXTINF:-1,MX Telehit Plus HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4289
-#EXTINF:-1,MX TLC HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4292
-#EXTINF:-1,MX TNT HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4294
-#EXTINF:-1,MX TNT Series HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4295
-#EXTINF:-1,MX Tooncast
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4296
-#EXTINF:-1,MX TP AZTECA UNO
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4297
-#EXTINF:-1,MX TP CANAL Once
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4298
-#EXTINF:-1,MX Tru TV HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4302
-#EXTINF:-1,MX TUDN
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/553262
-#EXTINF:-1,MX VH1
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4308
-#EXTINF:-1,MX VH1 Classic
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4309
-#EXTINF:-1,MX VH1 HD
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4310
-#EXTINF:-1,USA Latin A3 Series
+#EXTINF:-1,A3 Series
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/327699
-#EXTINF:-1,USA Latin Antena 3
+#EXTINF:-1,ADN40 Querétaro
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4167
+#EXTINF:-1,AMC
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1613
+#EXTINF:-1,Animal Planet
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1614
+#EXTINF:-1,Animal Planet HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4170
+#EXTINF:-1,Antena 3
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4171
+#EXTINF:-1,Antena 3
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/50901
-#EXTINF:-1,USA Latin Atres Cine
+#EXTINF:-1,Atres Cine
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/681178
-#EXTINF:-1,USA Latin Atres Series
+#EXTINF:-1,Atres Series
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/50904
-#EXTINF:-1,USA Latin AZ Cinema
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4618
-#EXTINF:-1,USA Latin AZ Clic
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4579
-#EXTINF:-1,USA Latin AZ Corazon
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4617
-#EXTINF:-1,USA LATIN Az Corazon
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1616
-#EXTINF:-1,USA Latin Baby TV
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40642
-#EXTINF:-1,USA Latin Bandamax
+#EXTINF:-1,AXN HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4172
+#EXTINF:-1,Azteca 7 HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4180
+#EXTINF:-1,Bandamax
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4185
+#EXTINF:-1,Bandamax
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1617
-#EXTINF:-1,USA Latin BANDAMAX
+#EXTINF:-1,BANDAMAX
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40640
-#EXTINF:-1,USA Latin BEIN_Sports_Latin
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/5315
-#EXTINF:-1,USA Latin Canal Once
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4615
-#EXTINF:-1,USA Latin Caracol Internacional
+#EXTINF:-1,Canal 5 HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4194
+#EXTINF:-1,Canal Once
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1619
+#EXTINF:-1,Caracol Internacional
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/52162
-#EXTINF:-1,USA Latin Caracol TV
+#EXTINF:-1,Caracol TV
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4614
-#EXTINF:-1,USA Latin Cine Mexicano
+#EXTINF:-1,Cartoon Network HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4198
+#EXTINF:-1,Cine Mexicano
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/649410
-#EXTINF:-1,USA Latin CineLatino (SHD)
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/648973
-#EXTINF:-1,USA Latin Cinema Dinamita
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/327700
-#EXTINF:-1,USA Latin CLAN
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/50899
-#EXTINF:-1,USA Latin CNN
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40633
-#EXTINF:-1,USA Latin De Pelicula
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1626
-#EXTINF:-1,USA Latin De Pelicula Clasico
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/434384
-#EXTINF:-1,USA Latin Discovery
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40625
-#EXTINF:-1,USA Latin Discovery Familia
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40631
-#EXTINF:-1,USA Latin DP De Pelicula
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40635
-#EXTINF:-1,USA Latin Ecuavisa Internacional
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4608
-#EXTINF:-1,USA Latin El Gourmet
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40628
-#EXTINF:-1,USA Latin El Trece Internacional 
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1607
-#EXTINF:-1,USA Latin ESNE
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/327701
-#EXTINF:-1,USA Latin ESPN_Deportes
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40648
-#EXTINF:-1,USA Latin FOROTV
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40636
-#EXTINF:-1,USA Latin Fox Life
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/2551
-#EXTINF:-1,USA Latin Fox Sports Deportes
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40647
-#EXTINF:-1,USA Latin Fox_Life
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40630
-#EXTINF:-1,USA Latin GALAVISION
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40629
-#EXTINF:-1,USA Latin HBO
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/334716
-#EXTINF:-1,USA Latin HITN
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/649414
-#EXTINF:-1,USA Latin HOLA! TV
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4621
-#EXTINF:-1,USA Latin LA 1
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/50892
-#EXTINF:-1,USA Latin La Sexta
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/50895
-#EXTINF:-1,USA Latin Mas Chic
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40632
-#EXTINF:-1,USA Latin Mega
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/50898
-#EXTINF:-1,USA Latin Mexicanal
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4601
-#EXTINF:-1,USA Latin MTV_TR3S
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40623
-#EXTINF:-1,USA Latin Nat Geo Mundo
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40637
-#EXTINF:-1,USA Latin NOVA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/50896
-#EXTINF:-1,USA Latin NTN24
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40627
-#EXTINF:-1,USA Latin Nuestra Tele
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40626
-#EXTINF:-1,USA Latin Pasiones
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4588
-#EXTINF:-1,USA Latin Peru Magico
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/340988
-#EXTINF:-1,USA Latin Religiosos 3ABN Latino
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1678
-#EXTINF:-1,USA Latin RetroPlex
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/42304
-#EXTINF:-1,USA Latin Supercanal Caribe
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4589
-#EXTINF:-1,USA Latin Telecentro
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/558828
-#EXTINF:-1,USA Latin TELEFE
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40624
-#EXTINF:-1,USA Latin Telehit
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40638
-#EXTINF:-1,USA Latin Telemundo East (SD)
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/429798
-#EXTINF:-1,USA LATIN Teleritmo
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1686
-#EXTINF:-1,USA Latin TVE International
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/649406
-#EXTINF:-1,USA Latin Wapa Puerto Rico
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40651
-#EXTINF:-1,USA Latino Cine Sony
+#EXTINF:-1,Cine Sony
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4635
-#EXTINF:-1,USA Latino Cinemoi
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4634
-#EXTINF:-1,USA Latino HBO East
+#EXTINF:-1,Cinecanal HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4199
+#EXTINF:-1,Cinema Dinamita
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/327700
+#EXTINF:-1,Cinemax HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4200
+#EXTINF:-1,CineLatino (SHD)
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/648973
+#EXTINF:-1,CLAN
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/50899
+#EXTINF:-1,CNN
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4201
+#EXTINF:-1,CNN
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40633
+#EXTINF:-1,CNN International
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4202
+#EXTINF:-1,De Pelicula
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4204
+#EXTINF:-1,De Pelicula
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1626
+#EXTINF:-1,De Pelicula Clasico
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/434384
+#EXTINF:-1,De Pelicula Plus
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4205
+#EXTINF:-1,Discovery
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40625
+#EXTINF:-1,Discovery Channel HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4206
+#EXTINF:-1,Discovery Familia
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40631
+#EXTINF:-1,Discovery Kids
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4209
+#EXTINF:-1,Discovery Science
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4210
+#EXTINF:-1,Discovery Theater HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4211
+#EXTINF:-1,Discovery Turbo
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1631
+#EXTINF:-1,Discovery World HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4213
+#EXTINF:-1,Disney Channel
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4214
+#EXTINF:-1,Disney Jr.
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4215
+#EXTINF:-1,Distrito Comedia
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4217
+#EXTINF:-1,DP De Pelicula
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40635
+#EXTINF:-1,DW
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4218
+#EXTINF:-1,E! Entertainment HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4219
+#EXTINF:-1,Ecuavisa Internacional
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4608
+#EXTINF:-1,El Gourmet
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40628
+#EXTINF:-1,El Gourmet HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4220
+#EXTINF:-1,El Trece Internacional
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1607
+#EXTINF:-1,ESNE
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/327701
+#EXTINF:-1,Espn 2 HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4221
+#EXTINF:-1,ESPN_Deportes
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40648
+#EXTINF:-1,Europa Europa
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4226
+#EXTINF:-1,Food Network HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4229
+#EXTINF:-1,Foro TV HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4231
+#EXTINF:-1,FOROTV
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40636
+#EXTINF:-1,Fox Life
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/2551
+#EXTINF:-1,Fox_Life
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40630
+#EXTINF:-1,Fox News HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4239
+#EXTINF:-1,Fox Sports 1
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4243
+#EXTINF:-1,Fox Sports 2
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4241
+#EXTINF:-1,Fox Sports Deportes
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40647
+#EXTINF:-1,FX HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4245
+#EXTINF:-1,GALAVISION
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40629
+#EXTINF:-1,Garage TV
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4247
+#EXTINF:-1,Golden Edge
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4250
+#EXTINF:-1,Golden Plus HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4251
+#EXTINF:-1,Golf HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4269
+#EXTINF:-1,HBO
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/334716
+#EXTINF:-1,HBO East
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4643
-#EXTINF:-1,USA Latino HBO West
+#EXTINF:-1,HBO West
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/553421
+#EXTINF:-1,History HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4252
+#EXTINF:-1,HITN
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/649414
+#EXTINF:-1,HLN HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4253
+#EXTINF:-1,Hola TV HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4254
+#EXTINF:-1,HOLA! TV
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4621
+#EXTINF:-1,LA 1
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/50892
+#EXTINF:-1,LAS ESTRELLAS
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3977
+#EXTINF:-1,La Sexta
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/50895
+#EXTINF:-1,Lifetime HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4258
+#EXTINF:-1,Mas Chic HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4259
+#EXTINF:-1,Mega
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/50898
+#EXTINF:-1,Mexicanal
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4601
+#EXTINF:-1,Milenio TV HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4260
+#EXTINF:-1,MTV HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4261
+#EXTINF:-1,Nat Geo Mundo
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40637
+#EXTINF:-1,Nick Jr.
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4271
+#EXTINF:-1,Nickelodeon HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4272
+#EXTINF:-1,NOVA
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/50896
+#EXTINF:-1,NTN24
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40627
+#EXTINF:-1,Nuestra Tele
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40626
+#EXTINF:-1,Pasiones
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4588
+#EXTINF:-1,RetroPlex
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/42304
+#EXTINF:-1,Sony Movies
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4279
+#EXTINF:-1,Space HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4280
+#EXTINF:-1,Star TVE
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4281
+#EXTINF:-1,Studio Universal HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4282
+#EXTINF:-1,Supercanal Caribe
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4589
+#EXTINF:-1,Telecentro
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/558828
+#EXTINF:-1,TELEFE
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40624
+#EXTINF:-1,Telehit
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40638
+#EXTINF:-1,Teleritmo
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/1686
+#EXTINF:-1,TLC HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4292
+#EXTINF:-1,TNT HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4294
+#EXTINF:-1,TNT Series HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4295
+#EXTINF:-1,Tooncast
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4296
+#EXTINF:-1,TP AZTECA UNO
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4297
+#EXTINF:-1,TP CANAL Once
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4298
+#EXTINF:-1,Tru TV HD
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4302
+#EXTINF:-1,TUDN
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/553262
+#EXTINF:-1,TVE International
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/649406
+#EXTINF:-1,Wapa Puerto Rico
+https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/40651
+
