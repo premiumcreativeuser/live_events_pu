@@ -405,11 +405,11 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2384.ts
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 FHD
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2337.ts
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 2 FHD FHD 50fps
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 FHD FHD 50fps
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2336.ts
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 3 FHD FHD 50fps
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 FHD FHD 50fps
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2335.ts
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 4 FHD FHD
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 FHD FHD
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/675021.ts
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1 UHD",TSN 1 UHD CA
@@ -449,5 +449,6 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2379.ts
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3699.ts
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 West
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/81588.ts
+
 
 
