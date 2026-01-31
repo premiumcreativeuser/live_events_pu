@@ -388,7 +388,7 @@ https://restream-live.realiptv.to:443/live/Bert123/Bert123/3684.ts
 https://restream-live.realiptv.to:443/live/Bert123/Bert123/3842.ts
 
 #EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo KVEA
-https://restream-live.realiptv.to:443/Bert123/Bert123/2394.ts
+https://restream-live.realiptv.to:443/Bert123/Bert123/2394
 
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png",Tennis Channel UHD
 https://restream-live.realiptv.to:443/live/Bert123/Bert123/3685.ts
