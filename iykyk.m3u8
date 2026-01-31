@@ -1,5 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/epgs/moveonjoy-epg.xml"
 
+#EXTINF:-1,USA beIN SPORTS La Liga
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/90427
+#EXTINF:-1,USA BeIN Sports LaLiga
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/5308
+
 #NEWS
 #EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/2637.ts
