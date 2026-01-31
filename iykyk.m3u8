@@ -7,6 +7,12 @@ https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/2637.ts
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/2622.ts
 #EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/2453.ts
+
+#EXTINF:-1,NY | New York | NBC UHD WNBC
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2447
+#EXTINF:-1,NY | New York | NBC WNBC
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/89714
+
 #EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA 
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/90546.ts
 #EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA 
