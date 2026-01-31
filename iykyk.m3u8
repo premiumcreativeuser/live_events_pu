@@ -387,15 +387,9 @@ https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3684.ts
 #EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS West
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3842.ts
 
-#EXTINF:-1,CA |  Los Angeles | Telemundo KVEA
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo KVEA
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/2394
-#EXTINF:-1,NY | NewYork  | Telemundo 47 WNJU
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3875
-#EXTINF:-1,USA Latin Telemundo East (SD)
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/429798
 
-#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo East (SD)
-https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/429798.ts
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png",Tennis Channel UHD
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3685.ts
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png",The Weather Channel UHD
