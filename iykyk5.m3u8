@@ -559,10 +559,10 @@ http://bedroombullyonline.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/417917
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV East SD
 http://bedroombullyonline.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/509145
 
-#EXTINF:-1 tvg-id="UNIVERSO.us" tvg-name="LAT: Universo (East)" tvg-logo="http://www.multivu.com/players/English/7929651-nbc-universo-los-riveras/image/logo-eng-null-HR.png" group-title="USA LOCALS US / LATIN",LAT: Universo (East)
+#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="http://www.multivu.com/players/English/7929651-nbc-universo-los-riveras/image/logo-eng-null-HR.png",Universo East
 http://bedroombullyonline.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419367
 
-#EXTINF:-1 tvg-id="" tvg-name="LAT: Universo (West)" tvg-logo="http://www.multivu.com/players/English/7929651-nbc-universo-los-riveras/image/logo-eng-null-HR.png" group-title="USA LOCALS US / LATIN",LAT: Universo (West)
+#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="http://www.multivu.com/players/English/7929651-nbc-universo-los-riveras/image/logo-eng-null-HR.png",Universo West
 http://bedroombullyonline.com:5050/watercoolpcguy@gmail.com/AuhB4NcZdR/419368
 
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision East (SHD)
