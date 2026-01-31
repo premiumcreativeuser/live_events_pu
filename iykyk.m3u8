@@ -430,6 +430,14 @@ https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3845.ts
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3688.ts
 #EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",truTV West
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3846.ts
+
+#EXTINF:-1,Latin DO Teleuniverso
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/52134
+#EXTINF:-1,USA Universo East
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3696
+#EXTINF:-1,USA Universo West
+https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/3847
+
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision East (SHD)
 https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3697.ts
 #EXTINF:-1 tvg-id="Univision.Network.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision34 KMEX
