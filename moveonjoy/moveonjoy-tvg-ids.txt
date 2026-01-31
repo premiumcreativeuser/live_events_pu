@@ -414,3 +414,5 @@ HGTV.USA.-.Eastern.Feed.us2
 Universal.Kids.us2
 ThrillerMax.-.East.us2
 MovieMax.(Max.6).-.East.us2
+
+UNIVERSO.HD.us2
