@@ -372,6 +372,11 @@ TNTSports2.uk
 TNTSports3.uk
 TNTSports4.uk
 TNTSports5.uk
+TNT.Sports.1.HD.uk
+TNT.Sports.2.HD.uk
+TNT.Sports.3.HD.uk
+TNT.Sports.4.HD.uk
+TNT.Sports.5.HD.uk
 
 
 
