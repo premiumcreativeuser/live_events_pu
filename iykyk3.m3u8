@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://restream-live.realiptv.to/xmltv.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/epgs/moveonjoy-epg.xml"
 
 #NEWS
 #EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS
@@ -451,6 +451,7 @@ https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/2379
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3699
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 West
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/81588
+
 
 
 
