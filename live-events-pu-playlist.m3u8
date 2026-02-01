@@ -16,6 +16,12 @@ https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3636.ts
 
 ##############################################################################################
 
+#EXTINF:-1 group-title="" tvg-logo="",UFC 325: VOLKANOVSKI vs LOPES 2
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://601.lifesharper.com/ataide.m3u8
+
 #EXTINF:-1,USA PPV01: UFC 325 Volkanovski vs Lopes (Paramount+) @ 05:00 PM EST
 https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/5597
 
