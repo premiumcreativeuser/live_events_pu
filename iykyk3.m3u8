@@ -372,7 +372,7 @@ https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3070
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3071
 #EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-east-ca.png",SPORTSNET EAST CA
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3072
-#EXTINF:-1 tvg-id="Sportsnet.360.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SPORTSNET 360 CA
+#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SPORTSNET 360 CA
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3073
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East UHD
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3680
@@ -451,6 +451,7 @@ https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/2379
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3699
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 West
 https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/81588
+
 
 
 
