@@ -2,8 +2,8 @@
 
 #######################################FORMATTING#############################################
 #EXTINF:-1 group-title="" tvg-logo="",streamName
-#EXTVLCOPT:http-origin=https://pooembed.top
-#EXTVLCOPT:http-referrer=https://pooembed.top/
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 
 #restream-live, 
@@ -16,31 +16,8 @@ https://restream-live.realiptv.to:443/live/Theone-restream/o3kTHZ0JdL/3636.ts
 
 ##############################################################################################
 
-#EXTINF:-1 group-title="" tvg-logo="",UFC 325: VOLKANOVSKI vs LOPES 2
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://601.lifesharper.com/ataide.m3u8
-
-#EXTINF:-1,USA PPV01: UFC 325 Volkanovski vs Lopes (Paramount+) @ 05:00 PM EST
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/5597
-
-#EXTINF:-1,USA UFC Channel
-https://restream-live.realiptv.to:443/Theone-restream/o3kTHZ0JdL/61769
-
 #EXTINF:-1,DEPORTES - UFC (L)(720)
 http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/9610
-#EXTINF:-1,DEPORTES - UFC Fight PASS (i)(720)
-http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/9611
-
-#EXTINF:-1,UFC 325: Prelims en Español 15:00
-http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/174299
-#EXTINF:-1,UFC 325: Main English 20:00
-http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/174300
-#EXTINF:-1,UFC 325: Main en Español 20:00
-http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/174301
-#EXTINF:-1,UFC 325: Multiview 20:00
-http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/174302
 
 ##############################################################################################
 
