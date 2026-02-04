@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,USA-ESPN (L)(720)
-http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/162675
-
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Main Event UHD" tvg-logo="" group-title="UHD 4K Streams",Sky Sports Main Event UHD
 http://bigfree.xyz:25461/tfms.xyz/forum.tfms.xyz/1857
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="UK: Sky Sports F1 UHD*" tvg-logo="https://tfms.xyz/channels.logos/uk.and.usa/uk.sport/skysportsandtnt/Sky_Sports_F1_UHD_PRIMARY_RGB.webp" group-title="UHD 4K Streams",UK: Sky Sports F1 UHD*
