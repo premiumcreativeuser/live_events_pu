@@ -57,7 +57,7 @@ EXTINF:-1 tvg-id="1255" tvg-name="NBA GAME 07" tvg-logo="https://tlgrm.re/images
 http://kstv.us:8080/live/SE58x561WX/2083803862/47483.ts
 EXTINF:-1 tvg-id="1256" tvg-name="NBA GAME 08" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1256" group-title="NBA",NBA GAME 08
 http://kstv.us:8080/live/SE58x561WX/2083803862/47484.ts
-#EXTINF:-1 tvg-id="1257" tvg-name="NBA GAME 09: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1257" group-title="NBA",NBA GAME 09
+#EXTINF:-1 tvg-id="1257" tvg-name="NBA GAME 09:" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1257" group-title="NBA",NBA GAME 09
 http://kstv.us:8080/live/SE58x561WX/2083803862/47485.ts
 #EXTINF:-1 tvg-id="1258" tvg-name="NBA GAME 10: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1258" group-title="NBA",NBA GAME 10
 http://kstv.us:8080/live/SE58x561WX/2083803862/47486.ts
