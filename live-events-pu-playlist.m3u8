@@ -14,33 +14,6 @@
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
 http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/162675
 
-#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS Locals
-http://kstv.us:8080/live/SE58x561WX/2083803862/49269.ts
-
-#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC Locals
-http://kstv.us:8080/live/SE58x561WX/2083803862/49272.ts
-
-#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-wnbc-us.png",NBC WNBC Locals
-http://kstv.us:8080/live/SE58x561WX/2083803862/49424.ts
-
-#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-wnbc-us.png",NBC WNBC
-http://kstv.us:8080/live/SE58x561WX/2083803862/23211.ts
-
-#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA Locals
-http://kstv.us:8080/live/SE58x561WX/2083803862/49270.ts
-
-#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA CA
-http://kstv.us:8080/live/SE58x561WX/2083803862/40686.ts
-
-#EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC KABC Locals
-http://kstv.us:8080/live/SE58x561WX/2083803862/49267.ts
-
-#EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL Locals
-http://kstv.us:8080/live/SE58x561WX/2083803862/49268.ts
-
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV Locals
-http://kstv.us:8080/live/SE58x561WX/2083803862/49282.ts
-
 #EXTINF:-1 tvg-id="1249" tvg-name="NBA GAME 01" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1249" group-title="NBA",NBA GAME 01
 http://kstv.us:8080/live/SE58x561WX/2083803862/47477.ts
 #EXTINF:-1 tvg-id="1250" tvg-name="NBA GAME 02" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1250" group-title="NBA",NBA GAME 02
