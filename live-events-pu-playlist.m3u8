@@ -41,21 +41,21 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/49268.ts
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV Locals
 http://kstv.us:8080/live/SE58x561WX/2083803862/49282.ts
 
-EXTINF:-1 tvg-id="1249" tvg-name="NBA GAME 01" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1249" group-title="NBA",NBA GAME 01
+#EXTINF:-1 tvg-id="1249" tvg-name="NBA GAME 01" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1249" group-title="NBA",NBA GAME 01
 http://kstv.us:8080/live/SE58x561WX/2083803862/47477.ts
-EXTINF:-1 tvg-id="1250" tvg-name="NBA GAME 02" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1250" group-title="NBA",NBA GAME 02
+#EXTINF:-1 tvg-id="1250" tvg-name="NBA GAME 02" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1250" group-title="NBA",NBA GAME 02
 http://kstv.us:8080/live/SE58x561WX/2083803862/47478.ts
-EXTINF:-1 tvg-id="1251" tvg-name="NBA GAME 03" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1251" group-title="NBA",NBA GAME 03
+#EXTINF:-1 tvg-id="1251" tvg-name="NBA GAME 03" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1251" group-title="NBA",NBA GAME 03
 http://kstv.us:8080/live/SE58x561WX/2083803862/47479.ts
-EXTINF:-1 tvg-id="1252" tvg-name="NBA GAME 04" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1252" group-title="NBA",NBA GAME 04
+#EXTINF:-1 tvg-id="1252" tvg-name="NBA GAME 04" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1252" group-title="NBA",NBA GAME 04
 http://kstv.us:8080/live/SE58x561WX/2083803862/47480.ts
-EXTINF:-1 tvg-id="1253" tvg-name="NBA GAME 05" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1253" group-title="NBA",NBA GAME 05
+#EXTINF:-1 tvg-id="1253" tvg-name="NBA GAME 05" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1253" group-title="NBA",NBA GAME 05
 http://kstv.us:8080/live/SE58x561WX/2083803862/47481.ts
-EXTINF:-1 tvg-id="1254" tvg-name="NBA GAME 06" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1254" group-title="NBA",NBA GAME 06
+#EXTINF:-1 tvg-id="1254" tvg-name="NBA GAME 06" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1254" group-title="NBA",NBA GAME 06
 http://kstv.us:8080/live/SE58x561WX/2083803862/47482.ts
-EXTINF:-1 tvg-id="1255" tvg-name="NBA GAME 07" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1255" group-title="NBA",NBA GAME 07
+#EXTINF:-1 tvg-id="1255" tvg-name="NBA GAME 07" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1255" group-title="NBA",NBA GAME 07
 http://kstv.us:8080/live/SE58x561WX/2083803862/47483.ts
-EXTINF:-1 tvg-id="1256" tvg-name="NBA GAME 08" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1256" group-title="NBA",NBA GAME 08
+#EXTINF:-1 tvg-id="1256" tvg-name="NBA GAME 08" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1256" group-title="NBA",NBA GAME 08
 http://kstv.us:8080/live/SE58x561WX/2083803862/47484.ts
 #EXTINF:-1 tvg-id="1257" tvg-name="NBA GAME 09:" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1257" group-title="NBA",NBA GAME 09
 http://kstv.us:8080/live/SE58x561WX/2083803862/47485.ts
