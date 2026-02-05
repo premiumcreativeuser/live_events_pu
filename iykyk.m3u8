@@ -323,6 +323,8 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/23251.ts
 http://kstv.us:8080/live/SE58x561WX/2083803862/15907.ts
 #EXTINF:-1 tvg-id="227" tvg-name="US | Starz Encore Western" tvg-logo="https://tlgrm.re/images/starz-encore-westerns-us.png" tvg-chno="227" group-title="US - Movies",US | Starz Encore Western
 http://kstv.us:8080/live/SE58x561WX/2083803862/25068.ts
+#EXTINF:-1 tvg-id="1528" tvg-name="UK | STV HD" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stv_uk.png" tvg-chno="1528" group-title="UK - Entertainment",UK | STV HD
+http://kstv.us:8080/live/SE58x561WX/2083803862/47837.ts
 #EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy HD
 http://kstv.us:8080/live/SE58x561WX/2083803862/22469.ts
 #EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy
