@@ -282,111 +282,114 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/47871.ts
 #EXTINF:-1 tvg-id="1561" tvg-name="UK | Sky Sports Racing" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1354.png" tvg-chno="1561" group-title="UK - Sports",UK | Sky Sports Racing
 http://kstv.us:8080/live/SE58x561WX/2083803862/47872.ts
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/149311
-#EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/401164
-#EXTINF:-1 tvg-id="ATTSWPL.ATT.SportsNet.Southwest.Plus.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/at-and-t-sportsnet-southwest-custom-us.png",AT&T SportsNet Southwest USA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/4429
-#EXTINF:-1 tvg-id="ATTSWPL.ATT.SportsNet.Southwest.Plus.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/at-and-t-sportsnet-southwest-custom-us.png",SPORTSNET SOUTHWEST USA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/97493
-#EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/0451a56dccc04c6fb08415533a9c90bf62d7c9c6/logos/Spectrum_Sportsnet_LA.svg",Spectrum SportsNet LA Dodgers USA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/74683
-#EXTINF:-1 tvg-id="Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/0451a56dccc04c6fb08415533a9c90bf62d7c9c6/logos/Spectrum_Sportsnet_LA.svg",Spectrum SportsNet LA Dodgers USA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/401166
-#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SportsNet New York USA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3865
+http://kstv.us:8080/live/SE58x561WX/2083803862/47473.ts
 #EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SportsNet New York SNY USA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/2413
-#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SPORTSNET NY USA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/97492
-#EXTINF:-1 tvg-id="Sportsnet.World.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",Sportsnet World CA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/88060
-#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SPORTSNET WEST CA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3068
-#EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pacific-ca.png",SPORTSNET PACIFIC CA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3069
+http://kstv.us:8080/live/SE58x561WX/2083803862/46400.ts
+#EXTINF:-1 tvg-id="Sportsnet.World.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",SportsNet World CA
+http://kstv.us:8080/live/SE58x561WX/2083803862/15936.ts
+#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet West CA
+http://kstv.us:8080/live/SE58x561WX/2083803862/15903.ts
+#EXTINF:-1 tvg-id="Sportsnet.(West).-.Satellite/Digital.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet West CA
+http://kstv.us:8080/live/SE58x561WX/2083803862/40613.ts
+#EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pacific-ca.png",SportsNet Pacific CA
+http://kstv.us:8080/live/SE58x561WX/2083803862/40614.ts
 #EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-ontario-ca.png",Sportsnet Ontario
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3070
+http://kstv.us:8080/live/SE58x561WX/2083803862/15937.ts
+#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-ontario-ca.png",Sportsnet Ontario
+http://kstv.us:8080/live/SE58x561WX/2083803862/40615.ts
 #EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3071
-#EXTINF:-1 tvg-id="Sportsnet.(East).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-east-ca.png",SPORTSNET EAST CA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3072
-#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SPORTSNET 360 CA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3073
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3680
+http://kstv.us:8080/live/SE58x561WX/2083803862/15930.ts
+#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA
+http://kstv.us:8080/live/SE58x561WX/2083803862/40616.ts
+#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SportsNet 360 CA
+http://kstv.us:8080/live/SE58x561WX/2083803862/40618.ts
+#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SportsNet 360 CA
+http://kstv.us:8080/live/SE58x561WX/2083803862/15938.ts
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz HD
+http://kstv.us:8080/live/SE58x561WX/2083803862/15906.ts
 #EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz West
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3963
-#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy East
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3681
-#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy West
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3841
+http://kstv.us:8080/live/SE58x561WX/2083803862/15906.ts
+#EXTINF:-1 tvg-id="1896" tvg-name="US | Starz Encore Classic" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png" tvg-chno="1896" group-title="US - Movies",US | Starz Encore Classic
+http://kstv.us:8080/live/SE58x561WX/2083803862/48360.ts
+#EXTINF:-1 tvg-id="1897" tvg-name="US | Starz Encore Family" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897" group-title="US - Movies",US | Starz Encore Family
+http://kstv.us:8080/live/SE58x561WX/2083803862/48361.ts
+#EXTINF:-1 tvg-id="2121" tvg-name="US | Starz Encore East" tvg-logo="https://tlgrm.re/images/starz-encore-us.png" tvg-chno="2121" group-title="US - Movies",US | Starz Encore East
+http://kstv.us:8080/live/SE58x561WX/2083803862/49164.ts
+#EXTINF:-1 tvg-id="215" tvg-name="US | STARZ COMEDY" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png" tvg-chno="215" group-title="US - Movies",US | STARZ COMEDY
+http://kstv.us:8080/live/SE58x561WX/2083803862/23252.ts
+#EXTINF:-1 tvg-id="216" tvg-name="US | STARZ KIDS & FAMILY" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png" tvg-chno="216" group-title="US - Movies",US | STARZ KIDS & FAMILY
+http://kstv.us:8080/live/SE58x561WX/2083803862/23251.ts
+#EXTINF:-1 tvg-id="226" tvg-name="US | Starz Cinema HD" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png" tvg-chno="226" group-title="US - Movies",US | Starz Cinema HD
+http://kstv.us:8080/live/SE58x561WX/2083803862/15907.ts
+#EXTINF:-1 tvg-id="227" tvg-name="US | Starz Encore Western" tvg-logo="https://tlgrm.re/images/starz-encore-westerns-us.png" tvg-chno="227" group-title="US - Movies",US | Starz Encore Western
+http://kstv.us:8080/live/SE58x561WX/2083803862/25068.ts
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy HD
+http://kstv.us:8080/live/SE58x561WX/2083803862/22469.ts
+#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy
+http://kstv.us:8080/live/SE58x561WX/2083803862/15964.ts
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS HD
+http://kstv.us:8080/live/SE58x561WX/2083803862/15954.ts
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS East
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3684
+http://kstv.us:8080/live/SE58x561WX/2083803862/22468.ts
 #EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS West
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3842
-
-#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo KVEA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/2394
-
+http://kstv.us:8080/live/SE58x561WX/2083803862/22468.ts
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo
+http://kstv.us:8080/live/SE58x561WX/2083803862/23248.ts
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png",Tennis Channel
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3685
+http://kstv.us:8080/live/SE58x561WX/2083803862/22467.ts
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png",Tennis Channel HD
+http://kstv.us:8080/live/SE58x561WX/2083803862/15940.ts
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png",The Weather Channel
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/42308
-#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC East
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3686
-#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC West
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/48974
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT East
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3683
+http://kstv.us:8080/live/SE58x561WX/2083803862/22464.ts
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC HD
+http://kstv.us:8080/live/SE58x561WX/2083803862/15969.ts
+#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC
+http://kstv.us:8080/live/SE58x561WX/2083803862/22463.ts
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT HD
+http://kstv.us:8080/live/SE58x561WX/2083803862/15955.ts
 #EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT West
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3844
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT West (Stream 2)
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/2384
-
+http://kstv.us:8080/live/SE58x561WX/2083803862/15955.ts
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/2337
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 50fps
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/2336
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 50fps
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/2335
+http://kstv.us:8080/live/SE58x561WX/2083803862/47850.ts
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 
+http://kstv.us:8080/live/SE58x561WX/2083803862/47851.ts
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3
+http://kstv.us:8080/live/SE58x561WX/2083803862/47852.ts
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/675021
-
+http://kstv.us:8080/live/SE58x561WX/2083803862/47853.ts
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1",TSN 1 CA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3146
+http://kstv.us:8080/live/SE58x561WX/2083803862/15929.ts
 #EXTINF:-1 tvg-id="TTSN.2.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2",TSN 2 CA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3145
+http://kstv.us:8080/live/SE58x561WX/2083803862/15928.ts
 #EXTINF:-1 tvg-id="TSN.3.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-name="TSN 3",TSN 3 CA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3144
+http://kstv.us:8080/live/SE58x561WX/2083803862/15927.ts
 #EXTINF:-1 tvg-id="TSN.4.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-name="TSN 4 CA",TSN 4 CA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3143
+http://kstv.us:8080/live/SE58x561WX/2083803862/15926.ts
 #EXTINF:-1 tvg-id="TSN.5.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-name="TSN 5 CA",TSN 5 CA
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3142
+http://kstv.us:8080/live/SE58x561WX/2083803862/15925.ts
 #EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel East
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3765
-#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel West
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3845
+http://kstv.us:8080/live/SE58x561WX/2083803862/24856.ts
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV East
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3688
+http://kstv.us:8080/live/SE58x561WX/2083803862/23243.ts
 #EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",truTV West
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3846
+http://kstv.us:8080/live/SE58x561WX/2083803862/23243.ts
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo East
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3696
+http://kstv.us:8080/live/SE58x561WX/2083803862/23281.ts
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo West
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3847
+http://kstv.us:8080/live/SE58x561WX/2083803862/23281.ts
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision East
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3697
+http://kstv.us:8080/live/SE58x561WX/2083803862/23236.ts
+#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision TUDN
+http://kstv.us:8080/live/SE58x561WX/2083803862/23235.ts
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network East
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3694
+http://kstv.us:8080/live/SE58x561WX/2083803862/15905.ts
 #EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network West
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3848
-#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network West (Stream 2)
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/2379
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/3699
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 West
-https://restream-live.realiptv.to:443/ALEX/sg5ng25ikf/81588
+http://kstv.us:8080/live/SE58x561WX/2083803862/15905.ts
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 HD
+http://kstv.us:8080/live/SE58x561WX/2083803862/22898.ts
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 SD
+http://kstv.us:8080/live/SE58x561WX/2083803862/48521.ts
+
 
 
 ##############################################################################################
