@@ -41,6 +41,34 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/49268.ts
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV Locals
 http://kstv.us:8080/live/SE58x561WX/2083803862/49282.ts
 
+#EXTINF:-1 tvg-id="1329" tvg-name="NBA 01: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 01
+http://kstv.us:8080/live/SE58x561WX/2083803862/47583.ts
+#EXTINF:-1 tvg-id="1330" tvg-name="NBA 02: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 02
+http://kstv.us:8080/live/SE58x561WX/2083803862/47584.ts
+#EXTINF:-1 tvg-id="1331" tvg-name="NBA 03: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 03
+http://kstv.us:8080/live/SE58x561WX/2083803862/47585.ts
+#EXTINF:-1 tvg-id="1332" tvg-name="NBA 04: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 04
+http://kstv.us:8080/live/SE58x561WX/2083803862/47586.ts
+#EXTINF:-1 tvg-id="1333" tvg-name="NBA 05: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 05
+http://kstv.us:8080/live/SE58x561WX/2083803862/47587.ts
+#EXTINF:-1 tvg-id="1334" tvg-name="NBA 06: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 06
+http://kstv.us:8080/live/SE58x561WX/2083803862/47588.ts
+#EXTINF:-1 tvg-id="1335" tvg-name="NBA 07: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 07
+http://kstv.us:8080/live/SE58x561WX/2083803862/47589.ts
+#EXTINF:-1 tvg-id="1336" tvg-name="NBA 08: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 08
+http://kstv.us:8080/live/SE58x561WX/2083803862/47590.ts
+#EXTINF:-1 tvg-id="1337" tvg-name="NBA 09: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 09
+http://kstv.us:8080/live/SE58x561WX/2083803862/47591.ts
+#EXTINF:-1 tvg-id="1338" tvg-name="NBA 10: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1338" group-title="NBA.2",NBA 10
+http://kstv.us:8080/live/SE58x561WX/2083803862/47592.ts
+#EXTINF:-1 tvg-id="1339" tvg-name="NBA 11: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1339" group-title="NBA.2",NBA 11
+http://kstv.us:8080/live/SE58x561WX/2083803862/47593.ts
+#EXTINF:-1 tvg-id="1340" tvg-name="NBA 12: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1340" group-title="NBA.2",NBA 12
+http://kstv.us:8080/live/SE58x561WX/2083803862/47594.ts
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA 13: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA.2",NBA 13
+http://kstv.us:8080/live/SE58x561WX/2083803862/47595.ts
+
+
 
 ##############################################################################################
 
