@@ -255,9 +255,9 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/23255.ts
 http://kstv.us:8080/live/SE58x561WX/2083803862/15908.ts
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2
 http://kstv.us:8080/live/SE58x561WX/2083803862/48359.ts
-#EXTINF:-1 tvg-id="210" tvg-name="US | SHOWTIME EXTREME" tvg-logo="https://tlgrm.re/images/showtime-extreme-us.png" tvg-chno="210" group-title="US - Movies",US | SHOWTIME EXTREME
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",SHOWTIME EXTREME
 http://kstv.us:8080/live/SE58x561WX/2083803862/23257.ts
-#EXTINF:-1 tvg-id="211" tvg-name="US | SHOWTIME FAMILY ZONE" tvg-logo="https://tlgrm.re/images/showtime-family-zone-us.png" tvg-chno="211" group-title="US - Movies",US | SHOWTIME FAMILY ZONE
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",SHOWTIME FAMILY ZONE
 http://kstv.us:8080/live/SE58x561WX/2083803862/23256.ts
 #EXTINF:-1 tvg-id="1551" tvg-name="UK | Sky Sports Action" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1333.png" tvg-chno="1551" group-title="UK - Sports",UK | Sky Sports Action
 http://kstv.us:8080/live/SE58x561WX/2083803862/47862.ts
