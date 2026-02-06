@@ -358,6 +358,8 @@ SkySp.Mix.HD.uk
 SkySp.News.HD.uk
 SkyPremiereHD.uk
 Sky.Premiere.uk
+SkySp.Racing.HD.uk
+SkySp.Racing.uk
 SkyCinemaAction.uk
 SkyCinemaAnimation.uk
 SkyAnimationHD.uk
