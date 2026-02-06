@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/epgs/moveonjoy-epg.xml"
 
 #NEWS
-#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS Locals
+#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS LA Locals
 http://kstv.us:8080/live/02BufttAbt/1614941062/49269.ts
 #EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC LA Locals
 http://kstv.us:8080/live/02BufttAbt/1614941062/49272.ts
