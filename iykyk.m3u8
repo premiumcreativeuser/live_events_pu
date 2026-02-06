@@ -197,9 +197,9 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/48332.ts
 http://kstv.us:8080/live/SE58x561WX/2083803862/15914.ts
 #EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png" ,HBO Movies (HD)
 http://kstv.us:8080/live/SE58x561WX/2083803862/23299.ts
-#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",HGTV East
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV East
 http://kstv.us:8080/live/SE58x561WX/2083803862/15972.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",HGTV West
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV West
 http://kstv.us:8080/live/SE58x561WX/2083803862/15972.ts
 #EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History
 http://kstv.us:8080/live/SE58x561WX/2083803862/15912.ts
@@ -207,9 +207,9 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/15912.ts
 http://kstv.us:8080/live/SE58x561WX/2083803862/22515.ts
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime East
 http://kstv.us:8080/live/SE58x561WX/2083803862/23293.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime West
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime West
 http://kstv.us:8080/live/SE58x561WX/2083803862/22509.ts
-#EXTINF:-1 tvg-id="155" tvg-name="US | LIFETIME MOVIES" tvg-logo="https://tlgrm.re/images/lifetime-movies-us.png" tvg-chno="155" group-title="US - Movies",US | LIFETIME MOVIES
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",LIFETIME MOVIES LMN
 http://kstv.us:8080/live/SE58x561WX/2083803862/23292.ts
 #EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png",MSNBC
 http://kstv.us:8080/live/SE58x561WX/2083803862/22506.ts
