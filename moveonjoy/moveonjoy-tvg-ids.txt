@@ -63,6 +63,8 @@ HBO.(Pacific).us2
 HBO.Signature.HD.us2
 HBO.West.us2
 HBO.Zone.HD.us2
+Home.and.Garden.Television.HD.(Pacific).us2
+Home.and.Garden.Television.HD.us2
 Investigation.Discovery.HD.(Pacific).us2
 Investigation.Discovery.HD.us2
 Oprah.Winfrey.Network.HD.us2
