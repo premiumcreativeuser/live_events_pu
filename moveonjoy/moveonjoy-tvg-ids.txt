@@ -348,6 +348,7 @@ Much.Music.HD.ca2
 
 Sportsnet.360.HD.ca2
 Sportsnet.World.HD.ca2
+Sportsnet.West.HD.ca2
 
 
 
