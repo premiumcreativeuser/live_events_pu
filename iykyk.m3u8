@@ -259,23 +259,23 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/48359.ts
 http://kstv.us:8080/live/SE58x561WX/2083803862/23257.ts
 #EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",SHOWTIME FAMILY ZONE
 http://kstv.us:8080/live/SE58x561WX/2083803862/23256.ts
-#EXTINF:-1 tvg-id="1551" tvg-name="UK | Sky Sports Action" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1333.png" tvg-chno="1551" group-title="UK - Sports",UK | Sky Sports Action
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK
 http://kstv.us:8080/live/SE58x561WX/2083803862/47862.ts
-#EXTINF:-1 tvg-id="1552" tvg-name="UK | Sky Sports Arena" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb3839.png" tvg-chno="1552" group-title="UK - Sports",UK | Sky Sports Arena
+#EXTINF:-1 tvg-id="1552" tvg-name="UK | Sky Sports Arena" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb3839.png",Sky Sports Arena UK
 http://kstv.us:8080/live/SE58x561WX/2083803862/47863.ts
-#EXTINF:-1 tvg-name="Sky Sports F1 UK" tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
 http://kstv.us:8080/live/SE58x561WX/2083803862/47865.ts
-#EXTINF:-1 tvg-id="1555" tvg-name="UK | Sky Sports Football" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb3838.png" tvg-chno="1555" group-title="UK - Sports",UK | Sky Sports Football
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sporst%20football.png",Sky Sports Football UK
 http://kstv.us:8080/live/SE58x561WX/2083803862/47866.ts
-#EXTINF:-1  tvg-name="Sky Sports Main Events HD UK" tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK
 http://kstv.us:8080/live/SE58x561WX/2083803862/47868.ts
-#EXTINF:-1 tvg-id="1558" tvg-name="UK | Sky Sports Mix" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/240/skychb4091.png" tvg-chno="1558" group-title="UK - Sports",UK | Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20mix.png",Sky Sports Mix UK
 http://kstv.us:8080/live/SE58x561WX/2083803862/47869.ts
-#EXTINF:-1 tvg-id="1559" tvg-name="UK | Sky Sports News" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1314.png" tvg-chno="1559" group-title="UK - Sports",UK | Sky Sports News
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20news.png",Sky Sports News UK
 http://kstv.us:8080/live/SE58x561WX/2083803862/47870.ts
-#EXTINF:-1 tvg-id="1560" tvg-name="UK | Sky Sports Premier League" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1333.png" tvg-chno="1560" group-title="UK - Sports",UK | Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK
 http://kstv.us:8080/live/SE58x561WX/2083803862/47871.ts
-#EXTINF:-1 tvg-id="1561" tvg-name="UK | Sky Sports Racing" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb1354.png" tvg-chno="1561" group-title="UK - Sports",UK | Sky Sports Racing
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20racing.png",Sky Sports Racing UK
 http://kstv.us:8080/live/SE58x561WX/2083803862/47872.ts
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
 http://kstv.us:8080/live/SE58x561WX/2083803862/47473.ts
