@@ -58,6 +58,7 @@ HBO.Drama.us2
 HBO.East.us2
 HBO.Hits.us2
 HBO.Latino.HD.us2
+HBO.Movies.us2
 HBO.(Pacific).us2
 HBO.Signature.HD.us2
 HBO.West.us2
