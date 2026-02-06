@@ -241,7 +241,7 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/15941.ts
 http://kstv.us:8080/live/SE58x561WX/2083803862/23276.ts
 #EXTINF:-1 tvg-id="190" tvg-name="US | NICK JR.TOO" tvg-logo="https://tlgrm.re/images/nick-jr-too-uk.png" tvg-chno="190" group-title="US - Kids",US | NICK JR.TOO
 http://kstv.us:8080/live/SE58x561WX/2083803862/23275.ts
-#EXTINF:-1 tvg-id="Nickelodeon.HD.us2HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon
 http://kstv.us:8080/live/SE58x561WX/2083803862/15963.ts
 #EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon West
 http://kstv.us:8080/live/SE58x561WX/2083803862/22486.ts
