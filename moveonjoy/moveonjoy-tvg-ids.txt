@@ -149,6 +149,7 @@ TBS.HD.us2
 Hallmark.Channel.HD.us2
 Hallmark.Family.us2
 Hallmark.Mystery.HD.us2
+SportsNet.Pittsburgh.HD.us2
 Starz.Cinema.HD.us2
 Starz.Comedy.HD.us2
 Starz.Edge.HD.us2
