@@ -249,13 +249,11 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/22486.ts
 http://kstv.us:8080/live/SE58x561WX/2083803862/23274.ts
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
 http://kstv.us:8080/live/SE58x561WX/2083803862/23273.ts
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime HD
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime (HD)
 http://kstv.us:8080/live/SE58x561WX/2083803862/23255.ts
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime 
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime
 http://kstv.us:8080/live/SE58x561WX/2083803862/15908.ts
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2
-http://kstv.us:8080/live/SE58x561WX/2083803862/48359.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2
 http://kstv.us:8080/live/SE58x561WX/2083803862/48359.ts
 #EXTINF:-1 tvg-id="210" tvg-name="US | SHOWTIME EXTREME" tvg-logo="https://tlgrm.re/images/showtime-extreme-us.png" tvg-chno="210" group-title="US - Movies",US | SHOWTIME EXTREME
 http://kstv.us:8080/live/SE58x561WX/2083803862/23257.ts
