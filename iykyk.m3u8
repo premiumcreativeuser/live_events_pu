@@ -21,7 +21,7 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/49267.ts
 http://kstv.us:8080/live/SE58x561WX/2083803862/49268.ts
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV Locals
 http://kstv.us:8080/live/SE58x561WX/2083803862/49282.ts
-#EXTINF:-1 tvg-id="KCOP-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/my-13-kcop-us.png",FOX 13 (KCOP) CA Los Angeles 
+#EXTINF:-1 tvg-id="KCOP-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/my-13-kcop-us.png",FOX 13 KCOP CA Los Angeles 
 http://kstv.us:8080/live/SE58x561WX/2083803862/49271.ts
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E
 http://kstv.us:8080/live/SE58x561WX/2083803862/15966.ts
