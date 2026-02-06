@@ -73,6 +73,7 @@ MSNBC.HD.us2
 CSPAN2.us2
 CSPAN3.us2
 CSPAN.us2
+LMN.HD.us2
 MTV2:.Music.Television.HD.us2
 MTV.Classic.us2
 MTVLIVE.us2
