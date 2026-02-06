@@ -159,8 +159,6 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/22525.ts
 http://kstv.us:8080/live/SE58x561WX/2083803862/15947.ts
 #EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png",Freeform
 http://kstv.us:8080/live/SE58x561WX/2083803862/23313.ts
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png",Freeform
-http://kstv.us:8080/live/SE58x561WX/2083803862/23313.ts
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX East
 http://kstv.us:8080/live/SE58x561WX/2083803862/22522.ts
 #EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX West
@@ -175,9 +173,9 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/15917.ts
 http://kstv.us:8080/live/SE58x561WX/2083803862/22519.ts
 #EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries
 http://kstv.us:8080/live/SE58x561WX/2083803862/22518.ts
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries West
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries West
 http://kstv.us:8080/live/SE58x561WX/2083803862/22518.ts
-#EXTINF:-1 tvg-id="1907" tvg-name="US | Hallmark Family" tvg-logo="https://raw.githubusercontent.com/fraudiay79/logos/master/us/hallmarkfamily.png" tvg-chno="1907" group-title="US - Entertainment",US | Hallmark Family
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="US | Hallmark Family" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hallmarkfamily.png",Hallmark Family
 http://kstv.us:8080/live/SE58x561WX/2083803862/48377.ts
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO East
 http://kstv.us:8080/live/SE58x561WX/2083803862/15913.ts
