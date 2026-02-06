@@ -354,6 +354,7 @@ Sky.Atlantic.HD.uk
 Sky.Comedy.HD.uk
 SkySp.F1.HD.uk
 SkySpMainEvHD.uk
+SkySp.Mix.HD.uk
 SkyCinemaAction.uk
 SkyCinemaAnimation.uk
 SkyAnimationHD.uk
