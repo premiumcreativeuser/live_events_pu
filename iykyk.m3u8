@@ -217,9 +217,9 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/22506.ts
 http://kstv.us:8080/live/SE58x561WX/2083803862/23288.ts
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV West
 http://kstv.us:8080/live/SE58x561WX/2083803862/23288.ts
-#EXTINF:-1 tvg-id="164" tvg-name="US | MTV LIVE" tvg-logo="https://tlgrm.re/images/mtv-live-us.png" tvg-chno="164" group-title="US - Entertainment",US | MTV LIVE
+#EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-live-us.png",MTV LIVE
 http://kstv.us:8080/live/SE58x561WX/2083803862/23286.ts
-#EXTINF:-1 tvg-id="165" tvg-name="US | MTV2" tvg-logo="https://tlgrm.re/images/mtv-2-us.png" tvg-chno="165" group-title="US - Entertainment",US | MTV2
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV2
 http://kstv.us:8080/live/SE58x561WX/2083803862/23217.ts
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild East
 http://kstv.us:8080/live/SE58x561WX/2083803862/22502.ts
