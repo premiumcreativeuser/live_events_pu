@@ -356,6 +356,8 @@ SkySp.F1.HD.uk
 SkySpMainEvHD.uk
 SkySp.Mix.HD.uk
 SkySp.News.HD.uk
+SkyPremiereHD.uk
+Sky.Premiere.uk
 SkyCinemaAction.uk
 SkyCinemaAnimation.uk
 SkyAnimationHD.uk
