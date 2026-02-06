@@ -189,13 +189,13 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/40696.ts
 http://kstv.us:8080/live/SE58x561WX/2083803862/23303.ts
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy
 http://kstv.us:8080/live/SE58x561WX/2083803862/15916.ts
-#EXTINF:-1 tvg-id="137" tvg-name="US | HBO Drama" tvg-logo="https://tlgrm.re/images/hbo-signature-us.png" tvg-chno="137" group-title="US - Movies",US | HBO Drama
+#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama
 http://kstv.us:8080/live/SE58x561WX/2083803862/15915.ts
-#EXTINF:-1 tvg-id="139" tvg-name="US | HBO Hits" tvg-logo="" tvg-chno="139" group-title="US - Movies",US | HBO Hits
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits
 http://kstv.us:8080/live/SE58x561WX/2083803862/48332.ts
-#EXTINF:-1 tvg-id="140" tvg-name="US | HBO Movies" tvg-logo="" tvg-chno="140" group-title="US - Movies",US | HBO Movies
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png" ,HBO Movies
 http://kstv.us:8080/live/SE58x561WX/2083803862/15914.ts
-#EXTINF:-1 tvg-id="141" tvg-name="US | HBO Movies HD" tvg-logo="" tvg-chno="141" group-title="US - Movies",US | HBO Movies HD
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png" ,HBO Movies (HD)
 http://kstv.us:8080/live/SE58x561WX/2083803862/23299.ts
 #EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",HGTV East
 http://kstv.us:8080/live/SE58x561WX/2083803862/15972.ts
