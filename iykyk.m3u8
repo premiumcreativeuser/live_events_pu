@@ -43,11 +43,7 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/40770.ts
 http://kstv.us:8080/live/SE58x561WX/2083803862/22566.ts
 #EXTINF:-1 tvg-id="BET.Her.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png",BET HER
 http://kstv.us:8080/live/SE58x561WX/2083803862/23356.ts
-#EXTINF:-1 tvg-id="1898" tvg-name="US | BET Jams" tvg-logo="https://tlgrm.re/images/bet-jams-us.png" tvg-chno="1898" group-title="US - Entertainment",US | BET Jams
-http://kstv.us:8080/live/SE58x561WX/2083803862/48362.ts
-#EXTINF:-1 tvg-id="1899" tvg-name="US | BET SOUL" tvg-logo="https://tlgrm.re/images/bet-soul-us.png" tvg-chno="1899" group-title="US - Entertainment",US | BET SOUL
-http://kstv.us:8080/live/SE58x561WX/2083803862/48363.ts
-#EXTINF:-1 tvg-id="1901" tvg-name="US | SHOxBET" tvg-logo="https://tlgrm.re/images/sho-bet-us.png" tvg-chno="1901" group-title="US - Movies",US | SHOxBET
+#EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-logo="https://tlgrm.re/images/sho-bet-us.png",BET SHOxBET
 http://kstv.us:8080/live/SE58x561WX/2083803862/48365.ts
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true",Big Ten Network
 http://kstv.us:8080/live/SE58x561WX/2083803862/23355.ts
@@ -79,11 +75,11 @@ http://kstv.us:8080/live/SE58x561WX/2083803862/15921.ts
 http://kstv.us:8080/live/SE58x561WX/2083803862/23346.ts
 #EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX
 http://kstv.us:8080/live/SE58x561WX/2083803862/15924.ts
-#EXTINF:-1 tvg-id="86" tvg-name="US | Cinemax Hits" tvg-logo="" tvg-chno="86" group-title="US - Movies",US | Cinemax Hits
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits
 http://kstv.us:8080/live/SE58x561WX/2083803862/23342.ts
-#EXTINF:-1 tvg-id="168" tvg-name="US | MoreMax HD" tvg-logo="https://tlgrm.re/images/cinemax-moremax-us.png" tvg-chno="168" group-title="US - Movies",US | MoreMax HD
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-moremax-us.png",MoreMax
 http://kstv.us:8080/live/SE58x561WX/2083803862/15910.ts
-#EXTINF:-1 tvg-id="1893" tvg-name="US | Cinemax Classics" tvg-logo="" tvg-chno="1893" group-title="US - Movies",US | Cinemax Classics
+#EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-classics-us.png",CINEMAX Classics
 http://kstv.us:8080/live/SE58x561WX/2083803862/48357.ts
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
 http://kstv.us:8080/live/SE58x561WX/2083803862/15902.ts
