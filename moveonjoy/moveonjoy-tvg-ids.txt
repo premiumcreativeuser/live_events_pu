@@ -351,7 +351,7 @@ Sportsnet.World.HD.ca2
 Sportsnet.West.HD.ca2
 Sportsnet.(Pacific).ca2
 Sportsnet.(Pacific).HD.ca2
-
+Sportsnet.Ontario.HD.ca2
 
 Sky.Atlantic.HD.uk
 Sky.Comedy.HD.uk
