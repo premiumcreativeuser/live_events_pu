@@ -349,7 +349,8 @@ Much.Music.HD.ca2
 Sportsnet.360.HD.ca2
 Sportsnet.World.HD.ca2
 Sportsnet.West.HD.ca2
-
+Sportsnet.(Pacific).ca2
+Sportsnet.(Pacific).HD.ca2
 
 
 Sky.Atlantic.HD.uk
