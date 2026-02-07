@@ -51,13 +51,7 @@ http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418112
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417879
 #EXTINF:-1 tvg-id="BET.Pacific.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET WEST
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419374
-#EXTINF:-1 tvg-id="BET.Her.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png",BET HER
-http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417878
-#EXTINF:-1 tvg-id="1898" tvg-name="US | BET Jams" tvg-logo="https://tlgrm.re/images/bet-jams-us.png" tvg-chno="1898" group-title="US - Entertainment",US | BET Jams
-http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417955
-#EXTINF:-1 tvg-id="1899" tvg-name="US | BET SOUL" tvg-logo="https://tlgrm.re/images/bet-soul-us.png" tvg-chno="1899" group-title="US - Entertainment",US | BET SOUL
-http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417956
-#EXTINF:-1 tvg-id="1901" tvg-name="US | SHOxBET" tvg-logo="https://tlgrm.re/images/sho-bet-us.png" tvg-chno="1901" group-title="US - Movies",US | SHOxBET
+#EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-logo="https://tlgrm.re/images/sho-bet-us.png",BET SHOxBET
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418096
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true",Big Ten Network
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/433792
@@ -67,11 +61,11 @@ http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418036
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/509088
 #EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417880
-#EXTINF:-1 tvg-id="Bravo.Pacific.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo West
+#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419322
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418037
-#EXTINF:-1 tvg-id="Cartoon.Network.Pacific.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West
+#EXTINF:-1 tvg-id="Cartoon.Network.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419270
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS Sports Network HD
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418177
@@ -85,7 +79,7 @@ http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/509089
 https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 #EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418077
-#EXTINF:-1 tvg-id="5.StarMAX.HD.Pacific.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX West
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419280
 #EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",Cinemax 5 StarMax
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418081
@@ -93,13 +87,13 @@ http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418081
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418104
 #EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX WEST
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419281
-#EXTINF:-1 tvg-id="CinemaxHits.us" tvg-name="US: CINEMAX MOREMAX" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png" group-title="USA MOVIES HD",US: CINEMAX MOREMAX
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="CINEMAX MOREMAX" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png" group-title="USA MOVIES HD",CINEMAX MOREMAX
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418078
-#EXTINF:-1 tvg-id="CinemaxHitsPacific.us" tvg-name="US: Cinemax MoreMax (West)" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png" group-title="USA MOVIES HD",US: Cinemax MoreMax (West)
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="Cinemax MoreMax (West)" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png" group-title="USA MOVIES HD",Cinemax MoreMax (West)
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419282
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418115
-#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-name="US: CNBC WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CNBC_World_2024.svg/200px-CNBC_World_2024.svg.png" group-title="USA NEWS HD",US: CNBC WORLD
+#EXTINF:-1 tvg-id="CNBC.World.us2" tvg-name="CNBC WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CNBC_World_2024.svg/200px-CNBC_World_2024.svg.png" group-title="USA NEWS HD",CNBC WORLD
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418116
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418118
@@ -145,7 +139,7 @@ http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418174
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418176
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417885
-#EXTINF:-1 tvg-id="Food.Network.Pacific.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network West
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419327
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",FOX Business Network
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418110
@@ -173,11 +167,11 @@ http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417889
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417892
 #EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419335
-#EXTINF:-1 tvg-id="HallmarkFamily.us" tvg-name="US: HALLMARK FAMILY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Hallmark_Family_2024.svg/200px-Hallmark_Family_2024.svg.png" group-title="USA ENT HD",US: HALLMARK FAMILY
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="US | Hallmark Family" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hallmarkfamily.png",Hallmark Family
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417937
-#EXTINF:-1 tvg-id="HallmarkMoviesandMore.us" tvg-name="US: HALLMARK MOVIES & MORE" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png" group-title="USA MOVIES HD",US: HALLMARK MOVIES & MORE
+#EXTINF:-1 tvg-id="HallmarkMoviesandMore.us" tvg-name="HALLMARK MOVIES & MORE" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png" group-title="USA MOVIES HD",HALLMARK MOVIES & MORE
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418091
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries West
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418098
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/568124
@@ -185,23 +179,23 @@ http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/568124
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419287
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418058
-#EXTINF:-1 tvg-id="HBO2.Pacific.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 West
+#EXTINF:-1 tvg-id="HBO2.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419293
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418059
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419288
-#EXTINF:-1 tvg-id="HBODrama.us" tvg-name="US: HBO SIGNATURE" tvg-logo="https://i.ibb.co/fXFK9GV/hbo-signature-east.png" group-title="USA MOVIES HD",US: HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/fXFK9GV/hbo-signature-east.png" group-title="USA MOVIES HD",HBO SIGNATURE
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418061
-#EXTINF:-1 tvg-id="HBODramaPacific.us" tvg-name="US: HBO Signature (West)" tvg-logo="https://i.ibb.co/fXFK9GV/hbo-signature-east.png" group-title="USA MOVIES HD",US: HBO Signature (West)
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO Signature (West)" tvg-logo="https://i.ibb.co/fXFK9GV/hbo-signature-east.png" group-title="USA MOVIES HD",HBO Signature (West)
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419291
-#EXTINF:-1 tvg-id="HBOMovies.us" tvg-name="US: HBO ZONE" tvg-logo="https://i.ibb.co/StpK73S/hbo-zone-east.png" group-title="USA MOVIES HD",US: HBO ZONE
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO ZONE" tvg-logo="https://i.ibb.co/StpK73S/hbo-zone-east.png" group-title="USA MOVIES HD",HBO ZONE
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418092
-#EXTINF:-1 tvg-id="HBOMoviesPacific.us" tvg-name="US: HBO Zone (West)" tvg-logo="https://i.ibb.co/StpK73S/hbo-zone-east.png" group-title="USA MOVIES HD",US: HBO Zone (West)
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone (West)" tvg-logo="https://i.ibb.co/StpK73S/hbo-zone-east.png" group-title="USA MOVIES HD",HBO Zone (West)
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419292
-#EXTINF:-1 tvg-id="HGTV.USA.-.Eastern.Feed.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",HGTV East
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV East
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417997
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",HGTV West
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419336
 #EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History East
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417998
@@ -209,9 +203,9 @@ http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417998
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419337
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime East
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417894
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime West
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419340
-#EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="US: LIFETIME MOVIE NETWORK" tvg-logo="https://orig00.deviantart.net/0afa/f/2016/041/6/6/lifetime_movie_network_new_logo_by_dledeviant-d9r85ry.png" group-title="USA MOVIES HD",US: LIFETIME MOVIE NETWORK
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",LIFETIME MOVIES LMN
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417990
 #EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png",MSNBC
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418123
@@ -219,13 +213,13 @@ http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418123
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417898
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419342
-#EXTINF:-1 tvg-id="MTV2.us" tvg-name="US: MTV 2" tvg-logo="http://www.jeffgreenleaf.com/wp-content/uploads/MTV2.png" group-title="USA ENT HD",US: MTV 2
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV2
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417896
-#EXTINF:-1 tvg-id="MTVClassic.us" tvg-name="US: MTV CLASSIC" tvg-logo="https://i.ibb.co/vYc1pYt/mtv-classic-us.png" group-title="USA ENT HD",US: MTV CLASSIC
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV CLASSIC" tvg-logo="https://i.ibb.co/vYc1pYt/mtv-classic-us.png" group-title="USA ENT HD",MTV CLASSIC
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417897
-#EXTINF:-1 tvg-id="MTVClassicPacific.us" tvg-name="US: MTV Classic (West)" tvg-logo="https://i.ibb.co/vYc1pYt/mtv-classic-us.png" group-title="USA ENT HD",US: MTV Classic (West)
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic (West)" tvg-logo="https://i.ibb.co/vYc1pYt/mtv-classic-us.png" group-title="USA ENT HD",MTV Classic (West)
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419343
-#EXTINF:-1 tvg-id="mtvU.us" tvg-name="US: MTV U" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="USA ENT HD",US: MTV U
+#EXTINF:-1 tvg-id="mtv-U.us2" tvg-name="MTV U" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="USA ENT HD",MTV U
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417940
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild East
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418005
@@ -239,15 +233,15 @@ http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/675303
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418184
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr East
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418031
-#EXTINF:-1 tvg-id="NickJrPacific.us" tvg-name="US: Nick Jr (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/186px-Nick_Jr._logo_2009.svg.png" group-title="USA KIDS HD",US: Nick Jr (West)
+#EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419274
-#EXTINF:-1 tvg-id="Nickelodeon.HD.us2HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418039
 #EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419275
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418032
-#EXTINF:-1 tvg-id="Nicktoons.Pacific.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons West
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419276
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418014
@@ -257,132 +251,124 @@ http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418064
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419294
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418103
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 West
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419295
-#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="US: SHOWTIME EXTREME" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: SHOWTIME EXTREME
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",SHOWTIME EXTREME
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418065
-#EXTINF:-1 tvg-id="ShowtimeExtremePacific.us" tvg-name="US: Showtime Extreme (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: Showtime Extreme (West)
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",SHOWTIME EXTREME West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419296
-#EXTINF:-1 tvg-id="ShowtimeFamilyzone.us" tvg-name="US: SHOWTIME FAMILY ZONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: SHOWTIME FAMILY ZONE
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",SHOWTIME FAMILY ZONE
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418066
-#EXTINF:-1 tvg-id="ShowtimeFamilyzonePacific.us" tvg-name="US: Showtime Family Zone (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: Showtime Family Zone (West)
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",SHOWTIME FAMILY ZONE West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419297
-#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="US: SHOWTIME NEXT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: SHOWTIME NEXT
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png",SHOWTIME NEXT
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418067
-#EXTINF:-1 tvg-id="ShowtimeNextPacific.us" tvg-name="US: Showtime Next (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: Showtime Next (West)
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png",SHOWTIME NEXT (West)
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419298
-#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="US: SHOWTIME SHOWCASE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png" group-title="USA MOVIES HD",US: SHOWTIME SHOWCASE
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",SHOWTIME SHOWCASE
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418068
-#EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-name="US: Showtime Showcase (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png" group-title="USA MOVIES HD",US: Showtime Showcase (West)
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Showtime_Showcase.svg/1200px-Showtime_Showcase.svg.png",SHOWTIME SHOWCASE West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419299
-#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="US: SHOWTIME WOMEN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: SHOWTIME WOMEN
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png",SHOWTIME WOMEN
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418069
-#EXTINF:-1 tvg-id="ShowtimeWomenPacific.us" tvg-name="US: Showtime Women (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png" group-title="USA MOVIES HD",US: Showtime Women (West)
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/1280px-Showtime.svg.png",SHOWTIME WOMEN West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419300
-#EXTINF:-1 tvg-id="SHOxBET.us" tvg-name="US: SHOxBET" tvg-logo="https://i.pinimg.com/originals/90/38/12/903812417068d8e6b249e823297ae908.png" group-title="USA MOVIES HD",US: SHOxBET
-http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418096
-#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="US: SONY MOVIE CHANNEL" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/6/69/Sony_Movie_Channel_logo.png/revision/latest?cb=20140312133014" group-title="USA MOVIES HD",US: SONY MOVIE CHANNEL
+#EXTINF:-1 tvg-id="Sony.Movie.Channel.HD.us2" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/6/69/Sony_Movie_Channel_logo.png/revision/latest?cb=20140312133014",SONY MOVIE CHANNEL
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418070
-#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="UK: SKY SPORTS Action/NFL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",UK: SKY SPORTS Action/NFL
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/508238
-#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: SKY SPORTS Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",UK: SKY SPORTS Arena
+#EXTINF:-1 tvg-id="1552" tvg-name="UK | Sky Sports Arena" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb3839.png",Sky Sports Arena UK
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/508240
-#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",UK: SKY SPORTS F1
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/508246
-#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: SKY SPORTS Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",UK: SKY SPORTS Football
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sporst%20football.png",Sky Sports Football UK
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/508248
-#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: SKY SPORTS Main Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",UK: SKY SPORTS Main Event
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/508252
-#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: SKY SPORTS Mix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",UK: SKY SPORTS Mix
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20news.png",Sky Sports News UK
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/508254
-#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",UK: Sky Sports News
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20news.png",Sky Sports News UK
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/508068
-#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: SKY SPORTS Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",UK: SKY SPORTS Premier League
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/508256
-#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK: SKY SPORTS Racing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="UK SPORTS",UK: SKY SPORTS Racing
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20racing.png",Sky Sports Racing UK
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/508258
 #EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="UK: Sky Sports Tennis FHD" tvg-logo="https://sender.epglogos.de/302x190_w/12182.png" group-title="UK SPORTS",UK: Sky Sports Tennis FHD
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/612562
-#EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="US: SPECTRUM SPORTSNET LA" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="USA SPORTS HD",US: SPECTRUM SPORTSNET LA
+#EXTINF:-1 tvg-id="Spectrum.News+.us2" tvg-name="SPECTRUM SPORTSNET LA" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="USA SPORTS HD",SPECTRUM SPORTSNET LA
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418164
-#EXTINF:-1 tvg-id="SpectrumSportsNetLADodgers.us" tvg-name="US: SPECTRUM SPORTSNET LA DODGERS" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="USA SPORTS HD",US: SPECTRUM SPORTSNET LA DODGERS
+#EXTINF:-1 tvg-id=Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="SPECTRUM SPORTSNET LA DODGERS" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="USA SPORTS HD",SPECTRUM SPORTSNET LA DODGERS
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418163
-#EXTINF:-1 tvg-id="SpectrumSportsNetLALakers.us" tvg-name="US: SPECTRUM SPORTSNET LAKERS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="USA SPORTS HD",US: SPECTRUM SPORTSNET LAKERS
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.Lakers.HD.us2" tvg-name="SPECTRUM SPORTSNET LAKERS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="USA SPORTS HD",SPECTRUM SPORTSNET LAKERS
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418165
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418143
 #EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SportsNet New York SNY USA
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418162
-#EXTINF:-1 tvg-id="Sportsnet.World.HD.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",SportsNet World CA
+#EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",SportsNet World CA
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418542
-#EXTINF:-1 tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pacific-ca.png",SportsNet Pacific CA
+#EXTINF:-1 tvg-id="Sportsnet.(Pacific).HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pacific-ca.png",SportsNet Pacific CA
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418540
-#EXTINF:-1 tvg-id="Sportsnet.(Ontario).ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-ontario-ca.png",Sportsnet Ontario
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-ontario-ca.png",Sportsnet Ontario
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418539
-#EXTINF:-1 tvg-id="Sportsnet.One.ca" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA
+#EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418538
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SportsNet 360 CA
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418536
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz HD
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",STARZ HD
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418054
-#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz West
+#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",STARZ West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419301
-
-#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="US: STARZ CINEMA" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ CINEMA
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",STARZ Cinema HD
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418071
-#EXTINF:-1 tvg-id="StarzCinemaPacific.us" tvg-name="US: Starz Cinema (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Cinema (West)
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",STARZ Cinema HD West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419302
-#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="US: STARZ COMEDY" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ COMEDY
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",STARZ COMEDY
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418072
-#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="US: STARZ EDGE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ EDGE
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="STARZ EDGE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",STARZ EDGE
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418073
-#EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="US: Starz Edge (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Edge (West)
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="STARZ EDGE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",STARZ EDGE West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419303
-#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="US: STARZ ENCORE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore East
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418051
-#EXTINF:-1 tvg-id="StarzEncorePacific.us" tvg-name="US: Starz Encore (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore (West)
+#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419304
-#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="US: STARZ ENCORE ACTION" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE ACTION
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",STARZ ENCORE ACTION
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418047
-#EXTINF:-1 tvg-id="StarzEncoreActionPacific.us" tvg-name="US: Starz Encore Action (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Action (West)
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",STARZ ENCORE ACTION West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419307
-#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="US: STARZ ENCORE BLACK" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE BLACK
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",STARZ ENCORE BLACK
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418048
-#EXTINF:-1 tvg-id="StarzEncoreBlackPacific.us" tvg-name="US: Starz Encore Black (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Black (West)
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",STARZ ENCORE BLACK West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419308
-#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-name="US: STARZ ENCORE CLASSIC" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE CLASSIC
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",STARZ ENCORE CLASSIC
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418049
-#EXTINF:-1 tvg-id="StarzEncoreClassicPacific.us" tvg-name="US: Starz Encore Classic (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Classic (West)
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",STARZ ENCORE CLASSIC West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419309
-#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="US: STARZ ENCORE FAMILY" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE FAMILY
+#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",STARZ Encore Family
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418050
-#EXTINF:-1 tvg-id="StarzEncoreFamilyPacific.us" tvg-name="US: Starz Encore Family (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Family (West)
+#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",STARZ Encore Family West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419310
-#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="US: STARZ ENCORE SUSPENSE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE SUSPENSE
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",STARZ ENCORE SUSPENSE
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418052
-#EXTINF:-1 tvg-id="StarzEncoreSuspensePacific.us" tvg-name="US: Starz Encore Suspense (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Suspense (West)
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",STARZ ENCORE SUSPENSE West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419311
-#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="US: STARZ ENCORE WESTERNS" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ ENCORE WESTERNS
-http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419305
-#EXTINF:-1 tvg-id="StarzEncoreWesternsPacific.us" tvg-name="US: Starz Encore Westerns (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Encore Westerns (West)
-http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419306
-#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="US: STARZ IN BLACK" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ IN BLACK
+#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",STARZ IN BLACK
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418074
-#EXTINF:-1 tvg-id="StarzinBlackPacific.us" tvg-name="US: Starz in Black (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz in Black (West)
+#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",STARZ IN BLACK West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419312
-#EXTINF:-1 tvg-id="StarzKids.us" tvg-name="US: STARZ KIDS AND FAMILY" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: STARZ KIDS AND FAMILY
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",STARZ KIDS & FAMILY
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418075
-#EXTINF:-1 tvg-id="StarzKidsPacific.us" tvg-name="US: Starz Kids Family (West)" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",US: Starz Kids Family (West)
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",STARZ KIDS & FAMILY West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419313
-#EXTINF:-1 tvg-id="TheMovieChannel.us" tvg-name="US: THE MOVIE CHANNEL" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183" group-title="USA MOVIES HD",US: THE MOVIE CHANNEL
+#EXTINF:-1 tvg-id="The.Movie.Channel.HD.us2" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183",THE MOVIE CHANNEL
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/418097
-#EXTINF:-1 tvg-id="TheMovieChannelWest.us" tvg-name="US: The Movie Channel (West)" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183" group-title="USA MOVIES HD",US: The Movie Channel (West)
+#EXTINF:-1 tvg-id="The.Movie.Channel.(Pacific).us2" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183",THE MOVIE CHANNEL West
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419316
-#EXTINF:-1 tvg-id="TheMovieChannelExtra.us" tvg-name="US: THE MOVIE CHANNEL EXTRA" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183" group-title="USA MOVIES HD",US: THE MOVIE CHANNEL EXTRA
+#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183",THE MOVIE CHANNEL EXTRA
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419317
-#EXTINF:-1 tvg-id="TheMovieChannelExtraWest.us" tvg-name="US: The Movie Channel Extra (West)" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183" group-title="USA MOVIES HD",US: The Movie Channel Extra (West)
+#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-name="The Movie Channel Extra (West)" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183" group-title="USA MOVIES HD",The Movie Channel Extra (West)
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/419318
-
 #EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy East
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/417911
 #EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy West
@@ -493,7 +479,6 @@ http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/789710
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/787487
 #EXTINF:-1 tvg-id="" tvg-name="NBA 10" tvg-logo="http://appstreams.xyz:2086/images/dc583afd723a00e771f1372c0712f993.png" group-title="NBA",NBA 10
 http://websafety101.net:5050/tracyhegler78@gmail.com/eYGnhmpZSq/789711
-
 
 
 ##############################################################################################
