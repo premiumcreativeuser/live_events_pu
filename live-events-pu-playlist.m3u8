@@ -11,6 +11,9 @@
 #ricardobarragan
 ##############################################################################################
 
+#EXTINF:-1 tvg-id="927" tvg-name="LAT-M | IMAGEN (MEXICO)" tvg-logo="https://github.com/fraudiay79/logos/blob/master/mx/imagen.png?raw=true" tvg-chno="927" group-title="Latino",LAT-M | IMAGEN (MEXICO)
+http://kstv.us:8080/live/SE58x561WX/2083803862/46953.ts
+
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
 http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/162675
 
