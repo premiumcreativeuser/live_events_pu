@@ -308,6 +308,12 @@ NBC.(WNBC).New.York,.NY.us
 KTLA.Los.Angeles,.CA.us
 KCAL.Los.Angeles.us
 
+
+The.Movie.Channel.HD.us2
+The.Movie.Channel.(Pacific).us2
+The.Movie.Channel.Extra.HD.us2
+
+
 KCBS-DT.us_locals1
 KNBC-DT.us_locals1
 KTLA-DT.us_locals1
