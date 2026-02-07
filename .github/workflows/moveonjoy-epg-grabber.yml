@@ -10,10 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
+      
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -24,21 +26,12 @@ jobs:
         run: pip install requests
 
       - name: Run epg grabber
+        run: cd moveonjoy && python moveonjoy-epg-grabber.py
+
+      - name: Commit and push changes
         run: |
-          cd moveonjoy
-          python moveonjoy-epg-grabber.py
-
-      - name: Create timestamp
-        id: timestamp
-        run: echo "ts=$(date -u +'%Y%m%d-%H%M')" >> $GITHUB_OUTPUT
-
-      - name: Upload EPG to GitHub Release
-        uses: softprops/action-gh-release@v1
-        with:
-          tag_name: latest
-          name: Latest EPG
-          body: "Auto-updated EPG build: ${{ steps.timestamp.outputs.ts }}"
-          files: |
-            epgs/moveonjoy-epg.xml
-            epgs/moveonjoy-epg.xml.gz
-          fail_on_unmatched_files: true
+          git config --global user.name "actions-user"
+          git config --global user.email "actions@github.com"
+          git add epgs/moveonjoy-epg.xml epgs/moveonjoy-epg.xml.gz
+          git diff --staged --quiet || git commit -m "Update epg"
+          git push --force
