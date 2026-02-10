@@ -11,24 +11,6 @@
 #ricardobarragan
 ##############################################################################################
 
-#EXTINF:-1 group-title="" tvg-logo="",SUPER BOWL LX (Seattle Seahawks vs New England Patriots) 4k UHD
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://602.exylcraft.us/thedaffodil.m3u8
-
-#EXTINF:-1 group-title="" tvg-logo="",SUPER BOWL LX (Seattle Seahawks vs New England Patriots) NBC
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://601.833577.xyz/daffodil.m3u8|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A147.0)%20Gecko%2F20100101%20Firefox%2F147.0&Referer=https%3A%2F%2Froxiestreams.info%2F
-
-#EXTINF:-1 group-title="" tvg-logo="",SUPER BOWL LX (Seattle Seahawks vs New England Patriots) Sky Sports Main Event
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://daffodil.exylcraft.us/sky.m3u8|User-Agent=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010.15%3B%20rv%3A147.0)%20Gecko%2F20100101%20Firefox%2F147.0&Referer=https%3A%2F%2Froxiestreams.info%2F
-
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
 http://tv.zapping.life:8080/ricardobarragan/44qDXUbjCx/162675
 
