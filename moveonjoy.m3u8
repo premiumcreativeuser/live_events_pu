@@ -1,5 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/epgs/moveonjoy-epg.xml"
 
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="",NBC 1
+http://fl2.moveonjoy.com/NBC/index.m3u8
+
+#EXTINF:-1 group-title="Movies" tvg-id="" tvg-logo="",NBC 51
+http://fl51.moveonjoy.com/NBC/index.m3u8
+
+
 #EXTINF:-1 group-title="Movies" tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png" tvg-name="5 StarMax",5 StarMax
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
