@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="http://websafety101.net:5050/xmltv.php?username=lil_dbennett@yahoo.com&password=patDyrcbQY"
 
 #EXTINF:-1 tvg-id="" tvg-name="MX: Imagen TV" tvg-logo="http://xplatinmedia.com:8080/images/37881b7cc36cbe1d9b1507e318bed598.png" group-title="MEXICAN",MX: Imagen TV fire
-http://tv.m3uts.xyz/stream/secure/ZGH2KmH3Ay83BF4kZwphZwV5YwR3BI8kAmpjAmpmBQLjK2R4LwHjZzRlZwD1AGNlMJEsZN.m3u8
+http://tv.m3uts.xyz/stream/gen/576
 
 #EXTINF:-1 tvg-id="" tvg-name="MX: Imagen TV" tvg-logo="http://xplatinmedia.com:8080/images/37881b7cc36cbe1d9b1507e318bed598.png" group-title="MEXICAN",MX: Imagen TV fire 2
 #EXTVLCOPT:http-origin=https://tv.m3uts.xyz
 #EXTVLCOPT:http-referrer=https://tv.m3uts.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-http://tv.m3uts.xyz/stream/secure/ZGH2KmH3Ay83BF4kZwphZwV5YwR3BI8kAmpjAmpmBQLjK2R4LwHjZzRlZwD1AGNlMJEsZN.m3u8
+http://tv.m3uts.xyz/stream/gen/576
 
 #EXTINF:-1 tvg-id="" tvg-name="MX: A&E HD" tvg-logo="http://xplatinmedia.com:8080/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="MEXICAN",MX: A&E HD
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/692998
