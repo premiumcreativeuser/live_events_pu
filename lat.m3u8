@@ -1,14 +1,5 @@
 #EXTM3U url-tvg="http://websafety101.net:5050/xmltv.php?username=lil_dbennett@yahoo.com&password=patDyrcbQY"
 
-#EXTINF:-1 tvg-id="" tvg-name="MX: Imagen TV" tvg-logo="http://xplatinmedia.com:8080/images/37881b7cc36cbe1d9b1507e318bed598.png" group-title="MEXICAN",MX: Imagen TV fire
-http://ts2.tvcluboficial.com/ts/ImagenTelevision/_71493.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MX: Imagen TV" tvg-logo="http://xplatinmedia.com:8080/images/37881b7cc36cbe1d9b1507e318bed598.png" group-title="MEXICAN",MX: Imagen TV fire 2
-#EXTVLCOPT:http-origin=https://tv.m3uts.xyz
-#EXTVLCOPT:http-referrer=https://tv.m3uts.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-http://ts2.tvcluboficial.com/ts/ImagenTelevision/_71493.ts
-
 #EXTINF:-1 tvg-id="" tvg-name="MX: A&E HD" tvg-logo="http://xplatinmedia.com:8080/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="MEXICAN",MX: A&E HD
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/692998
 #EXTINF:-1 tvg-id="" tvg-name="MX: ADN40" tvg-logo="http://xplatinmedia.com:8080/images/f3f3defb0e9fb4c5c5c2aed475c4e637.png" group-title="MEXICAN",MX: ADN40
