@@ -138,6 +138,10 @@ http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/693064
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/693065
 #EXTINF:-1 tvg-id="" tvg-name="MX: Imagen TV" tvg-logo="http://xplatinmedia.com:8080/images/37881b7cc36cbe1d9b1507e318bed598.png" group-title="MEXICAN",MX: Imagen TV
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/693066
+#EXTINF:-1 tvg-id="" tvg-name="MX: Imagen TV" tvg-logo="http://xplatinmedia.com:8080/images/37881b7cc36cbe1d9b1507e318bed598.png" group-title="MEXICAN",MX: Imagen TV 2 
+https://igd-it-runtime.otteravision.com/igd/it/it_720.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MX: Imagen TV" tvg-logo="http://xplatinmedia.com:8080/images/37881b7cc36cbe1d9b1507e318bed598.png" group-title="MEXICAN",MX: Imagen TV 3
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 tvg-id="" tvg-name="MX: Aprende+" tvg-logo="http://xplatinmedia.com:8080/images/5676bad210c08db4cf2e22553a0fca60.png" group-title="MEXICAN",MX: Aprende+
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/693067
 #EXTINF:-1 tvg-id="" tvg-name="MX: Las Estrellas" tvg-logo="http://xplatinmedia.com:8080/images/1cbb731aaa086bfb5afe2ae3e5382698.png" group-title="MEXICAN",MX: Las Estrellas
