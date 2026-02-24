@@ -5,64 +5,30 @@
 http://hitfire2tv.com:80/71807/87015/63141.ts
 #EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS LA Locals
 http://hitfire2tv.com:80/71807/87015/69211.ts
-#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS LA (F)
-http://hitfire2tv.com:80/71807/87015/113830.ts
-#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS LA (misc)
-http://hitfire2tv.com:80/71807/87015/115249.ts
-#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC LA Locals
-http://hitfire2tv.com:80/71807/87015/63263.ts
 #EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC LA Locals
 http://hitfire2tv.com:80/71807/87015/69599.ts
-#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC LA (F)
-http://hitfire2tv.com:80/71807/87015/113586.ts
-#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC LA (misc)
-http://hitfire2tv.com:80/71807/87015/118794.ts
 #EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-wnbc-us.png",NBC WNBC NY Locals
 http://hitfire2tv.com:80/71807/87015/63122.ts
 #EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-wnbc-us.png",NBC WNBC NY Locals
 http://hitfire2tv.com:80/71807/87015/69573.ts
-#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-wnbc-us.png",NBC WNBC NY (F)
-http://hitfire2tv.com:80/71807/87015/113479.ts
-#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-wnbc-us.png",NBC WNBC NY (misc)
-http://hitfire2tv.com:80/71807/87015/118764.ts
 #EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA Locals
 http://hitfire2tv.com:80/71807/87015/102090.ts
 #EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC KABC Locals
 http://hitfire2tv.com:80/71807/87015/63146.ts
 #EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC KABC Locals
 http://hitfire2tv.com:80/71807/87015/68847.ts
-#EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC KABC 
-http://hitfire2tv.com:80/71807/87015/69732.ts
-#EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC KABC 
-http://hitfire2tv.com:80/71807/87015/114456.ts
-#EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC KABC (Y)
-http://hitfire2tv.com:80/71807/87015/118420.ts
-#EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL Locals
-http://hitfire2tv.com:80/71807/87015/69097.ts
 #EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL Locals
 http://hitfire2tv.com:80/71807/87015/69212.ts
-#EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL Locals
-http://hitfire2tv.com:80/71807/87015/113831.ts
-#EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL Locals
-http://hitfire2tv.com:80/71807/87015/118523.ts
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV Locals
 http://hitfire2tv.com:80/71807/87015/69331.ts
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV (D)
-http://hitfire2tv.com:80/71807/87015/115081.ts
-#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV (Y)
-http://hitfire2tv.com:80/71807/87015/118608.ts
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV Locals
-http://hitfire2tv.com:80/71807/87015/63261.t
+http://hitfire2tv.com:80/71807/87015/63261.ts
 #EXTINF:-1 tvg-id="KCOP-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/my-13-kcop-us.png",FOX 13 KCOP CA Los Angeles 
 http://hitfire2tv.com:80/71807/87015/69462.ts
-#EXTINF:-1 tvg-id="KCOP-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/my-13-kcop-us.png",FOX 13 KCOP CA Los Angeles 
-http://hitfire2tv.com:80/71807/87015/114497.ts
 #EXTINF:-1 tvg-id="KCOP-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/my-13-kcop-us.png",FOX 13 KCOP CA Los Angeles 
 http://hitfire2tv.com:80/71807/87015/63262.ts
 #EXTINF:-1 tvg-id="KCOP-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/my-13-kcop-us.png",FOX 13 KCOP CA Los Angeles 
 http://hitfire2tv.com:80/71807/87015/63098.ts
-#EXTINF:-1 tvg-id="KCOP-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/my-13-kcop-us.png",FOX 13 KCOP CA Los Angeles 
-http://hitfire2tv.com:80/71807/87015/68859.ts
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E
 
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC Network
@@ -429,61 +395,6 @@ https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1
 ##############################################################################################
 
 
-#EXTINF:-1 tvg-id="1249" tvg-name="NBA GAME 01" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1249" group-title="NBA",NBA GAME 01
-
-#EXTINF:-1 tvg-id="1329" tvg-name="NBA 01: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 01
-
-#EXTINF:-1 tvg-id="1250" tvg-name="NBA GAME 02" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1250" group-title="NBA",NBA GAME 02
-
-#EXTINF:-1 tvg-id="1330" tvg-name="NBA 02: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 02
-
-#EXTINF:-1 tvg-id="1251" tvg-name="NBA GAME 03" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1251" group-title="NBA",NBA GAME 03
-
-#EXTINF:-1 tvg-id="1331" tvg-name="NBA 03: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 03
-
-#EXTINF:-1 tvg-id="1252" tvg-name="NBA GAME 04" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1252" group-title="NBA",NBA GAME 04
-
-#EXTINF:-1 tvg-id="1332" tvg-name="NBA 04: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 04
-
-#EXTINF:-1 tvg-id="1253" tvg-name="NBA GAME 05" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1253" group-title="NBA",NBA GAME 05
-
-#EXTINF:-1 tvg-id="1333" tvg-name="NBA 05: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 05
-
-#EXTINF:-1 tvg-id="1254" tvg-name="NBA GAME 06" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1254" group-title="NBA",NBA GAME 06
-
-#EXTINF:-1 tvg-id="1334" tvg-name="NBA 06: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 06
-
-#EXTINF:-1 tvg-id="1255" tvg-name="NBA GAME 07" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1255" group-title="NBA",NBA GAME 07
-
-#EXTINF:-1 tvg-id="1335" tvg-name="NBA 07: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 07
-
-#EXTINF:-1 tvg-id="1256" tvg-name="NBA GAME 08" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1256" group-title="NBA",NBA GAME 08
-
-#EXTINF:-1 tvg-id="1336" tvg-name="NBA 08: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 08
-
-#EXTINF:-1 tvg-id="1257" tvg-name="NBA GAME 09:" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1257" group-title="NBA",NBA GAME 09
-
-#EXTINF:-1 tvg-id="1337" tvg-name="NBA 09: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 09
-
-#EXTINF:-1 tvg-id="1258" tvg-name="NBA GAME 10: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1258" group-title="NBA",NBA GAME 10
-
-#EXTINF:-1 tvg-id="1338" tvg-name="NBA 10: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1338" group-title="NBA.2",NBA 10
-
-#EXTINF:-1 tvg-id="1259" tvg-name="NBA GAME 11: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1259" group-title="NBA",NBA GAME 11
-
-#EXTINF:-1 tvg-id="1339" tvg-name="NBA 11: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1339" group-title="NBA.2",NBA 11
-
-#EXTINF:-1 tvg-id="1260" tvg-name="NBA GAME 12: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1260" group-title="NBA",NBA GAME 12
-
-#EXTINF:-1 tvg-id="1340" tvg-name="NBA 12: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1340" group-title="NBA.2",NBA 12
-
-#EXTINF:-1 tvg-id="1261" tvg-name="NBA GAME 13: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1261" group-title="NBA",NBA GAME 13
-
-#EXTINF:-1 tvg-id="1341" tvg-name="NBA 13: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA.2",NBA 13
-
-#EXTINF:-1 tvg-id="1262" tvg-name="NBA GAME 14: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1262" group-title="NBA",NBA GAME 14
-
-#EXTINF:-1 tvg-id="1263" tvg-name="NBA GAME 15: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1263" group-title="NBA",NBA GAME 15
 
 
 
