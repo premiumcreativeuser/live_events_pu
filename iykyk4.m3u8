@@ -75,7 +75,7 @@ http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/509089
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
-#EXTINF:-1 group-title="Sports" tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-sports-golazo-network-us.png" tvg-name="CBS Sports Golazo",CBS Sports Golazo
+#EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-sports-golazo-network-us.png" tvg-name="CBS Sports Golazo",CBS Sports Golazo
 https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 #EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418077
@@ -87,13 +87,13 @@ http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418081
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418104
 #EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX WEST
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/419281
-#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="CINEMAX MOREMAX" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png" group-title="USA MOVIES HD",CINEMAX MOREMAX
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="CINEMAX MOREMAX" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png",CINEMAX MOREMAX
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418078
-#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="Cinemax MoreMax (West)" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png" group-title="USA MOVIES HD",Cinemax MoreMax (West)
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="Cinemax MoreMax (West)" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png",Cinemax MoreMax (West)
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/419282
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418115
-#EXTINF:-1 tvg-id="CNBC.World.us2" tvg-name="CNBC WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CNBC_World_2024.svg/200px-CNBC_World_2024.svg.png" group-title="USA NEWS HD",CNBC WORLD
+#EXTINF:-1 tvg-id="CNBC.World.us2" tvg-name="CNBC WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/CNBC_World_2024.svg/200px-CNBC_World_2024.svg.png",CNBC WORLD
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418116
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418118
@@ -103,13 +103,13 @@ http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/417882
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/419324
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png",Cooking Channel
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/417987
-#EXTINF:-1 group-title="Movies" tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1 CA
+#EXTINF:-1 tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1 CA
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418441
-#EXTINF:-1 group-title="Movies" tvg-id="Crave2.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2 CA
+#EXTINF:-1 tvg-id="Crave2.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2 CA
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418442
-#EXTINF:-1 group-title="Movies" tvg-id="Crave3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3 CA
+#EXTINF:-1 tvg-id="Crave3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3 CA
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418443
-#EXTINF:-1 group-title="Movies" tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4 CA
+#EXTINF:-1 tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4 CA
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418444
 #EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true",Destination America
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/417999
@@ -131,7 +131,7 @@ http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/417884
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418175
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN 2
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418173
-#EXTINF:-1 group-title="Sports" tvg-id="ESPN.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcu/gear/refs/heads/main/tv-logos/espn-deportes-us.png" tvg-name="ESPN DEPORTES",ESPN Deportes
+#EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcu/gear/refs/heads/main/tv-logos/espn-deportes-us.png" tvg-name="ESPN DEPORTES",ESPN Deportes
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/509171
 #EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png",ESPN News
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418174
@@ -169,7 +169,7 @@ http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/417892
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/419335
 #EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="US | Hallmark Family" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hallmarkfamily.png",Hallmark Family
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/417937
-#EXTINF:-1 tvg-id="HallmarkMoviesandMore.us" tvg-name="HALLMARK MOVIES & MORE" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png" group-title="USA MOVIES HD",HALLMARK MOVIES & MORE
+#EXTINF:-1 tvg-id="HallmarkMoviesandMore.us" tvg-name="HALLMARK MOVIES & MORE" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/31/USBB19000017U_20210525T051431.png",HALLMARK MOVIES & MORE
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418091
 #EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries West
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418098
@@ -185,13 +185,13 @@ http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/419293
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418059
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy West
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/419288
-#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/fXFK9GV/hbo-signature-east.png" group-title="USA MOVIES HD",HBO SIGNATURE
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO SIGNATURE" tvg-logo="https://i.ibb.co/fXFK9GV/hbo-signature-east.png",HBO SIGNATURE
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418061
-#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO Signature (West)" tvg-logo="https://i.ibb.co/fXFK9GV/hbo-signature-east.png" group-title="USA MOVIES HD",HBO Signature (West)
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="HBO Signature (West)" tvg-logo="https://i.ibb.co/fXFK9GV/hbo-signature-east.png",HBO Signature (West)
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/419291
-#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO ZONE" tvg-logo="https://i.ibb.co/StpK73S/hbo-zone-east.png" group-title="USA MOVIES HD",HBO ZONE
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO ZONE" tvg-logo="https://i.ibb.co/StpK73S/hbo-zone-east.png",HBO ZONE
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418092
-#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone (West)" tvg-logo="https://i.ibb.co/StpK73S/hbo-zone-east.png" group-title="USA MOVIES HD",HBO Zone (West)
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="HBO Zone (West)" tvg-logo="https://i.ibb.co/StpK73S/hbo-zone-east.png",HBO Zone (West)
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/419292
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV East
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/417997
@@ -215,11 +215,11 @@ http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/417898
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/419342
 #EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV2
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/417896
-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV CLASSIC" tvg-logo="https://i.ibb.co/vYc1pYt/mtv-classic-us.png" group-title="USA ENT HD",MTV CLASSIC
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV CLASSIC" tvg-logo="https://i.ibb.co/vYc1pYt/mtv-classic-us.png",MTV CLASSIC
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/417897
-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic (West)" tvg-logo="https://i.ibb.co/vYc1pYt/mtv-classic-us.png" group-title="USA ENT HD",MTV Classic (West)
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic (West)" tvg-logo="https://i.ibb.co/vYc1pYt/mtv-classic-us.png",MTV Classic (West)
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/419343
-#EXTINF:-1 tvg-id="mtv-U.us2" tvg-name="MTV U" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png" group-title="USA ENT HD",MTV U
+#EXTINF:-1 tvg-id="mtv-U.us2" tvg-name="MTV U" tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/danielle-vega-mtv-png-logo-17.png",MTV U
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/417940
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild East
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418005
@@ -279,7 +279,7 @@ http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418070
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/508238
 #EXTINF:-1 tvg-id="1552" tvg-name="UK | Sky Sports Arena" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb3839.png",Sky Sports Arena UK
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/508240
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="SPORTS",Sky Sports F1 UK
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/508246
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sporst%20football.png",Sky Sports Football UK
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/508248
@@ -293,13 +293,13 @@ http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/508068
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/508256
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20racing.png",Sky Sports Racing UK
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/508258
-#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="UK: Sky Sports Tennis FHD" tvg-logo="https://sender.epglogos.de/302x190_w/12182.png" group-title="UK SPORTS",UK: Sky Sports Tennis FHD
+#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="UK: Sky Sports Tennis FHD" tvg-logo="https://sender.epglogos.de/302x190_w/12182.png",UK: Sky Sports Tennis FHD
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/612562
-#EXTINF:-1 tvg-id="Spectrum.News+.us2" tvg-name="SPECTRUM SPORTSNET LA" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="USA SPORTS HD",SPECTRUM SPORTSNET LA
+#EXTINF:-1 tvg-id="Spectrum.News+.us2" tvg-name="SPECTRUM SPORTSNET LA" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png",SPECTRUM SPORTSNET LA
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418164
-#EXTINF:-1 tvg-id=Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="SPECTRUM SPORTSNET LA DODGERS" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png" group-title="USA SPORTS HD",SPECTRUM SPORTSNET LA DODGERS
+#EXTINF:-1 tvg-id=Spectrum.SportsNet.LA.Dodgers.HD.us2" tvg-name="SPECTRUM SPORTSNET LA DODGERS" tvg-logo="https://static.epg.best/us/SpectrumSportsNet.us.png",SPECTRUM SPORTSNET LA DODGERS
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418163
-#EXTINF:-1 tvg-id="Spectrum.SportsNet.Lakers.HD.us2" tvg-name="SPECTRUM SPORTSNET LAKERS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png" group-title="USA SPORTS HD",SPECTRUM SPORTSNET LAKERS
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.Lakers.HD.us2" tvg-name="SPECTRUM SPORTSNET LAKERS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Spectrum_Sports_logo.png",SPECTRUM SPORTSNET LAKERS
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418165
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418143
@@ -325,9 +325,9 @@ http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418071
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/419302
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",STARZ COMEDY
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418072
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="STARZ EDGE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",STARZ EDGE
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="STARZ EDGE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",STARZ EDGE
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418073
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="STARZ EDGE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png" group-title="USA MOVIES HD",STARZ EDGE West
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="STARZ EDGE" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",STARZ EDGE West
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/419303
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore East
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418051
@@ -367,7 +367,7 @@ http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/418097
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/419316
 #EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183",THE MOVIE CHANNEL EXTRA
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/419317
-#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-name="The Movie Channel Extra (West)" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183" group-title="USA MOVIES HD",The Movie Channel Extra (West)
+#EXTINF:-1 tvg-id="The.Movie.Channel.Extra.HD.us2" tvg-name="The Movie Channel Extra (West)" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.9FJ98j7JWhdWMXZUmvcLRwHaCx&pid=Api&P=0&w=490&h=183",The Movie Channel Extra (West)
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/419318
 #EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy East
 http://websafety101.net:5050/lil_dbennett@yahoo.com/patDyrcbQY/417911
