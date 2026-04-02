@@ -664,62 +664,50 @@ https://tv.extremeiptv.net/live/Marc/Marc/e4556c34-1e18-403f-ace7-60680dfc00f2.m
 
 
 
-#EXTINF:-1 tvg-id="1249" tvg-name="NBA GAME 01" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1249" group-title="NBA",NBA GAME 01
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47477.ts
-#EXTINF:-1 tvg-id="1329" tvg-name="NBA 01: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 01
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47583.ts
-#EXTINF:-1 tvg-id="1250" tvg-name="NBA GAME 02" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1250" group-title="NBA",NBA GAME 02
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47478.ts
-#EXTINF:-1 tvg-id="1330" tvg-name="NBA 02: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 02
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47584.ts
-#EXTINF:-1 tvg-id="1251" tvg-name="NBA GAME 03" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1251" group-title="NBA",NBA GAME 03
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47479.ts
-#EXTINF:-1 tvg-id="1331" tvg-name="NBA 03: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 03
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47585.ts
-#EXTINF:-1 tvg-id="1252" tvg-name="NBA GAME 04" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1252" group-title="NBA",NBA GAME 04
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47480.ts
-#EXTINF:-1 tvg-id="1332" tvg-name="NBA 04: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 04
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47586.ts
-#EXTINF:-1 tvg-id="1253" tvg-name="NBA GAME 05" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1253" group-title="NBA",NBA GAME 05
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47481.ts
-#EXTINF:-1 tvg-id="1333" tvg-name="NBA 05: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 05
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47587.ts
-#EXTINF:-1 tvg-id="1254" tvg-name="NBA GAME 06" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1254" group-title="NBA",NBA GAME 06
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47482.ts
-#EXTINF:-1 tvg-id="1334" tvg-name="NBA 06: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 06
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47588.ts
-#EXTINF:-1 tvg-id="1255" tvg-name="NBA GAME 07" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1255" group-title="NBA",NBA GAME 07
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47483.ts
-#EXTINF:-1 tvg-id="1335" tvg-name="NBA 07: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 07
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47589.ts
-#EXTINF:-1 tvg-id="1256" tvg-name="NBA GAME 08" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1256" group-title="NBA",NBA GAME 08
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47484.ts
-#EXTINF:-1 tvg-id="1336" tvg-name="NBA 08: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 08
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47590.ts
-#EXTINF:-1 tvg-id="1257" tvg-name="NBA GAME 09:" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1257" group-title="NBA",NBA GAME 09
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47485.ts
-#EXTINF:-1 tvg-id="1337" tvg-name="NBA 09: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 09
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47591.ts
-#EXTINF:-1 tvg-id="1258" tvg-name="NBA GAME 10: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1258" group-title="NBA",NBA GAME 10
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47486.ts
-#EXTINF:-1 tvg-id="1338" tvg-name="NBA 10: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1338" group-title="NBA.2",NBA 10
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47592.ts
-#EXTINF:-1 tvg-id="1259" tvg-name="NBA GAME 11: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1259" group-title="NBA",NBA GAME 11
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47487.ts
-#EXTINF:-1 tvg-id="1339" tvg-name="NBA 11: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1339" group-title="NBA.2",NBA 11
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47593.ts
-#EXTINF:-1 tvg-id="1260" tvg-name="NBA GAME 12: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1260" group-title="NBA",NBA GAME 12
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47488.ts
-#EXTINF:-1 tvg-id="1340" tvg-name="NBA 12: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1340" group-title="NBA.2",NBA 12
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47594.ts
-#EXTINF:-1 tvg-id="1261" tvg-name="NBA GAME 13: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1261" group-title="NBA",NBA GAME 13
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47489.ts
-#EXTINF:-1 tvg-id="1341" tvg-name="NBA 13: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA.2",NBA 13
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47595.ts
-#EXTINF:-1 tvg-id="1262" tvg-name="NBA GAME 14: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1262" group-title="NBA",NBA GAME 14
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47490.ts
-#EXTINF:-1 tvg-id="1263" tvg-name="NBA GAME 15: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1263" group-title="NBA",NBA GAME 15
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47491.ts
+
+
+
+#EXTINF:-1 tvg-id="1329" tvg-name="NBA 01: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 01
+https://tv.extremeiptv.net/live/Marc/Marc/ecf0d879-1a20-4255-b105-4bb8490d9b57.m3u
+#EXTINF:-1 tvg-id="1330" tvg-name="NBA 02: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 02
+https://tv.extremeiptv.net/live/Marc/Marc/e8502bac-c12b-4020-a1e2-828ed2f706af.m3u
+#EXTINF:-1 tvg-id="1331" tvg-name="NBA 03: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 03
+https://tv.extremeiptv.net/live/Marc/Marc/0e9b5dd2-cd3c-481a-9e04-42b592d494d5.m3u
+#EXTINF:-1 tvg-id="1332" tvg-name="NBA 04: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 04
+https://tv.extremeiptv.net/live/Marc/Marc/747a9297-c74e-4916-929f-1a64ec9f65a0.m3u
+#EXTINF:-1 tvg-id="1333" tvg-name="NBA 05: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 05
+https://tv.extremeiptv.net/live/Marc/Marc/82ff5509-468e-44f9-9a6b-2aa7a2759214.m3u
+#EXTINF:-1 tvg-id="1334" tvg-name="NBA 06: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 06
+https://tv.extremeiptv.net/live/Marc/Marc/0ef8cfff-921f-4d7f-9b89-9a037b33682a.m3u
+#EXTINF:-1 tvg-id="1335" tvg-name="NBA 07: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 07
+https://tv.extremeiptv.net/live/Marc/Marc/6ac8ca47-9583-4cc7-8d8d-97294d7bdc30.m3u
+#EXTINF:-1 tvg-id="1336" tvg-name="NBA 08: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 08
+https://tv.extremeiptv.net/live/Marc/Marc/f860d720-035d-4fa0-a818-3f7a6f537011.m3u
+#EXTINF:-1 tvg-id="1337" tvg-name="NBA 09: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 09
+https://tv.extremeiptv.net/live/Marc/Marc/d675edb5-7ddd-48e2-9739-ee10fd5c60c9.m3u
+#EXTINF:-1 tvg-id="1338" tvg-name="NBA 10: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1338" group-title="NBA",NBA 10
+https://tv.extremeiptv.net/live/Marc/Marc/c26bde1e-667f-4155-8928-d2a65e534802.m3u
+1#EXTINF:-1 tvg-id="1339" tvg-name="NBA 11: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1339" group-title="NBA",NBA 11
+https://tv.extremeiptv.net/live/Marc/Marc/22ae682f-75a4-4bc2-be71-ebf27317693f.m3u
+#EXTINF:-1 tvg-id="1340" tvg-name="NBA 12: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1340" group-title="NBA",NBA 12
+https://tv.extremeiptv.net/live/Marc/Marc/7462ef74-4b49-4d75-bb7e-1ac731cec1e1.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA 13: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 13
+http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47595.https://tv.extremeiptv.net/live/Marc/Marc/6806d030-5eba-4282-9f7f-586dfdff8de4.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA 14: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 14
+https://tv.extremeiptv.net/live/Marc/Marc/e94d14ae-4536-4572-b4d4-6cc037c89a28.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA 15: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 15
+https://tv.extremeiptv.net/live/Marc/Marc/0989d438-10a5-4724-9288-7923e53f087a.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA 16: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 16
+https://tv.extremeiptv.net/live/Marc/Marc/bfd0cf80-856b-4f34-9f0d-169b2ca911f7.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA 17: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 17
+https://tv.extremeiptv.net/live/Marc/Marc/7eaca69a-0ac6-4978-88a8-7c6b1c86b3b0.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA 18: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 18
+https://tv.extremeiptv.net/live/Marc/Marc/bcc12ba8-cc3b-4c07-a78b-fd342556647f.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA 19: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 19
+https://tv.extremeiptv.net/live/Marc/Marc/d8b66686-071c-4b6b-8eda-6275569a9b8a.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA : " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 20
+https://tv.extremeiptv.net/live/Marc/Marc/6019474a-74c2-493d-a5ba-bc19151176ca.m3u
+
 
 
 
