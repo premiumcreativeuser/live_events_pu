@@ -325,6 +325,15 @@ The.Movie.Channel.HD.us2
 The.Movie.Channel.(Pacific).us2
 The.Movie.Channel.Extra.HD.us2
 
+Starz.Encore.Action.HD.us2
+Starz.Encore.Black.us2
+Starz.in.Black.HD.us2
+Starz.Edge.HD.us2
+Starz.Encore.(Pacific).us2
+Starz.Encore.Suspense.us2
+Starz.Encore.Westerns.SD.us2
+The.Travel.Channel.HD.(Pacific).us2
+
 
 KCBS-DT.us_locals1
 KNBC-DT.us_locals1
