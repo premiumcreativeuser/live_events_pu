@@ -45,9 +45,9 @@ https://tv.extremeiptv.net/live/Marc/Marc/6dcf1039-79ae-4bf2-8b84-8f1cf767ee61.m
 https://tv.extremeiptv.net/live/Marc/Marc/e4e466b9-a734-4b47-a2b0-ea374d71efa5.m3u
 #EXTINF:-1 tvg-id="BET.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET East
 https://tv.extremeiptv.net/live/Marc/Marc/4577dba9-1803-4ad0-915a-2211333aa08e.m3u
-#EXTINF:-1 tvg-id="BET.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET West
+#EXTINF:-1 tvg-id="BET.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET West
 https://tv.extremeiptv.net/live/Marc/Marc/849cf31e-84b6-4fff-ad0c-d5d52fc33a6f.m3u
-#EXTINF:-1 tvg-id="BET.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET West HD
+#EXTINF:-1 tvg-id="BET.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET West HD
 https://tv.extremeiptv.net/live/Marc/Marc/fcc6bfde-80b5-411a-9370-8dd8a3fc9034.m3u
 #EXTINF:-1 tvg-id="BET.Her.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png",BET HER
 https://tv.extremeiptv.net/live/Marc/Marc/fe783750-9a65-47f7-b90c-2bc89c9b47a7.m3u
@@ -63,15 +63,15 @@ https://tv.extremeiptv.net/live/Marc/Marc/3ae6fd6c-cb99-4efd-9351-cd49a8ddb77c.m
 https://tv.extremeiptv.net/live/Marc/Marc/90a3a78a-81d8-4714-930d-b585b6337b3d.m3u
 #EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo East
 https://tv.extremeiptv.net/live/Marc/Marc/1f91ed9f-7de6-4e9e-8d83-7b1ba944f5ec.m3u
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo West
+#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo West
 https://tv.extremeiptv.net/live/Marc/Marc/9d7a71a4-9b7e-4305-b2c0-823b1575987d.m3u
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo West
+#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo West
 https://tv.extremeiptv.net/live/Marc/Marc/9efe8036-786f-4fab-b101-1e6405ab6c2f.m3u
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network
 https://tv.extremeiptv.net/live/Marc/Marc/9d1b7eb8-fbc8-4198-a8e8-1f5e634e2615.m3u
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West
+#EXTINF:-1 tvg-id="Cartoon.Network.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West
 https://tv.extremeiptv.net/live/Marc/Marc/da540c5a-6db1-4081-ab82-393740a9c39c.m3u
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West HD
+#EXTINF:-1 tvg-id="Cartoon.Network.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West HD
 https://tv.extremeiptv.net/live/Marc/Marc/4d274dcd-6a9b-41cf-a8e7-1b06dedae690.m3u
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS Sports Network
 https://tv.extremeiptv.net/live/Marc/Marc/9f4ba303-4427-4c21-85b3-2679dc92b074.m3u
@@ -85,7 +85,7 @@ https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1
 https://tv.extremeiptv.net/live/Marc/Marc/4d6de268-314e-4817-8777-c0bb86ccab73.m3u
 #EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX East 5.1
 https://tv.extremeiptv.net/live/Marc/Marc/3976b4d1-0d3c-4deb-8fce-dce77e1b6bdb.m3u
-#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX West
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX West
 https://tv.extremeiptv.net/live/Marc/Marc/dfcde4a0-1b85-421a-9565-49fc8aa04eec.m3u
 #EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX
 https://tv.extremeiptv.net/live/Marc/Marc/e3dfc7da-9157-4e54-90f7-d15e0e00adc9.m3u
@@ -107,9 +107,9 @@ https://tv.extremeiptv.net/live/Marc/Marc/3e4ddc0d-3cb6-4755-b4a8-abe47221704b.m
 https://tv.extremeiptv.net/live/Marc/Marc/b651da0c-cb84-4c24-9c6f-19af79da1e9a.m3u
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central
 https://tv.extremeiptv.net/live/Marc/Marc/fd292e5b-dbdf-44b6-bd3e-1996ea7e52c0.m3u
-#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central West
+#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central West
 https://tv.extremeiptv.net/live/Marc/Marc/4e072cee-e659-45fb-ad56-8256227097ef.m3u
-#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central West HD
+#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central West HD
 https://tv.extremeiptv.net/live/Marc/Marc/49a27364-9aad-4e7b-8177-885d5361ada5.m3u
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png",Cooking Channel
 https://tv.extremeiptv.net/live/Marc/Marc/4c66e1f5-73f2-47ce-b96d-c878109f670b.m3u
@@ -145,7 +145,7 @@ https://tv.extremeiptv.net/live/Marc/Marc/b287087e-26b8-4b7d-90a8-7ede8f26a45b.m
 https://tv.extremeiptv.net/live/Marc/Marc/182d86af-f8c0-4a73-9bc0-5566da361257.m3u
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel
 https://tv.extremeiptv.net/live/Marc/Marc/1eb269df-0b52-456e-b025-559b327fc7eb.m3u
-#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel West HD
+#EXTINF:-1 tvg-id="Disney.Channel.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel West HD
 https://tv.extremeiptv.net/live/Marc/Marc/019e6d59-03d5-4208-bd49-cbde909e372a.m3u
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr
 https://tv.extremeiptv.net/live/Marc/Marc/42411168-2c37-4c3d-aba2-95cea9ad507b.m3u
@@ -212,7 +212,7 @@ https://tv.extremeiptv.net/live/Marc/Marc/0f67e2e8-a561-4021-8a56-5af869df4566.m
 https://tv.extremeiptv.net/live/Marc/Marc/2a29e161-2f1a-4ff3-93ba-c739cee8322b.m3u
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX East
 https://tv.extremeiptv.net/live/Marc/Marc/0c435594-d0ff-4e1a-84c7-dcba9a9abf36.m3u
-#EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX West
+#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX West
 https://tv.extremeiptv.net/live/Marc/Marc/d1ddd27e-6d7a-482e-baa0-56a3285d0a81.m3u
 #EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX West Stream 2
 https://tv.extremeiptv.net/live/Marc/Marc/b4ce1106-b5d1-4379-9c39-ca9a67c7e8b2.m3u
@@ -235,9 +235,9 @@ https://tv.extremeiptv.net/live/Marc/Marc/c053ead8-0002-45f8-af18-dc83c8112d69.m
 https://tv.extremeiptv.net/live/Marc/Marc/39667195-c4e5-449e-9086-10ac177f03d1.m3u
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO East
 https://tv.extremeiptv.net/live/Marc/Marc/9ea36fdb-d8d8-499f-bc7b-de4464470604.m3u
-#EXTINF:-1 tvg-id="HBO.West.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West
+#EXTINF:-1 tvg-id="HBO.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West
 https://tv.extremeiptv.net/live/Marc/Marc/90ac6b73-525f-4ffd-b941-e1f7346ab208.m3u
-#EXTINF:-1 tvg-id="HBO.West.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West Stream 2
+#EXTINF:-1 tvg-id="HBO.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West Stream 2
 https://tv.extremeiptv.net/live/Marc/Marc/9ad14808-40ec-4024-b40c-5535ffc7302e.m3u
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2
 #NEED NEW SOURCE
@@ -261,7 +261,7 @@ https://tv.extremeiptv.net/live/Marc/Marc/d1c294c9-c56c-44f0-9851-05f17300e9ef.m
 https://tv.extremeiptv.net/live/Marc/Marc/18180453-c658-4769-a573-b9a7b20b4818.m3u
 #EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png" ,HBO Movies West Stream 2
 https://tv.extremeiptv.net/live/Marc/Marc/2346c00d-dabe-4a60-b25b-488d15ab0fd2.m3u
-#EXTINF:-1 tvg-id="HBOMoviesPacific.us" tvg-name="US : The Movie Channel West" tvg-logo="https://cdn.iptvboss.pro/logos/USA/TheMovieChannelWest.us.png",US : The Movie Channel West
+#EXTINF:-1 tvg-id="The.Movie.Channel.(Pacific).us2" tvg-name="US : The Movie Channel West" tvg-logo="https://cdn.iptvboss.pro/logos/USA/TheMovieChannelWest.us.png",US : The Movie Channel West
 https://tv.extremeiptv.net/live/Marc/Marc/4c9b291a-4b3b-49f0-9372-473b12080091.m3u
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV East
 https://tv.extremeiptv.net/live/Marc/Marc/42001b5c-70d9-4db3-95b5-f4ed2cfd116c.m3u
@@ -327,9 +327,9 @@ https://tv.extremeiptv.net/live/Marc/Marc/b5cba18d-17c2-4d68-9a58-4382a8a2a151.m
 https://tv.extremeiptv.net/live/Marc/Marc/8dfd3a09-7d98-47fd-8182-c3ace4a4de8a.m3u
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Paramount+ with Showtime East 
 https://tv.extremeiptv.net/live/Marc/Marc/2cdfc707-4b0e-496b-b5a1-a554c2d3e4fe.m3u
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime West
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime West
 https://tv.extremeiptv.net/live/Marc/Marc/10ffe96d-40e0-492c-bac2-c2c05d34258c.m3u
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime West Stream 2
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime West Stream 2
 https://tv.extremeiptv.net/live/Marc/Marc/21c4180b-0a6d-416e-ad12-2951e5d76b1c.m3u
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2
 https://tv.extremeiptv.net/live/Marc/Marc/4d3f8090-b53a-4092-a4c0-4bf60bedd184.m3u
@@ -447,41 +447,41 @@ https://tv.extremeiptv.net/live/Marc/Marc/6175a15f-b793-4271-8f77-c5e6edbeb5cc.m
 https://tv.extremeiptv.net/live/Marc/Marc/6acacaec-71cb-403b-9a46-6067af0e04fb.m3u
 
 
-#EXTINF:-1 tvg-id="StarzEncoreActionPacific.us" tvg-name="US : Starz Encore Action" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEncoreAction.us.png",US : Starz Encore Action
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="US : Starz Encore Action" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEncoreAction.us.png",US : Starz Encore Action
 https://tv.extremeiptv.net/live/Marc/Marc/c338369e-2022-4465-acc9-e29af203024f.m3u
 
-#EXTINF:-1 tvg-id="StarzEncoreActionPacific.us" tvg-name="US : STARZ ENCORE ACTION WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/d7670105e6d8b0bd34c9e52fbbab3158.png",US : STARZ ENCORE ACTION WEST HD
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="US : STARZ ENCORE ACTION WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/d7670105e6d8b0bd34c9e52fbbab3158.png",US : STARZ ENCORE ACTION WEST HD
 https://tv.extremeiptv.net/live/Marc/Marc/1e2c68e9-0ac9-4b72-8d4b-238345ae4953.m3u
 
 
 
-#EXTINF:-1 tvg-id="StarzEncoreBlackPacific.us" tvg-name="US : Starz Encore Black" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEncoreBlack.us.png",US : Starz Encore Black
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="US : Starz Encore Black" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEncoreBlack.us.png",US : Starz Encore Black
 https://tv.extremeiptv.net/live/Marc/Marc/038841fb-a8de-4d46-857c-b96f00c84573.m3u
 
-#EXTINF:-1 tvg-id="StarzEncoreBlackPacific.us" tvg-name="US : STARZ ENCORE BLACK WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/8d0397e1e84f782de1fdf4d8995d4b80.png",US : STARZ ENCORE BLACK WEST HD
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="US : STARZ ENCORE BLACK WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/8d0397e1e84f782de1fdf4d8995d4b80.png",US : STARZ ENCORE BLACK WEST HD
 https://tv.extremeiptv.net/live/Marc/Marc/f814f8f4-596f-4e69-975b-160787546b75.m3u
 
 
 
-#EXTINF:-1 tvg-id="StarzinBlackPacific.us" tvg-name="US : Starz in Black East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/2560px-Starz_in_Black_Logo_2022.svg.png",US : Starz in Black East
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="US : Starz in Black East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/2560px-Starz_in_Black_Logo_2022.svg.png",US : Starz in Black East
 https://tv.extremeiptv.net/live/Marc/Marc/82ecbc97-5128-4f99-b1e3-bf051075d3dd.m3u
 
-#EXTINF:-1 tvg-id="StarzinBlackPacific.us" tvg-name="US : Starz in Black West" tvg-logo="https://cdn.iptvboss.pro/logos//USA/StarzInBlack.us.png",US : Starz in Black West
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="US : Starz in Black West" tvg-logo="https://cdn.iptvboss.pro/logos//USA/StarzInBlack.us.png",US : Starz in Black West
 https://tv.extremeiptv.net/live/Marc/Marc/8a6808cc-5bdc-48d0-9084-4528fb8e7061.m3u
 
-#EXTINF:-1 tvg-id="StarzinBlackPacific.us" tvg-name="US : STARZ IN BLACK WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/8d0397e1e84f782de1fdf4d8995d4b80.png",US : STARZ IN BLACK WEST HD
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="US : STARZ IN BLACK WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/8d0397e1e84f782de1fdf4d8995d4b80.png",US : STARZ IN BLACK WEST HD
 https://tv.extremeiptv.net/live/Marc/Marc/401bc88d-8ec3-440e-8174-dd457ca689e8.m3u
 
 
 
 
-#EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="US : Starz Edge East" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEdgePacific.us.png",US : Starz Edge East
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="US : Starz Edge East" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEdgePacific.us.png",US : Starz Edge East
 https://tv.extremeiptv.net/live/Marc/Marc/f52c1f63-ee1c-4085-88b7-7f14725d50e4.m3u
 
-#EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="US : Starz Edge West" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEdge.us.png",US : Starz Edge West
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="US : Starz Edge West" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEdge.us.png",US : Starz Edge West
 https://tv.extremeiptv.net/live/Marc/Marc/280f4de8-27d1-43b7-86b0-dde600b62572.m3u
 
-#EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="US : STARZ EDGE WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/b42bdf78687cabe7ec0e4b9268eb1c07.png",US : STARZ EDGE WEST HD
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="US : STARZ EDGE WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/b42bdf78687cabe7ec0e4b9268eb1c07.png",US : STARZ EDGE WEST HD
 https://tv.extremeiptv.net/live/Marc/Marc/a0b32594-bac6-4e21-9eaa-904a70ef9fea.m3u
 
 
@@ -498,23 +498,23 @@ https://tv.extremeiptv.net/live/Marc/Marc/49d2ab4f-cfe4-4584-82d3-b66e3b8c82d2.m
 https://tv.extremeiptv.net/live/Marc/Marc/1de955f6-0448-456b-955f-773e92b8263f.m3u
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore East
 https://tv.extremeiptv.net/live/Marc/Marc/0c467251-5bd5-4709-ab2f-4392735ce3da.m3u
-#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore West
+#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore West
 https://tv.extremeiptv.net/live/Marc/Marc/db2b2d01-422c-4fe5-9be2-705bf4a3ff6d.m3u
 
 
 
 
-#EXTINF:-1 tvg-id="StarzEncoreSuspensePacific.us" tvg-name="US : Starz Encore Suspense" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEncoreSuspense.us.png",US : Starz Encore Suspense
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="US : Starz Encore Suspense" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEncoreSuspense.us.png",US : Starz Encore Suspense
 https://tv.extremeiptv.net/live/Marc/Marc/8166b6cb-2c0e-4c4a-90a0-3b59edf5b81d.m3u
 
-#EXTINF:-1 tvg-id="StarzEncoreSuspensePacific.us" tvg-name="US : STARZ ENCORE SUSPENSE WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/811524595fcd0e4a9b991d8f29cbafdc.png",US : STARZ ENCORE SUSPENSE WEST HD
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="US : STARZ ENCORE SUSPENSE WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/811524595fcd0e4a9b991d8f29cbafdc.png",US : STARZ ENCORE SUSPENSE WEST HD
 https://tv.extremeiptv.net/live/Marc/Marc/f94f1d6b-dd1d-45aa-be63-e368c43feb6d.m3u
 
 
-#EXTINF:-1 tvg-id="StarzEncoreWesternsPacific.us" tvg-name="US : Starz Encore Westerns" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEncoreWesterns.us.png",US : Starz Encore Westerns
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="US : Starz Encore Westerns" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEncoreWesterns.us.png",US : Starz Encore Westerns
 https://tv.extremeiptv.net/live/Marc/Marc/bece7136-27b9-46e5-8ef0-58a483ec5f5e.m3u
 
-#EXTINF:-1 tvg-id="StarzEncoreWesternsPacific.us" tvg-name="US : STARZ ENCORE WESTERNS WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/7ea703448541d8d51253e6051d1f7aab.png",US : STARZ ENCORE WESTERNS WEST HD
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.(Pacific).us2" tvg-name="US : STARZ ENCORE WESTERNS WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/7ea703448541d8d51253e6051d1f7aab.png",US : STARZ ENCORE WESTERNS WEST HD
 https://tv.extremeiptv.net/live/Marc/Marc/27d1d7aa-64ff-4d3a-9ff0-0ff07c61026c.m3u
 
 
@@ -598,9 +598,9 @@ https://tv.extremeiptv.net/live/Marc/Marc/43bb6ab1-750c-4dfe-8e4a-bc6d52f7dfeb.m
 https://tv.extremeiptv.net/live/Marc/Marc/7051a40b-bb4b-427d-a6e8-46c70af3439d.m3u
 #EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel East
 https://tv.extremeiptv.net/live/Marc/Marc/4a53d50e-3ba9-454b-b4ec-d5f9d916904d.m3u
-#EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel West
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel West
 https://tv.extremeiptv.net/live/Marc/Marc/08c0849f-dfac-48e3-ad13-a5be725acc15.m3u
-#EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel West HD
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel West HD
 https://tv.extremeiptv.net/live/Marc/Marc/fba25f7a-b0e5-4b04-8bcb-38b4439d36aa.m3u
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV East
 https://tv.extremeiptv.net/live/Marc/Marc/06e302c3-c5ce-4502-8f7d-681a1bed6dd3.m3u
