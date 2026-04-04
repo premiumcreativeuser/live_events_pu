@@ -325,6 +325,9 @@ The.Movie.Channel.HD.us2
 The.Movie.Channel.(Pacific).us2
 The.Movie.Channel.Extra.HD.us2
 
+
+Showtime.Next.HD.us2
+Showtime.Showcase.HD.us2
 Starz.Encore.Action.HD.us2
 Starz.Encore.Black.us2
 Starz.in.Black.HD.us2
