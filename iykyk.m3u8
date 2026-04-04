@@ -348,19 +348,19 @@ https://tv.extremeiptv.net/live/Marc/Marc/f26b04c4-3e3c-4c9d-bcd2-6d16f67efb8f.m
 #EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",SHOWTIME FAMILY ZONE West
 https://tv.extremeiptv.net/live/Marc/Marc/11514745-608a-486f-9da9-3d3cb86caf83.m3u
 
-#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="US : SHOWTIME NEXT" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ShowtimeNext.us.png",US : SHOWTIME NEXT
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="US : SHOWTIME NEXT" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ShowtimeNext.us.png",US : SHOWTIME NEXT
 https://tv.extremeiptv.net/live/Marc/Marc/0d6ef214-7b9f-4e4a-966e-c1bef3024b6b.m3u
 
-#EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-name="US : Showtime Showcase East" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ShowtimeShowcase.us.png",US : Showtime Showcase East
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="US : Showtime Showcase East" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ShowtimeShowcase.us.png",US : Showtime Showcase East
 https://tv.extremeiptv.net/live/Marc/Marc/3848a60f-04a0-4803-aaae-79080f9eff57.m3u
 
-#EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-name="US : Showtime Showcase West" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ShowtimeShowcase.us.png",US : Showtime Showcase West
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="US : Showtime Showcase West" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ShowtimeShowcase.us.png",US : Showtime Showcase West
 https://tv.extremeiptv.net/live/Marc/Marc/f821a0f9-8fb0-40fa-95c9-73e434b99dd6.m3u
 
-#EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-name="US : SHOWTIME SHOWCASE WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/4b73de26caab60ddc37b2aa48abf0afb.png",US : SHOWTIME SHOWCASE WEST HD
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="US : SHOWTIME SHOWCASE WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/4b73de26caab60ddc37b2aa48abf0afb.png",US : SHOWTIME SHOWCASE WEST HD
 https://tv.extremeiptv.net/live/Marc/Marc/6b904a3b-64dc-433e-a988-7c2f9cde9294.m3u
 
-#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="US : Showtime Women" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ShowtimeWomen.us.png",US : Showtime Women
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="US : Showtime Women" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ShowtimeWomen.us.png",US : Showtime Women
 https://tv.extremeiptv.net/live/Marc/Marc/60605497-f00f-4921-a510-876b0886ce2c.m3u
 
 
