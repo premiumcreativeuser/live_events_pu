@@ -23,9 +23,9 @@ https://tv.extremeiptv.net/live/Marc/Marc/552f6981-0ee2-48b8-bfd6-af36397bbdc1.m
 https://tv.extremeiptv.net/live/Marc/Marc/b425ffec-5d0a-42ed-92ee-e3bcbcbdcf77.m3u
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E East
 https://tv.extremeiptv.net/live/Marc/Marc/e3442dce-75e2-43e1-88c7-e61ac98dfab9.m3u
-#EXTINF:-1 tvg-id="A.and.E.HD.West.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E West
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E West
 https://tv.extremeiptv.net/live/Marc/Marc/8f35bdbf-cb45-401f-a1e3-6b4041d51f41.m3u
-#EXTINF:-1 tvg-id="A.and.E.HD.West.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E West HD
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E West HD
 https://tv.extremeiptv.net/live/Marc/Marc/f67d3046-6b3b-4c58-822e-d3ed62ec8bb6.m3u
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC Network
 https://tv.extremeiptv.net/live/Marc/Marc/d030142c-f9fd-4185-be2a-126ae36c2b91.m3u
