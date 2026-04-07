@@ -1,450 +1,631 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/epgs/iykyk-epg.xml"
 
 #NEWS
-#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS LA Locals
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/49269.ts
+#EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS LA
+https://tv.extremeiptv.net/live/Marc/Marc/e9362a0e-105b-487f-a328-31d503073b43.m3u
 #EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC LA Locals
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/49272.ts
+https://tv.extremeiptv.net/live/Marc/Marc/aae92b5c-ab18-4d35-ba0d-b6cfa309cc6b.m3u
+#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC LA Locals
+https://tv.extremeiptv.net/live/Marc/Marc/71c5077a-9d48-4c51-8962-e16daa594beb.m3u
 #EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-wnbc-us.png",NBC WNBC NY Locals
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/49424.ts
-#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-wnbc-us.png",NBC WNBC NY
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23211.ts
-#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-wnbc-us.png",NBC WNBC NY
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15931.ts
+https://tv.extremeiptv.net/live/Marc/Marc/d1e22bd0-f023-4d24-a772-67ee46e6167b.m3u
 #EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA Locals
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/49270.ts
-#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/40686.ts
+https://tv.extremeiptv.net/live/Marc/Marc/83e13976-a59c-4f2a-b391-de67632259a4.m3u
 #EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC KABC Locals
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/49267.ts
+https://tv.extremeiptv.net/live/Marc/Marc/562bb8a6-1815-4e2f-a319-a0380196feab.m3u
 #EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL Locals
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/49268.ts
+https://tv.extremeiptv.net/live/Marc/Marc/a596bc8a-f952-41c2-b5e9-b5de7914e5ad.m3u
+#EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL Locals
+https://tv.extremeiptv.net/live/Marc/Marc/bc952259-da2b-4862-98b4-08928455dbb9.m3u
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV Locals
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/49282.ts
+https://tv.extremeiptv.net/live/Marc/Marc/552f6981-0ee2-48b8-bfd6-af36397bbdc1.m3u
 #EXTINF:-1 tvg-id="KCOP-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/my-13-kcop-us.png",FOX 13 KCOP CA Los Angeles 
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/49271.ts
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15966.ts
+https://tv.extremeiptv.net/live/Marc/Marc/b425ffec-5d0a-42ed-92ee-e3bcbcbdcf77.m3u
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E East
+https://tv.extremeiptv.net/live/Marc/Marc/e3442dce-75e2-43e1-88c7-e61ac98dfab9.m3u
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E West
+https://tv.extremeiptv.net/live/Marc/Marc/8f35bdbf-cb45-401f-a1e3-6b4041d51f41.m3u
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E West HD
+https://tv.extremeiptv.net/live/Marc/Marc/f67d3046-6b3b-4c58-822e-d3ed62ec8bb6.m3u
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC Network
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/46401.ts
+https://tv.extremeiptv.net/live/Marc/Marc/d030142c-f9fd-4185-be2a-126ae36c2b91.m3u
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22572.ts
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15923.ts
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22570.ts
-#EXTINF:-1 tvg-id="Animal.Planet.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15957.ts
-#EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png",BBC America
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23359.ts
-#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true",BBC World News CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/40770.ts
+https://tv.extremeiptv.net/live/Marc/Marc/48edae61-3ae5-48f9-872f-86d2b92f06e6.m3u
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC West
+https://tv.extremeiptv.net/live/Marc/Marc/3523c9e0-33e5-456c-9037-198bb845d32a.m3u
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet East
+https://tv.extremeiptv.net/live/Marc/Marc/e483000b-a8fe-40aa-883e-c6d99c1da748.m3u
+#EXTINF:-1 tvg-id="Animal.Planet.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet West
+https://tv.extremeiptv.net/live/Marc/Marc/420f127b-8319-41dc-bc22-20d4c5a99f7c.m3u
+#EXTINF:-1 tvg-id="Animal.Planet.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet West HD
+https://tv.extremeiptv.net/live/Marc/Marc/ff203a83-5eed-413a-9f61-bd23cbae6b1c.m3u
+#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true",BBC World News US
+https://tv.extremeiptv.net/live/Marc/Marc/6dcf1039-79ae-4bf2-8b84-8f1cf767ee61.m3u
 #EXTINF:-1 tvg-id="BET.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22566.ts
+https://tv.extremeiptv.net/live/Marc/Marc/e4e466b9-a734-4b47-a2b0-ea374d71efa5.m3u
+#EXTINF:-1 tvg-id="BET.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET East
+https://tv.extremeiptv.net/live/Marc/Marc/4577dba9-1803-4ad0-915a-2211333aa08e.m3u
+#EXTINF:-1 tvg-id="BET.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET West
+https://tv.extremeiptv.net/live/Marc/Marc/849cf31e-84b6-4fff-ad0c-d5d52fc33a6f.m3u
+#EXTINF:-1 tvg-id="BET.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET West HD
+https://tv.extremeiptv.net/live/Marc/Marc/fcc6bfde-80b5-411a-9370-8dd8a3fc9034.m3u
 #EXTINF:-1 tvg-id="BET.Her.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png",BET HER
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23356.ts
+https://tv.extremeiptv.net/live/Marc/Marc/fe783750-9a65-47f7-b90c-2bc89c9b47a7.m3u
 #EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-logo="https://tlgrm.re/images/sho-bet-us.png",BET SHOxBET
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/48365.ts
+https://tv.extremeiptv.net/live/Marc/Marc/815d8eba-de48-4444-9d3c-d9f386ecb5d6.m3u
+#EXTINF:-1 tvg-id="SHO.x.BET.HD.us2" tvg-logo="https://tlgrm.re/images/sho-bet-us.png",BET SHOxBET West
+https://tv.extremeiptv.net/live/Marc/Marc/409f072f-40ee-43c9-8878-138057e9164b.m3u
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true",Big Ten Network
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23355.ts
+https://tv.extremeiptv.net/live/Marc/Marc/00f89be7-530c-4bcd-afa3-83e192ea7d96.m3u
+#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true",Big Ten Network FHD
+https://tv.extremeiptv.net/live/Marc/Marc/3ae6fd6c-cb99-4efd-9351-cd49a8ddb77c.m3u
 #EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",Boomerang
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23354.ts
-#EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",Boomerang
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22563.ts
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22562.ts
+https://tv.extremeiptv.net/live/Marc/Marc/90a3a78a-81d8-4714-930d-b585b6337b3d.m3u
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo East
+https://tv.extremeiptv.net/live/Marc/Marc/1f91ed9f-7de6-4e9e-8d83-7b1ba944f5ec.m3u
+#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo West
+https://tv.extremeiptv.net/live/Marc/Marc/9d7a71a4-9b7e-4305-b2c0-823b1575987d.m3u
+#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo West
+https://tv.extremeiptv.net/live/Marc/Marc/9efe8036-786f-4fab-b101-1e6405ab6c2f.m3u
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15959.ts
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22561.ts
+https://tv.extremeiptv.net/live/Marc/Marc/9d1b7eb8-fbc8-4198-a8e8-1f5e634e2615.m3u
+#EXTINF:-1 tvg-id="Cartoon.Network.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West
+https://tv.extremeiptv.net/live/Marc/Marc/da540c5a-6db1-4081-ab82-393740a9c39c.m3u
+#EXTINF:-1 tvg-id="Cartoon.Network.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West HD
+https://tv.extremeiptv.net/live/Marc/Marc/4d274dcd-6a9b-41cf-a8e7-1b06dedae690.m3u
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS Sports Network
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15944.ts
+https://tv.extremeiptv.net/live/Marc/Marc/9f4ba303-4427-4c21-85b3-2679dc92b074.m3u
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 #EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-sports-golazo-network-us.png" tvg-name="CBS Sports Golazo",CBS Sports Golazo
 https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23345.ts
-#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22557.ts
-#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15921.ts
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX East
+https://tv.extremeiptv.net/live/Marc/Marc/4d6de268-314e-4817-8777-c0bb86ccab73.m3u
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX East 5.1
+https://tv.extremeiptv.net/live/Marc/Marc/3976b4d1-0d3c-4deb-8fce-dce77e1b6bdb.m3u
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX West
+https://tv.extremeiptv.net/live/Marc/Marc/dfcde4a0-1b85-421a-9565-49fc8aa04eec.m3u
 #EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23346.ts
-#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15924.ts
+https://tv.extremeiptv.net/live/Marc/Marc/e3dfc7da-9157-4e54-90f7-d15e0e00adc9.m3u
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX 5.1
+https://tv.extremeiptv.net/live/Marc/Marc/16265326-b2a8-4a9a-9380-5e67a05fd648.m3u
 #EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23342.ts
-#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-moremax-us.png",MoreMax
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15910.ts
+https://tv.extremeiptv.net/live/Marc/Marc/7ddbd4a9-7224-444b-9748-f1ac8e2178bc.m3u
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits 5.1
+https://tv.extremeiptv.net/live/Marc/Marc/e9826df2-b84c-4868-82d6-12fffafaa10d.m3u
 #EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-classics-us.png",CINEMAX Classics
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/48357.ts
+https://tv.extremeiptv.net/live/Marc/Marc/97e9dd68-32b6-42cc-ac29-caa7529dbb94.m3u
+#EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-classics-us.png",CINEMAX Classics 5.1
+https://tv.extremeiptv.net/live/Marc/Marc/d6bea7db-da44-4c5a-93ac-8ddbe6087d67.m3u
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15902.ts
+https://tv.extremeiptv.net/live/Marc/Marc/30a0db70-ef80-4b49-ac82-5811c60c7719.m3u
+#EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/3e4ddc0d-3cb6-4755-b4a8-abe47221704b.m3u
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23340.ts
-#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15934.ts
+https://tv.extremeiptv.net/live/Marc/Marc/b651da0c-cb84-4c24-9c6f-19af79da1e9a.m3u
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15933.ts
-#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22553.ts
+https://tv.extremeiptv.net/live/Marc/Marc/fd292e5b-dbdf-44b6-bd3e-1996ea7e52c0.m3u
+#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central West
+https://tv.extremeiptv.net/live/Marc/Marc/4e072cee-e659-45fb-ad56-8256227097ef.m3u
+#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central West HD
+https://tv.extremeiptv.net/live/Marc/Marc/49a27364-9aad-4e7b-8177-885d5361ada5.m3u
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png",Cooking Channel
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23339.ts
+https://tv.extremeiptv.net/live/Marc/Marc/4c66e1f5-73f2-47ce-b96d-c878109f670b.m3u
 #EXTINF:-1 tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1 CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/40656.ts
+https://tv.extremeiptv.net/live/Marc/Marc/ef67bb9e-6b3e-4369-818b-a82079649eeb.m3u
+#EXTINF:-1 tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1 CA
+https://tv.extremeiptv.net/live/Marc/Marc/5493c409-d20b-4ba4-b6e6-88929f17e808.m3u
+#EXTINF:-1 tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1 CA
+https://tv.extremeiptv.net/live/Marc/Marc/64350a5d-ef06-4afb-8b4d-4a8fb3a2fd01.m3u
 #EXTINF:-1 tvg-id="Crave2.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2 CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/40655.ts
+https://tv.extremeiptv.net/live/Marc/Marc/b86df189-4762-43fc-a234-3e71f49a0a9b.m3u
+#EXTINF:-1 tvg-id="Crave2.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2 CA
+https://tv.extremeiptv.net/live/Marc/Marc/f1e92a09-d4c5-4b29-9010-f4d8648abf1c.m3u
+#EXTINF:-1 tvg-id="Crave2.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2 CA
+https://tv.extremeiptv.net/live/Marc/Marc/7b5d22c1-4b76-4591-9e30-883cf8751a07.m3u
 #EXTINF:-1 tvg-id="Crave3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3 CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/40654.ts
+https://tv.extremeiptv.net/live/Marc/Marc/160ed88a-09eb-47fd-8473-6132d8d0ddc8.m3u
+#EXTINF:-1 tvg-id="Crave3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3 CA
+https://tv.extremeiptv.net/live/Marc/Marc/a6a3f6d4-7eb7-4b9c-af8e-4cf504eac3de.m3u
+#EXTINF:-1 tvg-id="Crave3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3 CA
+https://tv.extremeiptv.net/live/Marc/Marc/1601cb10-3e41-42c5-8413-8c5819781267.m3u
 #EXTINF:-1 tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4 CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/40653.ts
+https://tv.extremeiptv.net/live/Marc/Marc/9d9993bd-95b7-4c07-b1ad-93f17cdfd26e.m3u
+#EXTINF:-1 tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4 CA
+https://tv.extremeiptv.net/live/Marc/Marc/fcd3fe5e-48a4-4cc8-adf7-986bdc57e507.m3u
 #EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true",Destination America
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23201.ts
+https://tv.extremeiptv.net/live/Marc/Marc/3e3d7df0-81c7-43eb-8bba-c0ca04fa8dd5.m3u
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery Channel
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22549.ts
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery Channel HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15920.ts
+https://tv.extremeiptv.net/live/Marc/Marc/21fbfedb-91cd-460a-be54-b4dc7c3615c5.m3u
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png",Discovery Family
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23334.ts
+https://tv.extremeiptv.net/live/Marc/Marc/b287087e-26b8-4b7d-90a8-7ede8f26a45b.m3u
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png",Discovery Life Channel
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23333.ts
+https://tv.extremeiptv.net/live/Marc/Marc/182d86af-f8c0-4a73-9bc0-5566da361257.m3u
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23332.ts
+https://tv.extremeiptv.net/live/Marc/Marc/1eb269df-0b52-456e-b025-559b327fc7eb.m3u
+#EXTINF:-1 tvg-id="Disney.Channel.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel West HD
+https://tv.extremeiptv.net/live/Marc/Marc/019e6d59-03d5-4208-bd49-cbde909e372a.m3u
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47621.ts
+https://tv.extremeiptv.net/live/Marc/Marc/42411168-2c37-4c3d-aba2-95cea9ad507b.m3u
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23330.ts
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! 
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15962.ts
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! Entertainment
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22541.ts
+https://tv.extremeiptv.net/live/Marc/Marc/d63b8e0b-aee5-4838-a818-9f4169b6b205.m3u
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! Entertainment East
+https://tv.extremeiptv.net/live/Marc/Marc/7a913b3b-d30a-4670-ba6a-ec7975a141ce.m3u
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! Entertainment West
+https://tv.extremeiptv.net/live/Marc/Marc/94efce3b-4d06-4b2b-9c5c-c5a98ff88371.m3u
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! Entertainment West HD
+https://tv.extremeiptv.net/live/Marc/Marc/1552cc7d-83cf-4bbf-86f0-77a6b3be8478.m3u
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15951.ts
+https://tv.extremeiptv.net/live/Marc/Marc/0b1dfe64-3b45-4110-abd5-19a2ed9f450e.m3u
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/2fb736b6-5484-4bb0-be39-1e46aefa661c.m3u
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN Stream 3
+https://tv.extremeiptv.net/live/Marc/Marc/811ed687-22aa-4f81-bfcf-205bd2352a62.m3u
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN FHD
+https://tv.extremeiptv.net/live/Marc/Marc/ee64ad44-2c80-4d48-b552-34f318a32cf1.m3u
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN 2
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15950.ts
+https://tv.extremeiptv.net/live/Marc/Marc/b1f8d9e5-78c5-47a4-970d-65cdb5b3a8b1.m3u
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN 2 Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/2b1ee65d-6143-44fc-8f23-ea1e76ccf1c8.m3u
+#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN 2 FHD
+https://tv.extremeiptv.net/live/Marc/Marc/45516d19-2107-47ef-8aa2-0ce31882348d.m3u
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcu/gear/refs/heads/main/tv-logos/espn-deportes-us.png" tvg-name="ESPN DEPORTES",ESPN Deportes
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47105.ts
+
+
 #EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png",ESPN News
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23213.ts
-#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png",ESPN News HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15952.ts
+https://tv.extremeiptv.net/live/Marc/Marc/eef8f672-c23a-4aec-b12f-cd3368e590df.m3u
+#EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png",ESPN News Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/7aff13f2-e5b5-49f8-8287-e56e6fced88e.m3u
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",ESPN U
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22536.ts
-#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",ESPN U HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15949.ts
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23323.ts
+https://tv.extremeiptv.net/live/Marc/Marc/efc4c23c-bfff-4b76-8cbe-386a69f5e211.m3u
+#EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",ESPN U Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/f0cc7920-a1d6-407d-9286-378c2e6977ee.m3u
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network East
+https://tv.extremeiptv.net/live/Marc/Marc/dbb94d8f-00d6-4e7f-a27c-d89321fd9b19.m3u
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network West
+https://tv.extremeiptv.net/live/Marc/Marc/b75243a5-003a-49ec-8f83-3659a65d568d.m3u
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network West HD
+https://tv.extremeiptv.net/live/Marc/Marc/101995fc-7b63-47c6-a51a-14968a4bcb8b.m3u
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",FOX Business Network
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23320.ts
+https://tv.extremeiptv.net/live/Marc/Marc/f2902338-e83e-42d0-b677-ab019b74c595.m3u
 #EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-sports-deportes-us.png",FOX DEPORTES USA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23316.ts
-#EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-sports-deportes-us.png",FOX DEPORTES USA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47115.ts
-#EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-sports-deportes-us.png",FOX DEPORTES USA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47116.ts
-#EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-soccer-plus-us.png",Fox Soccer Plus USA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23315.ts
+https://tv.extremeiptv.net/live/Marc/Marc/e221aa51-fc93-4aa5-9bf2-0ba295a2a9fd.m3u
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png",FOX News
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22530.ts
+https://tv.extremeiptv.net/live/Marc/Marc/d8ca35cc-9fe1-49f1-8eca-cc2af1ea7ed6.m3u
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",FS1 - Fox Sports 1
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22526.ts
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",FS1 - Fox Sports 1 HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15948.ts
+https://tv.extremeiptv.net/live/Marc/Marc/6eb055da-d1db-45e6-a9db-c0929ca2879d.m3u
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",FS1 - Fox Sports 1 FHD
+https://tv.extremeiptv.net/live/Marc/Marc/bfd3da5f-f6ff-45b8-b640-e1bd6be6604c.m3u
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",FS1 - Fox Sports 1
+https://tv.extremeiptv.net/live/Marc/Marc/c81675a2-52eb-4f34-a4f3-05adc6c28113.m3u
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",FS2 - Fox Sports 2
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22525.ts
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",FS2 - Fox Sports 2 HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15947.ts
-#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png",Freeform
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23313.ts
+https://tv.extremeiptv.net/live/Marc/Marc/83caee4b-64f1-42b7-825c-b2abfbcf79d3.m3u
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",FS2 - Fox Sports 2 FHD
+https://tv.extremeiptv.net/live/Marc/Marc/f13a57d5-7687-41ca-9a69-2b077c71f837.m3u
+#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",FS2 - Fox Sports 2 Stream 3
+https://tv.extremeiptv.net/live/Marc/Marc/458768b8-7cd8-4914-8f8c-ed9e69037948.m3u
+#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png",Freeform East
+https://tv.extremeiptv.net/live/Marc/Marc/0f67e2e8-a561-4021-8a56-5af869df4566.m3u
+#EXTINF:-1 tvg-id="Freeform.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png",Freeform West
+https://tv.extremeiptv.net/live/Marc/Marc/2a29e161-2f1a-4ff3-93ba-c739cee8322b.m3u
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX East
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22522.ts
+https://tv.extremeiptv.net/live/Marc/Marc/0c435594-d0ff-4e1a-84c7-dcba9a9abf36.m3u
 #EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX West
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15918.ts
+https://tv.extremeiptv.net/live/Marc/Marc/d1ddd27e-6d7a-482e-baa0-56a3285d0a81.m3u
+#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX West Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/b4ce1106-b5d1-4379-9c39-ca9a67c7e8b2.m3u
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true",FXM
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23309.ts
+https://tv.extremeiptv.net/live/Marc/Marc/8925c337-36e4-44fa-b665-fb3a251682b4.m3u
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX East
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22521.ts
+https://tv.extremeiptv.net/live/Marc/Marc/461f2156-b45f-49f2-a48e-03ad1c1673dc.m3u
 #EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX West
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15917.ts
-#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22519.ts
+https://tv.extremeiptv.net/live/Marc/Marc/4ed5bb5e-50ef-42bd-942a-cee0c70ea381.m3u
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark East
+https://tv.extremeiptv.net/live/Marc/Marc/fa9e0ec4-fbba-4bd9-ae67-8aab083092f7.m3u
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark West
+https://tv.extremeiptv.net/live/Marc/Marc/c16b9f0d-3b5e-4e39-8583-35d37c3ff9e6.m3u
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark West Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/209490a2-300f-4e1f-ac93-5ce79ceae89e.m3u
 #EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22518.ts
-#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries West
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22518.ts
 #EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="US | Hallmark Family" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hallmarkfamily.png",Hallmark Family
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/48377.ts
+https://tv.extremeiptv.net/live/Marc/Marc/c053ead8-0002-45f8-af18-dc83c8112d69.m3u
+#EXTINF:-1 tvg-id="" tvg-name="US: Hallmark Movies & More Holiday Favorites" tvg-logo="https://images.pluto.tv/channels/628e685ba3811100070551a8/logo.png?fit=fill&fm=png&h=80&w=280",US: Hallmark Movies & More Holiday Favorites
+https://tv.extremeiptv.net/live/Marc/Marc/39667195-c4e5-449e-9086-10ac177f03d1.m3u
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO East
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15913.ts
-#EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO East HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23300.ts
-#EXTINF:-1 tvg-id="HBO.West.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/48358.ts
-#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/40696.ts
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23303.ts
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15916.ts
+https://tv.extremeiptv.net/live/Marc/Marc/9ea36fdb-d8d8-499f-bc7b-de4464470604.m3u
+#EXTINF:-1 tvg-id="HBO.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West
+https://tv.extremeiptv.net/live/Marc/Marc/90ac6b73-525f-4ffd-b941-e1f7346ab208.m3u
+#EXTINF:-1 tvg-id="HBO.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/9ad14808-40ec-4024-b40c-5535ffc7302e.m3u
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2
+#NEED NEW SOURCE
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy East
+https://tv.extremeiptv.net/live/Marc/Marc/877ff689-ad38-4394-874f-923218f44875.m3u
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy West
+https://tv.extremeiptv.net/live/Marc/Marc/26d2b96f-72b5-4546-b066-096608795e47.m3u
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy West Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/e9ce730a-d162-46bd-bdfc-3ebe2dd2b107.m3u
 #EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15915.ts
-#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/48332.ts
+https://tv.extremeiptv.net/live/Marc/Marc/6933f413-95d4-4659-97c1-f96c23e92509.m3u
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits East
+https://tv.extremeiptv.net/live/Marc/Marc/dbf582d9-abac-4de0-bba2-008372939697.m3u
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits West
+https://tv.extremeiptv.net/live/Marc/Marc/17728c0d-8ed5-44f6-b105-8dc6559836a8.m3u
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits West Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/3a5ef7d2-5156-4030-84a6-36459ed1c56c.m3u
 #EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png" ,HBO Movies
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15914.ts
-#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png" ,HBO Movies (HD)
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23299.ts
+https://tv.extremeiptv.net/live/Marc/Marc/d1c294c9-c56c-44f0-9851-05f17300e9ef.m3u
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png" ,HBO Movies West
+https://tv.extremeiptv.net/live/Marc/Marc/18180453-c658-4769-a573-b9a7b20b4818.m3u
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png" ,HBO Movies West Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/2346c00d-dabe-4a60-b25b-488d15ab0fd2.m3u
+#EXTINF:-1 tvg-id="The.Movie.Channel.(Pacific).us2" tvg-name="US : The Movie Channel West" tvg-logo="https://cdn.iptvboss.pro/logos/USA/TheMovieChannelWest.us.png",US : The Movie Channel West
+https://tv.extremeiptv.net/live/Marc/Marc/4c9b291a-4b3b-49f0-9372-473b12080091.m3u
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV East
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15972.ts
+https://tv.extremeiptv.net/live/Marc/Marc/42001b5c-70d9-4db3-95b5-f4ed2cfd116c.m3u
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV West
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15972.ts
+https://tv.extremeiptv.net/live/Marc/Marc/c53b65dc-55fc-4889-8eb4-574e852bab75.m3u
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV West Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/41e6488f-d6b1-4923-8720-b0b762249e5f.m3u
 #EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15912.ts
-#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22515.ts
+https://tv.extremeiptv.net/live/Marc/Marc/8c50c645-0696-49f5-90c8-14603fc24c6b.m3u
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History West
+https://tv.extremeiptv.net/live/Marc/Marc/0e9d5edb-0b9d-4fb8-8d13-d28ebb1bebcb.m3u
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History West Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/f5af1956-ce2e-48f0-899d-c4d28b663bc2.m3u
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime East
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23293.ts
+https://tv.extremeiptv.net/live/Marc/Marc/7fd0586e-ecab-4d74-87dc-f93a6154f5f6.m3u
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime West
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22509.ts
-#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",LIFETIME MOVIES LMN
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23292.ts
-#EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png",MSNBC
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22506.ts
+https://tv.extremeiptv.net/live/Marc/Marc/5bfaf53e-9928-4281-bcc5-e461e9d49989.m3u
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime West
+https://tv.extremeiptv.net/live/Marc/Marc/954d3b89-f244-4858-8f9c-f482f885e1ec.m3u
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",LIFETIME MOVIES LMN East
+https://tv.extremeiptv.net/live/Marc/Marc/4c611bd8-e732-4d1c-a809-5d47eb5048a4.m3u
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",LIFETIME MOVIES LMN West
+https://tv.extremeiptv.net/live/Marc/Marc/ecdab40f-e9ff-407e-9d9c-31b389208695.m3u
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23288.ts
+https://tv.extremeiptv.net/live/Marc/Marc/dba088a2-7283-47c0-82a2-afb99bbbb1f0.m3u
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV West
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23288.ts
+https://tv.extremeiptv.net/live/Marc/Marc/4d4144c4-158c-43a7-b2cf-2684392ab3e1.m3u
 #EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-live-us.png",MTV LIVE
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23286.ts
-#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV2
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23217.ts
+#NEED NEW SOURCE
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV2 West
+https://tv.extremeiptv.net/live/Marc/Marc/38c4ee9f-3985-402a-a8db-4dcb50effe8d.m3u
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild East
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22502.ts
-#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo West HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23285.ts
+https://tv.extremeiptv.net/live/Marc/Marc/896a4c4e-a5b0-42c7-8244-c2b430bbc38f.m3u
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild East Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/685d4f6e-570e-4e2b-98f3-a723e71129a8.m3u
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",NBA TV
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22501.ts
+https://tv.extremeiptv.net/live/Marc/Marc/27b40b25-3be0-43d9-b5c3-810a7ccbfb74.m3u
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true",NFL Network HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22491.ts
-#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true",NFL Network SD  
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22490.ts
+https://tv.extremeiptv.net/live/Marc/Marc/45919b9f-82ea-4a03-b0e2-87fa38074fcf.m3u
+#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true",NFL Network FHD
+https://tv.extremeiptv.net/live/Marc/Marc/6b2e2b93-b48c-470a-b08b-8cc6e6aaa10b.m3u
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",NFL Red Zone
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23279.ts
-#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",NFL Red Zone HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/31132.ts
+https://tv.extremeiptv.net/live/Marc/Marc/321042eb-dd67-4adc-be5d-e98a63d8ad57.m3u
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",NFL Red Zone Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/e80c876c-b78a-40b7-b784-cccce41eca25.m3u
+#EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",NFL Red Zone SD
+https://tv.extremeiptv.net/live/Marc/Marc/fea2ece5-6691-48fc-add4-83bf0790acca.m3u
 #EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png",NHL Network
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15941.ts
+https://tv.extremeiptv.net/live/Marc/Marc/fbbf3721-d32e-4b6f-ba5d-9d67146fb532.m3u
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr East
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23276.ts
-#EXTINF:-1 tvg-id="190" tvg-name="US | NICK JR.TOO" tvg-logo="https://tlgrm.re/images/nick-jr-too-uk.png" tvg-chno="190",US | NICK JR.TOO
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23275.ts
+https://tv.extremeiptv.net/live/Marc/Marc/b3e853b8-1cfc-4a99-9fb2-ea2eb727d2d9.m3u
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr West
+https://tv.extremeiptv.net/live/Marc/Marc/d29798a6-55bd-4e7a-a747-304d32a381f5.m3u
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15963.ts
+https://tv.extremeiptv.net/live/Marc/Marc/b483cb18-853a-4082-9966-c104e7ceb931.m3u
 #EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon West
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22486.ts
+https://tv.extremeiptv.net/live/Marc/Marc/68f85cd8-40e8-4c26-8686-c4025c124d02.m3u
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23274.ts
+https://tv.extremeiptv.net/live/Marc/Marc/706d1788-d14b-4c4f-8e2a-1a31e8b7c2ee.m3u
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons West
+https://tv.extremeiptv.net/live/Marc/Marc/b5cba18d-17c2-4d68-9a58-4382a8a2a151.m3u
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23273.ts
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime (HD)
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23255.ts
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15908.ts
+https://tv.extremeiptv.net/live/Marc/Marc/8dfd3a09-7d98-47fd-8182-c3ace4a4de8a.m3u
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Paramount+ with Showtime East 
+https://tv.extremeiptv.net/live/Marc/Marc/2cdfc707-4b0e-496b-b5a1-a554c2d3e4fe.m3u
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime West
+https://tv.extremeiptv.net/live/Marc/Marc/10ffe96d-40e0-492c-bac2-c2c05d34258c.m3u
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime West Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/21c4180b-0a6d-416e-ad12-2951e5d76b1c.m3u
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/48359.ts
+https://tv.extremeiptv.net/live/Marc/Marc/4d3f8090-b53a-4092-a4c0-4bf60bedd184.m3u
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 West
+https://tv.extremeiptv.net/live/Marc/Marc/ed52b94d-16c7-4eee-91fc-a13cccb0e9e6.m3u
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 West Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/d7e11bc6-904c-43da-89a8-43887985b347.m3u
 #EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",SHOWTIME EXTREME
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23257.ts
+https://tv.extremeiptv.net/live/Marc/Marc/017d0b3f-eddb-4d9f-98ef-6ed57dc51845.m3u
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",SHOWTIME EXTREME West
+https://tv.extremeiptv.net/live/Marc/Marc/b9c31641-cfc4-479d-a31a-7c020702e696.m3u
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",SHOWTIME EXTREME West Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/37634773-57bd-4def-85fa-b916511ea365.m3u
 #EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",SHOWTIME FAMILY ZONE
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23256.ts
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47862.ts
-#EXTINF:-1 tvg-id="1552" tvg-name="UK | Sky Sports Arena" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/140/skychb3839.png",Sky Sports Arena UK
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47863.ts
+https://tv.extremeiptv.net/live/Marc/Marc/f26b04c4-3e3c-4c9d-bcd2-6d16f67efb8f.m3u
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",SHOWTIME FAMILY ZONE West
+https://tv.extremeiptv.net/live/Marc/Marc/11514745-608a-486f-9da9-3d3cb86caf83.m3u
+
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="US : SHOWTIME NEXT" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ShowtimeNext.us.png",US : SHOWTIME NEXT
+https://tv.extremeiptv.net/live/Marc/Marc/0d6ef214-7b9f-4e4a-966e-c1bef3024b6b.m3u
+
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="US : Showtime Showcase East" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ShowtimeShowcase.us.png",US : Showtime Showcase East
+https://tv.extremeiptv.net/live/Marc/Marc/3848a60f-04a0-4803-aaae-79080f9eff57.m3u
+
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="US : Showtime Showcase West" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ShowtimeShowcase.us.png",US : Showtime Showcase West
+https://tv.extremeiptv.net/live/Marc/Marc/f821a0f9-8fb0-40fa-95c9-73e434b99dd6.m3u
+
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="US : SHOWTIME SHOWCASE WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/4b73de26caab60ddc37b2aa48abf0afb.png",US : SHOWTIME SHOWCASE WEST HD
+https://tv.extremeiptv.net/live/Marc/Marc/6b904a3b-64dc-433e-a988-7c2f9cde9294.m3u
+
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="US : Showtime Women" tvg-logo="https://cdn.iptvboss.pro/logos/USA/ShowtimeWomen.us.png",US : Showtime Women
+https://tv.extremeiptv.net/live/Marc/Marc/60605497-f00f-4921-a510-876b0886ce2c.m3u
+
+
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK FHD
+https://tv.extremeiptv.net/live/Marc/Marc/6a32e6ec-386e-4cb1-aad2-9e4cbcfdd151.m3u
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK HD
+https://tv.extremeiptv.net/live/Marc/Marc/a9c9c0ea-c8e1-4ea4-b71b-e1f448446ae4.m3u
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47865.ts
+https://tv.extremeiptv.net/live/Marc/Marc/4faa5add-43b0-48cb-ba76-f99be8ddea29.m3u
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK FHD
+https://tv.extremeiptv.net/live/Marc/Marc/6f9fa491-21b8-49fb-89b7-080a6f13dc90.m3u
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK HD
+https://tv.extremeiptv.net/live/Marc/Marc/8c824639-2751-4093-a6f8-29affefe98db.m3u
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK Events
+https://tv.extremeiptv.net/live/Marc/Marc/6089d18c-1dba-40e4-b071-eec85b6526d8.m3u
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sporst%20football.png",Sky Sports Football UK
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47866.ts
+https://tv.extremeiptv.net/live/Marc/Marc/214c8b99-b89a-446b-b298-6205a8fe4ffd.m3u
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sporst%20football.png",Sky Sports Football UK FHD
+https://tv.extremeiptv.net/live/Marc/Marc/c5938873-3a62-4849-ab08-36d9d5913b54.m3u
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sporst%20football.png",Sky Sports Football UK HD
+https://tv.extremeiptv.net/live/Marc/Marc/9f40010c-d3ed-4db2-904b-53477632d60a.m3u
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47868.ts
+https://tv.extremeiptv.net/live/Marc/Marc/ea18c79c-9ac4-41ce-8378-140080632d56.m3u
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK FHD
+https://tv.extremeiptv.net/live/Marc/Marc/5b8a266b-91f9-4caa-8ad6-ae317db48bba.m3u
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK HD
+https://tv.extremeiptv.net/live/Marc/Marc/8c5b6b57-217c-439e-9fa4-46aadbadd78f.m3u
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20mix.png",Sky Sports Mix UK
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47869.ts
+https://tv.extremeiptv.net/live/Marc/Marc/5eb124ae-a7e0-4885-bae6-59bfc432835b.m3u
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20mix.png",Sky Sports Mix UK FHD
+https://tv.extremeiptv.net/live/Marc/Marc/f8fc6835-43fa-4ce6-b290-306efaf87852.m3u
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20mix.png",Sky Sports Mix UK HD
+https://tv.extremeiptv.net/live/Marc/Marc/7e359379-873b-4d5b-b038-aab8213b072b.m3u
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20news.png",Sky Sports News UK
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47870.ts
+https://tv.extremeiptv.net/live/Marc/Marc/7c5c8bcd-175f-471a-b1b4-0391e030d91c.m3u
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20news.png",Sky Sports News UK FHD
+https://tv.extremeiptv.net/live/Marc/Marc/3aaedae4-8ab9-4e42-a25b-77c0dbe9ce13.m3u
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20news.png",Sky Sports News UK HD
+https://tv.extremeiptv.net/live/Marc/Marc/72c0a488-0b46-426e-8658-c35b7bf95fb0.m3u
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47871.ts
+https://tv.extremeiptv.net/live/Marc/Marc/5010e4e5-c675-402e-82fa-8217f8bd8e9f.m3u
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK FHD
+https://tv.extremeiptv.net/live/Marc/Marc/963429d6-da46-413b-9eb5-97932c57a243.m3u
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK HD
+https://tv.extremeiptv.net/live/Marc/Marc/3c0f357a-c922-4d14-be84-9d044bfde8c3.m3u
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20racing.png",Sky Sports Racing UK
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47872.ts
-#EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47473.ts
-#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SportsNet New York SNY USA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/46400.ts
+https://tv.extremeiptv.net/live/Marc/Marc/e3a0d371-d2f0-4048-8593-273f18d09c61.m3u
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20racing.png",Sky Sports Racing UK FHD
+https://tv.extremeiptv.net/live/Marc/Marc/8bd60062-d571-49eb-8b0e-f7fbc60dbc76.m3u
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20racing.png",Sky Sports Racing UK HD
+https://tv.extremeiptv.net/live/Marc/Marc/47bf8e0f-2f34-4c22-bc56-ed3a26a6a9d3.m3u
+#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SportsNet New York SNY USA Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/1d6605bc-f5fd-45a0-857e-c219eea2c083.m3u
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",SportsNet World CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15936.ts
+https://tv.extremeiptv.net/live/Marc/Marc/5ee04273-2439-40f0-b1d5-0128d4b85fbb.m3u
+#EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",SportsNet World CA HD
 #EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet West CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15903.ts
+https://tv.extremeiptv.net/live/Marc/Marc/55f02248-d02f-473c-a4a5-2a254fd54bf1.m3u
 #EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet West CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/40613.ts
+https://tv.extremeiptv.net/live/Marc/Marc/804bfda7-3d65-4d57-b39b-efe130dc4ed9.m3u
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet West CA FHD
+https://tv.extremeiptv.net/live/Marc/Marc/cb28489c-2e80-4fe3-88d8-a769398f741a.m3u
 #EXTINF:-1 tvg-id="Sportsnet.(Pacific).HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pacific-ca.png",SportsNet Pacific CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/40614.ts
+https://tv.extremeiptv.net/live/Marc/Marc/03441ce9-799b-4c76-80c4-484617497d9d.m3u
+#EXTINF:-1 tvg-id="Sportsnet.(Pacific).HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pacific-ca.png",SportsNet Pacific CA FHD
+https://tv.extremeiptv.net/live/Marc/Marc/c8087f4b-efa2-49ad-ae58-83b26f4e414f.m3u
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-ontario-ca.png",Sportsnet Ontario
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15937.ts
-#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-ontario-ca.png",Sportsnet Ontario
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/40615.ts
+https://tv.extremeiptv.net/live/Marc/Marc/1affb73c-19a5-4bda-b5d5-e0d51f7b4239.m3u
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-ontario-ca.png",Sportsnet Ontario FHD
+https://tv.extremeiptv.net/live/Marc/Marc/f36c4398-f316-43ed-a4ef-c2d21fce75c3.m3u
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15930.ts
-#EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/40616.ts
+https://tv.extremeiptv.net/live/Marc/Marc/54086a98-f245-45ff-aaf5-997613ded13e.m3u
+#EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA FHD
+https://tv.extremeiptv.net/live/Marc/Marc/f47ece90-f195-41bf-a0ec-473b197a126e.m3u
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SportsNet 360 CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/40618.ts
-#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SportsNet 360 CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15938.ts
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",STARZ HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15906.ts
+https://tv.extremeiptv.net/live/Marc/Marc/0b283932-25be-4a0c-94ef-9c981b388688.m3u
+#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SportsNet 360 CA FHD
+https://tv.extremeiptv.net/live/Marc/Marc/53e79d06-0d06-44b2-9960-77ac16a77d6e.m3u
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",STARZ East
+https://tv.extremeiptv.net/live/Marc/Marc/275422b9-6170-4b56-923a-68b7df9fa3d4.m3u
 #EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",STARZ West
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15906.ts
+https://tv.extremeiptv.net/live/Marc/Marc/6175a15f-b793-4271-8f77-c5e6edbeb5cc.m3u
+#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",STARZ West HD
+https://tv.extremeiptv.net/live/Marc/Marc/6acacaec-71cb-403b-9a46-6067af0e04fb.m3u
+
+
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="US : Starz Encore Action" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEncoreAction.us.png",US : Starz Encore Action
+https://tv.extremeiptv.net/live/Marc/Marc/c338369e-2022-4465-acc9-e29af203024f.m3u
+
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="US : STARZ ENCORE ACTION WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/d7670105e6d8b0bd34c9e52fbbab3158.png",US : STARZ ENCORE ACTION WEST HD
+https://tv.extremeiptv.net/live/Marc/Marc/1e2c68e9-0ac9-4b72-8d4b-238345ae4953.m3u
+
+
+
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="US : Starz Encore Black" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEncoreBlack.us.png",US : Starz Encore Black
+https://tv.extremeiptv.net/live/Marc/Marc/038841fb-a8de-4d46-857c-b96f00c84573.m3u
+
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="US : STARZ ENCORE BLACK WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/8d0397e1e84f782de1fdf4d8995d4b80.png",US : STARZ ENCORE BLACK WEST HD
+https://tv.extremeiptv.net/live/Marc/Marc/f814f8f4-596f-4e69-975b-160787546b75.m3u
+
+
+
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="US : Starz in Black East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Starz_in_Black_Logo_2022.svg/2560px-Starz_in_Black_Logo_2022.svg.png",US : Starz in Black East
+https://tv.extremeiptv.net/live/Marc/Marc/82ecbc97-5128-4f99-b1e3-bf051075d3dd.m3u
+
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="US : Starz in Black West" tvg-logo="https://cdn.iptvboss.pro/logos//USA/StarzInBlack.us.png",US : Starz in Black West
+https://tv.extremeiptv.net/live/Marc/Marc/8a6808cc-5bdc-48d0-9084-4528fb8e7061.m3u
+
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="US : STARZ IN BLACK WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/8d0397e1e84f782de1fdf4d8995d4b80.png",US : STARZ IN BLACK WEST HD
+https://tv.extremeiptv.net/live/Marc/Marc/401bc88d-8ec3-440e-8174-dd457ca689e8.m3u
+
+
+
+
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="US : Starz Edge East" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEdgePacific.us.png",US : Starz Edge East
+https://tv.extremeiptv.net/live/Marc/Marc/f52c1f63-ee1c-4085-88b7-7f14725d50e4.m3u
+
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="US : Starz Edge West" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEdge.us.png",US : Starz Edge West
+https://tv.extremeiptv.net/live/Marc/Marc/280f4de8-27d1-43b7-86b0-dde600b62572.m3u
+
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="US : STARZ EDGE WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/b42bdf78687cabe7ec0e4b9268eb1c07.png",US : STARZ EDGE WEST HD
+https://tv.extremeiptv.net/live/Marc/Marc/a0b32594-bac6-4e21-9eaa-904a70ef9fea.m3u
+
+
+
 #EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",STARZ Encore Classic
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/48360.ts
+https://tv.extremeiptv.net/live/Marc/Marc/f01a7c97-ef2a-473e-affc-49a938d0bd5d.m3u
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",STARZ Encore Classic West
+https://tv.extremeiptv.net/live/Marc/Marc/27756505-6d90-437f-82db-7db3f3422c81.m3u
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",STARZ Encore Classic West HD
+https://tv.extremeiptv.net/live/Marc/Marc/e83c86b1-af72-4c6a-bfb9-946ac8537ce8.m3u
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",STARZ Encore Family
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/48361.ts
+https://tv.extremeiptv.net/live/Marc/Marc/49d2ab4f-cfe4-4584-82d3-b66e3b8c82d2.m3u
+#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",STARZ Encore Family West
+https://tv.extremeiptv.net/live/Marc/Marc/1de955f6-0448-456b-955f-773e92b8263f.m3u
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore East
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/49164.ts
+https://tv.extremeiptv.net/live/Marc/Marc/0c467251-5bd5-4709-ab2f-4392735ce3da.m3u
+#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore West
+https://tv.extremeiptv.net/live/Marc/Marc/db2b2d01-422c-4fe5-9be2-705bf4a3ff6d.m3u
+
+
+
+
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="US : Starz Encore Suspense" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEncoreSuspense.us.png",US : Starz Encore Suspense
+https://tv.extremeiptv.net/live/Marc/Marc/8166b6cb-2c0e-4c4a-90a0-3b59edf5b81d.m3u
+
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="US : STARZ ENCORE SUSPENSE WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/811524595fcd0e4a9b991d8f29cbafdc.png",US : STARZ ENCORE SUSPENSE WEST HD
+https://tv.extremeiptv.net/live/Marc/Marc/f94f1d6b-dd1d-45aa-be63-e368c43feb6d.m3u
+
+
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.SD.us2" tvg-name="US : Starz Encore Westerns" tvg-logo="https://cdn.iptvboss.pro/logos/USA/StarzEncoreWesterns.us.png",US : Starz Encore Westerns
+https://tv.extremeiptv.net/live/Marc/Marc/bece7136-27b9-46e5-8ef0-58a483ec5f5e.m3u
+
+#EXTINF:-1 tvg-id="Starz.Encore.Westerns.(Pacific).us2" tvg-name="US : STARZ ENCORE WESTERNS WEST HD" tvg-logo="http://onlytimewilltell.xyz:2086/images/7ea703448541d8d51253e6051d1f7aab.png",US : STARZ ENCORE WESTERNS WEST HD
+https://tv.extremeiptv.net/live/Marc/Marc/27d1d7aa-64ff-4d3a-9ff0-0ff07c61026c.m3u
+
+
+
+
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",STARZ COMEDY
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23252.ts
+https://tv.extremeiptv.net/live/Marc/Marc/c90cc8bd-70b3-4978-9420-281bdfbc51c6.m3u
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",STARZ COMEDY West
+https://tv.extremeiptv.net/live/Marc/Marc/3b5c44c6-ed27-4ce3-bbf7-a23bafcb8afa.m3u
 #EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",STARZ KIDS & FAMILY
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23251.ts
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",STARZ Cinema HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15907.ts
-#EXTINF:-1 tvg-id="STV.HD.uk" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stv_uk.png",STV HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47837.ts
-#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22469.ts
-#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15964.ts
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15954.ts
+https://tv.extremeiptv.net/live/Marc/Marc/6a3215f5-5b0f-4426-8bd2-d4bd0f4a4d77.m3u
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",STARZ KIDS & FAMILY West
+https://tv.extremeiptv.net/live/Marc/Marc/5987a577-7e6b-4ac3-8411-ab4548bb8296.m3u
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",STARZ KIDS & FAMILY West HD
+https://tv.extremeiptv.net/live/Marc/Marc/e8dffcdf-a486-4c66-95e7-a400910ff1f6.m3u
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",STARZ Cinema
+https://tv.extremeiptv.net/live/Marc/Marc/63c1f14a-c092-4590-b927-a34eb14a2a99.m3u
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",STARZ Cinema West
+https://tv.extremeiptv.net/live/Marc/Marc/5baabca5-8918-4d65-b3c2-aa319784c38a.m3u
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",STARZ Cinema West HD
+https://tv.extremeiptv.net/live/Marc/Marc/bec2d57a-d525-4fba-8c31-063affcacbb3.m3u
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy East
+https://tv.extremeiptv.net/live/Marc/Marc/14b77314-f200-439e-9e37-ab9496022611.m3u
+#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy West
+https://tv.extremeiptv.net/live/Marc/Marc/48da3963-7dad-4a7b-aa65-fc441ec3e7b1.m3u
+#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy West HD
+https://tv.extremeiptv.net/live/Marc/Marc/e89af5e1-123a-40fc-8357-479001808357.m3u
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS East
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22468.ts
+https://tv.extremeiptv.net/live/Marc/Marc/fcf310f1-2954-41c1-a7b5-644e075d642d.m3u
 #EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS West
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22468.ts
+https://tv.extremeiptv.net/live/Marc/Marc/9d34ccaa-7d3c-4eda-aac7-ab463cb6eea9.m3u
 #EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23248.ts
+https://tv.extremeiptv.net/live/Marc/Marc/94234580-66db-4d38-8588-d8c4a2ea48e5.m3u
 #EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png",Tennis Channel
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22467.ts
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png",Tennis Channel HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15940.ts
-#EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png",The Weather Channel
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22464.ts
-#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15969.ts
-#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22463.ts
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15955.ts
+https://tv.extremeiptv.net/live/Marc/Marc/94496a5c-5eaa-46fd-adb7-618503a0ac14.m3u
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png",Tennis Channel 2
+https://tv.extremeiptv.net/live/Marc/Marc/ba05ea1b-a4f4-423a-b25f-b657323743e7.m3u
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC East
+https://tv.extremeiptv.net/live/Marc/Marc/f404cf9b-01df-4dc9-9b55-af4de0042dbe.m3u
+#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC West
+https://tv.extremeiptv.net/live/Marc/Marc/2678c510-94a0-4dc2-b746-912a86648a5a.m3u
+#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC West HD
+https://tv.extremeiptv.net/live/Marc/Marc/9b8f2826-c254-4ef0-8c7b-cd7a520af88c.m3u
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT East
+https://tv.extremeiptv.net/live/Marc/Marc/29186b3b-96fb-4bd4-a03a-beb405947898.m3u
 #EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT West
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15955.ts
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47850.ts
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47851.ts
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47852.ts
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47853.ts
+https://tv.extremeiptv.net/live/Marc/Marc/9fc8795b-7294-4c2f-af40-4ab8f5113a5a.m3u
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 5.1 FHD
+https://tv.extremeiptv.net/live/Marc/Marc/355d6c93-7c4e-4099-847b-5c3de8052eef.m3u
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 FHD
+https://tv.extremeiptv.net/live/Marc/Marc/e72938ee-2312-4955-99bf-6be47df855ff.m3u
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 5.1 HD
+https://tv.extremeiptv.net/live/Marc/Marc/9145b48e-f4f5-404b-8914-381ae958b51e.m3u
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 5.1 FHD
+https://tv.extremeiptv.net/live/Marc/Marc/587272d3-f7d9-4eda-b713-4e816e8e950d.m3u
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 FHD
+https://tv.extremeiptv.net/live/Marc/Marc/42a1d5d2-e949-4cab-998f-cd6efa5f2ab4.m3u
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 HD
+https://tv.extremeiptv.net/live/Marc/Marc/d0eb75b9-e443-4179-805c-9d1dce4c09df.m3u
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 5.1 FHD
+https://tv.extremeiptv.net/live/Marc/Marc/1d0c688a-f110-466e-9d75-2618e049cafd.m3u
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 FHD
+https://tv.extremeiptv.net/live/Marc/Marc/466e8454-3014-4368-af6f-3a3284f29c9e.m3u
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 HD
+https://tv.extremeiptv.net/live/Marc/Marc/5af87252-b9ce-4aec-b961-76916dc5156d.m3u
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 5.1 FHD
+https://tv.extremeiptv.net/live/Marc/Marc/59722032-3f49-4f21-a176-2b030e67dd68.m3u
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 FHD
+https://tv.extremeiptv.net/live/Marc/Marc/8f2f98d8-2489-45ce-921b-0e9e0dd9d392.m3u
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 HD
+https://tv.extremeiptv.net/live/Marc/Marc/2ba0bdc1-3ebf-4c37-9223-2fb9f02a50b5.m3u
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1",TSN 1 CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15929.ts
+https://tv.extremeiptv.net/live/Marc/Marc/f9746625-62fc-4285-9519-9f84574503e0.m3u
 #EXTINF:-1 tvg-id="TTSN.2.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2",TSN 2 CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15928.ts
+https://tv.extremeiptv.net/live/Marc/Marc/e3851e58-9955-4771-8bb8-f61ce40df46b.m3u
 #EXTINF:-1 tvg-id="TSN.3.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-name="TSN 3",TSN 3 CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15927.ts
+https://tv.extremeiptv.net/live/Marc/Marc/848ed8d7-3cde-4049-abea-72249e6c6897.m3u
 #EXTINF:-1 tvg-id="TSN.4.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-name="TSN 4 CA",TSN 4 CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15926.ts
+https://tv.extremeiptv.net/live/Marc/Marc/43bb6ab1-750c-4dfe-8e4a-bc6d52f7dfeb.m3u
 #EXTINF:-1 tvg-id="TSN.5.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-name="TSN 5 CA",TSN 5 CA
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15925.ts
+https://tv.extremeiptv.net/live/Marc/Marc/7051a40b-bb4b-427d-a6e8-46c70af3439d.m3u
 #EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel East
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/24856.ts
+https://tv.extremeiptv.net/live/Marc/Marc/4a53d50e-3ba9-454b-b4ec-d5f9d916904d.m3u
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel West
+https://tv.extremeiptv.net/live/Marc/Marc/08c0849f-dfac-48e3-ad13-a5be725acc15.m3u
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel West HD
+https://tv.extremeiptv.net/live/Marc/Marc/fba25f7a-b0e5-4b04-8bcb-38b4439d36aa.m3u
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV East
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23243.ts
+https://tv.extremeiptv.net/live/Marc/Marc/06e302c3-c5ce-4502-8f7d-681a1bed6dd3.m3u
 #EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",truTV West
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23243.ts
-#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo East
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23281.ts
+https://tv.extremeiptv.net/live/Marc/Marc/c9e2137d-6861-43ad-8aed-97b91ecd538f.m3u
+#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",truTV West HD
+https://tv.extremeiptv.net/live/Marc/Marc/165f0882-df34-4a16-8693-e22609ed4b5b.m3u
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo West
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23281.ts
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision East
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23236.ts
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision TUDN
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/23235.ts
+https://tv.extremeiptv.net/live/Marc/Marc/8767be28-d408-4133-af4e-6ffe310994f1.m3u
+#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision KMEX Los Angeles
+https://tv.extremeiptv.net/live/Marc/Marc/89a13f92-4005-4ad1-9088-b56205519f7f.m3u
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network East
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15905.ts
+https://tv.extremeiptv.net/live/Marc/Marc/4cba289f-3380-41e9-9965-b98d4687e47d.m3u
 #EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network West
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/15905.ts
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 HD
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/22898.ts
+https://tv.extremeiptv.net/live/Marc/Marc/0fcb52a2-9c31-45ce-b3af-de0adbbcaf94.m3u
+#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network West Stream 2
+https://tv.extremeiptv.net/live/Marc/Marc/f843b83b-cde9-46a8-b2ba-64c4a6f1298b.m3u
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 East
+https://tv.extremeiptv.net/live/Marc/Marc/2b7abdbb-6b5c-485e-aab5-5c9017a51e5d.m3u
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 West
+https://tv.extremeiptv.net/live/Marc/Marc/c8ad62d5-82eb-4345-8933-80d248879a41.m3u
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 West HD
+https://tv.extremeiptv.net/live/Marc/Marc/e4556c34-1e18-403f-ace7-60680dfc00f2.m3u
 
 
-
-##############################################################################################
-
-
-#EXTINF:-1 tvg-id="1249" tvg-name="NBA GAME 01" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1249" group-title="NBA",NBA GAME 01
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47477.ts
-#EXTINF:-1 tvg-id="1329" tvg-name="NBA 01: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 01
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47583.ts
-#EXTINF:-1 tvg-id="1250" tvg-name="NBA GAME 02" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1250" group-title="NBA",NBA GAME 02
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47478.ts
-#EXTINF:-1 tvg-id="1330" tvg-name="NBA 02: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 02
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47584.ts
-#EXTINF:-1 tvg-id="1251" tvg-name="NBA GAME 03" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1251" group-title="NBA",NBA GAME 03
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47479.ts
-#EXTINF:-1 tvg-id="1331" tvg-name="NBA 03: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 03
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47585.ts
-#EXTINF:-1 tvg-id="1252" tvg-name="NBA GAME 04" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1252" group-title="NBA",NBA GAME 04
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47480.ts
-#EXTINF:-1 tvg-id="1332" tvg-name="NBA 04: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 04
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47586.ts
-#EXTINF:-1 tvg-id="1253" tvg-name="NBA GAME 05" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1253" group-title="NBA",NBA GAME 05
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47481.ts
-#EXTINF:-1 tvg-id="1333" tvg-name="NBA 05: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 05
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47587.ts
-#EXTINF:-1 tvg-id="1254" tvg-name="NBA GAME 06" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1254" group-title="NBA",NBA GAME 06
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47482.ts
-#EXTINF:-1 tvg-id="1334" tvg-name="NBA 06: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 06
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47588.ts
-#EXTINF:-1 tvg-id="1255" tvg-name="NBA GAME 07" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1255" group-title="NBA",NBA GAME 07
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47483.ts
-#EXTINF:-1 tvg-id="1335" tvg-name="NBA 07: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 07
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47589.ts
-#EXTINF:-1 tvg-id="1256" tvg-name="NBA GAME 08" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1256" group-title="NBA",NBA GAME 08
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47484.ts
-#EXTINF:-1 tvg-id="1336" tvg-name="NBA 08: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 08
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47590.ts
-#EXTINF:-1 tvg-id="1257" tvg-name="NBA GAME 09:" tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1257" group-title="NBA",NBA GAME 09
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47485.ts
-#EXTINF:-1 tvg-id="1337" tvg-name="NBA 09: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA.2",NBA 09
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47591.ts
-#EXTINF:-1 tvg-id="1258" tvg-name="NBA GAME 10: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1258" group-title="NBA",NBA GAME 10
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47486.ts
-#EXTINF:-1 tvg-id="1338" tvg-name="NBA 10: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1338" group-title="NBA.2",NBA 10
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47592.ts
-#EXTINF:-1 tvg-id="1259" tvg-name="NBA GAME 11: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1259" group-title="NBA",NBA GAME 11
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47487.ts
-#EXTINF:-1 tvg-id="1339" tvg-name="NBA 11: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1339" group-title="NBA.2",NBA 11
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47593.ts
-#EXTINF:-1 tvg-id="1260" tvg-name="NBA GAME 12: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1260" group-title="NBA",NBA GAME 12
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47488.ts
-#EXTINF:-1 tvg-id="1340" tvg-name="NBA 12: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1340" group-title="NBA.2",NBA 12
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47594.ts
-#EXTINF:-1 tvg-id="1261" tvg-name="NBA GAME 13: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1261" group-title="NBA",NBA GAME 13
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47489.ts
-#EXTINF:-1 tvg-id="1341" tvg-name="NBA 13: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA.2",NBA 13
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47595.ts
-#EXTINF:-1 tvg-id="1262" tvg-name="NBA GAME 14: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1262" group-title="NBA",NBA GAME 14
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47490.ts
-#EXTINF:-1 tvg-id="1263" tvg-name="NBA GAME 15: " tvg-logo="https://tlgrm.re/images/nba-tv-us.png" tvg-chno="1263" group-title="NBA",NBA GAME 15
-http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47491.ts
 
 
 
@@ -452,3 +633,52 @@ http://kstv.us:8080/live/BUhtuqR9kT/91839575806/47491.ts
 
 
 
+
+
+
+#EXTINF:-1 tvg-id="1329" tvg-name="NBA 01: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 01
+https://tv.extremeiptv.net/live/Marc/Marc/ecf0d879-1a20-4255-b105-4bb8490d9b57.m3u
+#EXTINF:-1 tvg-id="1330" tvg-name="NBA 02: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 02
+https://tv.extremeiptv.net/live/Marc/Marc/e8502bac-c12b-4020-a1e2-828ed2f706af.m3u
+#EXTINF:-1 tvg-id="1331" tvg-name="NBA 03: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 03
+https://tv.extremeiptv.net/live/Marc/Marc/0e9b5dd2-cd3c-481a-9e04-42b592d494d5.m3u
+#EXTINF:-1 tvg-id="1332" tvg-name="NBA 04: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 04
+https://tv.extremeiptv.net/live/Marc/Marc/747a9297-c74e-4916-929f-1a64ec9f65a0.m3u
+#EXTINF:-1 tvg-id="1333" tvg-name="NBA 05: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 05
+https://tv.extremeiptv.net/live/Marc/Marc/82ff5509-468e-44f9-9a6b-2aa7a2759214.m3u
+#EXTINF:-1 tvg-id="1334" tvg-name="NBA 06: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 06
+https://tv.extremeiptv.net/live/Marc/Marc/0ef8cfff-921f-4d7f-9b89-9a037b33682a.m3u
+#EXTINF:-1 tvg-id="1335" tvg-name="NBA 07: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 07
+https://tv.extremeiptv.net/live/Marc/Marc/6ac8ca47-9583-4cc7-8d8d-97294d7bdc30.m3u
+#EXTINF:-1 tvg-id="1336" tvg-name="NBA 08: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 08
+https://tv.extremeiptv.net/live/Marc/Marc/f860d720-035d-4fa0-a818-3f7a6f537011.m3u
+#EXTINF:-1 tvg-id="1337" tvg-name="NBA 09: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1337" group-title="NBA",NBA 09
+https://tv.extremeiptv.net/live/Marc/Marc/d675edb5-7ddd-48e2-9739-ee10fd5c60c9.m3u
+#EXTINF:-1 tvg-id="1338" tvg-name="NBA 10: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1338" group-title="NBA",NBA 10
+https://tv.extremeiptv.net/live/Marc/Marc/c26bde1e-667f-4155-8928-d2a65e534802.m3u
+#EXTINF:-1 tvg-id="1339" tvg-name="NBA 11: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1339" group-title="NBA",NBA 11
+https://tv.extremeiptv.net/live/Marc/Marc/22ae682f-75a4-4bc2-be71-ebf27317693f.m3u
+#EXTINF:-1 tvg-id="1340" tvg-name="NBA 12: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1340" group-title="NBA",NBA 12
+https://tv.extremeiptv.net/live/Marc/Marc/7462ef74-4b49-4d75-bb7e-1ac731cec1e1.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA 13: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 13
+https://tv.extremeiptv.net/live/Marc/Marc/6806d030-5eba-4282-9f7f-586dfdff8de4.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA 14: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 14
+https://tv.extremeiptv.net/live/Marc/Marc/e94d14ae-4536-4572-b4d4-6cc037c89a28.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA 15: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 15
+https://tv.extremeiptv.net/live/Marc/Marc/0989d438-10a5-4724-9288-7923e53f087a.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA 16: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 16
+https://tv.extremeiptv.net/live/Marc/Marc/bfd0cf80-856b-4f34-9f0d-169b2ca911f7.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA 17: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 17
+https://tv.extremeiptv.net/live/Marc/Marc/7eaca69a-0ac6-4978-88a8-7c6b1c86b3b0.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA 18: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 18
+https://tv.extremeiptv.net/live/Marc/Marc/bcc12ba8-cc3b-4c07-a78b-fd342556647f.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA 19: " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 19
+https://tv.extremeiptv.net/live/Marc/Marc/d8b66686-071c-4b6b-8eda-6275569a9b8a.m3u
+#EXTINF:-1 tvg-id="1341" tvg-name="NBA : " tvg-logo="https://i.ibb.co/qk3ZC1M/1477394106-1477037101-lplogo2.jpg" tvg-chno="1341" group-title="NBA",NBA 20
+https://tv.extremeiptv.net/live/Marc/Marc/6019474a-74c2-493d-a5ba-bc19151176ca.m3u
+
+
+
+
+
+##############################################################################################
