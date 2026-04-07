@@ -14,6 +14,13 @@
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
 http://fortv.cc:8080/c1E50nv/32NYwus8o2/14197
 
+#EXTINF:-1, extremeiptv
+http://tv.extremeiptv.net/live/Marc/Marc/e72938ee-2312-4955-99bf-6be47df855ff.m3u 
+#EXTINF:-1, buddytv
+http://buddytv.club/live/Marc/Marc/e72938ee-2312-4955-99bf-6be47df855ff.m3u
+#EXTINF:-1, speratictv
+http://speratictv.live/live/Marc/Marc/e72938ee-2312-4955-99bf-6be47df855ff.m3u 
+
 ##############################################################################################
 
 
