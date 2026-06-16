@@ -11,8 +11,20 @@
 #ricardobarragan
 ##############################################################################################
 
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
-http://fortv.cc:8080/c1E50nv/32NYwus8o2/14197
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kttv.us" tvg-name="CA | Los Angeles | FOX KTTV" tvg-logo="https://logo.m3uassets.com/losangelesfox11kttv.png" group-title="USA | LOCAL - FOX",CA | Los Angeles | FOX KTTV
+http://myxpanel.pro:80/Halo/123/1682
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kvea.us" tvg-name="CA | Los Angeles | Telemundo 52 KVEA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSri008dGLt1Etx4tMhOSgB3bEYI0AWviMHJw&s" group-title="USA | LATIN Telemundo",CA | Los Angeles | Telemundo 52 KVEA
+http://myxpanel.pro:80/Halo/123/3295
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports1.us" tvg-name="USA FS1 UHD" tvg-logo="https://logo.m3uassets.com/fs1.png" group-title="USA | Ultra HD Exclusive",USA FS1 UHD
+http://myxpanel.pro:80/Halo/123/268974
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports1.us" tvg-name="Fox Sports 1 (FS1) [English]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="LIVE | FIFA World Cup International",Fox Sports 1 (FS1) [English]
+http://myxpanel.pro:80/Halo/123/838116
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports1.us" tvg-name="USA Fox Sports 1" tvg-logo="https://logo.m3uassets.com/foxsports1.png" group-title="USA | SPORTS",USA Fox Sports 1
+http://myxpanel.pro:80/Halo/123/915
 
 ##############################################################################################
 
