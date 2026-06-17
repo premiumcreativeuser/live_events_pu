@@ -29,33 +29,6 @@ http://myxpanel.pro:80/Halo/123/915
 ##############################################################################################
 
 
-#EXTINF:-1 group-title="" tvg-logo="",Telemundo roxie
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://daffodil.sandhost.dpdns.org/tele.m3u8
-
-#EXTINF:-1 group-title="" tvg-logo="",Portugal vs Congo DR Telemundo roxie
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://daffodil.thelistener.pk/tele.m3u8
-
-#EXTINF:-1 group-title="" tvg-logo="",Portugal vs Congo DR Fox roxie
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-https://602.thelistener.pk/fox.m3u8
-
-#EXTINF:-1 group-title="" tvg-logo="",Portugal vs Congo DR PC roxie
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
-
-#EXTINF:-1 group-title="" tvg-logo="",Portugal vs Congo DR Peacock roxie
-#EXTVLCOPT:http-origin=https://roxiestreams.info
-#EXTVLCOPT:http-referrer=https://roxiestreams.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 
 ##############################################################################################
 
