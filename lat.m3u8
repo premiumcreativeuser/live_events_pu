@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://websafety101.net:5050/xmltv.php?username=lil_dbennett@yahoo.com&password=patDyrcbQY"
+#EXTM3U url-tvg="http://websafety101.net:5050/xmltv.php?username=gdpme76@yahoo.com&password=RR59mem65r"
 
 #EXTINF:-1 tvg-id="" tvg-name="MX: A&E HD" tvg-logo="http://xplatinmedia.com:8080/images/f53cb2e04640ca256232eba89d1fafba.png" group-title="MEXICAN",MX: A&E HD
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/692998
@@ -86,10 +86,10 @@ http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693038
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693039
 #EXTINF:-1 tvg-id="" tvg-name="MX: Distrito Comedia" tvg-logo="http://xplatinmedia.com:8080/images/069475907f82238032961b8b5c719285.png" group-title="MEXICAN",MX: Distrito Comedia
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693040
-
 #EXTINF:-1 tvg-id="ESPNDeportes.us" tvg-name="US: ESPN Deportes" tvg-logo="https://i.ibb.co/z2b84DX/espn-deportes.png" group-title="USA SD",US: ESPN Deportes
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/509171
-
+#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN" tvg-logo="http://xplatinmedia.com:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="MEXICAN",MX: ESPN
+http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693045
 #EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 2" tvg-logo="http://xplatinmedia.com:8080/images/337034e76972252b1fc0f1fa8e1bcced.png" group-title="MEXICAN",MX: ESPN 2
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693041
 #EXTINF:-1 tvg-id="" tvg-name="MX: ESPN 2 HD" tvg-logo="http://xplatinmedia.com:8080/images/337034e76972252b1fc0f1fa8e1bcced.png" group-title="MEXICAN",MX: ESPN 2 HD
@@ -98,8 +98,6 @@ http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693042
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693043
 #EXTINF:-1 tvg-id="" tvg-name="MX: ESPN Extra HD" tvg-logo="http://xplatinmedia.com:8080/images/388dac0130f79c3e6a03f6b184e6bce9.png" group-title="MEXICAN",MX: ESPN Extra HD
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693044
-#EXTINF:-1 tvg-id="" tvg-name="MX: ESPN" tvg-logo="http://xplatinmedia.com:8080/images/e748f3c03f7c4088e90a0ccb2588e0ed.png" group-title="MEXICAN",MX: ESPN
-http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693045
 #EXTINF:-1 tvg-id="" tvg-name="MX: Estrella TV" tvg-logo="http://xplatinmedia.com:8080/images/812db034827b4541ed8f96cc5db33bdb.png" group-title="MEXICAN",MX: Estrella TV
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693046
 #EXTINF:-1 tvg-id="" tvg-name="MX: Food Network FHD" tvg-logo="http://xplatinmedia.com:8080/images/110eae003165e6c2a9b21112e100b6e1.png" group-title="MEXICAN",MX: Food Network FHD
@@ -128,6 +126,10 @@ http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693057
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693058
 #EXTINF:-1 tvg-id="" tvg-name="MX: Gala TV" tvg-logo="http://xplatinmedia.com:8080/images/6ae0f1beb3358fcc7d02d63c30bb357e.png" group-title="MEXICAN",MX: Gala TV
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693059
+#EXTINF:-1 tvg-id="Galavision.us" tvg-name="LAT: Galavision East HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA LOCALS US / LATIN",LAT: Galavision East HD
+http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/410582
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Galavision West HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="USA LOCALS US / LATIN",LAT: Galavision West HD
+http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/410593
 #EXTINF:-1 tvg-id="" tvg-name="MX: Garage TV" tvg-logo="http://xplatinmedia.com:8080/images/3dda2cc831be9a3606d0673221f7aa00.png" group-title="MEXICAN",MX: Garage TV
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693060
 #EXTINF:-1 tvg-id="" tvg-name="MX: Glitz" tvg-logo="http://xplatinmedia.com:8080/images/6bb79703db81a117308b29cf17e959cf.png" group-title="MEXICAN",MX: Glitz
@@ -192,6 +194,10 @@ http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693088
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693089
 #EXTINF:-1 tvg-id="" tvg-name="MX: Telehit Plus" tvg-logo="http://xplatinmedia.com:8080/images/c7007ec7f944d6b2fcd111d43d9fbace.png" group-title="MEXICAN",MX: Telehit Plus
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693090
+#EXTINF:-1 tvg-id="telemundokvea.us" tvg-name="LAT: Telemundo Los Angeles" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="USA LOCALS US / LATIN",LAT: Telemundo Los Angeles
+http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/410604
+#EXTINF:-1 tvg-id="TelemundoKVEA.us" tvg-name="USA: CA  LOS ANGELES  TELEMUNDO - KVEA" tvg-logo="https://i.ibb.co/CzjHhRK/telemundo.png" group-title="USA LOCALS US / LATIN",USA: CA  LOS ANGELES  TELEMUNDO - KVEA
+http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/419601
 #EXTINF:-1 tvg-id="" tvg-name="MX: Televisa Monterrey" tvg-logo="http://xplatinmedia.com:8080/images/f9c940e41e0b66aef66b084ccba8ba7e.png" group-title="MEXICAN",MX: Televisa Monterrey
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693091
 #EXTINF:-1 tvg-id="" tvg-name="MX: Televisa Tijuana" tvg-logo="http://xplatinmedia.com:8080/images/97bd0bf9256fcdc044462bd67b93b953.png" group-title="MEXICAN",MX: Televisa Tijuana
@@ -214,6 +220,18 @@ http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693099
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693100
 #EXTINF:-1 tvg-id="" tvg-name="MX: Unicable" tvg-logo="http://xplatinmedia.com:8080/images/8e1e56564a8f1b9b8d522fc1d8a908a6.png" group-title="MEXICAN",MX: Unicable
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693101
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Unimas West HD" tvg-logo="https://static.epg.best/us/UniMas.us.png" group-title="USA LOCALS US / LATIN",LAT: Unimas West HD
+http://websafety101.net:5050/lgdpme76@yahoo.com/RR59mem65r/410630
+#EXTINF:-1 tvg-id="UNIVERSO.us" tvg-name="LAT: Universo (East)" tvg-logo="http://www.multivu.com/players/English/7929651-nbc-universo-los-riveras/image/logo-eng-null-HR.png" group-title="USA LOCALS US / LATIN",LAT: Universo (East)
+http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/419367
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Universo (West)" tvg-logo="http://www.multivu.com/players/English/7929651-nbc-universo-los-riveras/image/logo-eng-null-HR.png" group-title="USA LOCALS US / LATIN",LAT: Universo (West)
+http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/419368
+#EXTINF:-1 tvg-id="Univision.us" tvg-name="LAT: Univision East HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="USA LOCALS US / LATIN",LAT: Univision East HD
+http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/410637
+#EXTINF:-1 tvg-id="UnivisionKMEX.us" tvg-name="LAT: Univision Los Angeles HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="USA LOCALS US / LATIN",LAT: Univision Los Angeles HD
+http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/410641
+#EXTINF:-1 tvg-id="UnivisionWest.us" tvg-name="LAT: Univision West HD" tvg-logo="https://static.epg.best/ca/UnivisionCanada.ca.png" group-title="USA LOCALS US / LATIN",LAT: Univision West HD
+http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/410652
 #EXTINF:-1 tvg-id="" tvg-name="MX: Video Rola" tvg-logo="http://xplatinmedia.com:8080/images/78d6a9bff32c799abf0b7aabffc3c5b4.png" group-title="MEXICAN",MX: Video Rola
 http://websafety101.net:5050/gdpme76@yahoo.com/RR59mem65r/693103
 #EXTINF:-1 tvg-id="" tvg-name="MX: Warner HD" tvg-logo="http://xplatinmedia.com:8080/images/7e24ba66a736d5b13fd88641394be740.png" group-title="MEXICAN",MX: Warner HD
