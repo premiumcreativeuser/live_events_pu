@@ -29,11 +29,35 @@ http://myxpanel.pro:80/Halo/123/915
 ##############################################################################################
 
 
-#EXTINF:-1 group-title="" tvg-logo="",Austria vs Jordan roxie
+#EXTINF:-1 group-title="" tvg-logo="",Telemundo roxie
 #EXTVLCOPT:http-origin=https://roxiestreams.info
 #EXTVLCOPT:http-referrer=https://roxiestreams.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
 https://daffodil.sandhost.dpdns.org/tele.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="",Portugal vs Congo DR Telemundo roxie
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://daffodil.thelistener.pk/tele.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="",Portugal vs Congo DR Fox roxie
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://602.thelistener.pk/fox.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="",Portugal vs Congo DR PC roxie
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781736966/ei/ptEyavn1AeK0ir4Pw5HYwQE/ip/79.127.229.165/id/mpwfjhmyEzw.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/bui/ARmQxEVyN3V-obLbvYZQCYGyahz72cDqnyByp07FbuR5k4g6CjFFnWS_eGIHlz6VhxTmCS_CmnVRZNym/spc/SQ-umuwIITPAzUKz4ZTywafGAc_0FoXV_XdQze2CWoJIQMCbjA/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51987686/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgLsQJlaPDNJdzvLoR9YygG0xZwOg4vp15aR4WRWVNSe0CIQCGTIVFu3Tkjt1-PFd4QuWPE9JLPFEULr8dOvI00aW9Gw%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="" tvg-logo="",Portugal vs Congo DR Peacock roxie
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+#EXTVLCOPT:http-referrer=https://roxiestreams.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.5304.231 Safari/537.36
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781736948/ei/lNEyapOwB-SGlu8Pu6rSyAs/ip/79.127.229.165/id/mpwfjhmyEzw.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/bui/ARmQxEUcCD56iNe5zdPr6ISFui7POk4Seh3jScEV3tn0V-oHbm5vDdrqGJbs9waKPO6KGtj1zXrD2oji/spc/SQ-umg4o96oNxnDKeQBL3xEPbeekFtOUH7w0nAJeyCRqKr0rXg/vprv/1/go/1/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565115%2C51565681%2C51987686/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRAIgWTs_Smg4SAIbisC4FnNxmAG8l5_vc5c9mLtOSS7CM4gCIGU-x_sLwqCwyHDSJqZ5lqMOiUA3w_Iydfq92KqEAhAa/file/index.m3u8
 
 ##############################################################################################
 
