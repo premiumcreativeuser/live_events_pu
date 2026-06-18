@@ -11,18 +11,19 @@
 #ricardobarragan
 ##############################################################################################
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kttv.us" tvg-name="CA | Los Angeles | FOX KTTV" tvg-logo="https://logo.m3uassets.com/losangelesfox11kttv.png" group-title="USA | LOCAL - FOX",CA | Los Angeles | FOX KTTV
-http://myxpanel.pro:80/Halo/123/1682
 #EXTINF:-1 tvg-id="FOXKTTV.us" tvg-name="CA | LOS ANGELES | FOX KTTV" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXKTTV.us.png" group-title="USA | FOX LOCALS",CA | LOS ANGELES | FOX KTTV
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/9995
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kvea.us" tvg-name="CA | Los Angeles | Telemundo 52 KVEA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSri008dGLt1Etx4tMhOSgB3bEYI0AWviMHJw&s" group-title="USA | LATIN Telemundo",CA | Los Angeles | Telemundo 52 KVEA
-http://myxpanel.pro:80/Halo/123/3295
 #EXTINF:-1 tvg-id="TelemundoWNJU.us" tvg-name="USL: TELEMUNDO EAST" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqpACFJKQMJzypWZtD58QTaiWM4Ni4Jk0RoyBVq6g74yz0.png" group-title="LATINO",USL: TELEMUNDO EAST
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/249599
 #EXTINF:-1 tvg-id="EL: TELEMUNDO LOS ANGELES CA KVEA" tvg-name="USL: TELEMUNDO WEST" tvg-logo="https://tenwafers.xyz:443/images/a8ZLybME7nvmZTj1j3E8s00guRHFpEyaThlbyBLi5W2DBu_SUe_JWrZgdsAw6pqp23HPfpm0VtwmGo0JTCO0We1pQtvbOIi0P7m-pd8DxKY.png" group-title="LATINO",USL: TELEMUNDO WEST
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/249600
 #EXTINF:-1 tvg-id="" tvg-name="LAT | TELEMUNDO LOS ANGELES" tvg-logo="https://static.epg.best/us/TelemundoWKAQ.us.png" group-title="LATINO ENTRETENIMIENTO",LAT | TELEMUNDO LOS ANGELES
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/135391
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kttv.us" tvg-name="CA | Los Angeles | FOX KTTV" tvg-logo="https://logo.m3uassets.com/losangelesfox11kttv.png" group-title="USA | LOCAL - FOX",CA | Los Angeles | FOX KTTV
+http://myxpanel.pro:80/Halo/123/1682
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kvea.us" tvg-name="CA | Los Angeles | Telemundo 52 KVEA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSri008dGLt1Etx4tMhOSgB3bEYI0AWviMHJw&s" group-title="USA | LATIN Telemundo",CA | Los Angeles | Telemundo 52 KVEA
+http://myxpanel.pro:80/Halo/123/3295
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports1.us" tvg-name="USA FS1 UHD" tvg-logo="https://logo.m3uassets.com/fs1.png" group-title="USA | Ultra HD Exclusive",USA FS1 UHD
 http://myxpanel.pro:80/Halo/123/268974
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="foxsports1.us" tvg-name="Fox Sports 1 (FS1) [English]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/1200px-2015_Fox_Sports_1_logo.svg.png" group-title="LIVE | FIFA World Cup International",Fox Sports 1 (FS1) [English]
