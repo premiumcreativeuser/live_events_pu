@@ -31,11 +31,11 @@ http://myxpanel.pro:80/Halo/123/269011
 http://myxpanel.pro:80/Halo/123/511
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC West
 http://myxpanel.pro:80/Halo/123/295775
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="amc+.us" tvg-name="USA AMC+" tvg-logo="https://logo.m3uassets.com/amc.png" group-title="USA | ENTERTAINMENT",AMC+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="amc+.us" tvg-name="USA AMC+" tvg-logo="https://logo.m3uassets.com/amc.png",AMC+
 http://myxpanel.pro:80/Halo/123/510
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="amcthrillers.us" tvg-name="USA AMC Thrillers" tvg-logo="https://logo.m3uassets.com/amcthrillers.png" group-title="USA | Movies",AMC Thrillers
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="amcthrillers.us" tvg-name="USA AMC Thrillers" tvg-logo="https://logo.m3uassets.com/amcthrillers.png",AMC Thrillers
 http://myxpanel.pro:80/Halo/123/743
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="storiesamc.us" tvg-name="USA Stories by AMC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20251111T200836SQUARE.png" group-title="USA | Movies",Stories by AMC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="storiesamc.us" tvg-name="USA Stories by AMC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20251111T200836SQUARE.png",Stories by AMC
 http://myxpanel.pro:80/Halo/123/808425
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet East
 http://myxpanel.pro:80/Halo/123/508
@@ -230,7 +230,7 @@ http://myxpanel.pro:80/Halo/123/439
 http://myxpanel.pro:80/Halo/123/438
 #EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="US | Hallmark Family" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hallmarkfamily.png",Hallmark Family
 http://myxpanel.pro:80/Halo/123/440
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hallmarkmovies&more.us" tvg-name="USA Hallmark Movies & More" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20251209T013517SQUARE.png" group-title="USA | Movies",Hallmark Movies & More
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hallmarkmovies&more.us" tvg-name="USA Hallmark Movies & More" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20251209T013517SQUARE.png",Hallmark Movies & More
 http://myxpanel.pro:80/Halo/123/808431
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO East
 http://myxpanel.pro:80/Halo/123/792
@@ -385,9 +385,9 @@ http://myxpanel.pro:80/Halo/123/773
 #EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women West" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg",Showtime Women West
 http://myxpanel.pro:80/Halo/123/731
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="USA Paramount+ with Showtime East" tvg-logo="https://deadline.com/wp-content/uploads/2022/02/Paramount-Showtime.jpg" group-title="USA | Movies",USA Paramount+ with Showtime East
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="USA Paramount+ with Showtime East" tvg-logo="https://deadline.com/wp-content/uploads/2022/02/Paramount-Showtime.jpg",USA Paramount+ with Showtime East
 http://myxpanel.pro:80/Halo/123/835881
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="USA Paramount+ with Showtime West" tvg-logo="https://deadline.com/wp-content/uploads/2022/02/Paramount-Showtime.jpg" group-title="USA | Movies",USA Paramount+ with Showtime West
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="USA Paramount+ with Showtime West" tvg-logo="https://deadline.com/wp-content/uploads/2022/02/Paramount-Showtime.jpg",USA Paramount+ with Showtime West
 http://myxpanel.pro:80/Halo/123/835880
 
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK 50fps
@@ -538,7 +538,7 @@ http://myxpanel.pro:80/Halo/123/268880
 http://myxpanel.pro:80/Halo/123/757
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz In Black West (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649402.jpg",Starz In Black West (SHD)
 http://myxpanel.pro:80/Halo/123/736
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzkids&family.us" tvg-name="USA Starz Kids And Family UHD" tvg-logo="https://logo.m3uassets.com/starzkidsandfamily.png" group-title="USA | Ultra HD Exclusive",USA Starz Kids And Family UHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzkids&family.us" tvg-name="USA Starz Kids And Family UHD" tvg-logo="https://logo.m3uassets.com/starzkidsandfamily.png",USA Starz Kids And Family UHD
 http://myxpanel.pro:80/Halo/123/268891
 #EXTINF:-1 tvg-id="STV.HD.uk" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stv_uk.png",STV HD
 http://myxpanel.pro:80/Halo/123/276624
@@ -606,7 +606,7 @@ http://myxpanel.pro:80/Halo/123/3993
 http://myxpanel.pro:80/Halo/123/3992
 #EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel East
 http://myxpanel.pro:80/Halo/123/363
-#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-name="USA Travel Channel West" tvg-logo="https://static.realiptv.to/snapshots/3845.jpg" group-title="USA ENTERTAINMENT",Travel Channel West
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-name="USA Travel Channel West" tvg-logo="https://static.realiptv.to/snapshots/3845.jpg",Travel Channel West
 http://myxpanel.pro:80/Halo/123/362
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV East UHD
 http://myxpanel.pro:80/Halo/123/361
