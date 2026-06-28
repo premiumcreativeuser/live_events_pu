@@ -304,7 +304,7 @@ https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/553461
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/51552
 #EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png" ,HBO Movies SHD
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/648982
-#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="USA HBO Zone West" tvg-logo="https://static.realiptv.to/snapshots/631877.jpg" group-title="USA MOVIES",USA HBO Zone West
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="USA HBO Zone West" tvg-logo="https://static.realiptv.to/snapshots/631877.jpg",USA HBO Zone West
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/631877
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV East UHD
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3654
@@ -344,13 +344,13 @@ https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/57970
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/57968
 #EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 West
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/89987
-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="USA MTV Classic (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649014.jpg" group-title="USA MUSIC",USA MTV Classic (SHD)
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="USA MTV Classic (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649014.jpg",USA MTV Classic (SHD)
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/649014
-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="USA MTV Classic (UHD)" tvg-logo="https://static.realiptv.to/snapshots/57969.jpg" group-title="USA MUSIC",USA MTV Classic (UHD)
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="USA MTV Classic (UHD)" tvg-logo="https://static.realiptv.to/snapshots/57969.jpg",USA MTV Classic (UHD)
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/57969
-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="USA MTV Classic West" tvg-logo="https://static.realiptv.to/snapshots/631838.jpg" group-title="USA MUSIC",USA MTV Classic West
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="USA MTV Classic West" tvg-logo="https://static.realiptv.to/snapshots/631838.jpg",USA MTV Classic West
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/631838
-#EXTINF:-1 tvg-id="MTVU" tvg-name="USA MTV U" tvg-logo="https://static.realiptv.to/snapshots/57971.jpg" group-title="USA MUSIC",USA MTV U
+#EXTINF:-1 tvg-id="MTVU" tvg-name="USA MTV U" tvg-logo="https://static.realiptv.to/snapshots/57971.jpg",USA MTV U
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/57971
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild East UHD
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3666
@@ -411,21 +411,21 @@ https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3969
 #EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone West
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/631918
 
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="USA Showtime Next East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg" group-title="USA MOVIES",USA Showtime Next East (SHD)
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="USA Showtime Next East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",USA Showtime Next East (SHD)
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/648985
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="USA Showtime Next UHD" tvg-logo="https://static.realiptv.to/snapshots/3970.jpg" group-title="USA MOVIES",USA Showtime Next UHD
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="USA Showtime Next UHD" tvg-logo="https://static.realiptv.to/snapshots/3970.jpg",USA Showtime Next UHD
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3970
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="USA SHOWTIME NEXT WEST" tvg-logo="https://static.realiptv.to/snapshots/631889.jpg" group-title="USA MOVIES",USA SHOWTIME NEXT WEST
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="USA SHOWTIME NEXT WEST" tvg-logo="https://static.realiptv.to/snapshots/631889.jpg",USA SHOWTIME NEXT WEST
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/631889
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="USA Showtime Showcase UHD" tvg-logo="https://static.realiptv.to/snapshots/3966.jpg" group-title="USA MOVIES",USA Showtime Showcase UHD
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="USA Showtime Showcase UHD" tvg-logo="https://static.realiptv.to/snapshots/3966.jpg",USA Showtime Showcase UHD
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3966
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="USA Showtime Showcase West" tvg-logo="https://static.realiptv.to/snapshots/631890.jpg" group-title="USA MOVIES",USA Showtime Showcase West
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="USA Showtime Showcase West" tvg-logo="https://static.realiptv.to/snapshots/631890.jpg",USA Showtime Showcase West
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/631890
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648986.jpg" group-title="USA MOVIES",USA Showtime Women (SHD)
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648986.jpg",USA Showtime Women (SHD)
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/648986
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women UHD" tvg-logo="https://static.realiptv.to/snapshots/3971.jpg" group-title="USA MOVIES",USA Showtime Women UHD
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women UHD" tvg-logo="https://static.realiptv.to/snapshots/3971.jpg",USA Showtime Women UHD
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3971
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women West" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg" group-title="USA MOVIES",USA Showtime Women West
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women West" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg",USA Showtime Women West
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/631886
 
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK HD
@@ -509,23 +509,23 @@ https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3960
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema West UHD
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/631879
 
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="USA Starz Edge East (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3961.jpg" group-title="USA MOVIES",USA Starz Edge East (UHD)
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="USA Starz Edge East (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3961.jpg",USA Starz Edge East (UHD)
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3961
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="USA Starz Edge West" tvg-logo="https://static.realiptv.to/snapshots/631882.jpg" group-title="USA MOVIES",USA Starz Edge West
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="USA Starz Edge West" tvg-logo="https://static.realiptv.to/snapshots/631882.jpg",USA Starz Edge West
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/631882
-#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="USA Starz Encore Action" tvg-logo="https://static.realiptv.to/snapshots/3952.jpg" group-title="USA MOVIES",USA Starz Encore Action
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="USA Starz Encore Action" tvg-logo="https://static.realiptv.to/snapshots/3952.jpg",USA Starz Encore Action
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3952
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz Encore Black" tvg-logo="https://static.realiptv.to/snapshots/3954.jpg" group-title="USA MOVIES",USA Starz Encore Black
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz Encore Black" tvg-logo="https://static.realiptv.to/snapshots/3954.jpg",USA Starz Encore Black
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3954
-#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="USA Starz Encore Suspense East (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg" group-title="USA MOVIES",USA Starz Encore Suspense East (UHD)
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="USA Starz Encore Suspense East (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg",USA Starz Encore Suspense East (UHD)
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3958
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz in Black East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3962.jpg" group-title="USA MOVIES",USA Starz in Black East (SHD)
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz in Black East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3962.jpg",USA Starz in Black East (SHD)
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3962
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz in Black West (UHD)" tvg-logo="https://static.realiptv.to/snapshots/631880.jpg" group-title="USA MOVIES",USA Starz in Black West (UHD)
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz in Black West (UHD)" tvg-logo="https://static.realiptv.to/snapshots/631880.jpg",USA Starz in Black West (UHD)
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/631880
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz In Black West (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649402.jpg" group-title="USA MOVIES",USA Starz In Black West (SHD)
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz In Black West (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649402.jpg",USA Starz In Black West (SHD)
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/649402
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz Encore Suspense West" tvg-logo="" group-title="USA MOVIES",USA Starz Encore Suspense West
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz Encore Suspense West" tvg-logo="",USA Starz Encore Suspense West
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/1426788
 
 #EXTINF:-1 tvg-id="STV.HD.uk" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stv_uk.png",STV HD
@@ -586,7 +586,7 @@ https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/2335
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/2334
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 FHD
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/675021
-#EXTINF:-1 tvg-id="tntsports5.uk" tvg-name="UK TNT Sports 5 Extra 1" tvg-logo="https://static.realiptv.to/snapshots/2332.jpg" group-title="UNITED KINGDOM",UK TNT Sports 5 Extra 1
+#EXTINF:-1 tvg-id="tntsports5.uk" tvg-name="UK TNT Sports 5 Extra 1" tvg-logo="https://static.realiptv.to/snapshots/2332.jpg",UK TNT Sports 5 Extra 1
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/2332
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1",TSN 1 CA UHD
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3146
@@ -600,7 +600,7 @@ https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3143
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3142
 #EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel East LHD
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3765
-#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-name="USA Travel Channel West" tvg-logo="https://static.realiptv.to/snapshots/3845.jpg" group-title="USA ENTERTAINMENT",USA Travel Channel West
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-name="USA Travel Channel West" tvg-logo="https://static.realiptv.to/snapshots/3845.jpg",USA Travel Channel West
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3845
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV East UHD
 https://restream-live.realiptv.to/kingreg/YIqKwZ2Exc/3688
