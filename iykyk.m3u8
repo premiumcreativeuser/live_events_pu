@@ -369,14 +369,14 @@ http://kstv.us:8080/live/QX90g3Gk68/11123892408/24856.ts
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23243.ts
 #EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",truTV West
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23243.ts
+#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN
+http://kstv.us:8080/live/QX90g3Gk68/11123892408/23235.ts
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo East
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23281.ts
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo West
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23281.ts
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision East
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23236.ts
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision TUDN
-http://kstv.us:8080/live/QX90g3Gk68/11123892408/23235.ts
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network East
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15905.ts
 #EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network West
