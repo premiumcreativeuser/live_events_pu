@@ -256,8 +256,6 @@ http://kstv.us:8080/live/Perezgroup/7923213467/47136.ts
 http://kstv.us:8080/live/Perezgroup/7923213467/47137.ts
 #EXTINF:-1 tvg-id="1089" tvg-name="DEPORTES | REAL MADRID TV HD" tvg-logo="https://github.com/Fourqui/tv/blob/master/countries/spain/real-madrid-tv-es.png?raw=true" tvg-chno="1089" group-title="Deportes",DEPORTES | REAL MADRID TV HD
 http://kstv.us:8080/live/Perezgroup/7923213467/47139.ts
-#EXTINF:-1 tvg-id="1090" tvg-name="DEPORTES | TUDN HD" tvg-logo="https://tlgrm.re/images/tudn-us.png" tvg-chno="1090" group-title="Deportes",DEPORTES | TUDN HD
-http://kstv.us:8080/live/Perezgroup/7923213467/47140.ts
 #EXTINF:-1 tvg-id="1091" tvg-name="DEPORTES | TVC DEPORTES MEXICO HD" tvg-logo="https://github.com/fraudiay79/logos/blob/master/mx/tvcdeportes.png?raw=true" tvg-chno="1091" group-title="Deportes",DEPORTES | TVC DEPORTES MEXICO HD
 http://kstv.us:8080/live/Perezgroup/7923213467/47141.ts
 #EXTINF:-1 tvg-id="1092" tvg-name="DEPORTES | VTV" tvg-logo="https://github.com/fraudiay79/logos/blob/master/uy/vtv.png?raw=true" tvg-chno="1092" group-title="Deportes",DEPORTES | VTV
