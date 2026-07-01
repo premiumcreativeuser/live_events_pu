@@ -399,6 +399,10 @@ https://wavecanada.app:443/LateshaBell/5732098164/251
 https://wavecanada.app:443/LateshaBell/5732098164/1485510
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV
 https://wavecanada.app:443/LateshaBell/5732098164/6220
+#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN MX
+http://wavecanada.app/live/JasonThomas/2164530789/1520786.ts
+#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN USA
+http://wavecanada.app/live/JasonThomas/2164530789/1487012.ts
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision
 https://wavecanada.app:443/LateshaBell/5732098164/1540811
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision TUDN
