@@ -2,452 +2,423 @@
 
 #NEWS
 #EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS LA Locals
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/9865
+https://odietv.xyz:443/FrancisWood/3048579126/10616
 #EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC LA Locals
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/10121
+https://odietv.xyz:443/FrancisWood/3048579126/1486696
+#EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC LA Locals
+https://odietv.xyz:443/FrancisWood/3048579126/10690
 #EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-wnbc-us.png",NBC WNBC NY Locals
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/10227
+https://odietv.xyz:443/FrancisWood/3048579126/10658
 #EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-wnbc-us.png",NBC WNBC NY
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129930
+https://odietv.xyz:443/FrancisWood/3048579126/10689
 #EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA Locals
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/117093
-#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129721
+https://odietv.xyz:443/FrancisWood/3048579126/1379859
 #EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC KABC Locals
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/9774
+https://odietv.xyz:443/FrancisWood/3048579126/1486682
 #EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC KABC Locals
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129817
+https://odietv.xyz:443/FrancisWood/3048579126/10543
 #EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL Locals
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/9864
+https://odietv.xyz:443/FrancisWood/3048579126/1486686
+#EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL Locals
+https://odietv.xyz:443/FrancisWood/3048579126/1478226
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV Locals
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/9995
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129816
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/261521
+https://odietv.xyz:443/FrancisWood/3048579126/1486700
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV Locals
+https://odietv.xyz:443/FrancisWood/3048579126/10766
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E EAST
+https://odietv.xyz:443/FrancisWood/3048579126/6168
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E WEST
+https://odietv.xyz:443/FrancisWood/3048579126/1485486
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC Network
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/141446
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/11652
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/261522
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="amc+.us" tvg-name="USA AMC+" tvg-logo="https://logo.m3uassets.com/amc.png",AMC+
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129821
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="amcthrillers.us" tvg-name="USA AMC Thrillers" tvg-logo="https://logo.m3uassets.com/amcthrillers.png",AMC Thrillers
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/7416
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="storiesamc.us" tvg-name="USA Stories by AMC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20251111T200836SQUARE.png",Stories by AMC
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/7563
-#EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-name="AMC PRESENTS" tvg-logo="https://i.ibb.co/2FP00VT/amc-presents.png",AMC PRESENTS
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129820
+https://odietv.xyz:443/FrancisWood/3048579126/590056
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC EAST
+https://odietv.xyz:443/FrancisWood/3048579126/92
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC WEST
+https://odietv.xyz:443/FrancisWood/3048579126/1485492
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129824
+https://odietv.xyz:443/FrancisWood/3048579126/94
 #EXTINF:-1 tvg-id="Animal.Planet.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129825
+https://odietv.xyz:443/FrancisWood/3048579126/1485493
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png",BBC America
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129831
-#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true",BBC World News
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/245399
-#EXTINF:-1 tvg-id="BET.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129832
-#EXTINF:-1 tvg-id="BET.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/261523
-#EXTINF:-1 tvg-id="BET.Her.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png",BET Her
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129833
+https://odietv.xyz:443/FrancisWood/3048579126/100
+#EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true",BBC World News CA
+https://odietv.xyz:443/FrancisWood/3048579126/101
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true",Big Ten Network
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/141454
+https://odietv.xyz:443/FrancisWood/3048579126/113
+#EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true",Big Ten Network 4k
+https://odietv.xyz:443/FrancisWood/3048579126/1504775
 #EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",Boomerang
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/137674
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129842
-#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo West 
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129843
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network East 
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/137675
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/137676
+https://odietv.xyz:443/FrancisWood/3048579126/6230
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo East
+https://odietv.xyz:443/FrancisWood/3048579126/116
+#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo West
+https://odietv.xyz:443/FrancisWood/3048579126/1485495
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network East
+https://odietv.xyz:443/FrancisWood/3048579126/6231
+#EXTINF:-1 tvg-id="Cartoon.Network.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West
+https://odietv.xyz:443/FrancisWood/3048579126/6232
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS Sports Network
+https://odietv.xyz:443/FrancisWood/3048579126/569388
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 #EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-sports-golazo-network-us.png" tvg-name="CBS Sports Golazo",CBS Sports Golazo
 https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129982
-#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129983
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX EAST
+https://odietv.xyz:443/FrancisWood/3048579126/4067
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX WEST
+https://odietv.xyz:443/FrancisWood/3048579126/4076
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX 5 STARMAX EAST
+https://odietv.xyz:443/FrancisWood/3048579126/4064
 #EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129981
+https://odietv.xyz:443/FrancisWood/3048579126/4065
 #EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130028
-#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX Action East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129984
-#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130029
+https://odietv.xyz:443/FrancisWood/3048579126/4066
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-moremax-us.png",CINEMAX MOREMAX East
+https://odietv.xyz:443/FrancisWood/3048579126/4070
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-moremax-us.png",CINEMAX MOREMAX West
+https://odietv.xyz:443/FrancisWood/3048579126/4071
+#EXTINF:-1 tvg-id="3TVKTVK.us" tvg-name="USA | CINEMAX THRILLERMAX (WEST)" tvg-logo="https://exanimo.tv/logos/movies/thrillermax.png",USA | CINEMAX THRILLERMAX (WEST)
+https://odietv.xyz:443/FrancisWood/3048579126/4075
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/8341
+https://odietv.xyz:443/FrancisWood/3048579126/124
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/136581
+https://odietv.xyz:443/FrancisWood/3048579126/4261
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129852
+https://odietv.xyz:443/FrancisWood/3048579126/126
 #EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129853
+https://odietv.xyz:443/FrancisWood/3048579126/127
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png",Cooking Channel
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129855
+https://odietv.xyz:443/FrancisWood/3048579126/129
 #EXTINF:-1 tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1 CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129643
+https://odietv.xyz:443/FrancisWood/3048579126/3858
 #EXTINF:-1 tvg-id="Crave2.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2 CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129644
+https://odietv.xyz:443/FrancisWood/3048579126/3857
 #EXTINF:-1 tvg-id="Crave3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3 CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129645
+https://odietv.xyz:443/FrancisWood/3048579126/3856
 #EXTINF:-1 tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4 CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129646
-#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true",Destination America
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129863
+https://odietv.xyz:443/FrancisWood/3048579126/3855
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129864
-#EXTINF:-1 tvg-id="The.Discovery.Channel.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/261526
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png",Discovery Family
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129865
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png",Discovery Life
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129866
-#EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/G7sDCbP/discovery-science-us.png",Discovery Science
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129867
-#EXTINF:-1 tvg-id="DiscoveryTurbo.us" tvg-name="Discovery Turbo" tvg-logo="https://i.ibb.co/bPHZvB9/motortrend.png",Discovery Turbo
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129917
+https://odietv.xyz:443/FrancisWood/3048579126/134
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery Channel West
+https://odietv.xyz:443/FrancisWood/3048579126/606409
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png",Discovery Family East
+https://odietv.xyz:443/FrancisWood/3048579126/138
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png",Discovery Life Channel East
+https://odietv.xyz:443/FrancisWood/3048579126/139
+#EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="USA | DISCOVERY SCIENCE" tvg-logo="https://exanimo.tv/logos/usa/discoveryscience.png",USA | DISCOVERY SCIENCE
+https://odietv.xyz:443/FrancisWood/3048579126/5172
+#EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-name="USA | DISCOVERY VELOCITY (MOTORTREND)" tvg-logo="https://exanimo.tv/logos/usa/discoveryvelocity.png",USA | DISCOVERY VELOCITY (MOTORTREND)
+https://odietv.xyz:443/FrancisWood/3048579126/5869
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/137677
+https://odietv.xyz:443/FrancisWood/3048579126/6233
 #EXTINF:-1 tvg-id="Disney.Channel.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/137678
+https://odietv.xyz:443/FrancisWood/3048579126/6234
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/137679
-#EXTINF:-1 tvg-id="Disney.Junior.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/137680
+https://odietv.xyz:443/FrancisWood/3048579126/6235
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/137681
+https://odietv.xyz:443/FrancisWood/3048579126/6237
 #EXTINF:-1 tvg-id="Disney.XD.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/137682
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129869
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129870
+https://odietv.xyz:443/FrancisWood/3048579126/6238
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! Entertainment Television East
+https://odietv.xyz:443/FrancisWood/3048579126/141
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! Entertainment Television West
+https://odietv.xyz:443/FrancisWood/3048579126/142
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/28697
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/141457
+https://odietv.xyz:443/FrancisWood/3048579126/11574
+#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN 4k
+https://odietv.xyz:443/FrancisWood/3048579126/1501519
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN 2
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/136155
+https://odietv.xyz:443/FrancisWood/3048579126/211381
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcu/gear/refs/heads/main/tv-logos/espn-deportes-us.png" tvg-name="ESPN DEPORTES",ESPN Deportes
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/136157
+https://odietv.xyz:443/FrancisWood/3048579126/1518348
 #EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png",ESPN News
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/136160
+https://odietv.xyz:443/FrancisWood/3048579126/590059
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",ESPN U
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/136159
+https://odietv.xyz:443/FrancisWood/3048579126/607128
+#EXTINF:-1 tvg-id="ESPN8.The.Ocho.us2" tvg-name="USA | ESPN8 THE OCHO" tvg-logo="https://exanimo.tv/logos/usasports/espn.png",USA | ESPN8 THE OCHO
+https://odietv.xyz:443/FrancisWood/3048579126/1804204
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129872
+https://odietv.xyz:443/FrancisWood/3048579126/145
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129873
-#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",FOX Business
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/8258
-#EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-sports-deportes-us.png",FOX Deportes 
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/141464
-#EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-soccer-plus-us.png",Fox Soccer Plus 
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/141465
-#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png",Fox News
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/136761
+https://odietv.xyz:443/FrancisWood/3048579126/146
+#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",FOX Business Network
+https://odietv.xyz:443/FrancisWood/3048579126/148
+#EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-sports-deportes-us.png",FOX DEPORTES
+https://odietv.xyz:443/FrancisWood/3048579126/1518352
+#EXTINF:-1 tvg-id="" tvg-name="LAT | FOX DEPORTES 2" tvg-logo="https://exanimo.tv/logos/mexico/latino.png",FOX DEPORTES 2
+https://odietv.xyz:443/FrancisWood/3048579126/1518353
+#EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-soccer-plus-us.png",Fox Soccer Plus USA
+https://odietv.xyz:443/FrancisWood/3048579126/1517783
+#EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png",FOX News
+https://odietv.xyz:443/FrancisWood/3048579126/149
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",FS1 - Fox Sports 1
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/141466
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",FS1 - Fox Sports 1 4k (Event Only)
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/261657
+https://odietv.xyz:443/FrancisWood/3048579126/150
+#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",FS1 - Fox Sports 1 4k
+https://odietv.xyz:443/FrancisWood/3048579126/1501520
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",FS2 - Fox Sports 2
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/141467
+https://odietv.xyz:443/FrancisWood/3048579126/151
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129877
-#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true",FXM East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129878
+https://odietv.xyz:443/FrancisWood/3048579126/4084
+#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX West
+https://odietv.xyz:443/FrancisWood/3048579126/4086
+#EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true",FXM
+https://odietv.xyz:443/FrancisWood/3048579126/1478204
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129879
+https://odietv.xyz:443/FrancisWood/3048579126/4089
 #EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129880
+https://odietv.xyz:443/FrancisWood/3048579126/4092
 #EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129886
+https://odietv.xyz:443/FrancisWood/3048579126/160
 #EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129888
-#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="US | Hallmark Family" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hallmarkfamily.png",Hallmark Family
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129887
+https://odietv.xyz:443/FrancisWood/3048579126/162
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="US | Hallmark Family" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hallmarkfamily.png",Hallmark Family East
+https://odietv.xyz:443/FrancisWood/3048579126/161
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129991
+https://odietv.xyz:443/FrancisWood/3048579126/4101
 #EXTINF:-1 tvg-id="HBO.West.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129994
+https://odietv.xyz:443/FrancisWood/3048579126/4096
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130015
-#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130031
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129990
+https://odietv.xyz:443/FrancisWood/3048579126/6485
+#EXTINF:-1 tvg-id="HBO2.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 West
+https://odietv.xyz:443/FrancisWood/3048579126/4093
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy East
+https://odietv.xyz:443/FrancisWood/3048579126/4095
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy East
+https://odietv.xyz:443/FrancisWood/3048579126/4095
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130032
-#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129993
-#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130034
-#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png",HBO Movies/Zone East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129995
-#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png",HBO Movies/Zone West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130035
+https://odietv.xyz:443/FrancisWood/3048579126/1478231
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="USA | HBO SIGNATURE (EAST)" tvg-logo="https://exanimo.tv/logos/movies/hbosignature.png",HBO SIGNATURE (EAST)
+https://odietv.xyz:443/FrancisWood/3048579126/4100
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="USA | HBO SIGNATURE (WEST)" tvg-logo="https://exanimo.tv/logos/movies/hbosignature.png",HBO SIGNATURE (WEST)
+https://odietv.xyz:443/FrancisWood/3048579126/1478235
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="USA | HBO ZONE (EAST)" tvg-logo="https://exanimo.tv/logos/movies/hbozone.png",HBO ZONE (EAST)
+https://odietv.xyz:443/FrancisWood/3048579126/4103
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="USA | HBO ZONE (WEST)" tvg-logo="https://exanimo.tv/logos/movies/hbozone.png",HBO ZONE (WEST)
+https://odietv.xyz:443/FrancisWood/3048579126/1478236
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129890
+https://odietv.xyz:443/FrancisWood/3048579126/163
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129891
-#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129892
+https://odietv.xyz:443/FrancisWood/3048579126/164
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History Channel East
+https://odietv.xyz:443/FrancisWood/3048579126/6197
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History Channel West
+https://odietv.xyz:443/FrancisWood/3048579126/1485501
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129909
-#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",Lifetime Movies LMN East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129910
-#EXTINF:-1 tvg-id="LifetimeRealWomen.us" tvg-name="LIFETIME REAL WOMEN" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/LifetimeRealWomen.us.png",Lifetime Real Women
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/16840
-#EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png",MSNBC UHD
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/136649
+https://odietv.xyz:443/FrancisWood/3048579126/6203
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime West
+https://odietv.xyz:443/FrancisWood/3048579126/1485502
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",LIFETIME MOVIES LMN
+https://odietv.xyz:443/FrancisWood/3048579126/6205
+#EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png",MSNBC
+https://odietv.xyz:443/FrancisWood/3048579126/181
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129919
-#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129920
-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="USA MTV Classic (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649014.jpg",MTV Classic
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129921
+https://odietv.xyz:443/FrancisWood/3048579126/182
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV West
+https://odietv.xyz:443/FrancisWood/3048579126/1485504
 #EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-live-us.png",MTV LIVE
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129922
-#EXTINF:-1 tvg-id="MTVU" tvg-name="USA MTV U" tvg-logo="https://static.realiptv.to/snapshots/57971.jpg",MTV U
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129923
+https://odietv.xyz:443/FrancisWood/3048579126/184
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 East
+https://odietv.xyz:443/FrancisWood/3048579126/185
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 West
+https://odietv.xyz:443/FrancisWood/3048579126/1485505
+#EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-name="USA | MTV U" tvg-logo="https://exanimo.tv/logos/usa/mtvu.png",MTV U East
+https://odietv.xyz:443/FrancisWood/3048579126/187
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129927
+https://odietv.xyz:443/FrancisWood/3048579126/6208
+#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo West 
+https://odietv.xyz:443/FrancisWood/3048579126/1485506
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",NBA TV
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/249133
-#EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",NBA TV
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/136816
-#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true",NFL Network
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/167981
-#EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true",NFL Network
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/30478
+https://odietv.xyz:443/FrancisWood/3048579126/188
+#EXTINF:-1 tvg-id="" tvg-name="USA | NBA FAST" tvg-logo="",NBA FAST
+https://odietv.xyz:443/FrancisWood/3048579126/1827909
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",NFL Red Zone
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/30479
-#EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png",NHL Network
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/167982
+https://odietv.xyz:443/FrancisWood/3048579126/197
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/137683
-#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/137685
-#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/137684
-#EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/137689
-#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/137686
-#EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129933
+https://odietv.xyz:443/FrancisWood/3048579126/198
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon
+https://odietv.xyz:443/FrancisWood/3048579126/200
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons
+https://odietv.xyz:443/FrancisWood/3048579126/203
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129996
+https://odietv.xyz:443/FrancisWood/3048579126/4110
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129997
+https://odietv.xyz:443/FrancisWood/3048579126/4117
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130019
+https://odietv.xyz:443/FrancisWood/3048579126/4109
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130021
-#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129999
-#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130023
-#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130000
-#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130024
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="USA Showtime Next East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130001
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="USA Showtime Next East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130025
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="USA Showtime Showcase UHD" tvg-logo="https://static.realiptv.to/snapshots/3966.jpg",Showtime Showcase East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129998
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="USA Showtime Showcase West" tvg-logo="https://static.realiptv.to/snapshots/631890.jpg",Showtime Showcase West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130022
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648986.jpg",Showtime Women East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130002
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women West" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg",Showtime Women West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130026
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="USA Paramount+ with Showtime East" tvg-logo="https://deadline.com/wp-content/uploads/2022/02/Paramount-Showtime.jpg",USA Paramount+ with Showtime East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129996
+https://odietv.xyz:443/FrancisWood/3048579126/1523937
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",SHOWTIME EXTREME East
+https://odietv.xyz:443/FrancisWood/3048579126/4113
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",SHOWTIME EXTREME West
+https://odietv.xyz:443/FrancisWood/3048579126/1523939
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",SHOWTIME FAMILY ZONE East
+https://odietv.xyz:443/FrancisWood/3048579126/4114
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",SHOWTIME FAMILY ZONE West
+https://odietv.xyz:443/FrancisWood/3048579126/1523940
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME NEXT EAST
+https://odietv.xyz:443/FrancisWood/3048579126/4115
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME NEXT West
+https://odietv.xyz:443/FrancisWood/3048579126/1523941
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME SHOWCASE EAST
+https://odietv.xyz:443/FrancisWood/3048579126/4116
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME SHOWCASE West
+https://odietv.xyz:443/FrancisWood/3048579126/1523938
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME WOMEN East
+https://odietv.xyz:443/FrancisWood/3048579126/4118
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME WOMEN West
+https://odietv.xyz:443/FrancisWood/3048579126/1523942
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/117063
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK 
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/242078
+https://odietv.xyz:443/FrancisWood/3048579126/6029
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 4k UK
+https://odietv.xyz:443/FrancisWood/3048579126/1815993
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 4K UK
+https://odietv.xyz:443/FrancisWood/3048579126/1513987
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 FHD
+https://odietv.xyz:443/FrancisWood/3048579126/1815992
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/117067
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/242081
+https://odietv.xyz:443/FrancisWood/3048579126/6032
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sporst%20football.png",Sky Sports Football UK
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/117068
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sporst%20football.png",Sky Sports Football UK
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/242082
+https://odietv.xyz:443/FrancisWood/3048579126/6033
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event 4k UK
+https://odietv.xyz:443/FrancisWood/3048579126/1478345
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/117070
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/242084
+https://odietv.xyz:443/FrancisWood/3048579126/6035
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20mix.png",Sky Sports Mix UK
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/242085
+https://odietv.xyz:443/FrancisWood/3048579126/6036
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20news.png",Sky Sports News UK
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/117064
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20news.png",Sky Sports News UK
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/242086
+https://odietv.xyz:443/FrancisWood/3048579126/6037
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/242087
+https://odietv.xyz:443/FrancisWood/3048579126/6038
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20racing.png",Sky Sports Racing UK
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/117073
-#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20racing.png",Sky Sports Racing UK
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/242088
+https://odietv.xyz:443/FrancisWood/3048579126/6028
 #EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/141448
+https://odietv.xyz:443/FrancisWood/3048579126/4245
 #EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SportsNet New York SNY USA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/141499
+https://odietv.xyz:443/FrancisWood/3048579126/234
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",SportsNet World CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/142485
-#EXTINF:-1 tvg-id="Sportsnet.East.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet East CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/142480
+https://odietv.xyz:443/FrancisWood/3048579126/1499630
 #EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet West CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/142481
+https://odietv.xyz:443/FrancisWood/3048579126/3882
 #EXTINF:-1 tvg-id="Sportsnet.(Pacific).HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pacific-ca.png",SportsNet Pacific CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/142484
-#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-ontario-ca.png",Sportsnet Ontario CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/142483
+https://odietv.xyz:443/FrancisWood/3048579126/3881
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-ontario-ca.png",Sportsnet Ontario
+https://odietv.xyz:443/FrancisWood/3048579126/3886
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/260803
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130004
-#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz West UHD
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130005
-#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130010
-#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130044
-#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",Starz Encore Family East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130011
-#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",Starz Encore Family West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130045
-#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130060
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130006
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130040
-#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",Starz Kids & Family East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130018
-#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",Starz Kids & Family West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130049
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130003
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130039
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="USA Starz Edge East (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3961.jpg",Starz Edge East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130007
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="USA Starz Edge East (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3961.jpg",Starz Edge West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130061
-#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="USA Starz Encore Action" tvg-logo="https://static.realiptv.to/snapshots/3952.jpg",Starz Encore Action East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130009
-#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="USA Starz Encore Action" tvg-logo="https://static.realiptv.to/snapshots/3952.jpg",Starz Encore Action West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130042
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz Encore Black" tvg-logo="https://static.realiptv.to/snapshots/3954.jpg",Starz Encore Black East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130062
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz Encore Black" tvg-logo="https://static.realiptv.to/snapshots/3954.jpg",Starz Encore Black West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130043
-#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="USA Starz Encore Suspense East (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg",Starz Encore Suspense East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130012
-#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="USA Starz Encore Suspense East (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg",Starz Encore Suspense West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130046
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz in Black East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3962.jpg",Starz in Black East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130008
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz In Black West (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649402.jpg",Starz In Black West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/130048
+https://odietv.xyz:443/FrancisWood/3048579126/1492052
+#EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SportsNet 360 CA
+https://odietv.xyz:443/FrancisWood/3048579126/3884
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",STARZ East
+https://odietv.xyz:443/FrancisWood/3048579126/4124
+#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",STARZ West
+https://odietv.xyz:443/FrancisWood/3048579126/4138
+#EXTINF:-1 tvg-logo="https://exanimo.tv/logos/usamovies/starz.png",STARZ EDGE EAST
+https://odietv.xyz:443/FrancisWood/3048579126/4130
+#EXTINF:-1 tvg-logo="https://exanimo.tv/logos/usamovies/starz.png",STARZ EDGE WEST
+https://odietv.xyz:443/FrancisWood/3048579126/1523947
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/starz.png",STARZ ENCORE ACTION (EAST)
+https://odietv.xyz:443/FrancisWood/3048579126/4126
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/starz.png",STARZ ENCORE ACTION (WEST)
+https://odietv.xyz:443/FrancisWood/3048579126/1523954
+#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",STARZ Encore Family
+https://odietv.xyz:443/FrancisWood/3048579126/4132
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore East
+https://odietv.xyz:443/FrancisWood/3048579126/4129
+#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore West
+https://odietv.xyz:443/FrancisWood/LfEE-justin5/4134
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-logo="https://exanimo.tv/logos/usamovies/starz.png"",STARZ ENCORE SUSPENSE
+https://odietv.xyz:443/FrancisWood/3048579126/4133
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",STARZ COMEDY East
+https://odietv.xyz:443/FrancisWood/3048579126/4123
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",STARZ COMEDY West
+https://odietv.xyz:443/FrancisWood/3048579126/1523946
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",STARZ KIDS & FAMILY East
+https://odietv.xyz:443/FrancisWood/3048579126/4137
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",STARZ KIDS & FAMILY West
+https://odietv.xyz:443/FrancisWood/3048579126/1523948
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",STARZ Cinema East
+https://odietv.xyz:443/FrancisWood/3048579126/4122
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",STARZ Cinema West
+https://odietv.xyz:443/FrancisWood/3048579126/1523945
 #EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129958
+https://odietv.xyz:443/FrancisWood/3048579126/238
+#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy
+https://odietv.xyz:443/FrancisWood/3048579126/1478238
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129960
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129961
-#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo 52 KVEA Los Angeles
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/249600
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png",Tennis Channel 
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/136481
+https://odietv.xyz:443/FrancisWood/3048579126/5720
+#EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo 52 KVEA
+https://odietv.xyz:443/FrancisWood/3048579126/1482429
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png",Tennis Channel
+https://odietv.xyz:443/FrancisWood/3048579126/244
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png",The Weather Channel
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/8359
+https://odietv.xyz:443/FrancisWood/3048579126/247
 #EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129964
+https://odietv.xyz:443/FrancisWood/3048579126/249
+#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC West
+https://odietv.xyz:443/FrancisWood/3048579126/248
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129966
+https://odietv.xyz:443/FrancisWood/3048579126/5318
 #EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129967
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 FHD
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/258597
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 HD
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/258596
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 HDR
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/258598
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 FHD
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/258602
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 HD
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/258601
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 HDR
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/258603
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 FHD
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/258607
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 HD
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/258606
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 HDR
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/258608
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 FHD
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/258612
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 HD
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/258611
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 HDR
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/258613
+https://odietv.xyz:443/FrancisWood/3048579126/1497507
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1
+https://odietv.xyz:443/FrancisWood/3048579126/6013
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 
+https://odietv.xyz:443/FrancisWood/3048579126/6014
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3
+https://odietv.xyz:443/FrancisWood/3048579126/6015
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4
+https://odietv.xyz:443/FrancisWood/3048579126/1363886
+#EXTINF:-1 tvg-id="TNTSports5.uk" tvg-name="TNT SPORTS 05" tvg-logo="https://exanimo.tv/logos/uksports/tntsports.png",TNT SPORTS 05
+https://odietv.xyz:443/FrancisWood/3048579126/1487006
+#EXTINF:-1 tvg-id="TNTSports6.uk" tvg-name="TNT SPORTS 06" tvg-logo="https://exanimo.tv/logos/uksports/tntsports.png",TNT SPORTS 06
+https://odietv.xyz:443/FrancisWood/3048579126/1487007
+#EXTINF:-1 tvg-id="TNTSports7.uk" tvg-name="TNT SPORTS 07" tvg-logo="https://exanimo.tv/logos/uksports/tntsports.png",TNT SPORTS 07
+https://odietv.xyz:443/FrancisWood/3048579126/1487008
+#EXTINF:-1 tvg-id="TNTSports8.uk" tvg-name="TNT SPORTS 08" tvg-logo="https://exanimo.tv/logos/uksports/tntsports.png",TNT SPORTS 08
+https://odietv.xyz:443/FrancisWood/3048579126/1487009
+#EXTINF:-1 tvg-id="TNTSports9.uk" tvg-name="TNT SPORTS 09" tvg-logo="https://exanimo.tv/logos/uksports/tntsports.png",TNT SPORTS 09
+https://odietv.xyz:443/FrancisWood/3048579126/1487010
+#EXTINF:-1 tvg-id="TNTSports10.uk" tvg-name="TNT SPORTS 10" tvg-logo="https://exanimo.tv/logos/uksports/tntsports.png",TNT SPORTS 10
+https://odietv.xyz:443/FrancisWood/3048579126/1487011
+#EXTINF:-1 tvg-id="tntsportsultimate.uk" tvg-name="TNT SPORTS ULTIMATE 4K" tvg-logo="https://exanimo.tv/logos/uksports/tntsports4k.png",TNT SPORTS ULTIMATE 4K
+https://odietv.xyz:443/FrancisWood/3048579126/1478348
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1",TSN 1 CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/142475
+https://odietv.xyz:443/FrancisWood/3048579126/3880
 #EXTINF:-1 tvg-id="TTSN.2.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2",TSN 2 CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/142476
+https://odietv.xyz:443/FrancisWood/3048579126/3879
 #EXTINF:-1 tvg-id="TSN.3.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-name="TSN 3",TSN 3 CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/142477
+https://odietv.xyz:443/FrancisWood/3048579126/3878
 #EXTINF:-1 tvg-id="TSN.4.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-name="TSN 4 CA",TSN 4 CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/142478
+https://odietv.xyz:443/FrancisWood/3048579126/3877
 #EXTINF:-1 tvg-id="TSN.5.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-name="TSN 5 CA",TSN 5 CA
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/256966
+https://odietv.xyz:443/FrancisWood/3048579126/3869
 #EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129968
-#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129969
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/249593
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/253253
-#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/135379
-#EXTINF:-1 tvg-id="Univision.Network.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision KMEX 34 Los Angeles 
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/135431
-#EXTINF:-1 tvg-id="Univision.Network.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision West
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/135442
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/249591
+https://odietv.xyz:443/FrancisWood/3048579126/251
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel West
+https://odietv.xyz:443/FrancisWood/3048579126/1485510
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV
+https://odietv.xyz:443/FrancisWood/3048579126/6220
+#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN MX
+http://wavecanada.app/live/JasonThomas/2164530789/1520786.ts
+#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN USA
+http://wavecanada.app/live/JasonThomas/2164530789/1487012.ts
+#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision
+https://odietv.xyz:443/FrancisWood/3048579126/1540811
+#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision TUDN
+https://odietv.xyz:443/FrancisWood/3048579126/1482477
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129973
-#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network West 
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129974
+https://odietv.xyz:443/FrancisWood/3048579126/273
+#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network West
+https://odietv.xyz:443/FrancisWood/3048579126/1478237
 #EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 East
-http://hardcoremedia.xyz:80/GFXsdekh26/4294344498/129975
-
-
-
+https://odietv.xyz:443/FrancisWood/3048579126/274
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 West
+https://odietv.xyz:443/FrancisWood/3048579126/275
 
 
 
 ##############################################################################################
-
 
 
 
