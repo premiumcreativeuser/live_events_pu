@@ -25,19 +25,19 @@ https://simplec.tv:443/FrancisWood/3048579126/1478226
 https://simplec.tv:443/FrancisWood/3048579126/1486700
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV Locals
 https://simplec.tv:443/FrancisWood/3048579126/10766
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E EAST
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (East)
 https://simplec.tv:443/FrancisWood/3048579126/6168
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E WEST
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (West)
 https://simplec.tv:443/FrancisWood/3048579126/1485486
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC Network
 https://simplec.tv:443/FrancisWood/3048579126/590056
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC EAST
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (East)
 https://simplec.tv:443/FrancisWood/3048579126/92
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC WEST
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (West)
 https://simplec.tv:443/FrancisWood/3048579126/1485492
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet East
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet (East)
 https://simplec.tv:443/FrancisWood/3048579126/94
-#EXTINF:-1 tvg-id="Animal.Planet.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet West
+#EXTINF:-1 tvg-id="Animal.Planet.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet (West)
 https://simplec.tv:443/FrancisWood/3048579126/1485493
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png",BBC America
 https://simplec.tv:443/FrancisWood/3048579126/100
@@ -49,13 +49,13 @@ https://simplec.tv:443/FrancisWood/3048579126/113
 https://simplec.tv:443/FrancisWood/3048579126/1504775
 #EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",Boomerang
 https://simplec.tv:443/FrancisWood/3048579126/6230
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo East
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo (East)
 https://simplec.tv:443/FrancisWood/3048579126/116
-#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo West
+#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo (West)
 https://simplec.tv:443/FrancisWood/3048579126/1485495
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network East
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network (East)
 https://simplec.tv:443/FrancisWood/3048579126/6231
-#EXTINF:-1 tvg-id="Cartoon.Network.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West
+#EXTINF:-1 tvg-id="Cartoon.Network.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network (West)
 https://simplec.tv:443/FrancisWood/3048579126/6232
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS Sports Network
 https://simplec.tv:443/FrancisWood/3048579126/569388
@@ -65,19 +65,19 @@ https://simplec.tv:443/FrancisWood/3048579126/569388
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 #EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-sports-golazo-network-us.png" tvg-name="CBS Sports Golazo",CBS Sports Golazo
 https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX EAST
+#EXTINF:-1 tvg-id="Cinemax.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX (East)
 https://simplec.tv:443/FrancisWood/3048579126/4067
-#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX WEST
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX (West)
 https://simplec.tv:443/FrancisWood/3048579126/4076
-#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX 5 STARMAX EAST
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX 5 STARMAX (East)
 https://simplec.tv:443/FrancisWood/3048579126/4064
-#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX East
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX (East)
 https://simplec.tv:443/FrancisWood/3048579126/4065
-#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX West
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX (West)
 https://simplec.tv:443/FrancisWood/3048579126/4066
-#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-moremax-us.png",CINEMAX MOREMAX East
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-moremax-us.png",CINEMAX MOREMAX (East)
 https://simplec.tv:443/FrancisWood/3048579126/4070
-#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-moremax-us.png",CINEMAX MOREMAX West
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-moremax-us.png",CINEMAX MOREMAX (West)
 https://simplec.tv:443/FrancisWood/3048579126/4071
 #EXTINF:-1 tvg-id="3TVKTVK.us" tvg-name="USA | CINEMAX THRILLERMAX (WEST)" tvg-logo="https://exanimo.tv/logos/movies/thrillermax.png",USA | CINEMAX THRILLERMAX (WEST)
 https://simplec.tv:443/FrancisWood/3048579126/4075
@@ -85,9 +85,9 @@ https://simplec.tv:443/FrancisWood/3048579126/4075
 https://simplec.tv:443/FrancisWood/3048579126/124
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN
 https://simplec.tv:443/FrancisWood/3048579126/4261
-#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central East
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central (East)
 https://simplec.tv:443/FrancisWood/3048579126/126
-#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central West
+#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central (West)
 https://simplec.tv:443/FrancisWood/3048579126/127
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png",Cooking Channel
 https://simplec.tv:443/FrancisWood/3048579126/129
@@ -99,31 +99,31 @@ https://simplec.tv:443/FrancisWood/3048579126/3857
 https://simplec.tv:443/FrancisWood/3048579126/3856
 #EXTINF:-1 tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4 CA
 https://simplec.tv:443/FrancisWood/3048579126/3855
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery East
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery (East)
 https://simplec.tv:443/FrancisWood/3048579126/134
-#EXTINF:-1 tvg-id="The.Discovery.Channel.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery Channel West
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery Channel (West)
 https://simplec.tv:443/FrancisWood/3048579126/606409
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png",Discovery Family East
+#EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png",Discovery Family (East)
 https://simplec.tv:443/FrancisWood/3048579126/138
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png",Discovery Life Channel East
+#EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png",Discovery Life Channel (East)
 https://simplec.tv:443/FrancisWood/3048579126/139
 #EXTINF:-1 tvg-id="discoveryscience.us" tvg-name="USA | DISCOVERY SCIENCE" tvg-logo="https://exanimo.tv/logos/usa/discoveryscience.png",USA | DISCOVERY SCIENCE
 https://simplec.tv:443/FrancisWood/3048579126/5172
 #EXTINF:-1 tvg-id="discoveryvelocity.us" tvg-name="USA | DISCOVERY VELOCITY (MOTORTREND)" tvg-logo="https://exanimo.tv/logos/usa/discoveryvelocity.png",USA | DISCOVERY VELOCITY (MOTORTREND)
 https://simplec.tv:443/FrancisWood/3048579126/5869
-#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel East
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel (East)
 https://simplec.tv:443/FrancisWood/3048579126/6233
-#EXTINF:-1 tvg-id="Disney.Channel.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel West
+#EXTINF:-1 tvg-id="Disney.Channel.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel (West)
 https://simplec.tv:443/FrancisWood/3048579126/6234
-#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr East
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr (East)
 https://simplec.tv:443/FrancisWood/3048579126/6235
-#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD East
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD (East)
 https://simplec.tv:443/FrancisWood/3048579126/6237
-#EXTINF:-1 tvg-id="Disney.XD.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD West
+#EXTINF:-1 tvg-id="Disney.XD.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD (West)
 https://simplec.tv:443/FrancisWood/3048579126/6238
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! Entertainment Television East
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! Entertainment Television (East)
 https://simplec.tv:443/FrancisWood/3048579126/141
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! Entertainment Television West
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! Entertainment Television (West)
 https://simplec.tv:443/FrancisWood/3048579126/142
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
 https://simplec.tv:443/FrancisWood/3048579126/11574
@@ -139,9 +139,9 @@ https://simplec.tv:443/FrancisWood/3048579126/590059
 https://simplec.tv:443/FrancisWood/3048579126/607128
 #EXTINF:-1 tvg-id="ESPN8.The.Ocho.us2" tvg-name="USA | ESPN8 THE OCHO" tvg-logo="https://exanimo.tv/logos/usasports/espn.png",USA | ESPN8 THE OCHO
 https://simplec.tv:443/FrancisWood/3048579126/1804204
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network East
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network (East)
 https://simplec.tv:443/FrancisWood/3048579126/145
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network West
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network (West)
 https://simplec.tv:443/FrancisWood/3048579126/146
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",FOX Business Network
 https://simplec.tv:443/FrancisWood/3048579126/148
@@ -159,35 +159,35 @@ https://simplec.tv:443/FrancisWood/3048579126/150
 https://simplec.tv:443/FrancisWood/3048579126/1501520
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",FS2 - Fox Sports 2
 https://simplec.tv:443/FrancisWood/3048579126/151
-#EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX East
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX (East)
 https://simplec.tv:443/FrancisWood/3048579126/4084
-#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX West
+#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX (West)
 https://simplec.tv:443/FrancisWood/3048579126/4086
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true",FXM
 https://simplec.tv:443/FrancisWood/3048579126/1478204
-#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX East
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX (East)
 https://simplec.tv:443/FrancisWood/3048579126/4089
-#EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX West
+#EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX (West)
 https://simplec.tv:443/FrancisWood/3048579126/4092
-#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark East
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark (East)
 https://simplec.tv:443/FrancisWood/3048579126/160
-#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries East
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries (East)
 https://simplec.tv:443/FrancisWood/3048579126/162
-#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="US | Hallmark Family" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hallmarkfamily.png",Hallmark Family East
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="US | Hallmark Family" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hallmarkfamily.png",Hallmark Family (East)
 https://simplec.tv:443/FrancisWood/3048579126/161
-#EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO East
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO (East)
 https://simplec.tv:443/FrancisWood/3048579126/4101
-#EXTINF:-1 tvg-id="HBO.West.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West
+#EXTINF:-1 tvg-id="HBO.West.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO (West)
 https://simplec.tv:443/FrancisWood/3048579126/4096
-#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 East
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 (East)
 https://simplec.tv:443/FrancisWood/3048579126/6485
-#EXTINF:-1 tvg-id="HBO2.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 West
+#EXTINF:-1 tvg-id="HBO2.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 (West)
 https://simplec.tv:443/FrancisWood/3048579126/4093
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy East
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy (East)
 https://simplec.tv:443/FrancisWood/3048579126/4095
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy East
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy (East)
 https://simplec.tv:443/FrancisWood/3048579126/4095
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy West
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy (West)
 https://simplec.tv:443/FrancisWood/3048579126/1478231
 #EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-name="USA | HBO SIGNATURE (EAST)" tvg-logo="https://exanimo.tv/logos/movies/hbosignature.png",HBO SIGNATURE (EAST)
 https://simplec.tv:443/FrancisWood/3048579126/4100
@@ -197,37 +197,37 @@ https://simplec.tv:443/FrancisWood/3048579126/1478235
 https://simplec.tv:443/FrancisWood/3048579126/4103
 #EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-name="USA | HBO ZONE (WEST)" tvg-logo="https://exanimo.tv/logos/movies/hbozone.png",HBO ZONE (WEST)
 https://simplec.tv:443/FrancisWood/3048579126/1478236
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV East
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV (East)
 https://simplec.tv:443/FrancisWood/3048579126/163
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV West
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV (West)
 https://simplec.tv:443/FrancisWood/3048579126/164
-#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History Channel East
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History Channel (East)
 https://simplec.tv:443/FrancisWood/3048579126/6197
-#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History Channel West
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History Channel (West)
 https://simplec.tv:443/FrancisWood/3048579126/1485501
-#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime East
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime (East)
 https://simplec.tv:443/FrancisWood/3048579126/6203
-#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime West
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime (West)
 https://simplec.tv:443/FrancisWood/3048579126/1485502
 #EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",LIFETIME MOVIES LMN
 https://simplec.tv:443/FrancisWood/3048579126/6205
 #EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png",MSNBC
 https://simplec.tv:443/FrancisWood/3048579126/181
-#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV East
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV (East)
 https://simplec.tv:443/FrancisWood/3048579126/182
-#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV West
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV (West)
 https://simplec.tv:443/FrancisWood/3048579126/1485504
 #EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-live-us.png",MTV LIVE
 https://simplec.tv:443/FrancisWood/3048579126/184
-#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 East
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 (East)
 https://simplec.tv:443/FrancisWood/3048579126/185
-#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 West
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 (West)
 https://simplec.tv:443/FrancisWood/3048579126/1485505
-#EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-name="USA | MTV U" tvg-logo="https://exanimo.tv/logos/usa/mtvu.png",MTV U East
+#EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-name="USA | MTV U" tvg-logo="https://exanimo.tv/logos/usa/mtvu.png",MTV U (East)
 https://simplec.tv:443/FrancisWood/3048579126/187
-#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild East
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild (East)
 https://simplec.tv:443/FrancisWood/3048579126/6208
-#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo West 
+#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo (West) 
 https://simplec.tv:443/FrancisWood/3048579126/1485506
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",NBA TV
 https://simplec.tv:443/FrancisWood/3048579126/188
@@ -235,39 +235,39 @@ https://simplec.tv:443/FrancisWood/3048579126/188
 https://simplec.tv:443/FrancisWood/3048579126/1827909
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",NFL Red Zone
 https://simplec.tv:443/FrancisWood/3048579126/197
-#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr East
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr (East)
 https://simplec.tv:443/FrancisWood/3048579126/198
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon
 https://simplec.tv:443/FrancisWood/3048579126/200
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons
 https://simplec.tv:443/FrancisWood/3048579126/203
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime East
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime (East)
 https://simplec.tv:443/FrancisWood/3048579126/4110
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime West
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime (West)
 https://simplec.tv:443/FrancisWood/3048579126/4117
-#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 East
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (East)
 https://simplec.tv:443/FrancisWood/3048579126/4109
-#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 West
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (West)
 https://simplec.tv:443/FrancisWood/3048579126/1523937
-#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",SHOWTIME EXTREME East
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",SHOWTIME EXTREME (East)
 https://simplec.tv:443/FrancisWood/3048579126/4113
-#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",SHOWTIME EXTREME West
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",SHOWTIME EXTREME (West)
 https://simplec.tv:443/FrancisWood/3048579126/1523939
-#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",SHOWTIME FAMILY ZONE East
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",SHOWTIME FAMILY ZONE (East)
 https://simplec.tv:443/FrancisWood/3048579126/4114
-#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",SHOWTIME FAMILY ZONE West
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",SHOWTIME FAMILY ZONE (West)
 https://simplec.tv:443/FrancisWood/3048579126/1523940
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME NEXT EAST
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME NEXT (East)
 https://simplec.tv:443/FrancisWood/3048579126/4115
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME NEXT West
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME NEXT (West)
 https://simplec.tv:443/FrancisWood/3048579126/1523941
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME SHOWCASE EAST
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME SHOWCASE (East)
 https://simplec.tv:443/FrancisWood/3048579126/4116
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME SHOWCASE West
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME SHOWCASE (West)
 https://simplec.tv:443/FrancisWood/3048579126/1523938
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME WOMEN East
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME WOMEN (East)
 https://simplec.tv:443/FrancisWood/3048579126/4118
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME WOMEN West
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/showtime.png",SHOWTIME WOMEN (West)
 https://simplec.tv:443/FrancisWood/3048579126/1523942
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK
 https://simplec.tv:443/FrancisWood/3048579126/6029
@@ -299,7 +299,7 @@ https://simplec.tv:443/FrancisWood/3048579126/4245
 https://simplec.tv:443/FrancisWood/3048579126/234
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",SportsNet World CA
 https://simplec.tv:443/FrancisWood/3048579126/1499630
-#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet West CA
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet (West) CA
 https://simplec.tv:443/FrancisWood/3048579126/3882
 #EXTINF:-1 tvg-id="Sportsnet.(Pacific).HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pacific-ca.png",SportsNet Pacific CA
 https://simplec.tv:443/FrancisWood/3048579126/3881
@@ -309,13 +309,13 @@ https://simplec.tv:443/FrancisWood/3048579126/3886
 https://simplec.tv:443/FrancisWood/3048579126/1492052
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SportsNet 360 CA
 https://simplec.tv:443/FrancisWood/3048579126/3884
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",STARZ East
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",STARZ (East)
 https://simplec.tv:443/FrancisWood/3048579126/4124
-#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",STARZ West
+#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",STARZ (West)
 https://simplec.tv:443/FrancisWood/3048579126/4138
-#EXTINF:-1 tvg-logo="https://exanimo.tv/logos/usamovies/starz.png",STARZ EDGE EAST
+#EXTINF:-1 tvg-logo="https://exanimo.tv/logos/usamovies/starz.png",STARZ EDGE (East)
 https://simplec.tv:443/FrancisWood/3048579126/4130
-#EXTINF:-1 tvg-logo="https://exanimo.tv/logos/usamovies/starz.png",STARZ EDGE WEST
+#EXTINF:-1 tvg-logo="https://exanimo.tv/logos/usamovies/starz.png",STARZ EDGE (West)
 https://simplec.tv:443/FrancisWood/3048579126/1523947
 #EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-logo="https://exanimo.tv/logos/usamovies/starz.png",STARZ ENCORE ACTION (EAST)
 https://simplec.tv:443/FrancisWood/3048579126/4126
@@ -323,29 +323,29 @@ https://simplec.tv:443/FrancisWood/3048579126/4126
 https://simplec.tv:443/FrancisWood/3048579126/1523954
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",STARZ Encore Family
 https://simplec.tv:443/FrancisWood/3048579126/4132
-#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore East
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore (East)
 https://simplec.tv:443/FrancisWood/3048579126/4129
-#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore West
+#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore (West)
 https://simplec.tv:443/FrancisWood/LfEE-justin5/4134
 #EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-logo="https://exanimo.tv/logos/usamovies/starz.png"",STARZ ENCORE SUSPENSE
 https://simplec.tv:443/FrancisWood/3048579126/4133
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",STARZ COMEDY East
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",STARZ COMEDY (East)
 https://simplec.tv:443/FrancisWood/3048579126/4123
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",STARZ COMEDY West
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",STARZ COMEDY (West)
 https://simplec.tv:443/FrancisWood/3048579126/1523946
-#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",STARZ KIDS & FAMILY East
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",STARZ KIDS & FAMILY (East)
 https://simplec.tv:443/FrancisWood/3048579126/4137
-#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",STARZ KIDS & FAMILY West
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",STARZ KIDS & FAMILY (West)
 https://simplec.tv:443/FrancisWood/3048579126/1523948
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",STARZ Cinema East
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",STARZ Cinema (East)
 https://simplec.tv:443/FrancisWood/3048579126/4122
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",STARZ Cinema West
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",STARZ Cinema (West)
 https://simplec.tv:443/FrancisWood/3048579126/1523945
-#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy East
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy (East)
 https://simplec.tv:443/FrancisWood/3048579126/238
 #EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy
 https://simplec.tv:443/FrancisWood/3048579126/1478238
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS East
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS (East)
 https://simplec.tv:443/FrancisWood/3048579126/5720
 #EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo 52 KVEA
 https://simplec.tv:443/FrancisWood/3048579126/1482429
@@ -353,13 +353,13 @@ https://simplec.tv:443/FrancisWood/3048579126/1482429
 https://simplec.tv:443/FrancisWood/3048579126/244
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png",The Weather Channel
 https://simplec.tv:443/FrancisWood/3048579126/247
-#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC East
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC (East)
 https://simplec.tv:443/FrancisWood/3048579126/249
-#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC West
+#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC (West)
 https://simplec.tv:443/FrancisWood/3048579126/248
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT East
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT (East)
 https://simplec.tv:443/FrancisWood/3048579126/5318
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT West
+#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT (West)
 https://simplec.tv:443/FrancisWood/3048579126/1497507
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1
 https://simplec.tv:443/FrancisWood/3048579126/6013
@@ -393,9 +393,9 @@ https://simplec.tv:443/FrancisWood/3048579126/3878
 https://simplec.tv:443/FrancisWood/3048579126/3877
 #EXTINF:-1 tvg-id="TSN.5.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-name="TSN 5 CA",TSN 5 CA
 https://simplec.tv:443/FrancisWood/3048579126/3869
-#EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel East
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel (East)
 https://simplec.tv:443/FrancisWood/3048579126/251
-#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel West
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel (West)
 https://simplec.tv:443/FrancisWood/3048579126/1485510
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV
 https://simplec.tv:443/FrancisWood/3048579126/6220
@@ -407,13 +407,13 @@ https://wavecanada.app/live/JasonThomas/2164530789/1487012.ts
 https://simplec.tv:443/FrancisWood/3048579126/1540811
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision TUDN
 https://simplec.tv:443/FrancisWood/3048579126/1482477
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network East
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network (East)
 https://simplec.tv:443/FrancisWood/3048579126/273
-#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network West
+#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network (West)
 https://simplec.tv:443/FrancisWood/3048579126/1478237
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 East
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 (East)
 https://simplec.tv:443/FrancisWood/3048579126/274
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 West
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 (West)
 https://simplec.tv:443/FrancisWood/3048579126/275
 
 
