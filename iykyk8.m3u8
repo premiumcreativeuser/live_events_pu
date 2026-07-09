@@ -19,17 +19,17 @@ http://myxpanel.pro:80/Halo/123/1514
 http://myxpanel.pro:80/Halo/123/1682
 #EXTINF:-1 tvg-id="KCOP-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/my-13-kcop-us.png",FOX 13 KCOP CA Los Angeles 
 http://myxpanel.pro:80/Halo/123/1964
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E East
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (East)
 http://myxpanel.pro:80/Halo/123/517
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E West
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (West)
 http://myxpanel.pro:80/Halo/123/290748
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC Network
 http://myxpanel.pro:80/Halo/123/355
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC East UHD
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (East) UHD
 http://myxpanel.pro:80/Halo/123/269011
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC East
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (East)
 http://myxpanel.pro:80/Halo/123/511
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC West
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (West)
 http://myxpanel.pro:80/Halo/123/295775
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="amc+.us" tvg-name="USA AMC+" tvg-logo="https://logo.m3uassets.com/amc.png",AMC+
 http://myxpanel.pro:80/Halo/123/510
@@ -37,17 +37,17 @@ http://myxpanel.pro:80/Halo/123/510
 http://myxpanel.pro:80/Halo/123/743
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="storiesamc.us" tvg-name="USA Stories by AMC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500018X6_20251111T200836SQUARE.png",Stories by AMC
 http://myxpanel.pro:80/Halo/123/808425
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet East
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet (East)
 http://myxpanel.pro:80/Halo/123/508
-#EXTINF:-1 tvg-id="Animal.Planet.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet West
+#EXTINF:-1 tvg-id="Animal.Planet.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet (West)
 http://myxpanel.pro:80/Halo/123/507
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png",BBC America
 http://myxpanel.pro:80/Halo/123/1066
 #EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true",BBC World News
 http://myxpanel.pro:80/Halo/123/1065
-#EXTINF:-1 tvg-id="BET.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET East
+#EXTINF:-1 tvg-id="BET.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET (East)
 http://myxpanel.pro:80/Halo/123/498
-#EXTINF:-1 tvg-id="BET.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET West
+#EXTINF:-1 tvg-id="BET.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET (West)
 http://myxpanel.pro:80/Halo/123/496
 #EXTINF:-1 tvg-id="BET.Her.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png",BET Her
 http://myxpanel.pro:80/Halo/123/497
@@ -59,11 +59,11 @@ http://myxpanel.pro:80/Halo/123/1175
 http://myxpanel.pro:80/Halo/123/494
 #EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo Stream 2
 http://myxpanel.pro:80/Halo/123/268945
-#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo West 
+#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo (West) 
 http://myxpanel.pro:80/Halo/123/295774
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network East 
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network (East) 
 http://myxpanel.pro:80/Halo/123/1174
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network West
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network (West)
 http://myxpanel.pro:80/Halo/123/1173
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS Sports Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -72,41 +72,41 @@ http://myxpanel.pro:80/Halo/123/1173
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 #EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-sports-golazo-network-us.png" tvg-name="CBS Sports Golazo",CBS Sports Golazo
 https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
-#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX East
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX (East)
 http://myxpanel.pro:80/Halo/123/810
-#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX East UHD
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX (East) UHD
 http://myxpanel.pro:80/Halo/123/268944
-#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX West
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX (West)
 http://myxpanel.pro:80/Halo/123/809
-#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us21" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX West Stream 2
+#EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us21" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX (West) Stream 2
 http://myxpanel.pro:80/Halo/123/268938
-#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX East
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX (East)
 http://myxpanel.pro:80/Halo/123/268942
-#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX West
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX (West)
 http://myxpanel.pro:80/Halo/123/807
-#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX West
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX (West)
 http://myxpanel.pro:80/Halo/123/268941
-#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX Action East
+#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX Action (East)
 http://myxpanel.pro:80/Halo/123/812
 #EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits
 http://myxpanel.pro:80/Halo/123/804
 #EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits
 http://myxpanel.pro:80/Halo/123/268940
-#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits West
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits (West)
 http://myxpanel.pro:80/Halo/123/285760
-#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits West
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits (West)
 http://myxpanel.pro:80/Halo/123/268939
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
 http://myxpanel.pro:80/Halo/123/1043
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN
 http://myxpanel.pro:80/Halo/123/1041
-#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central East
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central (East)
 http://myxpanel.pro:80/Halo/123/295936
-#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central East UHD
+#EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central (East) UHD
 http://myxpanel.pro:80/Halo/123/268993
-#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central West
+#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central (West)
 http://myxpanel.pro:80/Halo/123/486
-#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central West
+#EXTINF:-1 tvg-id="Comedy.Central.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central (West)
 http://myxpanel.pro:80/Halo/123/268992
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png",Cooking Channel
 http://myxpanel.pro:80/Halo/123/482
@@ -120,41 +120,41 @@ http://myxpanel.pro:80/Halo/123/3815
 http://myxpanel.pro:80/Halo/123/3814
 #EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true",Destination America
 http://myxpanel.pro:80/Halo/123/476
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery East
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery (East)
 http://myxpanel.pro:80/Halo/123/475
-#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery East UHD
+#EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery (East) UHD
 http://myxpanel.pro:80/Halo/123/268988
-#EXTINF:-1 tvg-id="The.Discovery.Channel.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery West
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery (West)
 http://myxpanel.pro:80/Halo/123/467
-#EXTINF:-1 tvg-id="The.Discovery.Channel.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery West HD
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery (West) HD
 http://myxpanel.pro:80/Halo/123/259289
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png",Discovery Family SHD
 http://myxpanel.pro:80/Halo/123/472
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png",Discovery Life
 http://myxpanel.pro:80/Halo/123/470
-#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel East
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel (East)
 http://myxpanel.pro:80/Halo/123/1172
-#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel East UHD
+#EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel (East) UHD
 http://myxpanel.pro:80/Halo/123/268987
-#EXTINF:-1 tvg-id="Disney.Channel.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel West
+#EXTINF:-1 tvg-id="Disney.Channel.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel (West)
 http://myxpanel.pro:80/Halo/123/1171
-#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr East
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr (East)
 http://myxpanel.pro:80/Halo/123/1170
-#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr East UHD
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr (East) UHD
 http://myxpanel.pro:80/Halo/123/268986
-#EXTINF:-1 tvg-id="Disney.Junior.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr West
+#EXTINF:-1 tvg-id="Disney.Junior.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr (West)
 http://myxpanel.pro:80/Halo/123/1169
-#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD East
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD (East)
 http://myxpanel.pro:80/Halo/123/1168
-#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD East UHD
+#EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD (East) UHD
 http://myxpanel.pro:80/Halo/123/268985
-#EXTINF:-1 tvg-id="Disney.XD.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD West
+#EXTINF:-1 tvg-id="Disney.XD.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD (West)
 http://myxpanel.pro:80/Halo/123/1167
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! East
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! (East)
 http://myxpanel.pro:80/Halo/123/461
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! East UHD
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! (East) UHD
 http://myxpanel.pro:80/Halo/123/268984
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! West
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! (West)
 http://myxpanel.pro:80/Halo/123/460
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
 http://myxpanel.pro:80/Halo/123/919
@@ -178,11 +178,11 @@ http://myxpanel.pro:80/Halo/123/268981
 http://myxpanel.pro:80/Halo/123/920
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",ESPN U UHD
 http://myxpanel.pro:80/Halo/123/268980
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network East
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network (East)
 http://myxpanel.pro:80/Halo/123/458
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network East UHD
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network (East) UHD
 http://myxpanel.pro:80/Halo/123/268977
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network West
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network (West)
 http://myxpanel.pro:80/Halo/123/457
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",FOX Business
 http://myxpanel.pro:80/Halo/123/1039
@@ -204,97 +204,97 @@ http://myxpanel.pro:80/Halo/123/838116
 http://myxpanel.pro:80/Halo/123/914
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",FS2 - Fox Sports 2 
 http://myxpanel.pro:80/Halo/123/838115
-#EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX East
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX (East)
 http://myxpanel.pro:80/Halo/123/798
-#EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX East UHD
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX (East) UHD
 http://myxpanel.pro:80/Halo/123/268970
-#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX West
+#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX (West)
 http://myxpanel.pro:80/Halo/123/295771
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true",FXM
 http://myxpanel.pro:80/Halo/123/796
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true",FXM UHD
 http://myxpanel.pro:80/Halo/123/268969
-#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX East
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX (East)
 http://myxpanel.pro:80/Halo/123/795
-#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX East UHD
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX (East) UHD
 http://myxpanel.pro:80/Halo/123/268968
-#EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX West
+#EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX (West)
 http://myxpanel.pro:80/Halo/123/794
-#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark East
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark (East)
 http://myxpanel.pro:80/Halo/123/441
-#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark East
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark (East)
 http://myxpanel.pro:80/Halo/123/268962
-#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark West
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark (West)
 http://myxpanel.pro:80/Halo/123/439
-#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries East
+#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries (East)
 http://myxpanel.pro:80/Halo/123/438
 #EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="US | Hallmark Family" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hallmarkfamily.png",Hallmark Family
 http://myxpanel.pro:80/Halo/123/440
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hallmarkmovies&more.us" tvg-name="USA Hallmark Movies & More" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20251209T013517SQUARE.png",Hallmark Movies & More
 http://myxpanel.pro:80/Halo/123/808431
-#EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO East
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO (East)
 http://myxpanel.pro:80/Halo/123/792
-#EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO East UHD
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO (East) UHD
 http://myxpanel.pro:80/Halo/123/268961
-#EXTINF:-1 tvg-id="HBO.West.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West
+#EXTINF:-1 tvg-id="HBO.West.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO (West)
 http://myxpanel.pro:80/Halo/123/787
-#EXTINF:-1 tvg-id="HBO.West.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO West UHD
+#EXTINF:-1 tvg-id="HBO.West.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO (West) UHD
 http://myxpanel.pro:80/Halo/123/268955
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy
 http://myxpanel.pro:80/Halo/123/791
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy UHD
 http://myxpanel.pro:80/Halo/123/268957
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy West
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy (West)
 http://myxpanel.pro:80/Halo/123/740
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy West UHD
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy (West) UHD
 http://myxpanel.pro:80/Halo/123/268960
-#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama East
+#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama (East)
 http://myxpanel.pro:80/Halo/123/789
-#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama East UHD
+#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama (East) UHD
 http://myxpanel.pro:80/Halo/123/268958
-#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama West
+#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama (West)
 http://myxpanel.pro:80/Halo/123/742
-#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama West UHD
+#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama (West) UHD
 http://myxpanel.pro:80/Halo/123/268956
-#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits East 
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits (East) 
 http://myxpanel.pro:80/Halo/123/786
-#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits East UHD
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits (East) UHD
 http://myxpanel.pro:80/Halo/123/268954
-#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits West
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits (West)
 http://myxpanel.pro:80/Halo/123/739
-#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits West UHD
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits (West) UHD
 http://myxpanel.pro:80/Halo/123/268954
 #EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png",HBO Movies
 http://myxpanel.pro:80/Halo/123/788
 #EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png",HBO Movies UHD
 http://myxpanel.pro:80/Halo/123/813692
-#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png",HBO Movies West
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png",HBO Movies (West)
 http://myxpanel.pro:80/Halo/123/738
-#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png",HBO Movies West UHD
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png",HBO Movies (West) UHD
 http://myxpanel.pro:80/Halo/123/813693
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV East
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV (East)
 http://myxpanel.pro:80/Halo/123/436
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV West
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV (West)
 http://myxpanel.pro:80/Halo/123/435
 #EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History
 http://myxpanel.pro:80/Halo/123/434
-#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History West
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History (West)
 http://myxpanel.pro:80/Halo/123/295768
-#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime East
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime (East)
 http://myxpanel.pro:80/Halo/123/419
-#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime West SHD
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime (West) SHD
 http://myxpanel.pro:80/Halo/123/295793
-#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",LIFETIME MOVIES LMN East
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",LIFETIME MOVIES LMN (East)
 http://myxpanel.pro:80/Halo/123/418
-#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",LIFETIME MOVIES LMN West
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",LIFETIME MOVIES LMN (West)
 http://myxpanel.pro:80/Halo/123/291121
 #EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png",MSNBC UHD
 http://myxpanel.pro:80/Halo/123/1034
-#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV East
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV (East)
 http://myxpanel.pro:80/Halo/123/1148
-#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV East UHD
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV (East) UHD
 http://myxpanel.pro:80/Halo/123/268929
-#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV West
+#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV (West)
 http://myxpanel.pro:80/Halo/123/1098
 #EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-live-us.png",MTV LIVE
 http://myxpanel.pro:80/Halo/123/1147
@@ -304,21 +304,21 @@ http://myxpanel.pro:80/Halo/123/636610
 http://myxpanel.pro:80/Halo/123/1151
 #EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 UHD
 http://myxpanel.pro:80/Halo/123/268927
-#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 West
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 (West)
 http://myxpanel.pro:80/Halo/123/1150
 #EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="USA MTV Classic (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649014.jpg",MTV Classic
 http://myxpanel.pro:80/Halo/123/1149
 #EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="USA MTV Classic (UHD)" tvg-logo="https://static.realiptv.to/snapshots/57969.jpg",MTV Classic (UHD)
 http://myxpanel.pro:80/Halo/123/268846
-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="USA MTV Classic West" tvg-logo="https://static.realiptv.to/snapshots/631838.jpg",MTV Classic West
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="USA MTV Classic (West)" tvg-logo="https://static.realiptv.to/snapshots/631838.jpg",MTV Classic (West)
 http://myxpanel.pro:80/Halo/123/1097
 #EXTINF:-1 tvg-id="MTVU" tvg-name="USA MTV U" tvg-logo="https://static.realiptv.to/snapshots/57971.jpg",MTV U
 http://myxpanel.pro:80/Halo/123/1146
 #EXTINF:-1 tvg-id="MTVU" tvg-name="USA MTV U" tvg-logo="https://static.realiptv.to/snapshots/57971.jpg",MTV U UHD
 http://myxpanel.pro:80/Halo/123/268929
-#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild East
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild (East)
 http://myxpanel.pro:80/Halo/123/406
-#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild East UHD
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild (East) UHD
 http://myxpanel.pro:80/Halo/123/268926
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",NBA TV
 http://myxpanel.pro:80/Halo/123/885
@@ -332,45 +332,45 @@ http://myxpanel.pro:80/Halo/123/867
 http://myxpanel.pro:80/Halo/123/2445
 #EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png",NHL Network
 http://myxpanel.pro:80/Halo/123/258265
-#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr East
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr (East)
 http://myxpanel.pro:80/Halo/123/1166
-#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr West
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr (West)
 http://myxpanel.pro:80/Halo/123/1165
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon
 http://myxpanel.pro:80/Halo/123/1162
-#EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon West
+#EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon (West)
 http://myxpanel.pro:80/Halo/123/1161
-#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons East
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons (East)
 http://myxpanel.pro:80/Halo/123/1164
-#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons West
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons (West)
 http://myxpanel.pro:80/Halo/123/1163
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
 http://myxpanel.pro:80/Halo/123/404
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime East UHD
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime (East) UHD
 http://myxpanel.pro:80/Halo/123/268901
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime West UHD
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime (West) UHD
 http://myxpanel.pro:80/Halo/123/268895
-#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 East
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (East)
 http://myxpanel.pro:80/Halo/123/779
-#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 East UHD
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (East) UHD
 http://myxpanel.pro:80/Halo/123/268900
-#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 West
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (West)
 http://myxpanel.pro:80/Halo/123/727
 #EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme
 http://myxpanel.pro:80/Halo/123/778
 #EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme UHD
 http://myxpanel.pro:80/Halo/123/268899
-#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme West
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme (West)
 http://myxpanel.pro:80/Halo/123/774
-#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone East
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone (East)
 http://myxpanel.pro:80/Halo/123/777
-#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone East UHD
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone (East) UHD
 http://myxpanel.pro:80/Halo/123/268898
-#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone West
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone (West)
 http://myxpanel.pro:80/Halo/123/726
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="USA Showtime Next East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next East
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="USA Showtime Next (East) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next (East)
 http://myxpanel.pro:80/Halo/123/776
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="USA Showtime Next UHD" tvg-logo="https://static.realiptv.to/snapshots/3970.jpg",Showtime Next East UHD
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="USA Showtime Next UHD" tvg-logo="https://static.realiptv.to/snapshots/3970.jpg",Showtime Next (East) UHD
 http://myxpanel.pro:80/Halo/123/268897
 #EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="USA Showtime Showcase UHD" tvg-logo="https://static.realiptv.to/snapshots/3966.jpg",Showtime Showcase UHD
 http://myxpanel.pro:80/Halo/123/775
@@ -378,16 +378,16 @@ http://myxpanel.pro:80/Halo/123/775
 http://myxpanel.pro:80/Halo/123/636599
 #EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="USA Showtime Showcase UHD" tvg-logo="https://static.realiptv.to/snapshots/3966.jpg",Showtime Showcase UHD
 http://myxpanel.pro:80/Halo/123/268896
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="USA Showtime Showcase West" tvg-logo="https://static.realiptv.to/snapshots/631890.jpg",Showtime Showcase West
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="USA Showtime Showcase (West)" tvg-logo="https://static.realiptv.to/snapshots/631890.jpg",Showtime Showcase (West)
 http://myxpanel.pro:80/Halo/123/728
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648986.jpg",Showtime Women East
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648986.jpg",Showtime Women (East)
 http://myxpanel.pro:80/Halo/123/773
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women West" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg",Showtime Women West
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women (West)" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg",Showtime Women (West)
 http://myxpanel.pro:80/Halo/123/731
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="USA Paramount+ with Showtime East" tvg-logo="https://deadline.com/wp-content/uploads/2022/02/Paramount-Showtime.jpg",USA Paramount+ with Showtime East
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="USA Paramount+ with Showtime (East)" tvg-logo="https://deadline.com/wp-content/uploads/2022/02/Paramount-Showtime.jpg",USA Paramount+ with Showtime (East)
 http://myxpanel.pro:80/Halo/123/835881
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="USA Paramount+ with Showtime West" tvg-logo="https://deadline.com/wp-content/uploads/2022/02/Paramount-Showtime.jpg",USA Paramount+ with Showtime West
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="USA Paramount+ with Showtime (West)" tvg-logo="https://deadline.com/wp-content/uploads/2022/02/Paramount-Showtime.jpg",USA Paramount+ with Showtime (West)
 http://myxpanel.pro:80/Halo/123/835880
 
 #EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK 50fps
@@ -470,7 +470,7 @@ http://myxpanel.pro:80/Halo/123/972
 http://myxpanel.pro:80/Halo/123/848
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",SportsNet World CA
 http://myxpanel.pro:80/Halo/123/3980
-#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet West CA
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet (West) CA
 http://myxpanel.pro:80/Halo/123/3981
 #EXTINF:-1 tvg-id="Sportsnet.(Pacific).HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pacific-ca.png",SportsNet Pacific CA
 http://myxpanel.pro:80/Halo/123/3983
@@ -478,49 +478,49 @@ http://myxpanel.pro:80/Halo/123/3983
 http://myxpanel.pro:80/Halo/123/3984
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA
 http://myxpanel.pro:80/Halo/123/3985
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz (East)
 http://myxpanel.pro:80/Halo/123/755
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz East UHD
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz (East) UHD
 http://myxpanel.pro:80/Halo/123/268887
-#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz West UHD
+#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz (West) UHD
 http://myxpanel.pro:80/Halo/123/268884
-#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic East
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic (East)
 http://myxpanel.pro:80/Halo/123/765
-#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic East UHD
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic (East) UHD
 http://myxpanel.pro:80/Halo/123/268882
-#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic West
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic (West)
 http://myxpanel.pro:80/Halo/123/295812
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",Starz Encore Family
 http://myxpanel.pro:80/Halo/123/761
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",Starz Encore Family UHD
 http://myxpanel.pro:80/Halo/123/268881
-#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore East
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore (East)
 http://myxpanel.pro:80/Halo/123/764
-#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore East UHD
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore (East) UHD
 http://myxpanel.pro:80/Halo/123/268888
-#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore West
+#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore (West)
 http://myxpanel.pro:80/Halo/123/759
-#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore West UHD
+#EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore (West) UHD
 http://myxpanel.pro:80/Halo/123/268879
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy East
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy (East)
 http://myxpanel.pro:80/Halo/123/769
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy East UHD
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy (East) UHD
 http://myxpanel.pro:80/Halo/123/268889
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy West UHD
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy (West) UHD
 http://myxpanel.pro:80/Halo/123/733
 #EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",Starz Kids & Family
 http://myxpanel.pro:80/Halo/123/756
-#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",Starz Kids & Family West
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",Starz Kids & Family (West)
 http://myxpanel.pro:80/Halo/123/735
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema East UHD
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema (East) UHD
 http://myxpanel.pro:80/Halo/123/770
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema East UHD
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema (East) UHD
 http://myxpanel.pro:80/Halo/123/268890
-#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema West
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema (West)
 http://myxpanel.pro:80/Halo/123/737
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="USA Starz Edge East (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3961.jpg",Starz Edge East
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="USA Starz Edge (East) (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3961.jpg",Starz Edge (East)
 http://myxpanel.pro:80/Halo/123/763
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="USA Starz Edge East (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3961.jpg",Starz Edge East UHD
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="USA Starz Edge (East) (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3961.jpg",Starz Edge (East) UHD
 http://myxpanel.pro:80/Halo/123/268886
 #EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="USA Starz Encore Action" tvg-logo="https://static.realiptv.to/snapshots/3952.jpg",Starz Encore Action
 http://myxpanel.pro:80/Halo/123/767
@@ -530,31 +530,31 @@ http://myxpanel.pro:80/Halo/123/268892
 http://myxpanel.pro:80/Halo/123/766
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz Encore Black" tvg-logo="https://static.realiptv.to/snapshots/3954.jpg",Starz Encore Black UHD
 http://myxpanel.pro:80/Halo/123/268883
-#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="USA Starz Encore Suspense East (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg",Starz Encore Suspense East
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="USA Starz Encore Suspense (East) (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg",Starz Encore Suspense (East)
 http://myxpanel.pro:80/Halo/123/760
-#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="USA Starz Encore Suspense East (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg",Starz Encore Suspense East UHD
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="USA Starz Encore Suspense (East) (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg",Starz Encore Suspense (East) UHD
 http://myxpanel.pro:80/Halo/123/268880
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz in Black East (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3962.jpg",Starz in Black East (SHD)
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz in Black (East) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3962.jpg",Starz in Black (East) (SHD)
 http://myxpanel.pro:80/Halo/123/757
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz In Black West (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649402.jpg",Starz In Black West (SHD)
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz In Black (West) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649402.jpg",Starz In Black (West) (SHD)
 http://myxpanel.pro:80/Halo/123/736
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starzkids&family.us" tvg-name="USA Starz Kids And Family UHD" tvg-logo="https://logo.m3uassets.com/starzkidsandfamily.png",USA Starz Kids And Family UHD
 http://myxpanel.pro:80/Halo/123/268891
 #EXTINF:-1 tvg-id="STV.HD.uk" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stv_uk.png",STV HD
 http://myxpanel.pro:80/Halo/123/276624
-#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy East
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy (East)
 http://myxpanel.pro:80/Halo/123/379
-#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy East UHD
+#EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy (East) UHD
 http://myxpanel.pro:80/Halo/123/268876
-#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy West
+#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy (West)
 http://myxpanel.pro:80/Halo/123/378
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS East
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS (East)
 http://myxpanel.pro:80/Halo/123/374
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS East UHD
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS (East) UHD
 http://myxpanel.pro:80/Halo/123/268875
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS West
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS (West)
 http://myxpanel.pro:80/Halo/123/373
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS West
+#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS (West)
 http://myxpanel.pro:80/Halo/123/268874
 #EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo 52 KVEA Los Angeles
 http://myxpanel.pro:80/Halo/123/3295
@@ -568,19 +568,19 @@ http://myxpanel.pro:80/Halo/123/268872
 http://myxpanel.pro:80/Halo/123/369
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png",The Weather Channel UHD
 http://myxpanel.pro:80/Halo/123/268871
-#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC East
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC (East)
 http://myxpanel.pro:80/Halo/123/368
-#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC East UHD
+#EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC (East) UHD
 http://myxpanel.pro:80/Halo/123/268866
-#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC West
+#EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC (West)
 http://myxpanel.pro:80/Halo/123/367
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT East
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT (East)
 http://myxpanel.pro:80/Halo/123/365
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT East UHD
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT (East) UHD
 http://myxpanel.pro:80/Halo/123/268865
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT West
+#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT (West)
 http://myxpanel.pro:80/Halo/123/364
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT West UHD
+#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT (West) UHD
 http://myxpanel.pro:80/Halo/123/268864
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 FHD
 http://myxpanel.pro:80/Halo/123/709378
@@ -604,13 +604,13 @@ http://myxpanel.pro:80/Halo/123/3994
 http://myxpanel.pro:80/Halo/123/3993
 #EXTINF:-1 tvg-id="TSN.5.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-name="TSN 5 CA",TSN 5 CA
 http://myxpanel.pro:80/Halo/123/3992
-#EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel East
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel (East)
 http://myxpanel.pro:80/Halo/123/363
-#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-name="USA Travel Channel West" tvg-logo="https://static.realiptv.to/snapshots/3845.jpg",Travel Channel West
+#EXTINF:-1 tvg-id="The.Travel.Channel.HD.(Pacific).us2" tvg-name="USA Travel Channel (West)" tvg-logo="https://static.realiptv.to/snapshots/3845.jpg",Travel Channel (West)
 http://myxpanel.pro:80/Halo/123/362
-#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV East UHD
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV (East) UHD
 http://myxpanel.pro:80/Halo/123/361
-#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV East UHD
+#EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV (East) UHD
 http://myxpanel.pro:80/Halo/123/268862
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN MX
 http://myxpanel.pro/live/Halo/123/716730.ts
@@ -618,27 +618,27 @@ http://myxpanel.pro/live/Halo/123/716730.ts
 http://myxpanel.pro/live/Halo/123/716589.ts
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN USA UHD
 http://myxpanel.pro/live/Halo/123/268861.ts
-#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo East
+#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo (East)
 http://myxpanel.pro:80/Halo/123/3168
-#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo East UHD
+#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo (East) UHD
 http://myxpanel.pro:80/Halo/123/268857
-#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo West
+#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo (West)
 http://myxpanel.pro:80/Halo/123/3167
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision KMEX 34 Los Angeles 
 http://myxpanel.pro:80/Halo/123/3401
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision KMEX-DT 
 http://myxpanel.pro:80/Halo/123/3380
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network East
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network (East)
 http://myxpanel.pro:80/Halo/123/353
-#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network East UHD
+#EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network (East) UHD
 http://myxpanel.pro:80/Halo/123/268855
-#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network West 
+#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network (West) 
 http://myxpanel.pro:80/Halo/123/354
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 East
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 (East)
 http://myxpanel.pro:80/Halo/123/1107
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 East UHD
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 (East) UHD
 http://myxpanel.pro:80/Halo/123/268854
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 West
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 (West)
 http://myxpanel.pro:80/Halo/123/1106
 
 
