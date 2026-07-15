@@ -226,9 +226,9 @@ https://wavecanada.app:443/LateshaBell/5732098164/1485505
 #EXTINF:-1 tvg-id="MTV.USA.-.Eastern.Feed.us" tvg-name="USA | MTV U" tvg-logo="https://exanimo.tv/logos/usa/mtvu.png",MTV U (East)
 https://wavecanada.app:443/LateshaBell/5732098164/187
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/national-geographic-us.png",Nat Geo (East)
-http://wavecanada.app/LateshaBell/5732098164/6208
+https://wavecanada.app:443/LateshaBell/5732098164/6208
 #EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/national-geographic-us.png",Nat Geo (West)
-http://wavecanada.app/LateshaBell/5732098164/1485506
+https://wavecanada.app:443/LateshaBell/5732098164/1485506
 #EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild (East)
 https://wavecanada.app:443/LateshaBell/5732098164/6208
 #EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo (West) 
@@ -330,7 +330,7 @@ https://wavecanada.app:443/LateshaBell/5732098164/4132
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore (East)
 https://wavecanada.app:443/LateshaBell/5732098164/4129
 #EXTINF:-1 tvg-id="Starz.Encore.(Pacific).us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",STARZ Encore (West)
-https://wavecanada.app:443/LateshaBell/LfEE-justin5/4134
+https://wavecanada.app:443/LateshaBell/5732098164/4134
 #EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-logo="https://exanimo.tv/logos/usamovies/starz.png"",STARZ ENCORE SUSPENSE
 https://wavecanada.app:443/LateshaBell/5732098164/4133
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",STARZ COMEDY (East)
@@ -404,9 +404,9 @@ https://wavecanada.app:443/LateshaBell/5732098164/1485510
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV
 https://wavecanada.app:443/LateshaBell/5732098164/6220
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN MX
-http://wavecanada.app/live/JasonThomas/2164530789/1520786.ts
+https://wavecanada.app:443/LateshaBell/5732098164/1520786
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN USA
-http://wavecanada.app/live/JasonThomas/2164530789/1487012.ts
+https://wavecanada.app:443/LateshaBell/5732098164/1487012
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision
 https://wavecanada.app:443/LateshaBell/5732098164/1540811
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision TUDN
