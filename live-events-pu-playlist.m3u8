@@ -11,7 +11,8 @@
 #ricardobarragan
 ##############################################################################################
 
-
+#EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV UHD 3840p
+http://official8k.com/play/live.php?mac=00:1A:79:D6:E0:4C&stream=2095902&extension=ts&play_token=UrftLeTxBC
 
 ##############################################################################################
 
