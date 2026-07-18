@@ -68,9 +68,9 @@ http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/98689
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/18211
 #EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX (West)
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/98688
-#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="Cinemax MoreMax (East)" tvg-logo="https://static.epg.best/us/MoreMax.us.png" group-title="USA Movies",Cinemax MoreMax (East)
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="Cinemax MoreMax (East)" tvg-logo="https://static.epg.best/us/MoreMax.us.png",Cinemax MoreMax (East)
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/98684
-#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="Cinemax MoreMax (West)" tvg-logo="https://static.epg.best/us/MoreMax.us.png" group-title="USA Movies",Cinemax MoreMax (West)
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="Cinemax MoreMax (West)" tvg-logo="https://static.epg.best/us/MoreMax.us.png",Cinemax MoreMax (West)
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/98685
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/120016
@@ -148,7 +148,7 @@ http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/9188
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/9183
 #EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries (East)
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/9182
-#EXTINF:-1 tvg-id="Hallmark Drama" tvg-name="Hallmark Drama" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/hallmark-drama-us.png" group-title="USA Entertainment",Hallmark Drama
+#EXTINF:-1 tvg-id="Hallmark Drama" tvg-name="Hallmark Drama" tvg-logo="http://163.172.89.228/~msepg/logos/united-states/hallmark-drama-us.png",Hallmark Drama
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/105645
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO (East)
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/18202
@@ -270,7 +270,7 @@ http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/9516
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/9517
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/9518
-#EXTINF:-1 tvg-id="Sportsnet 360 HD" tvg-name="Sportsnet 360" tvg-logo="http://163.172.89.228/~msepg/logos/canada/sportsnet-360-ca.png" group-title="USA Sports",Sportsnet 360
+#EXTINF:-1 tvg-id="Sportsnet 360 HD" tvg-name="Sportsnet 360" tvg-logo="http://163.172.89.228/~msepg/logos/canada/sportsnet-360-ca.png",Sportsnet 360
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/9520
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz (East)
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/58532
@@ -296,7 +296,7 @@ http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/58533
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/98702
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz Encore Black" tvg-logo="https://static.realiptv.to/snapshots/3954.jpg",Starz Encore Black (East)
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/58536
-#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="STARZ ENCORE BLACK" tvg-logo="https://static.epg.best/us/StarzEncoreBlack.us.png" group-title="USA Movies",STARZ ENCORE BLACK
+#EXTINF:-1 tvg-id="Starz.Encore.Black.us2" tvg-name="STARZ ENCORE BLACK" tvg-logo="https://static.epg.best/us/StarzEncoreBlack.us.png",STARZ ENCORE BLACK
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/98704
 #EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="USA Starz Encore Suspense (East) (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg",Starz Encore Suspense (East)
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/98710
