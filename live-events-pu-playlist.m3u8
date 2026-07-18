@@ -64,9 +64,9 @@ http://1tv41.icu:8080/617321/432823/46708
 https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 #EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX (East)
 http://1tv41.icu:8080/617321/432823/13380
-#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="Cinemax MoreMax (East)" tvg-logo="https://static.epg.best/us/MoreMax.us.png" group-title="USA Movies",Cinemax MoreMax (East)
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="Cinemax MoreMax (East)" tvg-logo="https://static.epg.best/us/MoreMax.us.png",Cinemax MoreMax (East)
 http://1tv41.icu:8080/617321/432823/17776
-#EXTINF:-1 tvg-id="outermax.us" tvg-name="US Cinemax Outermax (X)" tvg-logo="" group-title="MOVIE NETWORKS",Cinemax Outermax (X)
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="US Cinemax Outermax (X)" tvg-logo="",Cinemax Outermax (X)
 http://1tv41.icu:8080/617321/432823/21012
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
 http://1tv41.icu:8080/617321/432823/9815
@@ -248,9 +248,9 @@ http://1tv41.icu:8080/617321/432823/57296
 http://1tv41.icu:8080/617321/432823/57297
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA HD
 http://1tv41.icu:8080/617321/432823/47379
-#EXTINF:-1 tvg-id="Sportsnet 360 HD" tvg-name="Sportsnet 360" tvg-logo="http://163.172.89.228/~msepg/logos/canada/sportsnet-360-ca.png" group-title="USA Sports",Sportsnet 360
+#EXTINF:-1 tvg-id="Sportsnet 360 HD" tvg-name="Sportsnet 360" tvg-logo="http://163.172.89.228/~msepg/logos/canada/sportsnet-360-ca.png",Sportsnet 360
 http://1tv41.icu:8080/617321/432823/2219
-#EXTINF:-1 tvg-id="Sportsnet 360 HD" tvg-name="Sportsnet 360" tvg-logo="http://163.172.89.228/~msepg/logos/canada/sportsnet-360-ca.png" group-title="USA Sports",Sportsnet 360 (2)
+#EXTINF:-1 tvg-id="Sportsnet 360 HD" tvg-name="Sportsnet 360" tvg-logo="http://163.172.89.228/~msepg/logos/canada/sportsnet-360-ca.png",Sportsnet 360 (2)
 http://1tv41.icu:8080/617321/432823/57299
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz (East)
 http://1tv41.icu:8080/617321/432823/9299
