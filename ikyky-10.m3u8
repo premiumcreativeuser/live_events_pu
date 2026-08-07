@@ -74,9 +74,9 @@ http://vvinnietv5.com:80/132223151375338/1554569873/71905
 http://vvinnietv5.com:80/132223151375338/1554569873/71905
 #EXTINF:-1 tvg-id="5starmax.us" tvg-name="US - CINEMAX 5 STARMAX HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png",US - CINEMAX 5 STARMAX HD
 http://vvinnietv5.com:80/132223151375338/1554569873/71868
-#EXTINF:-1 tvg-id="moremax.us" tvg-name="US - CINEMAX MORE MAX (East) HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png",US - CINEMAX MORE MAX (East) HD
+#EXTINF:-1 tvg-id="moremax.us" tvg-name="US - CINEMAX MORE MAX (East) HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png",US - CINEMAX MORE MAX HD (East)
 http://vvinnietv5.com:80/132223151375338/1554569873/1269341
-#EXTINF:-1 tvg-id="moremaxpacific.us" tvg-name="US - CINEMAX MORE MAX (West) HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png",US - CINEMAX MORE MAX (West) HD
+#EXTINF:-1 tvg-id="moremaxpacific.us" tvg-name="US - CINEMAX MORE MAX (West) HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png",US - CINEMAX MORE MAX HD (West)
 http://vvinnietv5.com:80/132223151375338/1554569873/71900
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
 http://vvinnietv5.com:80/132223151375338/1554569873/71485
@@ -186,7 +186,7 @@ http://vvinnietv5.com:80/132223151375338/1554569873/1271018
 http://vvinnietv5.com:80/132223151375338/1554569873/71881
 #EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone (East)
 http://vvinnietv5.com:80/132223151375338/1554569873/83135
-#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature (East) HD
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature HD (East)
 http://vvinnietv5.com:80/132223151375338/1554569873/71865
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV (East)
 http://vvinnietv5.com:80/132223151375338/1554569873/71353
@@ -318,9 +318,9 @@ http://vvinnietv5.com:80/132223151375338/1554569873/200927
 http://vvinnietv5.com:80/132223151375338/1554569873/71981
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",SportsNet World CA
 http://vvinnietv5.com:80/132223151375338/1554569873/30382
-#EXTINF:-1 tvg-id="Sportsnet.East.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet (East) CA
+#EXTINF:-1 tvg-id="Sportsnet.East.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet CA (East)
 http://vvinnietv5.com:80/132223151375338/1554569873/42924
-#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet (West) CA
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet CA (West)
 http://vvinnietv5.com:80/132223151375338/1554569873/42924
 #EXTINF:-1 tvg-id="Sportsnet.(Pacific).HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pacific-ca.png",SportsNet Pacific CA
 http://vvinnietv5.com:80/132223151375338/1554569873/30383
@@ -330,7 +330,7 @@ http://vvinnietv5.com:80/132223151375338/1554569873/42922
 http://vvinnietv5.com:80/132223151375338/1554569873/30385
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz (East)
 http://vvinnietv5.com:80/132223151375338/1554569873/71862
-#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz (West) UHD
+#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz UHD (West)
 http://vvinnietv5.com:80/132223151375338/1554569873/71873
 #EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic (East)
 http://vvinnietv5.com:80/132223151375338/1554569873/71870
