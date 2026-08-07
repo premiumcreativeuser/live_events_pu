@@ -49,9 +49,9 @@ http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/9572
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/110047
 #EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/9210
-#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo (West) 
+#EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo (West)
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/56094
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network (East) 
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network (East)
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/8869
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS Sports Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -356,7 +356,7 @@ http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/9149
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/138201
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network (East)
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/9144
-#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network (West) 
+#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network (West)
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/48468
 #EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 (East)
 http://172.110.221.91:8080/3TJy9l2stY/g1naiv5qZ5/9143
