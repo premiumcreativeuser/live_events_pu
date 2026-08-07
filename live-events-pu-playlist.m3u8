@@ -53,7 +53,7 @@ http://1tv41.icu:8080/39605879/27958136/9828
 http://1tv41.icu:8080/39605879/27958136/14741
 #EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo (East)
 http://1tv41.icu:8080/39605879/27958136/20859
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network (East) 
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network (East)
 http://1tv41.icu:8080/39605879/27958136/46708
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS Sports Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
