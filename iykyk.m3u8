@@ -161,19 +161,17 @@ http://kstv.us:8080/live/QX90g3Gk68/11123892408/15947.ts
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23313.ts
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX (East)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/22522.ts
-#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX (West)
+#EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX Stream 2 (East)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15918.ts
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true",FXM
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23309.ts
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX (East)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/22521.ts
-#EXTINF:-1 tvg-id="FXX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX (West)
+#EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX Stream 2(East)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15917.ts
 #EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/22519.ts
 #EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries
-http://kstv.us:8080/live/QX90g3Gk68/11123892408/22518.ts
-#EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries (West)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/22518.ts
 #EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="US | Hallmark Family" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hallmarkfamily.png",Hallmark Family
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/48377.ts
@@ -199,8 +197,6 @@ http://kstv.us:8080/live/QX90g3Gk68/11123892408/15914.ts
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23299.ts
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV (East)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15972.ts
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV (West)
-http://kstv.us:8080/live/QX90g3Gk68/11123892408/15972.ts
 #EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15912.ts
 #EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History
@@ -214,8 +210,6 @@ http://kstv.us:8080/live/QX90g3Gk68/11123892408/23292.ts
 #EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png",MSNBC
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/22506.ts
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV
-http://kstv.us:8080/live/QX90g3Gk68/11123892408/23288.ts
-#EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV (West)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23288.ts
 #EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-live-us.png",MTV LIVE
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23286.ts
@@ -243,9 +237,9 @@ http://kstv.us:8080/live/QX90g3Gk68/11123892408/15941.ts
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23276.ts
 #EXTINF:-1 tvg-id="190" tvg-name="US | NICK JR.TOO" tvg-logo="https://tlgrm.re/images/nick-jr-too-uk.png" tvg-chno="190",US | NICK JR.TOO
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23275.ts
-#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon (East)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15963.ts
-#EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon (West)
+#EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon Stream 2 (East)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/22486.ts
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23274.ts
@@ -287,7 +281,7 @@ http://kstv.us:8080/live/QX90g3Gk68/11123892408/46400.ts
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15936.ts
 #EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet CA (West)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15903.ts
-#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet CA (West)
+#EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet CA Stream 2 (West)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/40613.ts
 #EXTINF:-1 tvg-id="Sportsnet.(Pacific).HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pacific-ca.png",SportsNet Pacific CA
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/40614.ts
@@ -295,7 +289,7 @@ http://kstv.us:8080/live/QX90g3Gk68/11123892408/40614.ts
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15937.ts
 #EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-ontario-ca.png",Sportsnet Ontario
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/40615.ts
-#EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA
+#EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet One CA
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15930.ts
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/40616.ts
@@ -303,9 +297,7 @@ http://kstv.us:8080/live/QX90g3Gk68/11123892408/40616.ts
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/40618.ts
 #EXTINF:-1 tvg-id="Sportsnet.360.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-360-ca.png",SportsNet 360 CA
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15938.ts
-#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz HD
-http://kstv.us:8080/live/QX90g3Gk68/11123892408/15906.ts
-#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz (West)
+#EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz HD (East)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15906.ts
 #EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/48360.ts
@@ -325,11 +317,9 @@ http://kstv.us:8080/live/QX90g3Gk68/11123892408/47837.ts
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/22469.ts
 #EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15964.ts
-#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS HD
+#EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS HD (East)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15954.ts
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS (East)
-http://kstv.us:8080/live/QX90g3Gk68/11123892408/22468.ts
-#EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS (West)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/22468.ts
 #EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo 52 KVEA
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23248.ts
@@ -343,9 +333,7 @@ http://kstv.us:8080/live/QX90g3Gk68/11123892408/22464.ts
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15969.ts
 #EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/22463.ts
-#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT HD
-http://kstv.us:8080/live/QX90g3Gk68/11123892408/15955.ts
-#EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT (West)
+#EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT HD (East)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15955.ts
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/47850.ts
@@ -369,19 +357,13 @@ http://kstv.us:8080/live/QX90g3Gk68/11123892408/15925.ts
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/24856.ts
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV (East)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23243.ts
-#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",truTV (West)
-http://kstv.us:8080/live/QX90g3Gk68/11123892408/23243.ts
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23235.ts
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo (East)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23281.ts
-#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo (West)
-http://kstv.us:8080/live/QX90g3Gk68/11123892408/23281.ts
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision (East)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/23236.ts
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network (East)
-http://kstv.us:8080/live/QX90g3Gk68/11123892408/15905.ts
-#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network (West)
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/15905.ts
 #EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 HD
 http://kstv.us:8080/live/QX90g3Gk68/11123892408/22898.ts
