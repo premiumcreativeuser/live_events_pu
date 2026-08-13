@@ -270,7 +270,7 @@ http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/41935.ts
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/40292.ts
 #EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648986.jpg",Showtime Women (East)
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/41957.ts
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/16561.ts
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK 
 http://someplaylist.com/live/t70d1AcAN/Ar49xXo85v/58920.ts
