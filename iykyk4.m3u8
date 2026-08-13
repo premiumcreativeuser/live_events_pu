@@ -152,8 +152,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2590
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3827
 #EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr (East)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3719
-#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr SHD (East)
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3719
 #EXTINF:-1 tvg-id="Disney.Junior.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2588
 #EXTINF:-1 tvg-id="Disney.Junior.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr LHD (West)
@@ -176,8 +174,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3830
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3636
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3725
-#EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN 2 UHD
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3637
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN 2 SHD
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/2581
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN 2 LHD
@@ -614,10 +610,6 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3688
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3766
 #EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",truTV (West)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3846
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN MX
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/553262
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN USA
-https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4640
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo (East)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3696
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo (West)
@@ -626,6 +618,8 @@ https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3847
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4469
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision TUDN
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/4640
+#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN MX
+https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/553262
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network UHD (East)
 https://restream-live.realiptv.to/Dwabash/JDHk19713kds989898/3694
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network SHD (East)
