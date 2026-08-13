@@ -387,6 +387,7 @@ Sportsnet.Ontario.HD.ca2
 Sportsnet.One.ca2
 Sportsnet.One.HD.ca2
 
+SkySp.ActionHD.uk
 Sky.Atlantic.HD.uk
 Sky.Comedy.HD.uk
 SkySp.F1.HD.uk
