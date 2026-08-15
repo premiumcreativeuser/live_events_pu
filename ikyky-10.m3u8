@@ -19,13 +19,13 @@ http://vvinnietv5.com:80/140662723428643/9693802739/213994
 http://vvinnietv5.com:80/140662723428643/9693802739/214418
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71313
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (West)
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/1060172
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC Network
 http://vvinnietv5.com:80/140662723428643/9693802739/71940
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71330
-#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (West)
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/1060176
 #EXTINF:-1 tvg-id="amc+.us" tvg-name="USA AMC+" tvg-logo="https://logo.m3uassets.com/amc.png",AMC+
 http://vvinnietv5.com:80/140662723428643/9693802739/201073
@@ -55,7 +55,7 @@ http://vvinnietv5.com:80/140662723428643/9693802739/71306
 http://vvinnietv5.com:80/140662723428643/9693802739/71323
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71469
-#EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network (West)
+#EXTINF:-1 tvg-id="Cartoon.Network.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/71475
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS Sports Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -72,11 +72,11 @@ http://vvinnietv5.com:80/140662723428643/9693802739/71860
 http://vvinnietv5.com:80/140662723428643/9693802739/71905
 #EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX Action (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71905
-#EXTINF:-1 tvg-id="5starmax.us" tvg-name="US - CINEMAX 5 STARMAX HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png",US - CINEMAX 5 STARMAX HD
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-name="CINEMAX 5 STARMAX HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png",CINEMAX 5 STARMAX HD
 http://vvinnietv5.com:80/140662723428643/9693802739/71868
-#EXTINF:-1 tvg-id="moremax.us" tvg-name="US - CINEMAX MORE MAX (East) HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png",US - CINEMAX MORE MAX HD (East)
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="CINEMAX MORE MAX (East) HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png",CINEMAX MORE MAX HD (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/1269341
-#EXTINF:-1 tvg-id="moremaxpacific.us" tvg-name="US - CINEMAX MORE MAX (West) HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png",US - CINEMAX MORE MAX HD (West)
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX MORE MAX (West) HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png",CINEMAX MORE MAX HD (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/71900
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
 http://vvinnietv5.com:80/140662723428643/9693802739/71485
@@ -120,7 +120,7 @@ http://vvinnietv5.com:80/140662723428643/9693802739/71479
 http://vvinnietv5.com:80/140662723428643/9693802739/71470
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71350
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! (West)
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/71322
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
 http://vvinnietv5.com:80/140662723428643/9693802739/71936
@@ -134,17 +134,17 @@ http://vvinnietv5.com:80/140662723428643/9693802739/71925
 http://vvinnietv5.com:80/140662723428643/9693802739/71934
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",ESPN U
 http://vvinnietv5.com:80/140662723428643/9693802739/71951
-#EXTINF:-1 tvg-id="espn.us" tvg-name="US - ESPN ACC NETWORK HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png",US - ESPN ACC NETWORK HD ◉
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN ACC NETWORK HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png",ESPN ACC NETWORK HD ◉
 http://vvinnietv5.com:80/140662723428643/9693802739/685809
-#EXTINF:-1 tvg-id="" tvg-name="US - ESPN 8 THE OCHO HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png",US - ESPN 8 THE OCHO HD ◉
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 8 THE OCHO HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png",ESPN 8 THE OCHO HD ◉
 http://vvinnietv5.com:80/140662723428643/9693802739/1304760
-#EXTINF:-1 tvg-id="" tvg-name="US - ESPNU COLLEGE SPORTS HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png",US - ESPNU COLLEGE SPORTS HD ◉
+#EXTINF:-1 tvg-id="" tvg-name="ESPNU COLLEGE SPORTS HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png",ESPNU COLLEGE SPORTS HD ◉
 http://vvinnietv5.com:80/140662723428643/9693802739/984824
-#EXTINF:-1 tvg-id="espn.us" tvg-name="US - ESPN SEC NETWORK HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/SECNETWORK.png",US - ESPN SEC NETWORK HD ◉
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN SEC NETWORK HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/SECNETWORK.png",ESPN SEC NETWORK HD ◉
 http://vvinnietv5.com:80/140662723428643/9693802739/71921
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/1244894
-#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network (West)
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/71351
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",FOX Business
 http://vvinnietv5.com:80/140662723428643/9693802739/71494
@@ -182,7 +182,7 @@ http://vvinnietv5.com:80/140662723428643/9693802739/71854
 http://vvinnietv5.com:80/140662723428643/9693802739/71866
 #EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/1271018
-#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits (West)
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/71881
 #EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/83135
@@ -224,7 +224,7 @@ http://vvinnietv5.com:80/140662723428643/9693802739/71984
 http://vvinnietv5.com:80/140662723428643/9693802739/71912
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71467
-#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr (West)
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/1032487
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71465
@@ -232,7 +232,7 @@ http://vvinnietv5.com:80/140662723428643/9693802739/71465
 http://vvinnietv5.com:80/140662723428643/9693802739/1032486
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71461
-#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons (West)
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/1032489
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
 http://vvinnietv5.com:80/140662723428643/9693802739/286505
@@ -242,7 +242,7 @@ http://vvinnietv5.com:80/140662723428643/9693802739/71853
 http://vvinnietv5.com:80/140662723428643/9693802739/71852
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71893
-#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (West)
+#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/1032494
 #EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71895
@@ -250,15 +250,15 @@ http://vvinnietv5.com:80/140662723428643/9693802739/71895
 http://vvinnietv5.com:80/140662723428643/9693802739/71896
 #EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="USA Showtime Next (East) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71898
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="USA Showtime Next (East) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next (West)
+#EXTINF:-1 tvg-id="" tvg-name="USA Showtime Next (East) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/1032495
 #EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="USA Showtime Showcase UHD" tvg-logo="https://static.realiptv.to/snapshots/3966.jpg",Showtime Showcase (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71894
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="USA Showtime Showcase (West)" tvg-logo="https://static.realiptv.to/snapshots/631890.jpg",Showtime Showcase (West)
+#EXTINF:-1 tvg-id="" tvg-name="USA Showtime Showcase (West)" tvg-logo="https://static.realiptv.to/snapshots/631890.jpg",Showtime Showcase (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/1032496
 #EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648986.jpg",Showtime Women (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71897
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women (West)" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg",Showtime Women (West)
+#EXTINF:-1 tvg-id="" tvg-name="USA Showtime Women (West)" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg",Showtime Women (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/1032497
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="USA Paramount+ with Showtime (East)" tvg-logo="https://deadline.com/wp-content/uploads/2022/02/Paramount-Showtime.jpg",USA Paramount+ with Showtime (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/1427912
@@ -334,7 +334,7 @@ http://vvinnietv5.com:80/140662723428643/9693802739/71862
 http://vvinnietv5.com:80/140662723428643/9693802739/71873
 #EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71870
-#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic (West)
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/71872
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",Starz Encore Family (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71878
@@ -342,7 +342,7 @@ http://vvinnietv5.com:80/140662723428643/9693802739/71878
 http://vvinnietv5.com:80/140662723428643/9693802739/71887
 #EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",Starz Kids & Family (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/494713
-#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",Starz Kids & Family (West)
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",Starz Kids & Family (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/1032492
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71864
@@ -356,7 +356,7 @@ http://vvinnietv5.com:80/140662723428643/9693802739/71875
 http://vvinnietv5.com:80/140662723428643/9693802739/71879
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz in Black (East) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3962.jpg",Starz in Black (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71875
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz In Black (West) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649402.jpg",Starz In Black (West)
+#EXTINF:-1 tvg-id="" tvg-name="USA Starz In Black (West) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649402.jpg",Starz In Black (West)
 http://vvinnietv5.com:80/140662723428643/9693802739/1032493
 #EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy (East)
 http://vvinnietv5.com:80/140662723428643/9693802739/71297
