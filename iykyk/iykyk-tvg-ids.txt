@@ -39,6 +39,7 @@ ESPN.Deportes.HD.us2
 ESPNEWS.HD.us2
 ESPN.HD.us2
 ESPNU.HD.us2
+ESPN8.The.Ocho.us2
 ION.Plus.us2
 ION.Television.HD.us2
 American.Heroes.Channel.HD.us2
