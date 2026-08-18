@@ -189,9 +189,11 @@ http://123450.me:80/play/live.php?mac=00:1A:79:40:F7:2C&stream=325974&extension=
 http://123450.me:80/play/live.php?mac=00:1A:79:40:F7:2C&stream=325972&extension=ts&play_token=GD7lammmdA
 #EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone (East)
 http://123450.me:80/play/live.php?mac=00:1A:79:40:F7:2C&stream=325971&extension=ts&play_token=wLHcu4Tg2h
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV UHD (East)
-http://123450.me:80/play/live.php?mac=00:1A:79:40:F7:2C&stream=325791&extension=ts&play_token=RujXhtDYiD
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV (East)
+http://123450.me:80/play/live.php?mac=00:1A:79:40:F7:2C&stream=1568748&extension=ts&play_token=mZFWPNnvzS
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV (West)
+http://123450.me:80/play/live.php?mac=00:1A:79:40:F7:2C&stream=325791&extension=ts&play_token=RujXhtDYiD
+#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV Stream 2 (West)
 http://123450.me:80/play/live.php?mac=00:1A:79:40:F7:2C&stream=325901&extension=ts&play_token=lZ8vy25Fky
 #EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History (East)
 http://123450.me:80/play/live.php?mac=00:1A:79:40:F7:2C&stream=325777&extension=ts&play_token=bfmP43mRc4
