@@ -19,7 +19,7 @@ http://dreamvue.xyz:80/Vic/Vic/1682
 http://dreamvue.xyz:80/Vic/Vic/1964
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (East)
 http://dreamvue.xyz:80/Vic/Vic/517
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (West)
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-shift="3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (West)
 http://dreamvue.xyz:80/Vic/Vic/290748
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC Network
 http://dreamvue.xyz:80/Vic/Vic/355
@@ -27,7 +27,7 @@ http://dreamvue.xyz:80/Vic/Vic/355
 http://dreamvue.xyz:80/Vic/Vic/511
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/269011
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (West)
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (West)
 http://dreamvue.xyz:80/Vic/Vic/295775
 #EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+" tvg-logo="https://logo.m3uassets.com/amc.png",AMC+ (East)
 http://dreamvue.xyz:80/Vic/Vic/510
@@ -35,7 +35,7 @@ http://dreamvue.xyz:80/Vic/Vic/510
 http://dreamvue.xyz:80/Vic/Vic/743
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet (East)
 http://dreamvue.xyz:80/Vic/Vic/508
-#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet UHD (East)
+#EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/269009
 #EXTINF:-1 tvg-id="Animal.Planet.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet (West)
 http://dreamvue.xyz:80/Vic/Vic/507
@@ -92,17 +92,17 @@ http://dreamvue.xyz:80/Vic/Vic/268938
 http://dreamvue.xyz:80/Vic/Vic/812
 #EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTION UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268942
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTION (West)
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTION (West)
 http://dreamvue.xyz:80/Vic/Vic/807
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTION UHD (West)
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTION UHD (West)
 http://dreamvue.xyz:80/Vic/Vic/268942
 #EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits (East)
 http://dreamvue.xyz:80/Vic/Vic/804
 #EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268940
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits (West)
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits (West)
 http://dreamvue.xyz:80/Vic/Vic/285760
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits UHD (West)
+#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits UHD (West)
 http://dreamvue.xyz:80/Vic/Vic/268939
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
 http://dreamvue.xyz:80/Vic/Vic/1043
@@ -160,7 +160,7 @@ http://dreamvue.xyz:80/Vic/Vic/1167
 http://dreamvue.xyz:80/Vic/Vic/461
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268984
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! (West)
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-shift="3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! (West)
 http://dreamvue.xyz:80/Vic/Vic/460
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
 http://dreamvue.xyz:80/Vic/Vic/919
@@ -184,7 +184,7 @@ http://dreamvue.xyz:80/Vic/Vic/268980
 http://dreamvue.xyz:80/Vic/Vic/458
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268977
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network (West)
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network (West)
 http://dreamvue.xyz:80/Vic/Vic/457
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",FOX Business Network
 http://dreamvue.xyz:80/Vic/Vic/1039
@@ -226,7 +226,7 @@ http://dreamvue.xyz:80/Vic/Vic/794
 http://dreamvue.xyz:80/Vic/Vic/441
 #EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268962
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark (West)
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark (West)
 http://dreamvue.xyz:80/Vic/Vic/439
 #EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries (East)
 http://dreamvue.xyz:80/Vic/Vic/438
@@ -244,31 +244,31 @@ http://dreamvue.xyz:80/Vic/Vic/268955
 http://dreamvue.xyz:80/Vic/Vic/791
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy UHD
 http://dreamvue.xyz:80/Vic/Vic/268957
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy (West)
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy (West)
 http://dreamvue.xyz:80/Vic/Vic/740
 #EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama (East)
 http://dreamvue.xyz:80/Vic/Vic/789
 #EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268958
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama (West)
+#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama (West)
 http://dreamvue.xyz:80/Vic/Vic/742
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama UHD (West)
+#EXTINF:-1 tvg-id="HBO.Drama.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-drama-us.png",HBO Drama UHD (West)
 http://dreamvue.xyz:80/Vic/Vic/268956
 #EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits (East)
 http://dreamvue.xyz:80/Vic/Vic/786
 #EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268954
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits (West)
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits (West)
 http://dreamvue.xyz:80/Vic/Vic/739
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits UHD (West)
+#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits UHD (West)
 http://dreamvue.xyz:80/Vic/Vic/813693
 #EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png" ,HBO Movies (East)
 http://dreamvue.xyz:80/Vic/Vic/788
 #EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png" ,HBO Movies UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/813692
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png" ,HBO Movies (West)
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png" ,HBO Movies (West)
 http://dreamvue.xyz:80/Vic/Vic/738
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png" ,HBO Movies UHD (West)
+#EXTINF:-1 tvg-id="HBO.Movies.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-movies-us.png",HBO Movies UHD (West)
 http://dreamvue.xyz:80/Vic/Vic/813693
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/436
@@ -280,13 +280,13 @@ http://dreamvue.xyz:80/Vic/Vic/435
 http://dreamvue.xyz:80/Vic/Vic/434
 #EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268951
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History (West)
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History (West)
 http://dreamvue.xyz:80/Vic/Vic/295768
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime (East)
 http://dreamvue.xyz:80/Vic/Vic/419
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268936
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime (West)
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime (West)
 http://dreamvue.xyz:80/Vic/Vic/295793
 #EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",LIFETIME MOVIES LMN (East)
 http://dreamvue.xyz:80/Vic/Vic/418
@@ -306,13 +306,13 @@ http://dreamvue.xyz:80/Vic/Vic/1147
 http://dreamvue.xyz:80/Vic/Vic/1151
 #EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 UHD
 http://dreamvue.xyz:80/Vic/Vic/268927
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 (West)
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 (West)
 http://dreamvue.xyz:80/Vic/Vic/1150
 #EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649014.jpg",MTV Classic
 http://dreamvue.xyz:80/Vic/Vic/1149
 #EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic (UHD)" tvg-logo="https://static.realiptv.to/snapshots/57969.jpg",MTV Classic UHD
 http://dreamvue.xyz:80/Vic/Vic/268846
-#EXTINF:-1 tvg-id="" tvg-name="MTV Classic (West)" tvg-logo="https://static.realiptv.to/snapshots/631838.jpg",MTV Classic (West)
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-shift="3" tvg-name="MTV Classic (West)" tvg-logo="https://static.realiptv.to/snapshots/631838.jpg",MTV Classic (West)
 http://dreamvue.xyz:80/Vic/Vic/1097
 #EXTINF:-1 tvg-id="MTVU" tvg-name="MTV U" tvg-logo="https://static.realiptv.to/snapshots/57971.jpg",MTV U
 http://dreamvue.xyz:80/Vic/Vic/1146
@@ -348,9 +348,9 @@ http://dreamvue.xyz:80/Vic/Vic/268918
 http://dreamvue.xyz:80/Vic/Vic/1166
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268917
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr (West)
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr (West)
 http://dreamvue.xyz:80/Vic/Vic/1165
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr UHD (West)
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr UHD (West)
 http://dreamvue.xyz:80/Vic/Vic/268917
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon (East)
 http://dreamvue.xyz:80/Vic/Vic/1162
@@ -360,7 +360,7 @@ http://dreamvue.xyz:80/Vic/Vic/268916
 http://dreamvue.xyz:80/Vic/Vic/1161
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons (East)
 http://dreamvue.xyz:80/Vic/Vic/1164
-#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons (West)
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-shift="3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons (West)
 http://dreamvue.xyz:80/Vic/Vic/1163
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
 http://dreamvue.xyz:80/Vic/Vic/404
@@ -372,19 +372,19 @@ http://dreamvue.xyz:80/Vic/Vic/268895
 http://dreamvue.xyz:80/Vic/Vic/779
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268900
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (West)
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-shift="3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (West)
 http://dreamvue.xyz:80/Vic/Vic/727
 #EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme (East)
 http://dreamvue.xyz:80/Vic/Vic/778
 #EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268899
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme (West)
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme (West)
 http://dreamvue.xyz:80/Vic/Vic/774
 #EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone (East)
 http://dreamvue.xyz:80/Vic/Vic/777
 #EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268898
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone (West)
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone (West)
 http://dreamvue.xyz:80/Vic/Vic/726
 #EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next (East) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next (East)
 http://dreamvue.xyz:80/Vic/Vic/776
@@ -394,11 +394,11 @@ http://dreamvue.xyz:80/Vic/Vic/268897
 http://dreamvue.xyz:80/Vic/Vic/775
 #EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase UHD" tvg-logo="https://static.realiptv.to/snapshots/3966.jpg",Showtime Showcase UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268896
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Showcase (West)" tvg-logo="https://static.realiptv.to/snapshots/631890.jpg",Showtime Showcase (West)
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-shift="3" tvg-name="Showtime Showcase (West)" tvg-logo="https://static.realiptv.to/snapshots/631890.jpg",Showtime Showcase (West)
 http://dreamvue.xyz:80/Vic/Vic/728
 #EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648986.jpg",Showtime Women (East)
 http://dreamvue.xyz:80/Vic/Vic/773
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Women (West)" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg",Showtime Women (West)
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-shift="3" tvg-name="Showtime Women (West)" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg",Showtime Women (West)
 http://dreamvue.xyz:80/Vic/Vic/731
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK FHD 50fps
 http://dreamvue.xyz:80/Vic/Vic/276909
@@ -482,7 +482,7 @@ http://dreamvue.xyz:80/Vic/Vic/268884
 http://dreamvue.xyz:80/Vic/Vic/765
 #EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268882
-#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic (West)
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-shift="3" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic (West)
 http://dreamvue.xyz:80/Vic/Vic/295812
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",Starz Encore Family
 http://dreamvue.xyz:80/Vic/Vic/761
@@ -490,13 +490,13 @@ http://dreamvue.xyz:80/Vic/Vic/761
 http://dreamvue.xyz:80/Vic/Vic/268881
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore SHD (East)
 http://dreamvue.xyz:80/Vic/Vic/764
-#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore (West)
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-shift="3" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore (West)
 http://dreamvue.xyz:80/Vic/Vic/759
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy (East)
 http://dreamvue.xyz:80/Vic/Vic/769
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268889
-#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy (West)
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-shift="3" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy (West)
 http://dreamvue.xyz:80/Vic/Vic/733
 #EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",Starz Kids & Family
 http://dreamvue.xyz:80/Vic/Vic/756
@@ -506,7 +506,7 @@ http://dreamvue.xyz:80/Vic/Vic/268891
 http://dreamvue.xyz:80/Vic/Vic/770
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/268890
-#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema (West)
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-shift="3" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema (West)
 http://dreamvue.xyz:80/Vic/Vic/737
 #EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge (East) (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3961.jpg",Starz Edge (East)
 http://dreamvue.xyz:80/Vic/Vic/763
@@ -520,7 +520,7 @@ http://dreamvue.xyz:80/Vic/Vic/760
 http://dreamvue.xyz:80/Vic/Vic/268880
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz in Black (East) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3962.jpg",Starz in Black SHD (East)
 http://dreamvue.xyz:80/Vic/Vic/757
-#EXTINF:-1 tvg-id="" tvg-name="Starz in Black (West) (UHD)" tvg-logo="https://static.realiptv.to/snapshots/631880.jpg",Starz in Black UHD (West)
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-shift="3" tvg-name="Starz in Black (West) (UHD)" tvg-logo="https://static.realiptv.to/snapshots/631880.jpg",Starz in Black UHD (West)
 http://dreamvue.xyz:80/Vic/Vic/268885
 #EXTINF:-1 tvg-id="STV.HD.uk" tvg-logo="https://www.lyngsat.com/logo/tv/ss/stv_uk.png",STV HD
 http://dreamvue.xyz:80/Vic/Vic/276623
@@ -620,7 +620,7 @@ http://dreamvue.xyz:80/Vic/Vic/361
 http://dreamvue.xyz:80/Vic/Vic/268862
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo (East)
 http://dreamvue.xyz:80/Vic/Vic/3168
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo (West)
+#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo (West)
 http://dreamvue.xyz:80/Vic/Vic/3167
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision KMEX 34 Los Angeles 
 http://dreamvue.xyz:80/Vic/Vic/3401
@@ -636,7 +636,7 @@ http://dreamvue.xyz:80/Vic/Vic/353
 http://dreamvue.xyz:80/Vic/Vic/354
 #EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 UHD (East)
 http://dreamvue.xyz:80/Vic/Vic/1107
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 (West)
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 (West)
 http://dreamvue.xyz:80/Vic/Vic/1106
 
 
