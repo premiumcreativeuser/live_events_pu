@@ -23,7 +23,7 @@ http://hardcoremedia.xyz:80/gprpqymi/5186091915/9864
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/9995
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (East)
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/129816
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (West)
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-shift="3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (West)
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/261521
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC Network
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/141446
