@@ -2,61 +2,51 @@
 
 #NEWS
 #EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS LA Locals
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/213933
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814637
 #EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC LA Locals
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/214133
-#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-wnbc-us.png",NBC WNBC NY FHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/214129
-#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-wnbc-us.png",NBC WNBC NY HD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71294
-#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA HD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1321712
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/759483
+#EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-wnbc-us.png",NBC WNBC NY Locals
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/759584
+#EXTINF:-1 tvg-id="KTLA-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cw-5-ktla-us.png",CW KTLA Locals
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814877
 #EXTINF:-1 tvg-id="KABC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/abc-7-kabc-us.png",ABC KABC Locals
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/213872
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814528
 #EXTINF:-1 tvg-id="KCAL-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-9-kcal-us.png",CBS KCAL Locals
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/213994
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814636
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV Locals
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/214418
-#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71313
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814750
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1060172
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814407
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC Network
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71940
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815005
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71330
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/779736
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1060176
-#EXTINF:-1 tvg-id="amc+.us" tvg-name="USA AMC+" tvg-logo="https://logo.m3uassets.com/amc.png",AMC+
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/201073
-#EXTINF:-1 tvg-id="amcthrillers.us" tvg-name="USA AMC Thrillers" tvg-logo="https://logo.m3uassets.com/amcthrillers.png",AMC Thrillers
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1032498
-#EXTINF:-1 tvg-id="StoriesbyAMC.us" tvg-name="AMC PRESENTS" tvg-logo="https://i.ibb.co/2FP00VT/amc-presents.png",AMC PRESENTS
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/201080
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814406
+#EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+" tvg-logo="https://logo.m3uassets.com/amc.png",AMC+ (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/821727
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71431
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814264
 #EXTINF:-1 tvg-id="BBC.America.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png",BBC America
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71509
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814268
 #EXTINF:-1 tvg-id="BBC.News.(North.America).HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-news-uk.png?raw=true",BBC World News
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71484
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814500
 #EXTINF:-1 tvg-id="BET.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/280968
-#EXTINF:-1 tvg-id="BET.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10051_dark_360w_270h.png",BET (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71331
-#EXTINF:-1 tvg-id="BET.Her.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png",BET Her
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71304
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814270
+#EXTINF:-1 tvg-id="BET.Her.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png",BET HER (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814272
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true",Big Ten Network
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71972
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815023
 #EXTINF:-1 tvg-id="Boomerang.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s21883_dark_360w_270h.png",Boomerang
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71482
-#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71306
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815097
+#EXTINF:-1 tvg-id="Bravo.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814277
 #EXTINF:-1 tvg-id="Bravo.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",Bravo (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71323
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814278
 #EXTINF:-1 tvg-id="Cartoon.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71469
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815098
 #EXTINF:-1 tvg-id="Cartoon.Network.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png",Cartoon Network (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71475
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815099
 #EXTINF:-1 tvg-id="CBS.Sports.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS Sports Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -65,369 +55,396 @@ http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71475
 #EXTINF:-1 tvg-id="plex.tv.CBS.Sports.Golazo.Network.plex" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-sports-golazo-network-us.png" tvg-name="CBS Sports Golazo",CBS Sports Golazo
 https://otte.live.fly.ww.aiv-cdn.net/PDX/live/clients/dash/enc/5qz8wmdome/out/v1/b9323e853dce427eac214b77bd48a204/cenc.mpd
 #EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71904
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814412
 #EXTINF:-1 tvg-id="Cinemax.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",CINEMAX (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71860
-#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71905
-#EXTINF:-1 tvg-id="Cinemax.Action.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX Action (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71905
-#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-name="CINEMAX 5 STARMAX HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png",CINEMAX 5 STARMAX HD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71868
-#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-name="CINEMAX MORE MAX (East) HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png",CINEMAX MORE MAX HD (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1269341
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX MORE MAX (West) HD ◉ " tvg-logo="https://go4.pw/AMERICA/USA/CINEMAX.png",CINEMAX MORE MAX HD (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71900
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814422
+#EXTINF:-1 tvg-id="5.StarMAX.HD.East.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/5_StarMax_2011.png",Cinemax 5 StarMax HD (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814413
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX Action Max (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814414
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX Action Max (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814417
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-moremax-us.png",CINEMAX MoreMax (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814416
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-moremax-us.png",CINEMAX MoreMax (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814417
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71485
-#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71493
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814507
+#EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN 
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814509
 #EXTINF:-1 tvg-id="Comedy.Central.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",Comedy Central (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71333
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814284
 #EXTINF:-1 tvg-id="Cooking.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png",Cooking Channel
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71347
-#EXTINF:-1 tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",CRAVE 1 CA
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/73080
-#EXTINF:-1 tvg-id="Crave2.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",CRAVE 2 CA
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/73081
-#EXTINF:-1 tvg-id="Crave3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",CRAVE 3 CA
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/73082
-#EXTINF:-1 tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",CRAVE 4 CA
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/73083
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814286
+#EXTINF:-1 tvg-id="Crave1.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-1-ca.png" tvg-name="CRAVE 1",Crave 1 CA
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/761389
+#EXTINF:-1 tvg-id="Crave2.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-2-ca.png" tvg-name="CRAVE 2",Crave 2 CA
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/761390
+#EXTINF:-1 tvg-id="Crave3.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-3-ca.png" tvg-name="CRAVE 3",Crave 3 CA
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/761391
+#EXTINF:-1 tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",Crave 4 CA
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/761392
 #EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true",Destination America
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/762948
-#EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true",Destination America UHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/82585
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814296
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71440
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814297
+#EXTINF:-1 tvg-id="The.Discovery.Channel.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814298
 #EXTINF:-1 tvg-id="Discovery.Family.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png",Discovery Family
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71439
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814299
 #EXTINF:-1 tvg-id="Discovery.Life.Channel.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png",Discovery Life
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71348
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814300
 #EXTINF:-1 tvg-id="ScienceChannel.us" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://i.ibb.co/G7sDCbP/discovery-science-us.png",Discovery Science
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71437
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814301
 #EXTINF:-1 tvg-id="Disney.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71477
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815100
 #EXTINF:-1 tvg-id="Disney.Channel.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10171_dark_360w_270h.png",Disney Channel (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71476
-#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71478
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815101
+#EXTINF:-1 tvg-id="Disney.Junior.HD.us2" 
+tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815102
 #EXTINF:-1 tvg-id="Disney.Junior.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s74796_dark_360w_270h.png",Disney Jr (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71471
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815103
 #EXTINF:-1 tvg-id="Disney.XD.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71479
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815104
 #EXTINF:-1 tvg-id="Disney.XD.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png",Disney XD (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71470
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815105
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71350
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814304
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71322
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814305
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71936
-#EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN HD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1015944
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815000
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN 2
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71935
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815001
 #EXTINF:-1 tvg-id="ESPN.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcu/gear/refs/heads/main/tv-logos/espn-deportes-us.png" tvg-name="ESPN DEPORTES",ESPN Deportes
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71925
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815002
 #EXTINF:-1 tvg-id="ESPNEWS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png",ESPN News
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71934
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815003
 #EXTINF:-1 tvg-id="ESPNU.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png",ESPN U
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71951
-#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN ACC NETWORK HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png",ESPN ACC NETWORK HD ◉
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/685809
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 8 THE OCHO HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png",ESPN 8 THE OCHO HD ◉
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1304760
-#EXTINF:-1 tvg-id="" tvg-name="ESPNU COLLEGE SPORTS HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/ESPN.png",ESPNU COLLEGE SPORTS HD ◉
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/984824
-#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN SEC NETWORK HD ◉" tvg-logo="https://go4.pw/AMERICA/USA/SECNETWORK.png",ESPN SEC NETWORK HD ◉
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71921
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815004
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1244894
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71351
-#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",FOX Business
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71494
-#EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-sports-deportes-us.png",FOX Deportes 
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71958
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814307
+#EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",FOX Business Network
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814510
+#EXTINF:-1 tvg-id="Fox.Deportes.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-sports-deportes-us.png",FOX DEPORTES
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815034
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-soccer-plus-us.png",Fox Soccer Plus 
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/72330
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815035
 #EXTINF:-1 tvg-id="Fox.News.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png",Fox News
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71487
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814512
 #EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",FS1 - Fox Sports 1
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71989
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png",FS1 - Fox Sports 1 4k (Event Only)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1436346
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815036
 #EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true",FS2 - Fox Sports 2
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71988
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815037
 #EXTINF:-1 tvg-id="FX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71335
-#EXTINF:-1 tvg-id="FX.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71321
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814312
 #EXTINF:-1 tvg-id="FX.Movie.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fxm-movie-channel-us.png?raw=true",FXM (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71856
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814313
 #EXTINF:-1 tvg-id="FXX.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71336
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814314
 #EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71370
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814321
 #EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71369
-#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="US | Hallmark Family" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hallmarkfamily.png",Hallmark Family
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71368
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814323
+#EXTINF:-1 tvg-id="Hallmark.Family.us2" tvg-name="US | Hallmark Family" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hallmarkfamily.png",Hallmark Family (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814322
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71855
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814423
 #EXTINF:-1 tvg-id="HBO.West.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png",HBO (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71854
-#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71866
-#EXTINF:-1 tvg-id="HBO.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1271018
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-hits-us.png",HBO Hits (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71881
-#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/83135
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814432
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814426
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814427
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814424
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 (West)
+#EXTINF:-1 tvg-id="US: HBO 2 WEST" tvg-name="USA: HBO 2 WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/hbo2.png" group-title="USA | PREMIUM",USA: HBO 2 WEST
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814425
 #EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature HD (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71865
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814430
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature HD (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814431
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814433
+#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814434
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71353
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1280231
-#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71435
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814325
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814326
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71354
-#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",Lifetime Movies LMN (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1277683
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814341
+#EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",Lifetime Movie Network LMN (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814342
+#EXTINF:-1 tvg-id="MSNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16300_dark_360w_270h.png",MSNBC
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814516
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71319
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814349
+#EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-live-us.png",MTV LIVE (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814352
 #EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71338
-#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="USA MTV Classic (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649014.jpg",MTV Classic
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71395
-#EXTINF:-1 tvg-id="MTVLIVE.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-live-us.png",MTV LIVE
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71397
-#EXTINF:-1 tvg-id="MTVU" tvg-name="USA MTV U" tvg-logo="https://static.realiptv.to/snapshots/57971.jpg",MTV U
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71396
-#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/national-geographic-us.png",National Geographic (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71416
-#EXTINF:-1 tvg-id="National.Geographic.HD.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/national-geographic-us.png",National Geographic (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71433
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814350
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649014.jpg",MTV Classic
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814351
+#EXTINF:-1 tvg-id="MTVU" tvg-name="MTV U" tvg-logo="https://static.realiptv.to/snapshots/57971.jpg",MTV U
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814353
+#EXTINF:-1 tvg-id="National.Geographic.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/national-geographic-us.png",Nat Geo (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814360
 #EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71417
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814359
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",NBA TV
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71986
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815053
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true",NFL Network
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71983
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815066
 #EXTINF:-1 tvg-id="NFL.RedZone.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-hz-us.png?raw=true",NFL Red Zone
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71984
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/789809
 #EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png",NHL Network
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71912
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815067
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71467
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1032487
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815106
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71465
-#EXTINF:-1 tvg-id="Nickelodeon.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1032486
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815108
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71461
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1032489
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815109
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/286505
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814363
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71853
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814452
 #EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-us.png?raw=true",Showtime (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71852
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814463
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71893
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814453
 #EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1032494
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814454
 #EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71895
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814455
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814456
 #EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71896
-#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="USA Showtime Next (East) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71898
-#EXTINF:-1 tvg-id="" tvg-name="USA Showtime Next (East) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1032495
-#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="USA Showtime Showcase UHD" tvg-logo="https://static.realiptv.to/snapshots/3966.jpg",Showtime Showcase (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71894
-#EXTINF:-1 tvg-id="" tvg-name="USA Showtime Showcase (West)" tvg-logo="https://static.realiptv.to/snapshots/631890.jpg",Showtime Showcase (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1032496
-#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="USA Showtime Women (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648986.jpg",Showtime Women (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71897
-#EXTINF:-1 tvg-id="" tvg-name="USA Showtime Women (West)" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg",Showtime Women (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1032497
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.us2" tvg-name="USA Paramount+ with Showtime (East)" tvg-logo="https://deadline.com/wp-content/uploads/2022/02/Paramount-Showtime.jpg",USA Paramount+ with Showtime (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1427912
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime.HD.(Pacific).us2" tvg-name="USA Paramount+ with Showtime (West)" tvg-logo="https://deadline.com/wp-content/uploads/2022/02/Paramount-Showtime.jpg",USA Paramount+ with Showtime (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1427913
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1356563
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK FHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/17289
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK 4k
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1281428
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK UHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/980431
-#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK FHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1015492
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814457
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814458
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next (East) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814459
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Next (West) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814460
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase UHD" tvg-logo="https://static.realiptv.to/snapshots/3966.jpg",Showtime Showcase (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814461
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Showcase (West)" tvg-logo="https://static.realiptv.to/snapshots/631890.jpg",Showtime Showcase (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814462
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648986.jpg",Showtime Women (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814464
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Women (West)" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg",Showtime Women (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814465
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825893
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825892
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK HEVC FHD 5.1
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825840
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK HEVC HD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825809
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK HEVC 4K
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/826134
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825896
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825897
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK HD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/348305
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825815
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sporst%20football.png",Sky Sports Football UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825903
+#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sporst%20football.png",Sky Sports Football UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825902
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sporst%20football.png",Sky Sports Football UK FHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/17288
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sporst%20football.png",Sky Sports Football UK HEVC
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/980428
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825825
 #EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sporst%20football.png",Sky Sports Football UK HD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/348319
-#EXTINF:-1 tvg-id="Sky.Sports.Football.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sporst%20football.png",Sky Sports Football UK HD2
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/365035
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK 4k
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1281430
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825824
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825907
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825906
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK FHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/17286
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK HEVC
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/348315
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825831
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK HD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/365037
-#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20mix.png",Sky Sports Mix UK FHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/17284
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20news.png",Sky Sports News UK HEVC
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/980430
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825830
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20mix.png",Sky Sports Mix UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825885
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20mix.png",Sky Sports Mix UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825884
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20mix.png",Sky Sports Mix UK FHD 5.1
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825836
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20mix.png",Sky Sports Mix UK HD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825797
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20news.png",Sky Sports News UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825891
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20news.png",Sky Sports News UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825890
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20news.png",Sky Sports News UK FHD 5.1
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825839
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20news.png",Sky Sports News UK HD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/348313
-#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK UHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1015489
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825806
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825904
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825905
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK FHD 5.1
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825846
 #EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK FHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/17285
-#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK HEVC
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/980433
-#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-premier-league-uk.png",Sky Sports Premier League UK HD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/365044
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825828
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20racing.png",Sky Sports Racing UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825887
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20racing.png",Sky Sports Racing UK HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825886
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20racing.png",Sky Sports Racing UK FHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/304708
-#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20racing.png",Sky Sports Racing UK HEVC
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/980434
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825801
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky%20sports%20racing.png",Sky Sports Racing UK HD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/348311
-#EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",AT&T SportsNet Pittsburgh USA
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/200927
-#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SportsNet New York SNY USA
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71981
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825800
+#EXTINF:-1 tvg-id="SportsNet.Pittsburgh.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pittsburgh-us.png",SportsNet Pittsburgh
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815007
+#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SportsNet New York SNY
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/763172
+#EXTINF:-1 tvg-id="SNY.SportsNet.New.York.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/33cfb73fa3e02bdca3fe7ff332a4f80043df8c6e/logos/Sportsnet_New_York.svg",SportsNet New York SNY
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815075
 #EXTINF:-1 tvg-id="Sportsnet.World.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-world-ca.png",SportsNet World CA
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/30382
-#EXTINF:-1 tvg-id="Sportsnet.East.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet CA (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/42924
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815121
+#EXTINF:-1 tvg-id="Sportsnet.East.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-east-ca.png",SportsNet CA (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815116
 #EXTINF:-1 tvg-id="Sportsnet.West.HD.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/sportsnet-west-ca.png",SportsNet CA (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/42924
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815120
 #EXTINF:-1 tvg-id="Sportsnet.(Pacific).HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-pacific-ca.png",SportsNet Pacific CA
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/30383
-#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-ontario-ca.png",Sportsnet Ontario CA
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/42922
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815119
+#EXTINF:-1 tvg-id="Sportsnet.Ontario.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-ontario-ca.png",Sportsnet Ontario
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815118
 #EXTINF:-1 tvg-id="Sportsnet.One.HD.ca2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sportsnet-one-ca.png",SportsNet ONE CA
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/30385
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815117
 #EXTINF:-1 tvg-id="Starz.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71862
-#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz UHD (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71873
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814469
+#EXTINF:-1 tvg-id="Starz.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/starz-us.png?raw=true",Starz (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814493
+#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",Starz ENCORE ACTION (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814477
 #EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71870
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814480
 #EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71872
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814481
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",Starz Encore Family (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71878
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814482
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",Starz Encore Family (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814483
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814476
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814486
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71887
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814472
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814473
 #EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",Starz Kids & Family (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/494713
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814491
 #EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",Starz Kids & Family (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1032492
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814492
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71864
-#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="USA Starz Edge (East) (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3961.jpg",Starz Edge (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71888
-#EXTINF:-1 tvg-id="Starz.Encore.Action.HD.us2" tvg-name="USA Starz Encore Action" tvg-logo="https://static.realiptv.to/snapshots/3952.jpg",Starz Encore Action (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71899
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz Encore Black" tvg-logo="https://static.realiptv.to/snapshots/3954.jpg",Starz Encore Black (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71875
-#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="USA Starz Encore Suspense (East) (UHD)" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg",Starz Encore Suspense (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71879
-#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="USA Starz in Black (East) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/3962.jpg",Starz in Black (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71875
-#EXTINF:-1 tvg-id="" tvg-name="USA Starz In Black (West) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649402.jpg",Starz In Black (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/1032493
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814470
+#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814471
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge (East)" tvg-logo="https://static.realiptv.to/snapshots/3961.jpg",Starz Edge (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814475
+#EXTINF:-1 tvg-id="" tvg-name="Starz Edge (West)" tvg-logo="https://static.realiptv.to/snapshots/3961.jpg",Starz Edge (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814474
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz Encore Black" tvg-logo="https://static.realiptv.to/snapshots/3954.jpg",Starz Encore Black (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814478
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="Starz Encore Suspense (East)" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg",Starz Encore Suspense (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814484
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg",Starz Encore Suspense (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814485
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-logo="https://static.realiptv.to/snapshots/3962.jpg",Starz in Black (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814489
 #EXTINF:-1 tvg-id="Syfy.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71297
-#EXTINF:-1 tvg-id="Syfy.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/syfy-us.png?raw=true",Syfy (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71315
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814384
 #EXTINF:-1 tvg-id="TBS.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71317
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814386
 #EXTINF:-1 tvg-id="TBS.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11867_dark_360w_270h.png",TBS (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71442
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814387
 #EXTINF:-1 tvg-id="Telemundo.Satellite.Feed.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/telemundo-us.png",Telemundo 52 KVEA Los Angeles
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/237493
-#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png",Tennis Channel 
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71954
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/760609
+#EXTINF:-1 tvg-id="Tennis.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png",Tennis Channel
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815080
 #EXTINF:-1 tvg-id="The.Weather.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58812_dark_360w_270h.png",The Weather Channel
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71504
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814522
 #EXTINF:-1 tvg-id="TLC.HD.(US).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71505
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814389
 #EXTINF:-1 tvg-id="TLC.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11158_dark_360w_270h.png",TLC (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71316
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814390
 #EXTINF:-1 tvg-id="TNT.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71324
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814391
 #EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71305
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814392
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 50 FPS 5.1 FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825835
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 50 FPS 5.1 FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825791
 #EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 FHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/17281
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825790
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 HD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825789
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 50 FPS 5.1 HD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825787
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 50 FPS 5.1 HD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825834
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825914
 #EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 FHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/980406
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825786
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 50 FPS 5.1 FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825783
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 50 FPS 5.1 FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825833
 #EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 FHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/980407
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825782
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 HD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825781
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825911
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 HEVC FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825910
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 50FPS 5.1 FHD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825779
 #EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 FHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/311556
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-5-uk.png",TNT Sports 5 FHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/311557
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825778
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825778
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 HD
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825777
+#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-name="TNT Sports 5" tvg-logo="https://static.realiptv.to/snapshots/2332.jpg",TNT Sports 5
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825766
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1",TSN 1 CA
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/30357
-#EXTINF:-1 tvg-id="TSN.2.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2",TSN 2 CA
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/30356
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815122
+#EXTINF:-1 tvg-id="TTSN.2.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2",TSN 2 CA
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815123
 #EXTINF:-1 tvg-id="TSN.3.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-name="TSN 3",TSN 3 CA
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/30355
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815124
 #EXTINF:-1 tvg-id="TSN.4.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-name="TSN 4 CA",TSN 4 CA
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/30354
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815125
 #EXTINF:-1 tvg-id="TSN.5.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-name="TSN 5 CA",TSN 5 CA
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/30353
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815126
 #EXTINF:-1 tvg-id="The.Travel.Channel.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/travel-channel-us.png?raw=true",Travel Channel (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71359
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814393
 #EXTINF:-1 tvg-id="truTV.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",TruTV (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71341
-#EXTINF:-1 tvg-id="truTV.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10153_dark_360w_270h.png",truTV (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71301
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN USA 
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/325600
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN 
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/200868
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN MX FHD
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/140336
-#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tudn-us.png",TUDN MX FHD
-http://vvinnietv5.com/G80UPDE/S5L3KZ9/1028371
-#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71429
-#EXTINF:-1 tvg-id="Univision.Network.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision KMEX 34 Los Angeles 
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/194522
-#EXTINF:-1 tvg-id="WXTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision 41 New York
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/237505
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814394
+#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision KMEX 34 Los Angeles 
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814995
+#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision TUDN USA
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/818543
+#EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision TUDN MEX
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815114
 #EXTINF:-1 tvg-id="USA.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71345
-#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA Network (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71325
-#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 (East)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/330206
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 (West)
-http://vvinnietv5.com:80/G80UPDE/S5L3KZ9/71343
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814399
+#EXTINF:-1 tvg-id="USA.Network.HD.(Pacific).us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true",USA NetworK (West)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814400
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 UHD (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814401
 
 
 
