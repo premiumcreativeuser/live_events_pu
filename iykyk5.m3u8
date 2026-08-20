@@ -19,6 +19,8 @@ http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814750
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814407
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC Network
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815005
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E HD (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/776274
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/779736
 #EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (West)
@@ -84,6 +86,8 @@ http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/761390
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/761391
 #EXTINF:-1 tvg-id="Crave4.ca2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/crave-4-ca.png" tvg-name="CRAVE 4",Crave 4 CA
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/761392
+#EXTINF:-1 tvg-id=""tvg-logo="",DAZN 1
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/824061
 #EXTINF:-1 tvg-id="Destination.America.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true",Destination America
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814296
 #EXTINF:-1 tvg-id="Discovery.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png",Discovery (East)
