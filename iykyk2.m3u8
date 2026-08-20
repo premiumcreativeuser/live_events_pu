@@ -29,7 +29,7 @@ http://hardcoremedia.xyz:80/gprpqymi/5186091915/261521
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/141446
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (East)
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/11652
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (West)
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (West)
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/261522
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="amc+.us" tvg-name="USA AMC+" tvg-logo="https://logo.m3uassets.com/amc.png",AMC+
 http://hardcoremedia.xyz:80/gprpqymi/5186091915/129821
