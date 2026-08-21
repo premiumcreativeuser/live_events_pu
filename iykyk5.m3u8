@@ -2,7 +2,7 @@
 
 #NEWS
 #EXTINF:-1 tvg-id="KCBS-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cbs-2-kcbs-us.png",CBS KCBS LA Locals
-http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814637
+  http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814637
 #EXTINF:-1 tvg-id="KNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-knbc-us.png",NBC KNBC LA Locals
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/759483
 #EXTINF:-1 tvg-id="WNBC-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-4-wnbc-us.png",NBC WNBC NY Locals
@@ -15,7 +15,9 @@ http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814528
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814636
 #EXTINF:-1 tvg-id="KTTV-DT.us_locals1" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-11-kttv-us.png",FOX KTTV Locals
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814750
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (West)
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (East)
+http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/776274
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-shift="3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814407
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC Network
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815005
@@ -23,7 +25,7 @@ http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815005
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/776274
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/779736
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (West)
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814406
 #EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+" tvg-logo="https://logo.m3uassets.com/amc.png",AMC+ (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/821727
@@ -64,11 +66,11 @@ http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814422
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814413
 #EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX Action Max (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814414
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX Action Max (West)
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX Action Max (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814417
 #EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-moremax-us.png",CINEMAX MoreMax (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814416
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-moremax-us.png",CINEMAX MoreMax (West)
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-moremax-us.png",CINEMAX MoreMax (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814417
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814507
@@ -115,7 +117,7 @@ http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815104
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815105
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814304
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! (West)
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.HD.us2" tvg-shift="3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/e-entertainment-us.png?raw=true",E! (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814305
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/815000
@@ -159,20 +161,19 @@ http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814423
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814432
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814426
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy (West)
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814427
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814424
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 (West)
-#EXTINF:-1 tvg-id="US: HBO 2 WEST" tvg-name="USA: HBO 2 WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/hbo2.png" group-title="USA | PREMIUM",USA: HBO 2 WEST
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814425
 #EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature HD (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814430
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature HD (West)
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature HD (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814431
 #EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814433
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone (West)
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814434
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814325
@@ -220,27 +221,27 @@ http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814452
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814463
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814453
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (West)
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-shift="3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814454
 #EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814455
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme (West)
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814456
 #EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814457
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone (West)
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814458
 #EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next (East) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814459
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Next (West) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next (West)
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-shift="3" tvg-name="Showtime Next (West) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814460
 #EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase UHD" tvg-logo="https://static.realiptv.to/snapshots/3966.jpg",Showtime Showcase (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814461
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Showcase (West)" tvg-logo="https://static.realiptv.to/snapshots/631890.jpg",Showtime Showcase (West)
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-shift="3" tvg-name="Showtime Showcase (West)" tvg-logo="https://static.realiptv.to/snapshots/631890.jpg",Showtime Showcase (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814462
 #EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648986.jpg",Showtime Women (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814464
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Women (West)" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg",Showtime Women (West)
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-shift="3" tvg-name="Showtime Women (West)" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg",Showtime Women (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814465
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK HEVC FHD
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/825893
@@ -332,37 +333,37 @@ http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814493
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814477
 #EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814480
-#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic (West)
+#EXTINF:-1 tvg-id="Starz.Encore.Classic.us2" tvg-shift="3" tvg-logo="https://tlgrm.re/images/starz-encore-classic-us.png",Starz Encore Classic (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814481
 #EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",Starz Encore Family (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814482
-#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",Starz Encore Family (West)
+#EXTINF:-1 tvg-id="Starz.Encore.Family.SD.us2" tvg-shift="3" tvg-logo="https://tlgrm.re/images/starz-encore-family-us.png" tvg-chno="1897",Starz Encore Family (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814483
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814476
-#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore (West)
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-shift="3" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814486
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814472
-#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy (West)
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-shift="3" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814473
 #EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",Starz Kids & Family (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814491
-#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",Starz Kids & Family (West)
+#EXTINF:-1 tvg-id="Starz.Kids.HD.us2" tvg-shift="3" tvg-logo="https://tlgrm.re/images/starz-kids-and-family-us.png",Starz Kids & Family (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814492
 #EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814470
-#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema (West)
+#EXTINF:-1 tvg-id="Starz.Cinema.HD.us2" tvg-shift="3" tvg-logo="https://tlgrm.re/images/starz-cinema-us.png",Starz Cinema (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814471
 #EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-name="Starz Edge (East)" tvg-logo="https://static.realiptv.to/snapshots/3961.jpg",Starz Edge (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814475
-#EXTINF:-1 tvg-id="" tvg-name="Starz Edge (West)" tvg-logo="https://static.realiptv.to/snapshots/3961.jpg",Starz Edge (West)
+#EXTINF:-1 tvg-id="Starz.Edge.HD.us2" tvg-shift="3" tvg-name="Starz Edge (West)" tvg-logo="https://static.realiptv.to/snapshots/3961.jpg",Starz Edge (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814474
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz Encore Black" tvg-logo="https://static.realiptv.to/snapshots/3954.jpg",Starz Encore Black (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814478
 #EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="Starz Encore Suspense (East)" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg",Starz Encore Suspense (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814484
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg",Starz Encore Suspense (West)
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-shift="3" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg",Starz Encore Suspense (West)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814485
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-logo="https://static.realiptv.to/snapshots/3962.jpg",Starz in Black (East)
 http://7liveshosting.ddns.net:2096/coen633/ZNbAx5tBnP/814489
