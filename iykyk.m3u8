@@ -38,7 +38,7 @@ http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/417872
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC SHD (West)
 http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/419279
 #EXTINF:-1 tvg-id="AMC+.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC+
-http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/417953
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/418079
 #EXTINF:-1 tvg-id="AMC Presents" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC Presents
 http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/417953
 #EXTINF:-1 tvg-id="Animal.Planet.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png",Animal Planet HD (East)
@@ -79,10 +79,6 @@ http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/418104
 http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/419281
 #EXTINF:-1 tvg-id="Cinemax.(Pacific).us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-thrillermax-us.png",CINEMAX (West)
 http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/419280
-#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits
-http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/418078
-#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-hits-us.png",CINEMAX Hits (West)
-http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/419282
 #EXTINF:-1 tvg-id="CNBC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png",CNBC UHD
 http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/418115
 #EXTINF:-1 tvg-id="CNN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58646_dark_360w_270h.png",CNN UHD
@@ -124,7 +120,7 @@ http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/509175
 #EXTINF:-1 tvg-id="Fox.Soccer.Plus.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/fox-soccer-plus-us.png",Fox Soccer Plus HD
 http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/418210
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN UHD
-http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/592590
+#http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/592590
 #EXTINF:-1 tvg-id="ESPN.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png",ESPN HD
 http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/418175
 #EXTINF:-1 tvg-id="ESPN2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png",ESPN SD
@@ -242,7 +238,7 @@ http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/418005
 #EXTINF:-1 tvg-id="National.Geographic.Wild.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_dark_360w_270h.png",Nat Geo Wild Stream 2 (East)
 http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/509125
 #EXTINF:-1 tvg-id="NBA.TV.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true",NBA TV HD
-http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/418182
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/785879
 #EXTINF:-1 tvg-id="NFL.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true",NFL Network UHD
 http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/237120
 #EXTINF:-1 tvg-id="NHL.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s58570_dark_360w_270h.png",NHL Network UHD
@@ -269,8 +265,12 @@ http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/419294
 http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/418103
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-shift="3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (West)
 http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/419295
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK
-http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/508252
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK FHD
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809454
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK HD
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809455
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png",Sky Sports Main Event UK SD
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809456
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK 4K
 http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809447
 #EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png",Sky Sports F1 UK HD
@@ -381,14 +381,38 @@ http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/417915
 http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/509143
 #EXTINF:-1 tvg-id="TNT.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png",TNT (West)
 http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/419362
-#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 
-http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/508184
-#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2
-http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/508186
-#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3
-http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/508187
-#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4
-http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/508189
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 FHD
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809476
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 FHD 50FPS
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809477
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 HD
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809478
+#EXTINF:-1 tvg-id="TNT.Sports.1.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-1-uk.png",TNT Sports 1 SD
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809479
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 FHD 
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809480
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 FHD 50FPS
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809481
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 HD
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809482
+#EXTINF:-1 tvg-id="TNT.Sports.2.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-2-uk.png",TNT Sports 2 SD
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809483
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 FHD
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809484
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 FHD 50FPS
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809485
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 HD
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809486
+#EXTINF:-1 tvg-id="TNT.Sports.3.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-3-uk.png",TNT Sports 3 SD
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809487
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 FHD
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809488
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 FHD 50FPS
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809489
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 HD
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809490
+#EXTINF:-1 tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/tnt-sports-4-uk.png",TNT Sports 4 SD
+http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/809491
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-name="TSN 1 UHD",TSN 1 UHD CA
 http://websafety101.net:5050/diamondflowerss@gmail.com/NGyWY2Pgwc/418553
 #EXTINF:-1 tvg-id="TTSN.2.ca2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-name="TSN 2 UHD",TSN 2 UHD CA
