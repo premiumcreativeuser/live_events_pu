@@ -17,13 +17,13 @@ http://bigenterprise.live:8080/18227744/61567557/1003655
 http://bigenterprise.live:8080/18227744/61567557/1000394
 #EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E HD (East)
 http://bigenterprise.live:8080/18227744/61567557/999310
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (West)
+#EXTINF:-1 tvg-id="A.and.E.HD.East.us2" tvg-shift="3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/a-and-e-us.png?raw=true",A&E (West)
 http://bigenterprise.live:8080/18227744/61567557/999311
 #EXTINF:-1 tvg-id="ACC.Network.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true",ACC Network
 http://bigenterprise.live:8080/18227744/61567557/999992
 #EXTINF:-1 tvg-id="AMC.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (East)
 http://bigenterprise.live:8080/18227744/61567557/999316
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (West)
+#EXTINF:-1 tvg-id="AMC.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png",AMC (West)
 http://bigenterprise.live:8080/18227744/61567557/999317
 #EXTINF:-1 tvg-id="AMC+.us2" tvg-name="AMC+" tvg-logo="https://logo.m3uassets.com/amc.png",AMC+ (East)
 http://bigenterprise.live:8080/18227744/61567557/999898
@@ -43,7 +43,7 @@ http://bigenterprise.live:8080/18227744/61567557/999332
 http://bigenterprise.live:8080/18227744/61567557/999333
 #EXTINF:-1 tvg-id="BET.Her.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png",BET HER (East)
 http://bigenterprise.live:8080/18227744/61567557/999334
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png",BET HER (West)
+#EXTINF:-1 tvg-id="BET.Her.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png",BET HER (West)
 http://bigenterprise.live:8080/18227744/61567557/999335
 #EXTINF:-1 tvg-id="Big.Ten.Network.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true",Big Ten Network
 http://bigenterprise.live:8080/18227744/61567557/1183587
@@ -70,11 +70,11 @@ http://bigenterprise.live:8080/18227744/61567557/999899
 http://bigenterprise.live:8080/18227744/61567557/999900
 #EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX (East)
 http://bigenterprise.live:8080/18227744/61567557/999902
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX (West)
+#EXTINF:-1 tvg-id="ActionMAX.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/cinemax-actionmax-us.png",CINEMAX ACTIONMAX (West)
 http://bigenterprise.live:8080/18227744/61567557/999903
-#EXTINF:-1 tvg-id="Cinemax.Hits.us2" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png",CINEMAX MOREMAX
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png",CINEMAX MOREMAX
 http://bigenterprise.live:8080/18227744/61567557/999904
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax MoreMax (West)" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png",Cinemax MoreMax (West)
+#EXTINF:-1 tvg-id="MoreMax.HD.us2" tvg-shift="3" tvg-name="Cinemax MoreMax (West)" tvg-logo="https://i.ibb.co/h810dLX/cinemax-us.png",Cinemax MoreMax (West)
 http://bigenterprise.live:8080/18227744/61567557/999905
 #EXTINF:-1 tvg-id="Cinemax.Classics.us2" tvg-logo="http://pluspng.com/img-png/5star-hd-png-five-star-max-hdtv-400.png",CINEMAX 5 STARMAX
 http://bigenterprise.live:8080/18227744/61567557/999901
@@ -136,7 +136,7 @@ http://bigenterprise.live:8080/18227744/61567557/1000002
 http://bigenterprise.live:8080/18227744/61567557/1000003
 #EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network (East)
 http://bigenterprise.live:8080/18227744/61567557/999389
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network (West)
+#EXTINF:-1 tvg-id="Food.Network.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",Food Network (West)
 http://bigenterprise.live:8080/18227744/61567557/999390
 #EXTINF:-1 tvg-id="Fox.Business.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true",FOX Business Network
 http://bigenterprise.live:8080/18227744/61567557/999766
@@ -160,7 +160,7 @@ http://bigenterprise.live:8080/18227744/61567557/999915
 http://bigenterprise.live:8080/18227744/61567557/999399
 #EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark (East)
 http://bigenterprise.live:8080/18227744/61567557/999411
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark (West)
+#EXTINF:-1 tvg-id="Hallmark.Channel.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hallmark-channel-us.png",Hallmark (West)
 http://bigenterprise.live:8080/18227744/61567557/999412
 #EXTINF:-1 tvg-id="Hallmark.Mystery.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hallmark-mystery-us.png?raw=true",Hallmark Movies & Mysteries (East)
 http://bigenterprise.live:8080/18227744/61567557/999918
@@ -172,19 +172,19 @@ http://bigenterprise.live:8080/18227744/61567557/999919
 http://bigenterprise.live:8080/18227744/61567557/999920
 #EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 HD (East)
 http://bigenterprise.live:8080/18227744/61567557/999921
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 (West)
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png",HBO 2 (West)
 http://bigenterprise.live:8080/18227744/61567557/999930
 #EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy
 http://bigenterprise.live:8080/18227744/61567557/999922
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy (West)
+#EXTINF:-1 tvg-id="HBO.Comedy.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png",HBO Comedy (West)
 http://bigenterprise.live:8080/18227744/61567557/999923
 #EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature HD (East)
 http://bigenterprise.live:8080/18227744/61567557/999926
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature HD (West)
+#EXTINF:-1 tvg-id="HBO.Signature.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hbo-signature-us.png",HBO Signature HD (West)
 http://bigenterprise.live:8080/18227744/61567557/999927
 #EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone (East)
 http://bigenterprise.live:8080/18227744/61567557/999928
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone (West)
+#EXTINF:-1 tvg-id="HBO.Zone.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18431_dark_360w_270h.png",HBO Zone (West)
 http://bigenterprise.live:8080/18227744/61567557/999929
 #EXTINF:-1 tvg-id="Home.and.Garden.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/hgtv.png",HGTV UHD (East)
 http://bigenterprise.live:8080/18227744/61567557/999416
@@ -192,11 +192,11 @@ http://bigenterprise.live:8080/18227744/61567557/999416
 http://bigenterprise.live:8080/18227744/61567557/999417
 #EXTINF:-1 tvg-id="History.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History (East)
 http://bigenterprise.live:8080/18227744/61567557/999419
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History (West)
+#EXTINF:-1 tvg-id="History.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/history-channel-us.png",History (West)
 http://bigenterprise.live:8080/18227744/61567557/999420
 #EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime (East)
 http://bigenterprise.live:8080/18227744/61567557/999439
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime (West)
+#EXTINF:-1 tvg-id="Lifetime.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png",Lifetime (West)
 http://bigenterprise.live:8080/18227744/61567557/999440
 #EXTINF:-1 tvg-id="LMN.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/lifetime-movie-network-us.png",Lifetime Movie Network LMN (East)
 http://bigenterprise.live:8080/18227744/61567557/999932
@@ -207,11 +207,11 @@ http://bigenterprise.live:8080/18227744/61567557/999452
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.(Pacific).us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png",MTV (West)
 http://bigenterprise.live:8080/18227744/61567557/999453
 #EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 (East)
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 (West)
+#EXTINF:-1 tvg-id="MTV2:.Music.Television.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/mtv-2-us.png",MTV 2 (West)
 http://bigenterprise.live:8080/18227744/61567557/999454
 #EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-name="MTV Classic (SHD)" tvg-logo="https://static.realiptv.to/snapshots/649014.jpg",MTV Classic
 http://bigenterprise.live:8080/18227744/61567557/999455
-#EXTINF:-1 tvg-id="M" tvg-name="MTV CLASSIC" tvg-logo="https://i.ibb.co/vYc1pYt/mtv-classic-us.png",MTV CLASSIC (West)
+#EXTINF:-1 tvg-id="MTV.Classic.us2" tvg-shift="3" tvg-logo="https://i.ibb.co/vYc1pYt/mtv-classic-us.png",MTV CLASSIC (West)
 http://bigenterprise.live:8080/18227744/61567557/999456
 #EXTINF:-1 tvg-id="MTVU" tvg-name="MTV U" tvg-logo="https://static.realiptv.to/snapshots/57971.jpg",MTV U
 http://bigenterprise.live:8080/18227744/61567557/999457
@@ -229,7 +229,7 @@ http://bigenterprise.live:8080/18227744/61567557/992944
 http://bigenterprise.live:8080/18227744/61567557/1000074
 #EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr (East)
 http://bigenterprise.live:8080/18227744/61567557/999646
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr (West)
+#EXTINF:-1 tvg-id="Nick.Jr.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19211_dark_360w_270h.png",Nick Jr (West)
 http://bigenterprise.live:8080/18227744/61567557/999647
 #EXTINF:-1 tvg-id="Nickelodeon.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png",Nickelodeon (East)
 http://bigenterprise.live:8080/18227744/61567557/999648
@@ -237,7 +237,7 @@ http://bigenterprise.live:8080/18227744/61567557/999648
 http://bigenterprise.live:8080/18227744/61567557/999649
 #EXTINF:-1 tvg-id="Nicktoons.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons (East)
 http://bigenterprise.live:8080/18227744/61567557/999650
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons (West)
+#EXTINF:-1 tvg-id="Nicktoons.us2" tvg-shift="3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-toons-us.png?raw=true",Nicktoons (West)
 http://bigenterprise.live:8080/18227744/61567557/999651
 #EXTINF:-1 tvg-id="Outdoor.Channel.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14776_dark_360w_270h.png",Outdoor Channel
 http://bigenterprise.live:8080/18227744/61567557/999465
@@ -247,27 +247,27 @@ http://bigenterprise.live:8080/18227744/61567557/999946
 http://bigenterprise.live:8080/18227744/61567557/999947
 #EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (East)
 http://bigenterprise.live:8080/18227744/61567557/999948
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (West)
+#EXTINF:-1 tvg-id="Showtime.2.HD.us2" tvg-shift="3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-2-us.png?raw=true",Showtime 2 (West)
 http://bigenterprise.live:8080/18227744/61567557/999949
 #EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme (East)
 http://bigenterprise.live:8080/18227744/61567557/999950
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme (West)
+#EXTINF:-1 tvg-id="Showtime.Extreme.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-extreme-us.png",Showtime Extreme (West)
 http://bigenterprise.live:8080/18227744/61567557/999951
 #EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone (East)
 http://bigenterprise.live:8080/18227744/61567557/999952
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone (West)
+#EXTINF:-1 tvg-id="Showtime.Familyzone.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/showtime-family-zone-us.png",Showtime Family Zone (West)
 http://bigenterprise.live:8080/18227744/61567557/999953
 #EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-name="Showtime Next (East) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next (East)
 http://bigenterprise.live:8080/18227744/61567557/999954
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Next (West) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next (West)
+#EXTINF:-1 tvg-id="Showtime.Next.HD.us2" tvg-shift="3" tvg-name="Showtime Next (West) (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648985.jpg",Showtime Next (West)
 http://bigenterprise.live:8080/18227744/61567557/999955
 #EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-name="Showtime Showcase UHD" tvg-logo="https://static.realiptv.to/snapshots/3966.jpg",Showtime Showcase (East)
 http://bigenterprise.live:8080/18227744/61567557/999956
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Showcase (West)" tvg-logo="https://static.realiptv.to/snapshots/631890.jpg",Showtime Showcase (West)
+#EXTINF:-1 tvg-id="Showtime.Showcase.HD.us2" tvg-shift="3" tvg-name="Showtime Showcase (West)" tvg-logo="https://static.realiptv.to/snapshots/631890.jpg",Showtime Showcase (West)
 http://bigenterprise.live:8080/18227744/61567557/999957
 #EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-name="Showtime Women (SHD)" tvg-logo="https://static.realiptv.to/snapshots/648986.jpg",Showtime Women (East)
 http://bigenterprise.live:8080/18227744/61567557/999958
-#EXTINF:-1 tvg-id="" tvg-name="Showtime Women (West)" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg",Showtime Women (West)
+#EXTINF:-1 tvg-id="Showtime.Women.HD.us2" tvg-shift="3" tvg-name="Showtime Women (West)" tvg-logo="https://static.realiptv.to/snapshots/631886.jpg",Showtime Women (West)
 http://bigenterprise.live:8080/18227744/61567557/999959
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/sky-sports-action-uk.png",Sky Sports Action UK FHD
 http://bigenterprise.live:8080/18227744/61567557/1189935
@@ -347,7 +347,7 @@ http://bigenterprise.live:8080/18227744/61567557/999975
 http://bigenterprise.live:8080/18227744/61567557/999977
 #EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore (East)
 http://bigenterprise.live:8080/18227744/61567557/999969
-#EXTINF:-1 tvg-id="" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore (West)
+#EXTINF:-1 tvg-id="Starz.Encore.HD.us2" tvg-shift="3" tvg-logo="https://tlgrm.re/images/starz-encore-us.png",Starz Encore (West)
 http://bigenterprise.live:8080/18227744/61567557/999970
 #EXTINF:-1 tvg-id="Starz.Comedy.HD.us2" tvg-logo="https://tlgrm.re/images/starz-comedy-us.png",Starz Comedy (East)
 http://bigenterprise.live:8080/18227744/61567557/999966
@@ -359,7 +359,7 @@ http://bigenterprise.live:8080/18227744/61567557/999964
 http://bigenterprise.live:8080/18227744/61567557/999967
 #EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-name="Starz Encore Black" tvg-logo="https://static.realiptv.to/snapshots/3954.jpg",Starz Encore Black (East)
 http://bigenterprise.live:8080/18227744/61567557/999973
-#EXTINF:-1 tvg-id="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",Starz ENCORE BLACK (West)
+#EXTINF:-1 tvg-id="Starz.in.Black.HD.us2" tvg-shift="3" tvg-logo="https://logos-world.net/wp-content/uploads/2021/03/Starz-Symbol.png",Starz ENCORE BLACK (West)
 http://bigenterprise.live:8080/18227744/61567557/999974
 #EXTINF:-1 tvg-id="Starz.Encore.Suspense.us2" tvg-name="Starz Encore Suspense (East)" tvg-logo="https://static.realiptv.to/snapshots/3958.jpg",Starz Encore Suspense (East)
 http://bigenterprise.live:8080/18227744/61567557/999979
@@ -433,7 +433,7 @@ http://bigenterprise.live:8080/18227744/61567557/999512
 http://bigenterprise.live:8080/18227744/61567557/999513
 #EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo (East)
 http://bigenterprise.live:8080/18227744/61567557/778715
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo (West)
+#EXTINF:-1 tvg-id="UNIVERSO.HD.us2" tvg-shift="3" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/nbc-universo-us.png",Universo (West)
 http://bigenterprise.live:8080/18227744/61567557/778716
 #EXTINF:-1 tvg-id="Univision.Network.HD.us2" tvg-logo="https://raw.githubusercontent.com/premiumcreativeuser/live_events_pu/refs/heads/main/logos/univision-us.png",Univision KMEX 34 Los Angeles 
 http://bigenterprise.live:8080/18227744/61567557/778728
@@ -449,7 +449,7 @@ http://bigenterprise.live:8080/18227744/61567557/999520
 http://bigenterprise.live:8080/18227744/61567557/999521
 #EXTINF:-1 tvg-id="VH1.HD.us2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 UHD (East)
 http://bigenterprise.live:8080/18227744/61567557/999522
-#EXTINF:-1 tvg-id="" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 (West)
+#EXTINF:-1 tvg-id="VH1.HD.us2" tvg-shift="3" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11218_dark_360w_270h.png",VH1 (West)
 http://bigenterprise.live:8080/18227744/61567557/999523
 
 
